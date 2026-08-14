@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T14:42:00+08:00",
+    "lastUpdated": "2026-08-14T15:04:00+08:00",
     "footerDate": "数据截至2026年8月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -262,7 +262,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "10/17",
-        "reviews": "26,244",
+        "reviews": "26,246",
         "link": "https://store.steampowered.com/app/294100"
       },
       {
@@ -272,7 +272,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/2950790/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "8/6",
-        "reviews": "1,024",
+        "reviews": "1,025",
         "link": "https://store.steampowered.com/app/2950790"
       },
       {
@@ -282,7 +282,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "11/4",
-        "reviews": "50,555",
+        "reviews": "50,548",
         "link": "https://store.steampowered.com/app/250900"
       },
       {
@@ -302,7 +302,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/648100/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "8/23",
-        "reviews": "8,361",
+        "reviews": "8,363",
         "link": "https://store.steampowered.com/app/648100"
       }
     ],
@@ -363,12 +363,12 @@
       },
       {
         "rank": 7,
-        "name": "不心动才有鬼",
-        "appId": 4855450,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/4855450/capsule_sm_120.jpg",
-        "price": "¥35.10",
-        "discount": "-10%",
-        "link": "https://store.steampowered.com/app/4855450"
+        "name": "午夜轮班",
+        "appId": 3722330,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/3722330/capsule_sm_120.jpg",
+        "price": "¥38.00",
+        "discount": null,
+        "link": "https://store.steampowered.com/app/3722330"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。"
