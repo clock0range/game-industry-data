@@ -1,10 +1,11 @@
 {
   "meta": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T15:18:00+08:00",
+    "lastUpdated": "2026-08-14T17:08:00+08:00",
     "footerDate": "数据截至2026年8月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
-  },  "kpi": [
+  },
+  "kpi": [
     {
       "label": "上半年国内游戏市场收入",
       "value": "1,884.5",
@@ -761,51 +762,51 @@
     },
     {
       "name": "导师模拟器：桌面实验室",
-        "link": "https://store.steampowered.com/search/?term=导师模拟器",
-        "badge": "独游亮点",
-        "badgeColor": "cyan",
-        "highlight": true,
-        "meta": "4人团队 · Steam · 桌面挂机/模拟经营",
-        "desc": "\"重生之我在大学当导师\"——让硕博玩家在游戏中\"翻身做导师\"。2D像素画风+半挂机小窗口运行。上线3天售出4000+份，流水破10万。零宣发小团队首款产品。",
-        "date": "已上线 · 国区¥29.99",
-        "tags": [
-          "Steam",
-          "挂机",
-          "国产独游",
-          "4人团队"
-        ]
-      },
-      {
-        "name": "三国观沧海",
-        "link": "https://www.taptap.cn/search/三国观沧海",
-        "badge": "公测",
-        "badgeColor": "green",
-        "meta": "水墨战棋 · 回合制 · 曹操/刘备双主线",
-        "desc": "水墨工笔美术风格三国战棋新作，预约量8月12日突破20万。采用曹操/刘备双主线视角剧本式叙事，融合属性互克+合击+奇谋+武将单挑+地形利用的战棋策略。官方感谢港澳台玩家支持，8月13日正式公测。",
-        "date": "8月13日公测",
-        "tags": [
-          "战棋",
-          "水墨",
-          "三国",
-          "港澳台"
-        ]
-      },
-      {
-        "name": "新剑皇",
-        "link": "https://www.taptap.cn/search/新剑皇",
-        "badge": "预约中",
-        "badgeColor": "purple",
-        "meta": "BomnalSoft · 韩国 · 武侠MMORPG · AI自动战斗",
-        "desc": "韩国BomnalSoft旗下BomGames联合发行的新一代武侠幻想MMORPG。技能特效华丽，PC与手机端数据互通，内置AI自动战场简化日常。8月6日开启多渠道预约，预约送高阶礼盒+5万韩元雪冰甜品代金券抽奖。",
-        "date": "8月6日开启预约",
-        "tags": [
-          "武侠",
-          "MMORPG",
-          "韩国",
-          "AI自动战斗"
-        ]
-      }
-    ],
+      "link": "https://store.steampowered.com/search/?term=导师模拟器",
+      "badge": "独游亮点",
+      "badgeColor": "cyan",
+      "highlight": true,
+      "meta": "4人团队 · Steam · 桌面挂机/模拟经营",
+      "desc": "\"重生之我在大学当导师\"——让硕博玩家在游戏中\"翻身做导师\"。2D像素画风+半挂机小窗口运行。上线3天售出4000+份，流水破10万。零宣发小团队首款产品。",
+      "date": "已上线 · 国区¥29.99",
+      "tags": [
+        "Steam",
+        "挂机",
+        "国产独游",
+        "4人团队"
+      ]
+    },
+    {
+      "name": "三国观沧海",
+      "link": "https://www.taptap.cn/search/三国观沧海",
+      "badge": "公测",
+      "badgeColor": "green",
+      "meta": "水墨战棋 · 回合制 · 曹操/刘备双主线",
+      "desc": "水墨工笔美术风格三国战棋新作，预约量8月12日突破20万。采用曹操/刘备双主线视角剧本式叙事，融合属性互克+合击+奇谋+武将单挑+地形利用的战棋策略。官方感谢港澳台玩家支持，8月13日正式公测。",
+      "date": "8月13日公测",
+      "tags": [
+        "战棋",
+        "水墨",
+        "三国",
+        "港澳台"
+      ]
+    },
+    {
+      "name": "新剑皇",
+      "link": "https://www.taptap.cn/search/新剑皇",
+      "badge": "预约中",
+      "badgeColor": "purple",
+      "meta": "BomnalSoft · 韩国 · 武侠MMORPG · AI自动战斗",
+      "desc": "韩国BomnalSoft旗下BomGames联合发行的新一代武侠幻想MMORPG。技能特效华丽，PC与手机端数据互通，内置AI自动战场简化日常。8月6日开启多渠道预约，预约送高阶礼盒+5万韩元雪冰甜品代金券抽奖。",
+      "date": "8月6日开启预约",
+      "tags": [
+        "武侠",
+        "MMORPG",
+        "韩国",
+        "AI自动战斗"
+      ]
+    }
+  ],
   "investment": {
     "global": [
       {
