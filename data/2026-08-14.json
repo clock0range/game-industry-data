@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T15:04:00+08:00",
+    "lastUpdated": "2026-08-14T15:17:00+08:00",
     "footerDate": "数据截至2026年8月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -95,14 +95,6 @@
       },
       {
         "rank": 7,
-        "name": "无尽冬日",
-        "publisher": "Shanghai Qin...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/c4/4c/9fc44cce-1cb0-7de3-06cd-09251d82cf48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5"
-      },
-      {
-        "rank": 8,
         "name": "无畏契约：源能行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/71/1b/66711bd4-1a83-4a2b-17d0-9388cdc3e4ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
@@ -110,7 +102,23 @@
         "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8"
       },
       {
+        "rank": 8,
+        "name": "无尽冬日",
+        "publisher": "Shanghai Qin...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/c4/4c/9fc44cce-1cb0-7de3-06cd-09251d82cf48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5"
+      },
+      {
         "rank": 9,
+        "name": "洛克王国：世界",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ae/b9/43aeb90d-8a47-e2bd-6388-aa0e505ad92b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%EF%BC%9A%E4%B8%96%E7%95%8C"
+      },
+      {
+        "rank": 10,
         "name": "第五人格",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/3e/00/0c3e0054-276b-4af9-4336-fdbe410ce40d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
@@ -118,7 +126,7 @@
         "link": "https://www.taptap.cn/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "name": "逆战：未来",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/b5/30/b8b5305f-8ec4-bef4-d060-5699d012e5d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
@@ -126,20 +134,12 @@
         "link": "https://www.taptap.cn/search/%E9%80%86%E6%88%98%EF%BC%9A%E6%9C%AA%E6%9D%A5"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "name": "开心消消乐",
         "publisher": "乐元素",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/44/ce/ef44ce9f-5c71-6597-4a09-3e0359babd83/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
         "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90"
-      },
-      {
-        "rank": 12,
-        "name": "穿越火线-枪战王者",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/0f/86/130f867b-22f2-ae80-f5dd-8e0c824523db/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF-%E6%9E%AA%E6%88%98%E7%8E%8B%E8%80%85"
       },
       {
         "rank": 13,
@@ -151,19 +151,19 @@
       },
       {
         "rank": 14,
+        "name": "穿越火线-枪战王者",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/0f/86/130f867b-22f2-ae80-f5dd-8e0c824523db/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF-%E6%9E%AA%E6%88%98%E7%8E%8B%E8%80%85"
+      },
+      {
+        "rank": 15,
         "name": "时尚百货城",
         "publisher": "深圳市爱的番茄科技有限公...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f1/c2/22f1c23d-8e03-e771-75a6-59967e0e3f27/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
         "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%97%B6%E5%B0%9A%E7%99%BE%E8%B4%A7%E5%9F%8E"
-      },
-      {
-        "rank": 15,
-        "name": "洛克王国：世界",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ae/b9/43aeb90d-8a47-e2bd-6388-aa0e505ad92b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%EF%BC%9A%E4%B8%96%E7%95%8C"
       }
     ],
     "highlights": [
@@ -242,7 +242,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "2/26",
-        "reviews": "194,756",
+        "reviews": "194,768",
         "link": "https://store.steampowered.com/app/413150"
       },
       {
@@ -272,7 +272,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/2950790/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "8/6",
-        "reviews": "1,025",
+        "reviews": "1,029",
         "link": "https://store.steampowered.com/app/2950790"
       },
       {
@@ -282,7 +282,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "11/4",
-        "reviews": "50,548",
+        "reviews": "50,555",
         "link": "https://store.steampowered.com/app/250900"
       },
       {
@@ -292,7 +292,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "2/20",
-        "reviews": "19,590",
+        "reviews": "19,591",
         "link": "https://store.steampowered.com/app/2379780"
       },
       {
@@ -302,7 +302,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/648100/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "8/23",
-        "reviews": "8,363",
+        "reviews": "8,362",
         "link": "https://store.steampowered.com/app/648100"
       }
     ],
