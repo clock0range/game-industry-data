@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T14:26:00+08:00",
+    "lastUpdated": "2026-08-14T14:42:00+08:00",
     "footerDate": "数据截至2026年8月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -232,7 +232,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/capsule_sm_120.jpg",
         "rating": "98%",
         "meta": "5/16",
-        "reviews": "166,875",
+        "reviews": "166,886",
         "link": "https://store.steampowered.com/app/105600"
       },
       {
@@ -242,7 +242,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "2/26",
-        "reviews": "194,746",
+        "reviews": "194,756",
         "link": "https://store.steampowered.com/app/413150"
       },
       {
@@ -262,7 +262,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "10/17",
-        "reviews": "26,242",
+        "reviews": "26,244",
         "link": "https://store.steampowered.com/app/294100"
       },
       {
@@ -272,7 +272,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/2950790/capsule_sm_120.jpg",
         "rating": "97%",
         "meta": "8/6",
-        "reviews": "1,023",
+        "reviews": "1,024",
         "link": "https://store.steampowered.com/app/2950790"
       },
       {
@@ -282,7 +282,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "11/4",
-        "reviews": "50,539",
+        "reviews": "50,555",
         "link": "https://store.steampowered.com/app/250900"
       },
       {
@@ -292,7 +292,7 @@
         "coverFallback": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/capsule_sm_120.jpg",
         "rating": "96%",
         "meta": "2/20",
-        "reviews": "19,591",
+        "reviews": "19,590",
         "link": "https://store.steampowered.com/app/2379780"
       },
       {
@@ -309,66 +309,66 @@
     "topSellers": [
       {
         "rank": 1,
-        "name": "赛博朋克 2077",
-        "appId": 1091500,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_sm_120.jpg",
+        "name": "影之刃零",
+        "appId": 4115450,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/4115450/capsule_sm_120.jpg",
         "price": "¥268.00",
-        "discount": "-70%",
-        "link": "https://store.steampowered.com/app/1091500"
+        "discount": null,
+        "link": "https://store.steampowered.com/app/4115450"
       },
       {
         "rank": 2,
-        "name": "Big Walk",
-        "appId": 1478500,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/1478500/capsule_sm_120.jpg",
-        "price": "¥80.00",
-        "discount": "-25%",
-        "link": "https://store.steampowered.com/app/1478500"
+        "name": "影之刃零",
+        "appId": 4115450,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/4115450/capsule_sm_120.jpg",
+        "price": "¥268.00",
+        "discount": null,
+        "link": "https://store.steampowered.com/app/4115450"
       },
       {
         "rank": 3,
-        "name": "机械狂欢",
-        "appId": 4108000,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/4108000/capsule_sm_120.jpg",
-        "price": "¥75.00",
-        "discount": "-15%",
-        "link": "https://store.steampowered.com/app/4108000"
+        "name": "Servant of the Lake",
+        "appId": 3636770,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/3636770/capsule_sm_120.jpg",
+        "price": "¥24.75",
+        "discount": "-25%",
+        "link": "https://store.steampowered.com/app/3636770"
       },
       {
         "rank": 4,
+        "name": "黑神话：悟空",
+        "appId": 2358720,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/capsule_sm_120.jpg",
+        "price": "¥187.60",
+        "discount": "-30%",
+        "link": "https://store.steampowered.com/app/2358720"
+      },
+      {
+        "rank": 5,
+        "name": "《使命召唤®：现代战争® III 2023》",
+        "appId": 3595270,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/3595270/capsule_sm_120.jpg",
+        "price": "¥74.50",
+        "discount": "-75%",
+        "link": "https://store.steampowered.com/app/3595270"
+      },
+      {
+        "rank": 6,
         "name": "Wallpaper Engine：壁纸引擎",
         "appId": 431960,
         "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/capsule_sm_120.jpg",
-        "price": "¥38.00",
+        "price": "¥22.90",
         "discount": null,
         "link": "https://store.steampowered.com/app/431960"
       },
       {
-        "rank": 5,
-        "name": "午夜轮班",
-        "appId": 3722330,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/3722330/capsule_sm_120.jpg",
-        "price": "¥75.00",
-        "discount": null,
-        "link": "https://store.steampowered.com/app/3722330"
-      },
-      {
-        "rank": 6,
-        "name": "双影奇境",
-        "appId": 2001120,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/capsule_sm_120.jpg",
-        "price": "¥68.00",
-        "discount": "-35%",
-        "link": "https://store.steampowered.com/app/2001120"
-      },
-      {
         "rank": 7,
-        "name": "幽灵行动：荒野",
-        "appId": 460930,
-        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/460930/capsule_sm_120.jpg",
-        "price": "¥28.00",
-        "discount": "-95%",
-        "link": "https://store.steampowered.com/app/460930"
+        "name": "不心动才有鬼",
+        "appId": 4855450,
+        "logo": "https://cdn.cloudflare.steamstatic.com/steam/apps/4855450/capsule_sm_120.jpg",
+        "price": "¥35.10",
+        "discount": "-10%",
+        "link": "https://store.steampowered.com/app/4855450"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。"
