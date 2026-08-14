@@ -1,26 +1,26 @@
 {
-  "generated": "2026-08-14T17:08:00+08:00",
+  "generated": "2026-08-14T17:50:00+08:00",
   "latest": "data/latest.json",
   "archives": [
     {
       "date": "2026-08-14",
       "file": "data/2026-08-14.json",
-      "lastUpdated": "2026-08-14T17:08:00+08:00",
+      "lastUpdated": "2026-08-14T17:50:00+08:00",
       "summary": {
         "iosCount": 15,
-        "steamSellers": 7,
-        "steamIndie": 8,
+        "steamSellers": 15,
+        "steamIndie": 12,
         "newGames": 15
       }
     }
   ],
   "current": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T17:08:00+08:00",
+    "lastUpdated": "2026-08-14T17:50:00+08:00",
     "apiStatus": {
       "ios": "ok (15 games)",
-      "steamSellers": "failed (kept existing)",
-      "steamIndie": "failed (kept existing)"
+      "steamSellers": "ok (15 games)",
+      "steamIndie": "ok (12 games)"
     }
   }
 }
