@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T18:12:00+08:00",
+    "lastUpdated": "2026-08-14T18:26:00+08:00",
     "footerDate": "数据截至2026年8月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -95,6 +95,14 @@
       },
       {
         "rank": 7,
+        "name": "洛克王国：世界",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ae/b9/43aeb90d-8a47-e2bd-6388-aa0e505ad92b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%EF%BC%9A%E4%B8%96%E7%95%8C"
+      },
+      {
+        "rank": 8,
         "name": "无畏契约：源能行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/71/1b/66711bd4-1a83-4a2b-17d0-9388cdc3e4ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
@@ -102,20 +110,12 @@
         "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "name": "无尽冬日",
         "publisher": "Shanghai Qin...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/c4/4c/9fc44cce-1cb0-7de3-06cd-09251d82cf48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5"
-      },
-      {
-        "rank": 9,
-        "name": "洛克王国：世界",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/ae/b9/43aeb90d-8a47-e2bd-6388-aa0e505ad92b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%EF%BC%9A%E4%B8%96%E7%95%8C"
       },
       {
         "rank": 10,
@@ -127,11 +127,11 @@
       },
       {
         "rank": 11,
-        "name": "逆战：未来",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/b5/30/b8b5305f-8ec4-bef4-d060-5699d012e5d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "name": "蛋仔派对",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b1/3e/f2b13e1a-998e-e79d-fb61-a2ad54ac4c04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E9%80%86%E6%88%98%EF%BC%9A%E6%9C%AA%E6%9D%A5"
+        "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9"
       },
       {
         "rank": 12,
@@ -143,11 +143,11 @@
       },
       {
         "rank": 13,
-        "name": "蛋仔派对",
-        "publisher": "网易移动游戏",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b1/3e/f2b13e1a-998e-e79d-fb61-a2ad54ac4c04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "name": "逆战：未来",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/b5/30/b8b5305f-8ec4-bef4-d060-5699d012e5d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9"
+        "link": "https://www.taptap.cn/search/%E9%80%86%E6%88%98%EF%BC%9A%E6%9C%AA%E6%9D%A5"
       },
       {
         "rank": 14,
@@ -159,11 +159,11 @@
       },
       {
         "rank": 15,
-        "name": "时尚百货城",
-        "publisher": "深圳市爱的番茄科技有限公...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/f1/c2/22f1c23d-8e03-e771-75a6-59967e0e3f27/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "name": "火影忍者",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/d4/cd/4ad4cdca-894b-0038-0971-628048013d67/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E6%97%B6%E5%B0%9A%E7%99%BE%E8%B4%A7%E5%9F%8E"
+        "link": "https://www.taptap.cn/search/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85"
       }
     ],
     "highlights": [
@@ -254,11 +254,11 @@
       {
         "name": "沙金工业 Sandustry",
         "appId": 2764460,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786701055",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2764460/fee46f78c0e116cafdd66816c4205134c8572d4a/capsule_231x87_schinese.jpg?t=1786701055",
+        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786703049",
+        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2764460/fee46f78c0e116cafdd66816c4205134c8572d4a/capsule_231x87_schinese.jpg?t=1786703049",
         "rating": "98%",
         "meta": "8/13",
-        "reviews": "364",
+        "reviews": "384",
         "link": "https://store.steampowered.com/app/2764460"
       },
       {
@@ -268,7 +268,7 @@
         "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3636770/c7258556e7065e6031ac6bb9bd8c255bdfd64f56/capsule_231x87.jpg?t=1786622239",
         "rating": "97%",
         "meta": "8/13",
-        "reviews": "1,031",
+        "reviews": "1,086",
         "link": "https://store.steampowered.com/app/3636770"
       },
       {
@@ -465,34 +465,20 @@
       },
       {
         "rank": 11,
-        "name": "午夜轮班",
-        "appId": 3722330,
-        "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/3722330/deebd8e46df94eec662904b6def078a65153d905/capsule_231x87_schinese.jpg?t=1786465129",
-        "price": "¥38.00",
-        "originalPrice": null,
-        "discount": null,
+        "name": "不心动才有鬼",
+        "appId": 4855450,
+        "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/4855450/14b1d9c9a92ddeb373074886d42fa188d17a3562/capsule_231x87_schinese.jpg?t=1786671930",
+        "price": "¥35.10",
+        "originalPrice": "¥39.00",
+        "discount": "-10%",
         "status": null,
-        "change": "▼ 7",
+        "change": "新上榜",
         "changeDir": null,
-        "weeks": 3,
-        "link": "https://store.steampowered.com/app/3722330"
+        "weeks": 1,
+        "link": "https://store.steampowered.com/app/4855450"
       },
       {
         "rank": 12,
-        "name": "Wallpaper Engine：壁纸引擎",
-        "appId": 431960,
-        "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg?t=1779452230",
-        "price": "¥22.90",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "▲ 8",
-        "changeDir": null,
-        "weeks": 505,
-        "link": "https://store.steampowered.com/app/431960"
-      },
-      {
-        "rank": 13,
         "name": "Dota 2",
         "appId": 570,
         "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/570/capsule_231x87.jpg?t=1769535998",
@@ -500,13 +486,41 @@
         "originalPrice": null,
         "discount": null,
         "status": null,
-        "change": "▼ 6",
+        "change": "▼ 5",
         "changeDir": null,
         "weeks": 20,
         "link": "https://store.steampowered.com/app/570"
       },
       {
+        "rank": 13,
+        "name": "午夜轮班",
+        "appId": 3722330,
+        "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/3722330/deebd8e46df94eec662904b6def078a65153d905/capsule_231x87_schinese.jpg?t=1786465129",
+        "price": "¥38.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "▼ 9",
+        "changeDir": null,
+        "weeks": 3,
+        "link": "https://store.steampowered.com/app/3722330"
+      },
+      {
         "rank": 14,
+        "name": "Wallpaper Engine：壁纸引擎",
+        "appId": 431960,
+        "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg?t=1779452230",
+        "price": "¥22.90",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "▲ 6",
+        "changeDir": null,
+        "weeks": 505,
+        "link": "https://store.steampowered.com/app/431960"
+      },
+      {
+        "rank": 15,
         "name": "HELLDIVERS™ 2",
         "appId": 553850,
         "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/553850/0c2cc5fd31661f00aa661283137d1535af318c49/capsule_231x87_schinese.jpg?t=1786525389",
@@ -520,7 +534,7 @@
         "link": "https://store.steampowered.com/app/553850"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "极限竞速：地平线 6",
         "appId": 2483190,
         "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/2483190/efa5dfac82e658e18e16e508639dfae2284d88ab/capsule_231x87_alt_assets_3.jpg?t=1786467254",
@@ -528,24 +542,10 @@
         "originalPrice": null,
         "discount": null,
         "status": null,
-        "change": "▲ 1",
+        "change": "0",
         "changeDir": null,
         "weeks": 29,
         "link": "https://store.steampowered.com/app/2483190"
-      },
-      {
-        "rank": 16,
-        "name": "PEAK",
-        "appId": 3527290,
-        "logo": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/3527290/e8f91974f9a7469500fe1aed44a62c9467d328c9/capsule_231x87_alt_assets_3.jpg?t=1786470571",
-        "price": "¥16.50",
-        "originalPrice": "¥33.00",
-        "discount": "-50%",
-        "status": null,
-        "change": "▲ 84",
-        "changeDir": null,
-        "weeks": 6,
-        "link": "https://store.steampowered.com/app/3527290"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。"
