@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-14",
-    "lastUpdated": "2026-08-14T15:17:00+08:00",
+    "lastUpdated": "2026-08-14T17:08:00+08:00",
     "footerDate": "数据截至2026年8月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -213,6 +213,22 @@
         "source": "GameLook",
         "sourceLink": "http://www.gamelook.com.cn/2026/08/599682/",
         "body": "大梦龙途新作《向末日开炮》8月3日上线后首周冲至微信小游戏畅销榜第13名。\"数字门\"副玩法引流+末日SLG城建融合，8月9日升至第13，APP版同步上线iOS。小游戏SLG赛道竞争白热化，2026上半年投放产品约4.3万款。"
+      },
+      {
+        "title": "信宸资本据报接近收购阿里灵犀互娱 · 估值或超15亿美元",
+        "titleLink": "https://www.taptap.cn/search/三国志战略版",
+        "color": "yellow",
+        "source": "彭博/微博",
+        "sourceLink": "https://m.weibo.cn/status/5331819848273597",
+        "body": "彭博8月14日报道，亚洲私募股权公司信宸资本接近达成收购阿里巴巴旗下游戏业务（灵犀互娱）协议，估值或超15亿美元（约105亿RMB），击败包括游戏开发公司在内的其他竞购者。今年6月曾有消息称阿里计划以70-90亿RMB出售灵犀互娱。灵犀旗舰《三国志:战略版》由其与日本光荣特库摩联合开发。"
+      },
+      {
+        "title": "米哈游泄密刑案 · 一审判决正式生效",
+        "titleLink": "https://www.taptap.cn/search/原神",
+        "color": "red",
+        "source": "南都湾财社",
+        "sourceLink": "https://www.163.com/dy/article/L3LI7H5R05129QAF.html",
+        "body": "上海徐汇法院全国首例游戏泄密刑事案件8月5日正式生效。B站用户\"真不想涩涩\"苏某（点击60万+）、\"风堇lover-兜兜\"吴某（点击30万+）侵犯著作权罪成立，分别判缓刑1年2个月/1年。首例依据两高新司法解释\"点击量超10万次\"入罪标准定罪，终结剧透\"灰色地带\"。"
       }
     ],
     "taptap": {
@@ -377,74 +393,73 @@
     "ranking": [
       {
         "rank": 1,
-        "name": "我的花园世界",
-        "category": "模拟经营",
-        "publisher": "麟贝互娱",
-        "change": "↑12 登顶"
-      },
-      {
-        "rank": 2,
         "name": "向僵尸开炮",
-        "category": "塔防",
+        "category": "塔防射击",
         "publisher": "大梦龙途",
-        "change": "↑7"
-      },
-      {
-        "rank": 3,
-        "name": "三国:冰河时代",
-        "category": "SLG",
-        "publisher": "—",
-        "change": "↑8"
-      },
-      {
-        "rank": 4,
-        "name": "永远的蔚蓝星球",
-        "category": "塔防",
-        "publisher": "诗悦网络",
-        "change": "↓2"
-      },
-      {
-        "rank": 5,
-        "name": "灵画师",
-        "category": "RPG",
-        "publisher": "波克城市",
-        "change": "↑2"
-      },
-      {
-        "rank": 6,
-        "name": "无尽冬日",
-        "category": "SLG",
-        "publisher": "—",
-        "change": "↑10"
-      },
-      {
-        "rank": 7,
-        "name": "QQ经典农场",
-        "category": "模拟经营",
-        "publisher": "腾讯",
         "change": "—"
       },
       {
-        "rank": 8,
-        "name": "斗罗大陆:传承",
-        "category": "RPG",
-        "publisher": "三七互娱",
-        "change": "新入榜",
-        "badge": "新品"
+        "rank": 2,
+        "name": "三国:冰河时代",
+        "category": "SLG",
+        "publisher": "上海双盟",
+        "change": "↑2"
       },
       {
-        "rank": 9,
-        "name": "向往的生活",
+        "rank": 3,
+        "name": "无尽冬日",
+        "category": "SLG",
+        "publisher": "点点互动",
+        "change": "↓1"
+      },
+      {
+        "rank": 4,
+        "name": "跃动小子",
+        "category": "放置",
+        "publisher": "—",
+        "change": "↓1"
+      },
+      {
+        "rank": 5,
+        "name": "浪漫餐厅",
         "category": "模拟经营",
+        "publisher": "柠檬曲奇",
+        "change": "—"
+      },
+      {
+        "rank": 6,
+        "name": "疯狂水世界",
+        "category": "末日生存",
+        "publisher": "—",
+        "change": "—"
+      },
+      {
+        "rank": 7,
+        "name": "奔奔王国",
+        "category": "SLG",
         "publisher": "—",
         "change": "↑3"
       },
       {
-        "rank": 10,
-        "name": "浪漫餐厅",
+        "rank": 8,
+        "name": "向往的生活",
         "category": "模拟经营",
-        "publisher": "—",
+        "publisher": "必凡娱乐",
+        "change": "↓1"
+      },
+      {
+        "rank": 9,
+        "name": "梦幻消除战",
+        "category": "消除",
+        "publisher": "番糖游戏",
         "change": "—"
+      },
+      {
+        "rank": 10,
+        "name": "永远的蔚蓝星球",
+        "category": "塔防",
+        "publisher": "诗悦网络",
+        "change": "↓2"
       }
     ],
     "dynamics": [
@@ -760,6 +775,36 @@
         "国产独游",
         "4人团队"
       ]
+    },
+    {
+      "name": "三国观沧海",
+      "link": "https://www.taptap.cn/search/三国观沧海",
+      "badge": "公测",
+      "badgeColor": "green",
+      "meta": "水墨战棋 · 回合制 · 曹操/刘备双主线",
+      "desc": "水墨工笔美术风格三国战棋新作，预约量8月12日突破20万。采用曹操/刘备双主线视角剧本式叙事，融合属性互克+合击+奇谋+武将单挑+地形利用的战棋策略。官方感谢港澳台玩家支持，8月13日正式公测。",
+      "date": "8月13日公测",
+      "tags": [
+        "战棋",
+        "水墨",
+        "三国",
+        "港澳台"
+      ]
+    },
+    {
+      "name": "新剑皇",
+      "link": "https://www.taptap.cn/search/新剑皇",
+      "badge": "预约中",
+      "badgeColor": "purple",
+      "meta": "BomnalSoft · 韩国 · 武侠MMORPG · AI自动战斗",
+      "desc": "韩国BomnalSoft旗下BomGames联合发行的新一代武侠幻想MMORPG。技能特效华丽，PC与手机端数据互通，内置AI自动战场简化日常。8月6日开启多渠道预约，预约送高阶礼盒+5万韩元雪冰甜品代金券抽奖。",
+      "date": "8月6日开启预约",
+      "tags": [
+        "武侠",
+        "MMORPG",
+        "韩国",
+        "AI自动战斗"
+      ]
     }
   ],
   "investment": {
@@ -781,6 +826,14 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026年8月14日",
+        "title": "信宸资本据报接近收购阿里灵犀互娱",
+        "link": "https://m.weibo.cn/status/5331819848273597",
+        "desc": "彭博8月14日报道，亚洲私募股权公司信宸资本接近达成收购阿里巴巴旗下游戏业务（灵犀互娱）协议，估值或超15亿美元（约105亿RMB），击败包括游戏开发公司在内的其他竞购者。灵犀旗舰《三国志:战略版》由其与日本光荣特库摩联合开发，6月曾有消息称阿里以70-90亿RMB挂牌出售。",
+        "amount": "估值或超15亿美元 (约105亿RMB)",
+        "major": true
+      },
       {
         "date": "2026年8月12日",
         "title": "嘉耀控股拟收购AI游戏公司80%股权",
