@@ -1,8 +1,8 @@
 {
   "meta": {
     "date": "2026-08-15",
-    "lastUpdated": "2026-08-15T09:52:00+08:00",
-    "footerDate": "数据截至2026年8月15日",
+    "lastUpdated": "2026-08-15T09:55:00+08:00",
+    "footerDate": "数据截至2026年8月15日上午",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
   "kpi": [
@@ -168,27 +168,36 @@
     ],
     "highlights": [
       {
-        "title": "赘婿 · 首日登顶免费榜",
-        "titleLink": "https://www.taptap.cn/search/赘婿",
-        "color": "green",
-        "source": "腾讯新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260813A092RA00?refer=cp_1009",
-        "body": "阅文IP模拟经营手游《赘婿》8月12日全平台公测，预约量突破200万，上线首日即登顶App Store及主流安卓渠道免费榜，为阅文下半年\"IP+游戏\"生态开了个好头。紧随其后的UE5旗舰MMO《诡秘之主》定档8月21日公测。"
+        "title": "灵犀互娱101亿元成交 · 信宸资本抄底阿里游戏",
+        "titleLink": "https://www.taptap.cn/search/三国志战略版",
+        "color": "yellow",
+        "source": "南方都市报/新浪财经",
+        "sourceLink": "https://finance.sina.com.cn/money/smjj/smgq/2026-08-15/doc-ininkfhq3589434.shtml",
+        "body": "阿里8月14日确认中超15亿美元（>101亿RMB）出售灵犀互娱予中信资本旗下信宸资本，溢价原估值超10亿。三七互娱/巨人网络/中国儒意全程竞购出局。灵犀坐拥1200人研发+《三国志:战略版》《如鸢》等长线产品，2020-2022全球收入峰值近60亿，2025年下滑至23.69亿（仅巅峰四成）。标志大厂加速出清游戏资产、私募资本主导国内游戏并购新阶段。"
       },
       {
-        "title": "莉莉丝 · 获赔1000万 \"换皮抄袭\"司法边界厘清",
+        "title": "米哈游泄密刑案 · 全国首例「点击量入罪」生效",
+        "titleLink": "https://www.taptap.cn/search/原神",
         "color": "red",
-        "source": "南方都市报",
-        "sourceLink": "https://www.163.com/dy/article/L4588UKG05129QAF.html",
-        "body": "上海高院发布2025年知识产权典型案例，莉莉丝诉《圣树唤歌》换皮侵权案入选。二审改判明确：卡牌游戏静态界面不构成视听作品，但整套玩法体系受反不正当竞争法保护。判赔1000万元，破解\"只抄玩法不抄画面\"维权难题。"
+        "source": "中国城市报/21世纪经济报道",
+        "sourceLink": "https://paper.people.com.cn/zgcsb/pc/content/202608/10/content_30174087.html",
+        "body": "上海徐汇法院全国首例游戏泄密刑事案件8月5日正式生效！B站用户「真不想涩涩」苏某（点击60万+）、「风堇lover-兜兜」吴某（点击30万+）侵犯著作权罪成立，分别判缓刑1年2个月/1年。首例依据两高2025年4月新司法解释「点击量超10万次」入罪标准定罪，破解从业者非法获利金额偏低的追诉困境，终结「剧透灰色地带」。"
       },
       {
-        "title": "诡秘之主 · 8月21日公测 登顶TapTap安卓预约",
-        "titleLink": "https://www.taptap.cn/search/诡秘之主",
-        "color": "accent",
-        "source": "券商周报",
-        "sourceLink": "https://www.baogao.com/jigou/1504951.html",
-        "body": "快手研发的UE5旗舰MMO《诡秘之主》成为本周TapTap安卓预约热度榜第一，定档8月21日全平台公测。支持NVIDIA RTX光追及DLSS 4.5，六途径战斗+拼刀QTE，《巫师》《权游》剑术大师参与动捕。阅文下半年\"IP+游戏\"矩阵密集落地。"
+        "title": "Grounded 2 PS5版正式发售 · 8月11日解锁",
+        "titleLink": "https://store.steampowered.com/app/3184130",
+        "color": "green",
+        "source": "Steam官方/GameRant",
+        "sourceLink": "https://sportsrant.indiatimes.com/gaming/august-2026-new-games-biggest-releases-players-should-watch-this-week/articleshow/133164385.html",
+        "body": "Obsidian Entertainment × Eidos-Montréal 沙盒生存冒险《Grounded 2》8月11日登陆PS5平台（PC/Xbox EA已先行）。微缩世界+巨型昆虫+制造建设+探索+骑乘昆虫的独特玩法，PS5玩家终于不用围观其他玩家搭建「危险后院堡垒」。本周8月10-16日Steam新游重点大作。"
+      },
+      {
+        "title": "Hell Let Loose: Vietnam · 8月13日登陆PS5/Xbox/PC",
+        "titleLink": "https://store.steampowered.com/search/?term=Hell+Let+Loose+Vietnam",
+        "color": "purple",
+        "source": "Steam周报",
+        "sourceLink": "https://www.thegamecollection.net/blogs/collected-thoughts/top-5-new-game-releases-in-august-2026",
+        "body": "Expression Games开发的大型多人战术射击《Hell Let Loose: Vietnam》8月13日登陆PS5/Xbox Series X|S/PC。50v50玩家对战、6张越南战争地图、19种专业兵种，相比传统快节奏射击更强调战术与团队配合。本周Steam好评率超90%，硬核射击玩家福利。"
       },
       {
         "title": "穿越火线:潜伏 · 腾讯CF IP首款3A单机预约",
@@ -196,47 +205,38 @@
         "color": "purple",
         "source": "腾讯新闻",
         "sourceLink": "https://new.qq.com/rain/a/20260812A09UCV00?refer=cp_1009",
-        "body": "CF IP首款3A买断制叙事单机《穿越火线:潜伏》首次亮相，由That's No Moon研发、Smilegate与腾讯互娱联合全球发行，采用UE5+自适应掩体系统，WeGame/Steam/Epic三平台开放预约。同期字节AI全流程修仙单机《不问凡尘》同步披露。"
+        "body": "CF IP首款3A买断制叙事单机《穿越火线:潜伏》8月11日穿越火线IP嘉年华首次正式亮相，WeGame/Steam/Epic三平台开放预约。That's No Moon研发、Smilegate与腾讯互娱K1合作部联合全球发行，UE5+行业首创自适应掩体系统。同步披露的字节AI全流程修仙单机《不问凡尘》开启「不到20人一年完成3A」新模式。"
       },
       {
-        "title": "梦幻西游:再续前缘 · 8月21日上线 预约破30万",
-        "titleLink": "https://www.taptap.cn/search/梦幻西游再续前缘",
+        "title": "影之刃零 · 全平台预售开启 268元",
+        "titleLink": "https://www.taptap.cn/search/影之刃零",
         "color": "cyan",
-        "source": "网易",
-        "sourceLink": "https://www.163.com/dy/article/L457NFR20526GONF.html",
-        "body": "《梦幻西游》电脑版出手游了！《梦幻西游:再续前缘》8月21日中午12:00正式上线，安卓/iOS双端同步。无需点卡免费畅玩，账号数据与电脑端完全互通。首批6大服务器开放，预约2天突破30万人。"
+        "source": "新京报",
+        "sourceLink": "https://view.inews.qq.com/a/20260812A0546100",
+        "body": "灵游坊国产黑暗武侠3A《影之刃零》8月12日10:00全平台预售（PS5/Steam/WeGame），豪华版328元。11分钟实机预告公开，甄子丹监制+甄家班深度参与动作设计+动捕。Steam愿望单162万创国产纪录，10月29日正式发售。已获版号。"
       },
       {
-        "title": "向末日开炮 · 首周杀入微信畅销榜Top13",
-        "titleLink": "https://www.taptap.cn/search/向末日开炮",
-        "color": "orange",
-        "source": "GameLook",
-        "sourceLink": "http://www.gamelook.com.cn/2026/08/599682/",
-        "body": "大梦龙途新作《向末日开炮》8月3日上线后首周冲至微信小游戏畅销榜第13名。\"数字门\"副玩法引流+末日SLG城建融合，8月9日升至第13，APP版同步上线iOS。小游戏SLG赛道竞争白热化，2026上半年投放产品约4.3万款。"
-      },
-      {
-        "title": "信宸资本据报接近收购阿里灵犀互娱 · 估值或超15亿美元",
-        "titleLink": "https://www.taptap.cn/search/三国志战略版",
-        "color": "yellow",
-        "source": "彭博/微博",
-        "sourceLink": "https://m.weibo.cn/status/5331819848273597",
-        "body": "彭博8月14日报道，亚洲私募股权公司信宸资本接近达成收购阿里巴巴旗下游戏业务（灵犀互娱）协议，估值或超15亿美元（约105亿RMB），击败包括游戏开发公司在内的其他竞购者。今年6月曾有消息称阿里计划以70-90亿RMB出售灵犀互娱。灵犀旗舰《三国志:战略版》由其与日本光荣特库摩联合开发。"
-      },
-      {
-        "title": "米哈游泄密刑案 · 一审判决正式生效",
-        "titleLink": "https://www.taptap.cn/search/原神",
+        "title": "莉莉丝 · 获赔1000万 「换皮抄袭」司法边界厘清",
         "color": "red",
-        "source": "南都湾财社",
-        "sourceLink": "https://www.163.com/dy/article/L3LI7H5R05129QAF.html",
-        "body": "上海徐汇法院全国首例游戏泄密刑事案件8月5日正式生效。B站用户\"真不想涩涩\"苏某（点击60万+）、\"风堇lover-兜兜\"吴某（点击30万+）侵犯著作权罪成立，分别判缓刑1年2个月/1年。首例依据两高新司法解释\"点击量超10万次\"入罪标准定罪，终结剧透\"灰色地带\"。"
+        "source": "南方都市报",
+        "sourceLink": "https://www.163.com/dy/article/L4588UKG05129QAF.html",
+        "body": "上海高院发布2025年知识产权典型案例，莉莉丝诉《圣树唤歌》换皮侵权案入选。二审改判明确：卡牌游戏静态界面不构成视听作品，但整套玩法体系受反不正当竞争法保护。判赔1000万元，破解「只抄玩法不抄画面」维权难题。"
+      },
+      {
+        "title": "微信小游戏畅销榜 · 疯狂水世界升第4",
+        "titleLink": "https://www.taptap.cn/search/疯狂水世界",
+        "color": "orange",
+        "source": "DataEye/引力引擎",
+        "sourceLink": "https://ima.qq.com/wiki/?shareId=01f0ec73d85a91504685aa629f62a65675ec1c17b05d66b1095acd61e86a0254",
+        "body": "8月8日微信小游戏畅销榜：向僵尸开炮/三国:冰河时代/无尽冬日稳坐前三，疯狂水世界由第6升至第4，天命行者/保卫向日葵新进TOP10。字节系《灵画师》排名第6稳定。SLG赛道回暖（跃动小子/三国:冰河时代/无尽冬日合计3席），小游戏投放产品2026上半年约4.3万款。"
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（8.2-8.8）",
+      "period": "TapTap预约榜热度（8.9-8.15）",
       "androidTop": "诡秘之主",
       "androidLink": "https://www.taptap.cn/search/诡秘之主",
-      "iosTop": "伯吉的温馨厨房",
-      "iosLink": "https://www.taptap.cn/search/伯吉的温馨厨房"
+      "iosTop": "穿越火线:潜伏",
+      "iosLink": "https://www.taptap.cn/search/穿越火线潜伏"
     }
   },
   "steam": {
@@ -564,21 +564,21 @@
         "name": "三国:冰河时代",
         "category": "SLG",
         "publisher": "上海双盟",
-        "change": "↑2"
+        "change": "—"
       },
       {
         "rank": 3,
         "name": "无尽冬日",
         "category": "SLG",
         "publisher": "点点互动",
-        "change": "↓1"
+        "change": "—"
       },
       {
         "rank": 4,
-        "name": "跃动小子",
-        "category": "放置",
+        "name": "疯狂水世界",
+        "category": "末日生存",
         "publisher": "—",
-        "change": "↓1"
+        "change": "↑2"
       },
       {
         "rank": 5,
@@ -589,38 +589,38 @@
       },
       {
         "rank": 6,
-        "name": "疯狂水世界",
-        "category": "末日生存",
-        "publisher": "—",
-        "change": "—"
-      },
-      {
-        "rank": 7,
-        "name": "奔奔王国",
-        "category": "SLG",
-        "publisher": "—",
-        "change": "↑3"
-      },
-      {
-        "rank": 8,
         "name": "向往的生活",
         "category": "模拟经营",
         "publisher": "必凡娱乐",
-        "change": "↓1"
+        "change": "↑2"
       },
       {
-        "rank": 9,
-        "name": "梦幻消除战",
-        "category": "消除",
-        "publisher": "番糖游戏",
-        "change": "—"
+        "rank": 7,
+        "name": "跃动小子",
+        "category": "放置",
+        "publisher": "—",
+        "change": "↓3"
       },
       {
-        "rank": 10,
+        "rank": 8,
         "name": "永远的蔚蓝星球",
         "category": "塔防",
         "publisher": "诗悦网络",
-        "change": "↓2"
+        "change": "↑2"
+      },
+      {
+        "rank": 9,
+        "name": "天命行者",
+        "category": "放置RPG",
+        "publisher": "—",
+        "change": "新进TOP10"
+      },
+      {
+        "rank": 10,
+        "name": "保卫向日葵",
+        "category": "塔防",
+        "publisher": "—",
+        "change": "↑3"
       }
     ],
     "dynamics": [
@@ -966,6 +966,63 @@
         "韩国",
         "AI自动战斗"
       ]
+    },
+    {
+      "name": "Grounded 2",
+      "link": "https://store.steampowered.com/app/3184130",
+      "badge": "PS5版今日解锁",
+      "badgeColor": "green",
+      "meta": "Obsidian × Eidos-Montréal · PS5/PC/Xbox · 沙盒生存冒险",
+      "desc": "Obsidian Entertainment × Eidos-Montréal《Grounded 2》8月11日登陆PS5平台（PC/Xbox EA已先行）。微缩世界+巨型昆虫+制造建设+探索+骑乘昆虫的独特玩法，被玩家调侃为「危险后院堡垒模拟器」。",
+      "date": "8月11日 PS5版解锁 · $39.99",
+      "tags": [
+        "沙盒生存",
+        "Obsidian",
+        "PS5",
+        "微软系"
+      ]
+    },
+    {
+      "name": "Hell Let Loose: Vietnam",
+      "link": "https://store.steampowered.com/search/?term=Hell+Let+Loose+Vietnam",
+      "badge": "8.13发售",
+      "badgeColor": "purple",
+      "meta": "Expression Games · PS5/Xbox/PC · 50v50战术射击",
+      "desc": "硬核战术射击《Hell Let Loose: Vietnam》8月13日登陆PS5/Xbox Series X|S/PC。50v50玩家对战、6张越南战争地图、19种专业兵种，相比传统快节奏射击更强调战术与团队配合。本周Steam好评率超90%。",
+      "date": "8月13日多平台同步",
+      "tags": [
+        "战术射击",
+        "50v50",
+        "硬核"
+      ]
+    },
+    {
+      "name": "JDM: Japanese Drift Master",
+      "link": "https://store.steampowered.com/search/?term=JDM+Japanese+Drift+Master",
+      "badge": "8.14发售",
+      "badgeColor": "cyan",
+      "meta": "Game Quarter · PS5/PC · 开放世界赛车",
+      "desc": "日本传奇漂移文化改编《JDM: Japanese Drift Master》8月14日登陆PS5/PC。开放世界驾驶+250公里真实日本山路+驾驶模拟与街机双模式。预购可获得「Made in USA」DLC 6款额外车辆。",
+      "date": "8月14日发售",
+      "tags": [
+        "赛车",
+        "开放世界",
+        "日本IP"
+      ]
+    },
+    {
+      "name": "Mafia: The Old Country - Man of Honor",
+      "link": "https://store.steampowered.com/search/?term=Mafia+The+Old+Country",
+      "badge": "新DLC",
+      "badgeColor": "yellow",
+      "meta": "Hangar 13 · 2K Games · 单机剧情扩展",
+      "desc": "《Mafia: The Old Country》大型剧情DLC「Man of Honor」8月14日发售，含2个新故事章节（Enzo Favara+Ennio Salieri）+新Free Ride内容。故事设定1905年冬西西里，讲述主角在Salieri生命更早期的往事。",
+      "date": "8月14日DLC发售",
+      "tags": [
+        "剧情DLC",
+        "黑手党",
+        "2K"
+      ]
     }
   ],
   "investment": {
@@ -987,6 +1044,14 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026年8月15日",
+        "title": "灵犀互娱101亿元成交 · 阿里退出游戏运营",
+        "link": "https://finance.sina.com.cn/money/smjj/smgq/2026-08-15/doc-ininkfhq3589434.shtml",
+        "desc": "中信资本旗下信宸资本以超15亿美元（>101亿RMB）击败三七互娱/巨人网络/中国儒意等竞购者，最终拿下阿里灵犀互娱。坐拥1200人研发+旗舰《三国志:战略版》《如鸢》《灵魂面甲》等。2020-2022全球收入峰值近60亿，2025年仅23.69亿（巅峰四成）。标志互联网大厂加速出清游戏资产、私募资本主导国内游戏并购新阶段。",
+        "amount": "超101亿元（约15亿美元）",
+        "major": true
+      },
       {
         "date": "2026年8月14日",
         "title": "信宸资本据报接近收购阿里灵犀互娱",
