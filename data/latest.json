@@ -756,7 +756,158 @@
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
-    "asOf": "2026-08-15"
+    "asOf": "2026-08-15",
+    "mostPlayed": {
+      "asOf": "2026-08-17",
+      "updatedAt": "17:03",
+      "source": "SteamDB",
+      "items": [
+        {
+          "rank": 1,
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "nameZh": "CS2",
+          "current": 695763,
+          "peak24h": 1266082,
+          "link": "https://store.steampowered.com/app/730/"
+        },
+        {
+          "rank": 2,
+          "appid": 570,
+          "name": "Dota 2",
+          "nameZh": "DOTA 2",
+          "current": 567810,
+          "peak24h": 959321,
+          "link": "https://store.steampowered.com/app/570/"
+        },
+        {
+          "rank": 3,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 371837,
+          "peak24h": 763164,
+          "link": "https://store.steampowered.com/app/578080/"
+        },
+        {
+          "rank": 4,
+          "appid": 1623730,
+          "name": "Palworld",
+          "nameZh": "幻兽帕鲁",
+          "current": 167809,
+          "peak24h": 333391,
+          "link": "https://store.steampowered.com/app/1623730/"
+        },
+        {
+          "rank": 5,
+          "appid": 3419430,
+          "name": "Bongo Cat",
+          "nameZh": "Bongo Cat 桌宠",
+          "current": 140611,
+          "peak24h": 149864,
+          "link": "https://store.steampowered.com/app/3419430/"
+        },
+        {
+          "rank": 6,
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "Apex 英雄",
+          "current": 121600,
+          "peak24h": 280091,
+          "link": "https://store.steampowered.com/app/1172470/"
+        },
+        {
+          "rank": 7,
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "",
+          "current": 96765,
+          "peak24h": 117577,
+          "link": "https://store.steampowered.com/app/3678970/"
+        },
+        {
+          "rank": 8,
+          "appid": 431960,
+          "name": "Wallpaper Engine",
+          "nameZh": "壁纸引擎",
+          "current": 87104,
+          "peak24h": 114780,
+          "link": "https://store.steampowered.com/app/431960/"
+        },
+        {
+          "rank": 9,
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "Rust 腐蚀",
+          "current": 76500,
+          "peak24h": 133793,
+          "link": "https://store.steampowered.com/app/252490/"
+        },
+        {
+          "rank": 10,
+          "appid": 2676230,
+          "name": "FiveM",
+          "nameZh": "FiveM (GTA模组)",
+          "current": 75211,
+          "peak24h": 196091,
+          "link": "https://store.steampowered.com/app/2676230/"
+        },
+        {
+          "rank": 11,
+          "appid": 2507950,
+          "name": "Delta Force",
+          "nameZh": "三角洲行动",
+          "current": 69144,
+          "peak24h": 119529,
+          "link": "https://store.steampowered.com/app/2507950/"
+        },
+        {
+          "rank": 12,
+          "appid": 250900,
+          "name": "The Binding of Isaac: Rebirth",
+          "nameZh": "以撒的结合：重生",
+          "current": 67611,
+          "peak24h": 106989,
+          "link": "https://store.steampowered.com/app/250900/"
+        },
+        {
+          "rank": 13,
+          "appid": 413150,
+          "name": "Stardew Valley",
+          "nameZh": "星露谷物语",
+          "current": 64389,
+          "peak24h": 107846,
+          "link": "https://store.steampowered.com/app/413150/"
+        },
+        {
+          "rank": 14,
+          "appid": 2868840,
+          "name": "Slay the Spire 2",
+          "nameZh": "杀戮尖塔 2",
+          "current": 56181,
+          "peak24h": 102318,
+          "link": "https://store.steampowered.com/app/2868840/"
+        },
+        {
+          "rank": 15,
+          "appid": 271590,
+          "name": "Grand Theft Auto V Legacy",
+          "nameZh": "GTA5 旧版",
+          "current": 52073,
+          "peak24h": 85505,
+          "link": "https://store.steampowered.com/app/271590/"
+        },
+        {
+          "rank": 16,
+          "appid": 108600,
+          "name": "Project Zomboid",
+          "nameZh": "僵尸毁灭工程",
+          "current": 50459,
+          "peak24h": 121438,
+          "link": "https://store.steampowered.com/app/108600/"
+        }
+      ]
+    }
   },
   "miniapp": {
     "ranking": [
