@@ -1165,11 +1165,15 @@
         "UE5",
         "MMO",
         "大IP改编"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "影之刃零",
-      "link": "https://www.taptap.cn/search/影之刃零",
+      "link": "https://store.steampowered.com/app/4115450",
       "badge": "预售在即",
       "badgeColor": "yellow",
       "meta": "灵游坊 · UE5 · 黑暗武侠 · 3A单机",
@@ -1181,7 +1185,10 @@
         "国产单机",
         "武侠"
       ],
-      "cover": "https://shared.st.dl.eccdnx.com//store_item_assets/steam/apps/4115450/8c12e4e993e486396bae93f195f44501145d61c8/capsule_231x87_schinese.jpg?t=1786515952"
+      "steamAppId": 4115450,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "赘婿",
@@ -1195,7 +1202,11 @@
         "IP改编",
         "模拟经营",
         "阅文"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "甄嬛传",
@@ -1209,11 +1220,15 @@
         "宫斗",
         "IP改编",
         "雷霆"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "粒粒的小人国",
-      "link": "https://www.taptap.cn/search/粒粒的小人国",
+      "link": "https://store.steampowered.com/app/3767320",
       "badge": "预约800万+",
       "badgeColor": "cyan",
       "meta": "腾讯 · 治愈系 · 生活模拟",
@@ -1223,11 +1238,15 @@
         "生活模拟",
         "治愈",
         "腾讯"
-      ]
+      ],
+      "steamAppId": 3767320,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767320/00afa6eda2f141ec33c8621bac84f255ad16bb67/header_schinese.jpg?t=1778570269",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "轮回之兽 (Beast of Reincarnation)",
-      "link": "https://store.steampowered.com/search/?term=Beast of Reincarnation",
+      "link": "https://store.steampowered.com/app/2001760",
       "badge": "新品",
       "badgeColor": "cyan",
       "meta": "Game Freak · Steam · 动作RPG",
@@ -1237,11 +1256,15 @@
         "Game Freak",
         "ARPG",
         "全新IP"
-      ]
+      ],
+      "steamAppId": 2001760,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "穿越火线:潜伏",
-      "link": "https://www.taptap.cn/search/穿越火线潜伏",
+      "link": "https://store.steampowered.com/app/4687500",
       "badge": "预约中",
       "badgeColor": "purple",
       "meta": "That's No Moon · 腾讯/Smilegate · UE5 · 3A叙事单机",
@@ -1252,7 +1275,11 @@
         "UE5",
         "CF IP",
         "单机"
-      ]
+      ],
+      "steamAppId": 4687500,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg?t=1781722040",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "梦幻西游:再续前缘",
@@ -1267,7 +1294,11 @@
         "网易",
         "免费",
         "数据互通"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "我的英雄学院 UNITED SURVIVAL",
@@ -1279,11 +1310,15 @@
         "日漫IP",
         "Roguelite",
         "多端"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "恶校游戏",
-      "link": "https://store.steampowered.com/search/?term=恶校游戏",
+      "link": "https://store.steampowered.com/app/1218280",
       "badge": "今日发售",
       "badgeColor": "red",
       "meta": "CineGame Interactive · PC · 真人互动影游",
@@ -1293,11 +1328,15 @@
         "互动影游",
         "校园霸凌",
         "独立团队"
-      ]
+      ],
+      "steamAppId": 1218280,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "不问凡尘",
-      "link": "https://www.taptap.cn/search/不问凡尘",
+      "link": "https://store.steampowered.com/app/4209920",
       "badge": "AI单机",
       "badgeColor": "cyan",
       "meta": "字节朝夕光年 · 江南工作室 · AI修仙互动单机",
@@ -1308,7 +1347,11 @@
         "修仙",
         "字节",
         "买断制"
-      ]
+      ],
+      "steamAppId": 4209920,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209920/326cb3e29530345c71fed77251ae740c138d694a/header_schinese.jpg?t=1786591924",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "变形金刚:新纪元",
@@ -1322,7 +1365,11 @@
         "变形金刚",
         "策略RPG",
         "Hasbro"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "导师模拟器：桌面实验室",
@@ -1338,7 +1385,11 @@
         "挂机",
         "国产独游",
         "4人团队"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "三国观沧海",
@@ -1353,7 +1404,11 @@
         "水墨",
         "三国",
         "港澳台"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "新剑皇",
@@ -1368,11 +1423,15 @@
         "MMORPG",
         "韩国",
         "AI自动战斗"
-      ]
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
     },
     {
       "name": "Grounded 2",
-      "link": "https://store.steampowered.com/app/3184130",
+      "link": "https://store.steampowered.com/app/2661300",
       "badge": "PS5版今日解锁",
       "badgeColor": "green",
       "meta": "Obsidian × Eidos-Montréal · PS5/PC/Xbox · 沙盒生存冒险",
@@ -1383,11 +1442,15 @@
         "Obsidian",
         "PS5",
         "微软系"
-      ]
+      ],
+      "steamAppId": 2661300,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "Hell Let Loose: Vietnam",
-      "link": "https://store.steampowered.com/search/?term=Hell+Let+Loose+Vietnam",
+      "link": "https://store.steampowered.com/app/3079210",
       "badge": "8.13发售",
       "badgeColor": "purple",
       "meta": "Expression Games · PS5/Xbox/PC · 50v50战术射击",
@@ -1397,11 +1460,15 @@
         "战术射击",
         "50v50",
         "硬核"
-      ]
+      ],
+      "steamAppId": 3079210,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "JDM: Japanese Drift Master",
-      "link": "https://store.steampowered.com/search/?term=JDM+Japanese+Drift+Master",
+      "link": "https://store.steampowered.com/app/1153410",
       "badge": "8.14发售",
       "badgeColor": "cyan",
       "meta": "Game Quarter · PS5/PC · 开放世界赛车",
@@ -1411,11 +1478,15 @@
         "赛车",
         "开放世界",
         "日本IP"
-      ]
+      ],
+      "steamAppId": 1153410,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153410/016294c36d475a93fa656b8a99edf9a1e9ab8635/header_alt_assets_7.jpg?t=1785347132",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "Mafia: The Old Country - Man of Honor",
-      "link": "https://store.steampowered.com/search/?term=Mafia+The+Old+Country",
+      "link": "https://store.steampowered.com/app/1941540",
       "badge": "新DLC",
       "badgeColor": "yellow",
       "meta": "Hangar 13 · 2K Games · 单机剧情扩展",
@@ -1425,11 +1496,15 @@
         "剧情DLC",
         "黑手党",
         "2K"
-      ]
+      ],
+      "steamAppId": 1941540,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/c856b1f470f980bdc5fb6367fc5c560fe06ccea4/header_alt_assets_3.jpg?t=1786750937",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "The Sinking City 2",
-      "link": "https://store.steampowered.com/search/?term=The+Sinking+City+2",
+      "link": "https://store.steampowered.com/app/2825860",
       "badge": "8.18多平台解锁",
       "badgeColor": "green",
       "meta": "Frogwares · PS5/Xbox/PC · 克苏鲁恐怖动作冒险",
@@ -1439,11 +1514,15 @@
         "克苏鲁",
         "Frogwares",
         "洛夫克拉夫特"
-      ]
+      ],
+      "steamAppId": 2825860,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/3886f0efead06a14e8ef047635400fafd362f1ba/header_alt_assets_1_schinese.jpg?t=1786356731",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "FEED IT 喂它",
-      "link": "https://store.steampowered.com/search/?term=FEED+IT",
+      "link": "https://store.steampowered.com/app/4370990",
       "badge": "今日发售",
       "badgeColor": "red",
       "meta": "Games On A Chair · Steam 独占 · 心理恐怖",
@@ -1453,11 +1532,15 @@
         "心理恐怖",
         "环境叙事",
         "独立游戏"
-      ]
+      ],
+      "steamAppId": 4370990,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370990/f620b384ba83e2e1d8bf6516a3cb110bd244dfbf/header.jpg?t=1786814393",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "湮灭之潮",
-      "link": "https://www.taptap.cn/search/湮灭之潮",
+      "link": "https://store.steampowered.com/app/3292470",
       "badge": "首次大规模试玩",
       "badgeColor": "purple",
       "meta": "腾讯投资 · 亚瑟王骑士幻想动作冒险",
@@ -1467,11 +1550,15 @@
         "腾讯投资",
         "亚瑟王传说",
         "骑士幻想"
-      ]
+      ],
+      "steamAppId": 3292470,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/header_schinese.jpg?t=1786504987",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "Tukoni: Forest Keepers",
-      "link": "https://store.steampowered.com/search/?term=Tukoni+Forest+Keepers",
+      "link": "https://store.steampowered.com/app/2933200",
       "badge": "今日发售",
       "badgeColor": "cyan",
       "meta": "Dream Operator/Gamersky Games · 解谜冒险",
@@ -1481,7 +1568,11 @@
         "解谜",
         "手绘",
         "童话风"
-      ]
+      ],
+      "steamAppId": 2933200,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933200/8ba258b9db04d7da7c4d31b14418f3075087ba77/header_alt_assets_1_schinese.jpg?t=1786958548",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     },
     {
       "name": "黑神话:悟空",
@@ -1496,7 +1587,11 @@
         "3A",
         "国产单机",
         "夏季促销"
-      ]
+      ],
+      "steamAppId": 2358720,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
+      "imageSource": "steam-header",
+      "imageStatus": "ok"
     }
   ],
   "investment": {
