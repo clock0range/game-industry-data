@@ -253,7 +253,144 @@
       "androidLink": "https://www.taptap.cn/search/湮灭之潮",
       "iosTop": "粒粒的小人国",
       "iosLink": "https://www.taptap.cn/search/粒粒的小人国"
-    }
+    },
+    "freeRanking": [
+      {
+        "rank": 1,
+        "name": "无畏契约：源能行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/71/1b/66711bd4-1a83-4a2b-17d0-9388cdc3e4ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8"
+      },
+      {
+        "rank": 2,
+        "name": "王者荣耀",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/cb/c3/f8cbc3ea-678d-e931-7020-59bd87625eb0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80"
+      },
+      {
+        "rank": 3,
+        "name": "三角洲行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/6a/71/566a71a5-69cc-04f1-a1f9-6530fc4da650/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8"
+      },
+      {
+        "rank": 4,
+        "name": "蛋仔派对",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b1/3e/f2b13e1a-998e-e79d-fb61-a2ad54ac4c04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9"
+      },
+      {
+        "rank": 5,
+        "name": "和平精英",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/3d/cf/553dcf01-d3bf-26f5-85ca-74027fbe3686/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1"
+      },
+      {
+        "rank": 6,
+        "name": "开心消消乐",
+        "publisher": "乐元素",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/44/ce/ef44ce9f-5c71-6597-4a09-3e0359babd83/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90"
+      },
+      {
+        "rank": 7,
+        "name": "我的世界：移动版",
+        "publisher": "网易移动游戏(MC)",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/8e/fc/678efcee-6542-9afc-6fed-a4b44ce75d27/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9A%E7%A7%BB%E5%8A%A8%E7%89%88"
+      },
+      {
+        "rank": 8,
+        "name": "迷你世界",
+        "publisher": "Miniwan Tech",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/4d/25/a94d2587-55ae-b441-fef2-42010e82fdfa/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C"
+      },
+      {
+        "rank": 9,
+        "name": "地铁跑酷 - 开罗奇旅启程",
+        "publisher": "iDreamSky Te...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/a4/18/cea41873-dc8c-18c9-5e99-563667051353/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7%20-%20%E5%BC%80%E7%BD%97%E5%A5%87%E6%97%85%E5%90%AF%E7%A8%8B"
+      },
+      {
+        "rank": 10,
+        "name": "腾讯欢乐斗地主",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/7b/e3/6e7be309-33bb-949f-ebdc-ef8966dde329/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E8%85%BE%E8%AE%AF%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB"
+      },
+      {
+        "rank": 11,
+        "name": "毛线大师 - 毛线消除游戏 疯狂毛线消不停",
+        "publisher": "Happy Bubble...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/78/75/e7787520-a98c-e4f0-895e-3059031b48aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%AF%9B%E7%BA%BF%E5%A4%A7%E5%B8%88%20-%20%E6%AF%9B%E7%BA%BF%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F%20%E7%96%AF%E7%8B%82%E6%AF%9B%E7%BA%BF%E6%B6%88%E4%B8%8D%E5%81%9C"
+      },
+      {
+        "rank": 12,
+        "name": "贪吃蛇大作战®",
+        "publisher": "Wuhan Weipai...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/e4/0c/c9e40c8a-9410-8a5c-f042-2d846b67341e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98%C2%AE"
+      },
+      {
+        "rank": 13,
+        "name": "金铲铲之战",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/57/e7/5157e7d2-34c7-b826-7ea1-13f5d7cb8fd0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98"
+      },
+      {
+        "rank": 14,
+        "name": "部落冲突（Clash of Clans）",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/3c/ba/ad3cba65-83eb-bde6-bc13-927bc5583b4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81%EF%BC%88Clash%20of%20Clans%EF%BC%89"
+      },
+      {
+        "rank": 15,
+        "name": "赘婿",
+        "publisher": "广州盈心网络科技有限公司",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/53/52/bb535264-d976-36cc-eef0-1c0235b6f4a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "change": "/",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E8%B5%98%E5%A9%BF"
+      }
+    ]
   },
   "steam": {
     "indieCards": [
@@ -628,105 +765,105 @@
         "name": "向僵尸开炮",
         "category": "塔防",
         "publisher": "大梦龙途",
-        "change": "—"
+        "change": "/"
       },
       {
         "rank": 2,
         "name": "疯狂水世界",
         "category": "末日生存",
         "publisher": "—",
-        "change": "↑2"
+        "change": "▲2"
       },
       {
         "rank": 3,
         "name": "三国:冰河时代",
         "category": "SLG",
         "publisher": "上海双盟",
-        "change": "↓1"
+        "change": "▼1"
       },
       {
         "rank": 4,
         "name": "浪漫餐厅",
         "category": "模拟经营",
         "publisher": "柠檬曲奇",
-        "change": "↑1"
+        "change": "▲1"
       },
       {
         "rank": 5,
         "name": "灵画师",
         "category": "国风放置",
         "publisher": "—",
-        "change": "↓2"
+        "change": "▼2"
       },
       {
         "rank": 6,
         "name": "我的花园世界",
         "category": "模拟经营",
         "publisher": "—",
-        "change": "↑8（本周黑马）"
+        "change": "▲8（本周黑马）"
       },
       {
         "rank": 7,
         "name": "跃动小子",
         "category": "放置",
         "publisher": "—",
-        "change": "↑5"
+        "change": "▲5"
       },
       {
         "rank": 8,
         "name": "无尽冬日",
         "category": "SLG",
         "publisher": "点点互动",
-        "change": "—"
+        "change": "/"
       },
       {
         "rank": 9,
         "name": "原始征途",
         "category": "MMO",
         "publisher": "巨人网络",
-        "change": "↓2"
+        "change": "▼2"
       },
       {
         "rank": 10,
         "name": "梦幻消除战",
         "category": "模拟经营",
         "publisher": "番糖",
-        "change": "↑1"
+        "change": "▲1"
       },
       {
         "rank": 11,
         "name": "神器传说",
         "category": "休闲放置",
         "publisher": "全民互动",
-        "change": "↓5"
+        "change": "▼5"
       },
       {
         "rank": 12,
         "name": "向往的生活",
         "category": "模拟经营",
         "publisher": "必凡娱乐",
-        "change": "↑3"
+        "change": "▲3"
       },
       {
         "rank": 13,
         "name": "青云诀之伏魔",
         "category": "角色MMO",
         "publisher": "元游网络",
-        "change": "↑5"
+        "change": "▲5"
       },
       {
         "rank": 14,
         "name": "永远的蔚蓝星球",
         "category": "休闲塔防",
         "publisher": "颂悦网络",
-        "change": "↑2"
+        "change": "▲2"
       },
       {
         "rank": 15,
         "name": "天命行者",
         "category": "角色卡牌",
         "publisher": "—",
-        "change": "—"
+        "change": "/"
       }
     ],
     "dynamics": [
