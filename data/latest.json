@@ -250,7 +250,14 @@
         "rating": "100%",
         "meta": "8/14",
         "reviews": "100",
-        "link": "https://store.steampowered.com/app/3584920"
+        "link": "https://store.steampowered.com/app/3584920",
+        "reviewSummary": "好评如潮",
+        "tags": [
+          "休闲",
+          "独立",
+          "模拟",
+          "单人"
+        ]
       },
       {
         "name": "sobosuba",
@@ -260,7 +267,13 @@
         "rating": "100%",
         "meta": "8/14",
         "reviews": "27",
-        "link": "https://store.steampowered.com/app/1946560"
+        "link": "https://store.steampowered.com/app/1946560",
+        "reviewSummary": "好评如潮",
+        "tags": [
+          "休闲",
+          "独立",
+          "单人"
+        ]
       },
       {
         "name": "SURA: Shattered Star",
@@ -270,7 +283,14 @@
         "rating": "100%",
         "meta": "8/14",
         "reviews": "22",
-        "link": "https://store.steampowered.com/app/4914580"
+        "link": "https://store.steampowered.com/app/4914580",
+        "reviewSummary": "好评如潮",
+        "tags": [
+          "动作",
+          "冒险",
+          "独立",
+          "免费开玩"
+        ]
       },
       {
         "name": "Italian Pizza Simulator",
@@ -280,7 +300,14 @@
         "rating": "100%",
         "meta": "8/14",
         "reviews": "16",
-        "link": "https://store.steampowered.com/app/4002450"
+        "link": "https://store.steampowered.com/app/4002450",
+        "reviewSummary": "好评如潮",
+        "tags": [
+          "休闲",
+          "独立",
+          "模拟",
+          "单人"
+        ]
       },
       {
         "name": "Pegs X Stickers",
@@ -290,7 +317,13 @@
         "rating": "93%",
         "meta": "8/14",
         "reviews": "16",
-        "link": "https://store.steampowered.com/app/4403010"
+        "link": "https://store.steampowered.com/app/4403010",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "独立",
+          "策略",
+          "单人"
+        ]
       },
       {
         "name": "梦之岛仲夏夜",
@@ -300,7 +333,14 @@
         "rating": "93%",
         "meta": "8/13",
         "reviews": "15",
-        "link": "https://store.steampowered.com/app/4129770"
+        "link": "https://store.steampowered.com/app/4129770",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "冒险",
+          "独立",
+          "角色扮演",
+          "单人"
+        ]
       },
       {
         "name": "Blue Sign",
@@ -310,7 +350,14 @@
         "rating": "90%",
         "meta": "8/14",
         "reviews": "21",
-        "link": "https://store.steampowered.com/app/4911340"
+        "link": "https://store.steampowered.com/app/4911340",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "冒险",
+          "独立",
+          "模拟",
+          "免费开玩"
+        ]
       },
       {
         "name": "静默恐惧：阿瑞斯深渊劫",
@@ -320,7 +367,14 @@
         "rating": "84%",
         "meta": "8/14",
         "reviews": "26",
-        "link": "https://store.steampowered.com/app/4042160"
+        "link": "https://store.steampowered.com/app/4042160",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "冒险",
+          "独立",
+          "模拟",
+          "单人"
+        ]
       }
     ],
     "topSellers": [
@@ -623,6 +677,41 @@
         "category": "模拟经营",
         "publisher": "番糖",
         "change": "↑1"
+      },
+      {
+        "rank": 11,
+        "name": "神器传说",
+        "category": "休闲放置",
+        "publisher": "全民互动",
+        "change": "↓5"
+      },
+      {
+        "rank": 12,
+        "name": "向往的生活",
+        "category": "模拟经营",
+        "publisher": "必凡娱乐",
+        "change": "↑3"
+      },
+      {
+        "rank": 13,
+        "name": "青云诀之伏魔",
+        "category": "角色MMO",
+        "publisher": "元游网络",
+        "change": "↑5"
+      },
+      {
+        "rank": 14,
+        "name": "永远的蔚蓝星球",
+        "category": "休闲塔防",
+        "publisher": "颂悦网络",
+        "change": "↑2"
+      },
+      {
+        "rank": 15,
+        "name": "天命行者",
+        "category": "角色卡牌",
+        "publisher": "—",
+        "change": "—"
       }
     ],
     "dynamics": [
