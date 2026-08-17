@@ -549,7 +549,8 @@
         "link": "https://store.steampowered.com/app/431960"
       }
     ],
-    "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。"
+    "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
+    "asOf": "2026-08-15"
   },
   "miniapp": {
     "ranking": [
@@ -683,7 +684,8 @@
         "name": "休闲/模拟",
         "value": "TOP10占6席"
       }
-    ]
+    ],
+    "asOf": "2026-08-16"
   },
   "segments": [
     {
