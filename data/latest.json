@@ -1236,6 +1236,23 @@
       "imageStatus": "placeholder"
     },
     {
+      "name": "凡应",
+      "meta": "艺画开天 · UE5 · 长篇叙事ARPG · PC/主机/移动",
+      "desc": "艺画开天UE5叙事ARPG。EP02限量删档测试招募中。箱庭场景探索+多武器切换连招+巨兽共生世界观，PC/主机/移动多端发行。",
+      "date": "EP02测试招募中",
+      "badge": "测试招募",
+      "badgeColor": "purple",
+      "tags": [
+        "UE5",
+        "ARPG",
+        "叙事"
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
+    },
+    {
       "name": "甄嬛传",
       "link": "https://www.taptap.cn/search/甄嬛传",
       "badge": "预约中",
