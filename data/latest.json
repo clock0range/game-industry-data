@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-18",
-    "lastUpdated": "2026-08-18T10:03:00+08:00",
+    "lastUpdated": "2026-08-18T10:08:00+08:00",
     "footerDate": "数据截至2026年8月18日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,76 +183,60 @@
     ],
     "highlights": [
       {
-        "title": "湮灭之潮 · 腾讯投资 首次大规模线下试玩",
-        "titleLink": "https://www.taptap.cn/search/湮灭之潮",
-        "color": "purple",
-        "source": "每日经济新闻/腾讯新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260817A02ZKG00?refer=cp_1009",
-        "body": "8月15日腾讯投资的国产骑士幻想动作冒险《湮灭之潮》启动首次大规模线下试玩+线上直播。2023年初立项，题材亚瑟王传说，核心玩法\"多人配合的骑士作战\"。制作团队来自《刺客信条》《荣耀战魂》。同样由每经早参披露：8月15日 2K Games 成立全新工作室 <strong>Small Axe Studio</strong>（温哥华），由 EA Sports 资深开发者领衔开发 3A 体育新作；8月16日 NEXON Embark Studios《<strong>ARC Raiders</strong>》全球销量累计 1630 万份 / 收入超 880 亿日元，撤射击品类持续高增长。"
-      },
-      {
-        "title": "微信小游戏畅销榜 · 疯狂水世界升第 2",
-        "titleLink": "https://www.taptap.cn/search/疯狂水世界",
-        "color": "orange",
-        "source": "小游快爆/微信官方",
-        "sourceLink": "https://new.qq.com/rain/a/20260815A06JHI00?refer=cp_1009",
-        "body": "8月16日微信小游戏畅销榜：<strong>向僵尸开炮</strong>连续霸榜；<strong>疯狂水世界</strong>从第 4 升至<strong>第 2</strong>，末日生存爬升；<strong>三国:冰河时代</strong>从第 2 掉到第 3；<strong>我的花园世界</strong>暴涨 8 位冲到第 6；<strong>大侠闯天下</strong>+17 杀进前 35 成为本周最大黑马。原始征途/欢乐战三国 8月15日暴涨入 TOP10。今日腰部最热门的是\"挂机+武侠+Roguelike\"组合。SLG 三驾马车（无尽冬日/三国冰河/向末日开炮）依然稳。"
-      },
-      {
-        "title": "小游戏合规 · 信阳\"星XX玩\" 聚合平台无版号被罚 15.6 万",
-        "titleLink": "https://www.taptap.cn/search/小游戏盒子",
-        "color": "red",
-        "source": "诺诚游戏法/一周说法",
-        "sourceLink": "https://new.qq.com/rain/a/20260816A08CPV00?refer=cp_1009",
-        "body": "信阳市文旅局行政处罚：信阳某科技运营的\"星XX玩\"APP 聚合小游戏平台（112 款游戏），未经审批擅自上网出版网游，没收违法所得 2.6 万 + 没收 5G 物联控制板 100 台 + 罚款 13 万。执法机关认定：聚合平台不能仅以\"第三方提供\"做版号责任切割。提示小游戏盒子/聚合平台：①逐款核验版号 ②协议写入持续合规义务 ③发现存量无版号立即下架不等待补办。"
-      },
-      {
-        "title": "父亲起诉腾讯/网易/米哈游/三七互娱 · 10 元索赔案延期",
-        "titleLink": "https://news.sina.cn/10%E5%85%83%E7%B4%A2%E8%B5%94",
-        "color": "red",
-        "source": "新浪新闻",
-        "sourceLink": "https://k.sina.cn/article_7880068207_1d5b04c6f06801p282.html",
-        "body": "河南南阳父亲秦华因 18 岁儿子吞药起诉腾讯/网易/米哈游/三七互娱四家、索赔<strong>10 元精神损害慰借金</strong>案，因四被告均提管辖权异议，原定合并开庭方案作废，案件拆分四起各自重新立案。截至 2026 年 8 月中旬仍在重新立案阶段。秦华坚持公开审理倒逼防沉迷漏洞：要求落实动态人脸识别+堵账号租售漏洞。该案成为行业防沉迷\"有技术不落实\"的标志性公益诉讼。"
-      },
-      {
-        "title": "灵犀互娱 101 亿元抄底 · PE 资源整合国内游戏新阶段",
+        "title": "灵犀互娱正式易主 · 信辰资本101亿元确认成交",
         "titleLink": "https://www.taptap.cn/search/三国志战略版",
         "color": "yellow",
-        "source": "PE 星球/南方都市报",
-        "sourceLink": "https://www.163.com/dy/article/L4FG9V5V05199RAS.html",
-        "body": "阿里花 10 亿买下、9 年获 10 倍回报：8/17 详情——竞购历经两个多月，信宸资本出价超 15 亿美元（>101 亿 RMB）独立击败三七互娱/中国儒意/世纪华通/巨人网络 4 家游戏大厂 + 2 家 PE 财团。标的含灵犀 5 大自研工作室+发行团队+九游渠道+交易猫平台。三国志战略版历史海外收入占七成（2020-2022 峰值近 60 亿，2025 年仅 23.69 亿，国内 iOS 流水从 5 跌至 9）。中信资本 2015 年青游网络对赌失败离场后十年来首次破例布局游戏。"
+        "source": "环球网/中国基金报/每经",
+        "sourceLink": "https://www.163.com/dy/article/L4HN948Q0514R9OJ.html",
+        "body": "8月17日靴子落地！阿里与信辰资本（中信资本旗下）正式达成交易协议，阿里让出灵犀互娱全部股权，交易价超15亿美元（约101亿元），系今年国内游戏市场最大并购案。CEO周炗枢发内部信确认管理团队留任。竞购历经两个多月，信辰资本独立击败三七互娱/中国儒意/世纪华通/巨人网络4家大厂+2家PE财团，较早期约90亿元估值溢价超10亿。继3月字节趀60亿美元出售沫瞳科技给沙特Savvy Games后，互联网大厂出清游戏资产、PE接盘成熟现金流标的成行业新常态。灵犀旗舰《三国志:战略版》全球玩家破亿，但海外收入从峰值60亿降至2025年23.69亿。"
       },
       {
-        "title": "游戏账号继承判 · 北京石景山法院判母亲继承 87 个账号",
-        "titleLink": "https://www.taptap.cn/search/游戏账号继承",
-        "color": "cyan",
-        "source": "每日法律早报",
-        "sourceLink": "https://www.163.com/dy/article/L4588UKG05129QAF.html",
-        "body": "36 岁男子古某病逝，生前注册 87 个实名认证游戏账号；母亲陈某想继承变现被游戏公司以\"用户协议规定所有权归公司、账号具人身属性不可继承\"拒绝诉至法院。北京石景山区法院 2026 年 6 月判决：87 个游戏账号<strong>使用权</strong>由母亲继承，公司须配合变更实名认证。法院明确：账号/虚拟道具/装备属网络虚拟财产、民法典 127 条+1122 条保护，使用权可继承；\"禁止继承\"格式条款属不公平条款无效；直播等高度绑人设账号例外。"
+        "title": "本周新游 · 遮天世界+诡秘之主+梦幻西游三强齐聚",
+        "titleLink": "https://news.17173.com/content/08172026/120917813.shtml",
+        "color": "green",
+        "source": "17173/网易官方",
+        "sourceLink": "https://news.17173.com/content/08172026/120917813.shtml",
+        "body": "本周(8/17-23)新游市场热度不减：腾讯代理《<strong>遮天世界</strong>》（辰东小说正版授权·国风修仙SLG）8月20日开测；快手《<strong>诡秘之主</strong>》（UE5·MMO·改编白金网文）8月21日公测上线；网易《<strong>梦幻西游:再续前缘</strong>》8月21日12:00六大服务器正式开服，免点卡免费畅玩，数据与电脑版互通。沫瞳科技《<strong>头号禁区</strong>》（俯视角竞技摸金·搜打撤+MOBA技能）8月20日开测。前《蔚蓝档案》核心团队新作《阿索拉:星之祈愿》8月19日海外测试招募。"
       },
       {
-        "title": "The Sinking City 2 · 8月18日多平台发售",
+        "title": "Steam 观察 · Big Walk夺冠周销榜 · Apex Legends登顶在线榜",
+        "titleLink": "https://store.steampowered.com/app/1478500",
+        "color": "purple",
+        "source": "17173/SteamDB",
+        "sourceLink": "https://news.17173.com/content/08132026/160416084.shtml",
+        "body": "Steam周销榜(8/4-11)：《<strong>Big Walk</strong>》（捣蛋鹅团队新作·IGN9分）夺冠，《<strong>漫威斗魂</strong>》（IGN9分·比肩街霸2）第二，《赛博朋克2077》第三，《铁巢重炮》《维修物语》新上榜。SteamDB在线榜(8/18实时)：<strong>CS2</strong> 54万在线稳居第一，<strong>刀塔2</strong> 43万第二，<strong>幻兽帕鲁</strong> 19万第三，<strong>绝地求生</strong> 12万第六，<strong>漫威争锋</strong> 11万第七。免费游戏Apex Legends 8万在线重回TOP10。"
+      },
+      {
+        "title": "阴阳师诉彩虹岛美术侵权 · 已进入诉讼流程",
+        "titleLink": "https://www.taptap.cn/search/阴阳师",
+        "color": "red",
+        "source": "诺诚游戏法/腾讯一周说法",
+        "sourceLink": "https://new.qq.com/rain/a/20260816A08CPV00?refer=cp_1009",
+        "body": "8月11日网易《<strong>阴阳师</strong>》官方发声明维权：盛趣《彩虹岛》暑期版本坐骑\"灵山赤狐\"被指与阴阳师式神白藏主\"小白\"高度相似——仅将原版二尾调整为三尾，其余设计细节基本雷同。更早的时装\"蝴梦\"也被指与阴阳师式神蝴蝶精美术形象高度相似。TapTap评论\"两连撞\"。网易反应迅速要求下架+公开道歉+诉讼。当日《彩虹岛》下架\"灵山赤狐\"替换为\"青春漂流瓶\"但未公开声明。目前该案已正式进入诉讼流程。著作权法角度：\"二尾改三尾\"属局部微调，整体造型/色彩/装饰核心表达雷同则微调不足以构成实质性区别。"
+      },
+      {
+        "title": "微信小游戏畅销榜 · 欢乐战三国+原始征途冲入TOP10",
+        "titleLink": "https://www.taptap.cn/search/欢乐战三国",
+        "color": "orange",
+        "source": "竞核HOT周报/小游快爆",
+        "sourceLink": "https://www.163.com/dy/article/L4F3ULTC0511CVBI.html",
+        "body": "8月16日周榜：微信畅销小游戏TOP10大幅洗牌——<strong>欢乐战三国</strong>（玖玖游科技）+31名飙升至第10名创历史新高，<strong>原始征途</strong>+16名升至第7名进TOP10。<strong>向僵尸开炮</strong>连续霸榜稳如磔石，<strong>疯狂水世界</strong>升至第2，<strong>三国:冰河时代</strong>第3。2026年截至8/16已下发游戏版号1147个（国产1110+进口37）。近7天买量榜：巨人《超自然行动组》91315素材量第一，诗悦《永远的蔚蓝星球》第二第三。"
+      },
+      {
+        "title": "The Sinking City 2 · 今日多平台解锁发售",
         "titleLink": "https://store.steampowered.com/search/?term=The+Sinking+City+2",
         "color": "green",
         "source": "Coming Soon/Games Coming Out",
         "sourceLink": "https://gamescomingout.com/games-coming-out-this-week",
-        "body": "Frogwares《The Sinking City 2》（洛夫克拉夫特恐怖）8月18日解锁 PS5/Xbox Series X|S/PC。背景设定 1920 年代罗厄年代，在被洪水淹没的阿卡姆街道调查对抗远古存在，旁支剧情走向影响全城命运。本周 Steam 重点新游榜首，热门期盼榜社区成员 16,595 人关注。游戏定价区间 39.99 美元。"
-      },
-      {
-        "title": "米哈游泄密刑案 · 全国首例「点击量入罪」生效",
-        "titleLink": "https://www.taptap.cn/search/原神",
-        "color": "red",
-        "source": "南都湾财社",
-        "sourceLink": "https://www.163.com/dy/article/L3LI7H5R05129QAF.html",
-        "body": "上海徐汇法院全国首例游戏泄密刑事案件8月5日正式生效。B站用户\"真不想涩涩\"苏某（点击 60万+）、\"风堇lover-兜兜\"吴某（点击 30万+）侵犯著作权罪成立，分别判缓刑 1 年 2 个月/1 年。首例依据两高 2025 年 4 月新司法解释\"点击量超 10 万次\"入罪标准定罪，终结\"剧透灰色地带\"。"
+        "body": "Frogwares《The Sinking City 2》（洛夫克拉夫特恐怖）今日（8月18日）解锁 PS5/Xbox Series X|S/PC。背景设定1920年代罗厄年代，在被洪水淹没的阿卡姆街道调查对抗远古存在，旁支剧情走向影响全城命运。Steam社区关注16,595人，定价39.99美元。本周Steam新游发售日历重点作品。"
       }
     ],
     "taptap": {
       "period": "TapTap预约榜热度（8.16-8.22）",
-      "androidTop": "湮灭之潮",
-      "androidLink": "https://www.taptap.cn/search/湮灭之潮",
-      "iosTop": "粒粒的小人国",
-      "iosLink": "https://www.taptap.cn/search/粒粒的小人国"
+      "androidTop": "诡秘之主",
+      "androidLink": "https://www.taptap.cn/search/诡秘之主",
+      "iosTop": "龙岛异兽起源",
+      "iosLink": "https://www.taptap.cn/search/龙岛异兽起源"
     },
     "freeRanking": [
       {
@@ -758,153 +742,153 @@
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "asOf": "2026-08-15",
     "mostPlayed": {
-      "asOf": "2026-08-17",
-      "updatedAt": "17:03",
+      "asOf": "2026-08-18",
+      "updatedAt": "10:06",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
-          "appid": 730,
+          "appid": "730",
           "name": "Counter-Strike 2",
           "nameZh": "CS2",
-          "current": 695763,
-          "peak24h": 1266082,
+          "current": 543117,
+          "peak24h": 1177093,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
-          "appid": 570,
+          "appid": "570",
           "name": "Dota 2",
-          "nameZh": "DOTA 2",
-          "current": 567810,
-          "peak24h": 959321,
+          "nameZh": "刀塔2",
+          "current": 435834,
+          "peak24h": 895340,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 371837,
-          "peak24h": 763164,
-          "link": "https://store.steampowered.com/app/578080/"
-        },
-        {
-          "rank": 4,
-          "appid": 1623730,
+          "appid": "1623730",
           "name": "Palworld",
           "nameZh": "幻兽帕鲁",
-          "current": 167809,
-          "peak24h": 333391,
+          "current": 197662,
+          "peak24h": 256387,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
+          "rank": 4,
+          "appid": "2676230",
+          "name": "FiveM",
+          "nameZh": "",
+          "current": 133115,
+          "peak24h": 181081,
+          "link": "https://store.steampowered.com/app/2676230/"
+        },
+        {
           "rank": 5,
-          "appid": 3419430,
+          "appid": "3419430",
           "name": "Bongo Cat",
-          "nameZh": "Bongo Cat 桌宠",
-          "current": 140611,
-          "peak24h": 149864,
+          "nameZh": "敲鼓猫",
+          "current": 125934,
+          "peak24h": 149657,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 6,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "Apex 英雄",
-          "current": 121600,
-          "peak24h": 280091,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "appid": "578080",
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 120975,
+          "peak24h": 749081,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "",
-          "current": 96765,
-          "peak24h": 117577,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "appid": "2767030",
+          "name": "Marvel Rivals",
+          "nameZh": "漫威争锋",
+          "current": 116577,
+          "peak24h": 122495,
+          "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 8,
-          "appid": 431960,
-          "name": "Wallpaper Engine",
-          "nameZh": "壁纸引擎",
-          "current": 87104,
-          "peak24h": 114780,
-          "link": "https://store.steampowered.com/app/431960/"
+          "appid": "3678970",
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "任务栏英雄",
+          "current": 87794,
+          "peak24h": 116001,
+          "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 9,
-          "appid": 252490,
-          "name": "Rust",
-          "nameZh": "Rust 腐蚀",
-          "current": 76500,
-          "peak24h": 133793,
-          "link": "https://store.steampowered.com/app/252490/"
+          "appid": "359550",
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号：围攻",
+          "current": 84782,
+          "peak24h": 85817,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 10,
-          "appid": 2676230,
-          "name": "FiveM",
-          "nameZh": "FiveM (GTA模组)",
-          "current": 75211,
-          "peak24h": 196091,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "appid": "1172470",
+          "name": "Apex Legends",
+          "nameZh": "顶点传奇",
+          "current": 80887,
+          "peak24h": 267536,
+          "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 11,
-          "appid": 2507950,
-          "name": "Delta Force",
-          "nameZh": "三角洲行动",
-          "current": 69144,
-          "peak24h": 119529,
-          "link": "https://store.steampowered.com/app/2507950/"
+          "appid": "108600",
+          "name": "Project Zomboid",
+          "nameZh": "僵尸毁灭工程",
+          "current": 80447,
+          "peak24h": 98074,
+          "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 12,
-          "appid": 250900,
-          "name": "The Binding of Isaac: Rebirth",
-          "nameZh": "以撒的结合：重生",
-          "current": 67611,
-          "peak24h": 106989,
-          "link": "https://store.steampowered.com/app/250900/"
+          "appid": "3405690",
+          "name": "EA SPORTS FC 26",
+          "nameZh": "EA FC 26",
+          "current": 79842,
+          "peak24h": 91963,
+          "link": "https://store.steampowered.com/app/3405690/"
         },
         {
           "rank": 13,
-          "appid": 413150,
-          "name": "Stardew Valley",
-          "nameZh": "星露谷物语",
-          "current": 64389,
-          "peak24h": 107846,
-          "link": "https://store.steampowered.com/app/413150/"
+          "appid": "553850",
+          "name": "HELLDIVERS 2",
+          "nameZh": "绝地潜兵2",
+          "current": 76543,
+          "peak24h": 85013,
+          "link": "https://store.steampowered.com/app/553850/"
         },
         {
           "rank": 14,
-          "appid": 2868840,
-          "name": "Slay the Spire 2",
-          "nameZh": "杀戮尖塔 2",
-          "current": 56181,
-          "peak24h": 102318,
-          "link": "https://store.steampowered.com/app/2868840/"
+          "appid": "252490",
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 74929,
+          "peak24h": 131170,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 15,
-          "appid": 271590,
-          "name": "Grand Theft Auto V Legacy",
-          "nameZh": "GTA5 旧版",
-          "current": 52073,
-          "peak24h": 85505,
-          "link": "https://store.steampowered.com/app/271590/"
+          "appid": "1422450",
+          "name": "Deadlock",
+          "nameZh": "死锁",
+          "current": 73111,
+          "peak24h": 76313,
+          "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 16,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 50459,
-          "peak24h": 121438,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": "2357570",
+          "name": "Overwatch",
+          "nameZh": "守望先锋",
+          "current": 70073,
+          "peak24h": 72170,
+          "link": "https://store.steampowered.com/app/2357570/"
         }
       ]
     }
@@ -1018,6 +1002,13 @@
       }
     ],
     "dynamics": [
+      {
+        "title": "微信小游戏畅销榜周报 · 欢乐战三国+神器传说新进TOP10",
+        "color": "orange",
+        "body": "8月16日周榜：微信畅销TOP10大幅换血——<strong>欢乐战三国</strong>（玖玖游）和<strong>神器传说</strong>（柿柿互动）本周新上榜进TOP10。<strong>向僵尸开炮</strong>稳坐榜首，<strong>疯狂水世界</strong>升至第2，<strong>三国:冰河时代</strong>第3。腰部\"挂机+武侠+Roguelike\"品类持续跑通。<strong>原始征途</strong>+16名飙升至第7创历史新高。2026年截至8/16已下发游戏版号1147个。买量榜巨人《超自然行动组》91315素材量第一。",
+        "source": "竞核HOT周报",
+        "sourceLink": "https://www.163.com/dy/article/L4F3ULTC0511CVBI.html"
+      },
       {
         "title": "微信小游戏畅销榜 8/16 · 疯狂水世界登顶第 2",
         "color": "orange",
@@ -1155,6 +1146,42 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "name": "遮天世界",
+      "link": "https://www.taptap.cn/search/遮天世界",
+      "badge": "即将测试",
+      "badgeColor": "cyan",
+      "meta": "腾讯代理 · 辰东小说正版授权 · 国风修仙SLG",
+      "desc": "辰东小说《遮天》正版授权改编的国风修仙SLG手游。把轮海、道宫等五大秘境修行养成与仙府经营、仙门结盟、帝源矿脉争夺融于一体。8月20日上午10点开启量删删档测试。",
+      "date": "8月20日量删测试",
+      "tags": [
+        "SLG",
+        "修仙",
+        "大IP改编"
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
+    },
+    {
+      "name": "头号禁区",
+      "link": "https://www.taptap.cn/search/头号禁区",
+      "badge": "即将测试",
+      "badgeColor": "cyan",
+      "meta": "沫瞳科技 · 俯视角竞技摸金 · 搜打撤",
+      "desc": "沫瞳科技旗下轻快俯视角竞技摸金手游，把搜打撤移玩法与MOBA英雄技能体系融合。单局约10分钟，搜刮宝箱、改装冷热兵器、放技能清敌打Boss，缩圈前带高价值物资撤离。8月20日上午11点裂变测试。",
+      "date": "8月20日裂变测试",
+      "tags": [
+        "搜打撤",
+        "MOBA",
+        "竞技"
+      ],
+      "steamAppId": null,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
+    },
     {
       "name": "诡秘之主",
       "link": "https://www.taptap.cn/search/诡秘之主",
@@ -1622,10 +1649,10 @@
     ],
     "domestic": [
       {
-        "date": "2026年8月15日",
+        "date": "2026年8月17日 ✅ 正式确认",
         "title": "灵犀互娱101亿元成交 · 阿里退出游戏运营",
         "link": "https://finance.sina.com.cn/money/smjj/smgq/2026-08-15/doc-ininkfhq3589434.shtml",
-        "desc": "中信资本旗下信宸资本以超15亿美元（>101亿RMB）击败三七互娱/巨人网络/中国儒意等竞购者，最终拿下阿里灵犀互娱。坐拥1200人研发+旗舰《三国志:战略版》《如鸢》《灵魂面甲》等。2020-2022全球收入峰值近60亿，2025年仅23.69亿（巅峰四成）。标志互联网大厂加速出清游戏资产、私募资本主导国内游戏并购新阶段。",
+        "desc": "8月17日阿里与信辰资本正式达成交易协议，阿里让出灵犀互娱全部股权。CEO周炗枢内部信确认管理团队留任。交易价超15亿美元（>101亿RMB），系今年国内游戏市场最大并购案。信辰资本（中信资本旗下PE，管理资金105亿美元）独立击败三七互娱/中国儒意/世纪华通/巨人网络4家大厂+2家PE财团，较早期约90亿估值溢价超10亿。灵犀坐拥5大自研工作室+九游渠道+交易猫平台，团队约1200人，旗舰《三国志:战略版》全球玩家破亿。Sensor Tower 2025年7月中国手游发行商全球收入榜第11位。但海外收入从2020-2022峰值近60亿降至2025年23.69亿。标志互联网大厂加速出清游戏资产、PE主导国内游戏并购新阶段。",
         "amount": "超101亿元（约15亿美元）",
         "major": true
       },
@@ -1686,6 +1713,32 @@
   },
   "lawsuits": {
     "cards": [
+      {
+        "title": "阴阳师诉彩虹岛美术侵权 · 网易已进入诉讼流程",
+        "badge": "美术侵权",
+        "badgeColor": "red",
+        "body": "<strong>案情：</strong>8月11日网易《阴阳师》官方发微博声明维权，称盛趣《彩虹岛》暑期嘉年华版本坐骑\"灵山赤狐\"与阴阳师式神白藏主\"小白\"高度相似——仅将原版二尾调整为三尾，其余设计细节基本雷同。更早的时装\"蝴梦\"也被指与阴阳师式神蝴蝶精美术形象高度相似。TapTap评论\"两连撞\"。<br><br><strong>进展：</strong>网易要求下架侵权内容并公开道歉。当日《彩虹岛》将\"灵山赤狐\"下架替换为\"青春漂流瓶\"，但未公开发表声明。目前该案已正式进入诉讼流程。<br><br><strong>法律分析：</strong>著作权法美术作品侵权采用\"接触+实质性相似\"测试。\"二尾改三尾\"属局部微调，若整体造型、色彩搭配、装饰元素等核心表达要素基本雷同，微调不足以构成实质性区别，仍可能被认定为实质性相似。",
+        "source": "诺诚游戏法 / 腾讯新闻一周说「法」",
+        "sourceLink": "https://new.qq.com/rain/a/20260816A08CPV00?refer=cp_1009",
+        "tags": [
+          "美术侵权",
+          "式神设计",
+          "坐骑抄襲"
+        ]
+      },
+      {
+        "title": "俄亥俄州总检察长申请牵头对Roblox证券集体诉讼",
+        "badge": "证券诉讼",
+        "badgeColor": "red",
+        "body": "<strong>案情：</strong>2026年8月10日，俄亥俄州总检察长Andy Wilson宣布拟以集体诉讼方式诉请Roblox，并请求法院指定其为代表人。诉状指控Roblox在儿童安全措施方面误导投资者，使其虚假宣传平台为\"儿童安全空间\"，却未能实施基本筛查工具，导致平台成为网络predators和色情内容targeting未成年人的温床。<br><br><strong>背景：</strong>2026年4月，监管压力迫使Roblox实施强制年龄验证及未成年通讯限制。此次证券集体诉讼意味着投资者也开始追究Roblox在安全方面的信息披露责任。",
+        "source": "诺诚游戏法 / 腾讯新闻一周说「法」",
+        "sourceLink": "https://new.qq.com/rain/a/20260816A08CPV00?refer=cp_1009",
+        "tags": [
+          "证券诉讼",
+          "儿童安全",
+          "信息披露"
+        ]
+      },
       {
         "title": "小游戏聚合平台无版号案 · 信阳\"星XX玩\"被罚 15.6 万",
         "badge": "行政处罚",
