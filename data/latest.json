@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-19",
-    "lastUpdated": "2026-08-19T09:51:00+08:00",
+    "lastUpdated": "2026-08-19T10:15:00+08:00",
     "footerDate": "数据截至2026年8月19日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -199,12 +199,12 @@
         "body": "本周(8/17-23)新游市场热度不减：腾讯代理《<strong>遮天世界</strong>》（辰东小说正版授权·国风修仙SLG）8月20日开测；快手《<strong>诡秘之主</strong>》（UE5·MMO·改编白金网文）8月21日公测上线；网易《<strong>梦幻西游:再续前缘</strong>》8月21日12:00六大服务器正式开服，免点卡免费畅玩，数据与电脑版互通。沫瞳科技《<strong>头号禁区</strong>》（俯视角竞技摸金·搜打撤+MOBA技能）8月20日开测。前《蔚蓝档案》核心团队新作《阿索拉:星之祈愿》8月19日海外测试招募。"
       },
       {
-        "title": "Steam 观察 · Big Walk夺冠周销榜 · Apex Legends登顶在线榜",
-        "titleLink": "https://store.steampowered.com/app/1478500",
+        "title": "Steam 观察 · CS2 51万在线领跑 · 致命躯壳2明日发售",
+        "titleLink": "https://store.steampowered.com/app/2584270",
         "color": "purple",
-        "source": "17173/SteamDB",
-        "sourceLink": "https://news.17173.com/content/08132026/160416084.shtml",
-        "body": "Steam周销榜(8/4-11)：《<strong>Big Walk</strong>》（捣蛋鹅团队新作·IGN9分）夺冠，《<strong>漫威斗魂</strong>》（IGN9分·比肩街霸2）第二，《赛博朋克2077》第三，《铁巢重炮》《维修物语》新上榜。SteamDB在线榜(8/18实时)：<strong>CS2</strong> 54万在线稳居第一，<strong>刀塔2</strong> 43万第二，<strong>幻兽帕鲁</strong> 19万第三，<strong>绝地求生</strong> 12万第六，<strong>漫威争锋</strong> 11万第七。免费游戏Apex Legends 8万在线重回TOP10。"
+        "source": "SteamDB/Games Coming Out",
+        "sourceLink": "https://steamdb.info/charts/",
+        "body": "SteamDB在线榜(8/19实时)：<strong>CS2</strong> 51.4万在线稳居第一（24h峰值119万），<strong>刀塔2</strong> 41.5万第二，<strong>幻兽帕鲁</strong> 18万第三，<strong>FiveM</strong> 13.8万第四，<strong>Bongo Cat</strong> 11.8万第五。6-10名：<strong>漫威争锋</strong> 11万、<strong>绝地求生</strong> 10.5万、<strong>彩虹六号:围攻</strong> 8.3万、<strong>TBH: Task Bar Hero</strong> 8.2万、<strong>Apex英雄</strong> 7.9万。本周新游：《<strong>致命躯壳2</strong>》（Mortal Shell II）8月20日解锁 PS5/Xbox/PC，国区标准版198元，虔诚版228元可提前72小时畅玩。"
       },
       {
         "title": "阴阳师诉彩虹岛美术侵权 · 已进入诉讼流程",
@@ -223,18 +223,18 @@
         "body": "8月16日周榜：微信畅销小游戏TOP10大幅洗牌——<strong>欢乐战三国</strong>（玖玖游科技）+31名飙升至第10名创历史新高，<strong>原始征途</strong>+16名升至第7名进TOP10。<strong>向僵尸开炮</strong>连续霸榜稳如磔石，<strong>疯狂水世界</strong>升至第2，<strong>三国:冰河时代</strong>第3。2026年截至8/16已下发游戏版号1147个（国产1110+进口37）。近7天买量榜：巨人《超自然行动组》91315素材量第一，诗悦《永远的蔚蓝星球》第二第三。"
       },
       {
-        "title": "The Sinking City 2 · 今日多平台解锁发售",
-        "titleLink": "https://store.steampowered.com/search/?term=The+Sinking+City+2",
+        "title": "TapTap玩聚节定档9月 · 逆水寒联动盗墓笔记",
+        "titleLink": "https://www.taptap.cn/",
         "color": "green",
-        "source": "Coming Soon/Games Coming Out",
-        "sourceLink": "https://gamescomingout.com/games-coming-out-this-week",
-        "body": "Frogwares《The Sinking City 2》（洛夫克拉夫特恐怖）今日（8月18日）解锁 PS5/Xbox Series X|S/PC。背景设定1920年代罗厄年代，在被洪水淹没的阿卡姆街道调查对抗远古存在，旁支剧情走向影响全城命运。Steam社区关注16,595人，定价39.99美元。本周Steam新游发售日历重点作品。"
+        "source": "每经/网易官方",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4286a838dae05052",
+        "body": "8月17日\"2026 TapTap玩聚节\"官宣定档9月12-13日落地上海西岸艺术中心A馆，面向全部玩家开放报名，可现场试玩《<strong>控制:共振</strong>》《<strong>湮灭之潮</strong>》《<strong>白银之城</strong>》等未上线新作。同日网易《<strong>逆水寒:新世界</strong>》官宣联动《盗墓笔记》IP，9月24日上线，吴邪/张起灵/霍秀秀三大角色入驻。另《<strong>潜水员戴夫</strong>》手游国际版定档9月17日iOS/Android双端，收录漁帆暗涌联动+叢林DLC，免费试玩+付费解锁完整版。"
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（8.16-8.22）",
-      "androidTop": "诡秘之主",
-      "androidLink": "https://www.taptap.cn/search/诡秘之主",
+      "period": "TapTap预约榜热度（8.19-8.25）",
+      "androidTop": "雾海之下",
+      "androidLink": "https://www.taptap.cn/search/雾海之下",
       "iosTop": "龙岛异兽起源",
       "iosLink": "https://www.taptap.cn/search/龙岛异兽起源"
     },
@@ -1146,6 +1146,24 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "name": "致命躯壳2 (Mortal Shell II)",
+      "link": "https://store.steampowered.com/app/2584270",
+      "badge": "明日发售",
+      "badgeColor": "green",
+      "meta": "Cold Symmetry · Playstack · PS5/Xbox/PC · 动作RPG",
+      "desc": "《致命躯壳》独立续作，大幅扩展原作战斗系统，节奏更快更硬核。无耐力条束缚，强化快意处决体验。紧凑开放世界自由探索，八位可附身战士各具独特能力。8月20日解锁，国区标准版198元，虔诚版228元（含黑曜石皮肤套装+提前72小时开玩）。",
+      "date": "8月20日发售",
+      "tags": [
+        "动作RPG",
+        "硬核",
+        "Steam"
+      ],
+      "steamAppId": 2584270,
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder"
+    },
     {
       "name": "遮天世界",
       "link": "https://www.taptap.cn/search/遮天世界",
