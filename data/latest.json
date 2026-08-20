@@ -191,20 +191,20 @@
         "body": "8月17日靴子落地！阿里与信辰资本（中信资本旗下）正式达成交易协议，阿里让出灵犀互娱全部股权，交易价超15亿美元（约101亿元），系今年国内游戏市场最大并购案。CEO周炗枢发内部信确认管理团队留任。竞购历经两个多月，信辰资本独立击败三七互娱/中国儒意/世纪华通/巨人网络4家大厂+2家PE财团，较早期约90亿元估值溢价超10亿。继3月字节趀60亿美元出售沫瞳科技给沙特Savvy Games后，互联网大厂出清游戏资产、PE接盘成熟现金流标的成行业新常态。灵犀旗舰《三国志:战略版》全球玩家破亿，但海外收入从峰值60亿降至2025年23.69亿。"
       },
       {
-        "title": "本周新游 · 遮天世界+诡秘之主+梦幻西游三强齐聚",
-        "titleLink": "https://news.17173.com/content/08172026/120917813.shtml",
+        "title": "今日开测 · 遮天世界+头号禁区正式上线测试",
+        "titleLink": "https://www.taptap.cn/search/遮天世界",
         "color": "green",
-        "source": "17173/网易官方",
+        "source": "17173/TapTap",
         "sourceLink": "https://news.17173.com/content/08172026/120917813.shtml",
-        "body": "本周(8/17-23)新游市场热度不减：腾讯代理《<strong>遮天世界</strong>》（辰东小说正版授权·国风修仙SLG）8月20日开测；快手《<strong>诡秘之主</strong>》（UE5·MMO·改编白金网文）8月21日公测上线；网易《<strong>梦幻西游:再续前缘</strong>》8月21日12:00六大服务器正式开服，免点卡免费畅玩，数据与电脑版互通。沫瞳科技《<strong>头号禁区</strong>》（俯视角竞技摸金·搜打撤+MOBA技能）8月20日开测。前《蔚蓝档案》核心团队新作《阿索拉:星之祈愿》8月19日海外测试招募。"
+        "body": "8月20日新游市场开启一波小高峰：腾讯代理《<strong>遮天世界</strong>》（辰东小说正版授权·国风修仙SLG）上午10点已开启量删删档测试；沫瞳科技《<strong>头号禁区</strong>》（俯视角竞技摸金·搜打撤+MOBA技能）上午11点已开启裂变测试。快手《<strong>诡秘之主</strong>》（UE5·MMO·改编白金网文）TapTap预约突破210万，8月21日公测上线；网易《<strong>梦幻西游:再续前缘</strong>》8月21日12:00六大服务器正式开服，免点卡免费畅玩，数据与电脑版互通。"
       },
       {
-        "title": "Steam 观察 · CS2 51万在线领跑 · 致命躯壳2明日发售",
+        "title": "Steam 观察 · CS2 52万在线领跑 · 致命躯壳2今日发售",
         "titleLink": "https://store.steampowered.com/app/2584270",
         "color": "purple",
         "source": "SteamDB/Games Coming Out",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "SteamDB在线榜(8/19实时)：<strong>CS2</strong> 51.4万在线稳居第一（24h峰值119万），<strong>刀塔2</strong> 41.5万第二，<strong>幻兽帕鲁</strong> 18万第三，<strong>FiveM</strong> 13.8万第四，<strong>Bongo Cat</strong> 11.8万第五。6-10名：<strong>漫威争锋</strong> 11万、<strong>绝地求生</strong> 10.5万、<strong>彩虹六号:围攻</strong> 8.3万、<strong>TBH: Task Bar Hero</strong> 8.2万、<strong>Apex英雄</strong> 7.9万。本周新游：《<strong>致命躯壳2</strong>》（Mortal Shell II）8月20日解锁 PS5/Xbox/PC，国区标准版198元，虔诚版228元可提前72小时畅玩。"
+        "body": "SteamDB在线榜(8/20实时)：<strong>CS2</strong> 52.3万在线稳居第一（24h峰值125万），<strong>刀塔2</strong> 41.7万第二，<strong>绝地求生</strong> 16.1万第三，<strong>幻兽帕鲁</strong> 15.7万第四，<strong>Bongo Cat</strong> 13.4万第五。6-10名：<strong>FiveM</strong> 10.2万、<strong>漫威争锋</strong> 9.8万、<strong>TBH: Task Bar Hero</strong> 8.6万、<strong>Apex英雄</strong> 8.5万、<strong>壁纸引擎</strong> 6.8万。今日新游：《<strong>致命躯壳2</strong>》（Mortal Shell II）8月20日已解锁 PS5/Xbox/PC，国区标准版198元，虔诚版228元可提前72小时畅玩。"
       },
       {
         "title": "阴阳师诉彩虹岛美术侵权 · 已进入诉讼流程",
@@ -232,7 +232,7 @@
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（8.19-8.25）",
+      "period": "TapTap预约榜热度（8.20-8.26）",
       "androidTop": "雾海之下",
       "androidLink": "https://www.taptap.cn/search/雾海之下",
       "iosTop": "龙岛异兽起源",
@@ -742,8 +742,8 @@
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "asOf": "2026-08-15",
     "mostPlayed": {
-      "asOf": "2026-08-19",
-      "updatedAt": "10:07",
+      "asOf": "2026-08-20",
+      "updatedAt": "13:36",
       "source": "SteamDB",
       "items": [
         {
@@ -751,8 +751,8 @@
           "appid": "730",
           "name": "Counter-Strike 2",
           "nameZh": "CS2",
-          "current": 514474,
-          "peak24h": 1192016,
+          "current": 523766,
+          "peak24h": 1255217,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -760,134 +760,134 @@
           "appid": "570",
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 415227,
-          "peak24h": 888959,
+          "current": 417336,
+          "peak24h": 846628,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": "1623730",
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 180100,
-          "peak24h": 241930,
-          "link": "https://store.steampowered.com/app/1623730/"
+          "appid": "578080",
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 161868,
+          "peak24h": 685476,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 4,
-          "appid": "2676230",
-          "name": "FiveM",
-          "nameZh": "FiveM",
-          "current": 137968,
-          "peak24h": 178765,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "appid": "1623730",
+          "name": "Palworld",
+          "nameZh": "幻兽帕鲁",
+          "current": 157217,
+          "peak24h": 223971,
+          "link": "https://store.steampowered.com/app/1623730/"
         },
         {
           "rank": 5,
           "appid": "3419430",
           "name": "Bongo Cat",
-          "nameZh": "",
-          "current": 117504,
-          "peak24h": 158874,
+          "nameZh": "Bongo Cat",
+          "current": 134944,
+          "peak24h": 167832,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 6,
-          "appid": "2767030",
-          "name": "Marvel Rivals",
-          "nameZh": "漫威争锋",
-          "current": 110810,
-          "peak24h": 116577,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "appid": "2676230",
+          "name": "FiveM",
+          "nameZh": "FiveM",
+          "current": 102935,
+          "peak24h": 176684,
+          "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 7,
-          "appid": "578080",
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 105494,
-          "peak24h": 733197,
-          "link": "https://store.steampowered.com/app/578080/"
+          "appid": "2767030",
+          "name": "Marvel Rivals",
+          "nameZh": "漫威争锋",
+          "current": 98011,
+          "peak24h": 109955,
+          "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 8,
-          "appid": "359550",
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号：围攻",
-          "current": 83069,
-          "peak24h": 85232,
-          "link": "https://store.steampowered.com/app/359550/"
-        },
-        {
-          "rank": 9,
           "appid": "3678970",
           "name": "TBH: Task Bar Hero",
-          "nameZh": "",
-          "current": 82086,
-          "peak24h": 115706,
+          "nameZh": "TBH: Task Bar Hero",
+          "current": 86539,
+          "peak24h": 111545,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "appid": "1172470",
           "name": "Apex Legends",
           "nameZh": "Apex英雄",
-          "current": 79337,
-          "peak24h": 267391,
+          "current": 85728,
+          "peak24h": 266725,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
+          "rank": 10,
+          "appid": "431960",
+          "name": "Wallpaper Engine",
+          "nameZh": "壁纸引擎",
+          "current": 68520,
+          "peak24h": 111052,
+          "link": "https://store.steampowered.com/app/431960/"
+        },
+        {
           "rank": 11,
-          "appid": "3405690",
-          "name": "EA SPORTS FC 26",
-          "nameZh": "EA FC 26",
-          "current": 79047,
-          "peak24h": 87428,
-          "link": "https://store.steampowered.com/app/3405690/"
+          "appid": "359550",
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号：围攻",
+          "current": 67889,
+          "peak24h": 82007,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 12,
           "appid": "108600",
           "name": "Project Zomboid",
           "nameZh": "僵尸毁灭工程",
-          "current": 78613,
-          "peak24h": 93373,
+          "current": 66610,
+          "peak24h": 91494,
           "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 13,
-          "appid": "553850",
-          "name": "HELLDIVERS 2",
-          "nameZh": "绝地潜兵2",
-          "current": 78296,
-          "peak24h": 100931,
-          "link": "https://store.steampowered.com/app/553850/"
-        },
-        {
-          "rank": 14,
           "appid": "1422450",
           "name": "Deadlock",
-          "nameZh": "僵局",
-          "current": 71135,
-          "peak24h": 74390,
+          "nameZh": "死锁",
+          "current": 64402,
+          "peak24h": 74240,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
+          "rank": 14,
+          "appid": "553850",
+          "name": "HELLDIVERS 2",
+          "nameZh": "绝地潜兵2",
+          "current": 62430,
+          "peak24h": 79315,
+          "link": "https://store.steampowered.com/app/553850/"
+        },
+        {
           "rank": 15,
-          "appid": "252490",
-          "name": "Rust",
-          "nameZh": "腐蚀",
-          "current": 68636,
-          "peak24h": 122407,
-          "link": "https://store.steampowered.com/app/252490/"
+          "appid": "2868840",
+          "name": "Slay the Spire 2",
+          "nameZh": "杀戮尖塔2",
+          "current": 60687,
+          "peak24h": 94687,
+          "link": "https://store.steampowered.com/app/2868840/"
         },
         {
           "rank": 16,
           "appid": "2357570",
           "name": "Overwatch",
           "nameZh": "守望先锋",
-          "current": 68502,
-          "peak24h": 70960,
+          "current": 60457,
+          "peak24h": 67813,
           "link": "https://store.steampowered.com/app/2357570/"
         }
       ]
@@ -1149,11 +1149,11 @@
     {
       "name": "致命躯壳2 (Mortal Shell II)",
       "link": "https://store.steampowered.com/app/2584270",
-      "badge": "明日发售",
+      "badge": "今日发售",
       "badgeColor": "green",
       "meta": "Cold Symmetry · Playstack · PS5/Xbox/PC · 动作RPG",
-      "desc": "《致命躯壳》独立续作，大幅扩展原作战斗系统，节奏更快更硬核。无耐力条束缚，强化快意处决体验。紧凑开放世界自由探索，八位可附身战士各具独特能力。8月20日解锁，国区标准版198元，虔诚版228元（含黑曜石皮肤套装+提前72小时开玩）。",
-      "date": "8月20日发售",
+      "desc": "《致命躯壳》独立续作，大幅扩展原作战斗系统，节奏更快更硬核。无耐力条束缚，强化快意处决体验。紧凑开放世界自由探索，八位可附身战士各具独特能力。8月20日已解锁，国区标准版198元，虔诚版228元（含黑曜石皮肤套装+提前72小时开玩）。",
+      "date": "8月20日已发售",
       "tags": [
         "动作RPG",
         "硬核",
@@ -1167,11 +1167,11 @@
     {
       "name": "遮天世界",
       "link": "https://www.taptap.cn/search/遮天世界",
-      "badge": "即将测试",
+      "badge": "量删测试",
       "badgeColor": "cyan",
       "meta": "腾讯代理 · 辰东小说正版授权 · 国风修仙SLG",
-      "desc": "辰东小说《遮天》正版授权改编的国风修仙SLG手游。把轮海、道宫等五大秘境修行养成与仙府经营、仙门结盟、帝源矿脉争夺融于一体。8月20日上午10点开启量删删档测试。",
-      "date": "8月20日量删测试",
+      "desc": "辰东小说《遮天》正版授权改编的国风修仙SLG手游。把轮海、道宫等五大秘境修行养成与仙府经营、仙门结盟、帝源矿脉争夺融于一体。8月20日上午10点已开启量删删档测试。",
+      "date": "8月20日量删测试中",
       "tags": [
         "SLG",
         "修仙",
@@ -1185,11 +1185,11 @@
     {
       "name": "头号禁区",
       "link": "https://www.taptap.cn/search/头号禁区",
-      "badge": "即将测试",
+      "badge": "裂变测试",
       "badgeColor": "cyan",
       "meta": "沫瞳科技 · 俯视角竞技摸金 · 搜打撤",
-      "desc": "沫瞳科技旗下轻快俯视角竞技摸金手游，把搜打撤移玩法与MOBA英雄技能体系融合。单局约10分钟，搜刮宝箱、改装冷热兵器、放技能清敌打Boss，缩圈前带高价值物资撤离。8月20日上午11点裂变测试。",
-      "date": "8月20日裂变测试",
+      "desc": "沫瞳科技旗下轻快俯视角竞技摸金手游，把搜打撤移玩法与MOBA英雄技能体系融合。单局约10分钟，搜刮宝箱、改装冷热兵器、放技能清敌打Boss，缩圈前带高价值物资撤离。8月20日上午11点已开启裂变测试。",
+      "date": "8月20日裂变测试中",
       "tags": [
         "搜打撤",
         "MOBA",
