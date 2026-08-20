@@ -1,8 +1,8 @@
 {
   "meta": {
-    "date": "2026-08-19",
-    "lastUpdated": "2026-08-19T10:15:00+08:00",
-    "footerDate": "数据截至2026年8月19日",
+    "date": "2026-08-20",
+    "lastUpdated": "2026-08-20T11:45:00+08:00",
+    "footerDate": "数据截至2026年8月20日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
   "kpi": [
@@ -86,75 +86,66 @@
         "name": "无尽冬日",
         "publisher": "Shanghai Qin...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/c4/4c/9fc44cce-1cb0-7de3-06cd-09251d82cf48/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5",
-        "change": "▲2"
+        "change": "/"
       },
       {
         "rank": 6,
-        "name": "英雄联盟手游",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ad/42/68ad422e-6b7c-ca58-99d3-01609194c3de/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8",
-        "change": "/"
+        "name": "率土之滨",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/91/aa/c191aa56-45b4-450f-d8e8-a7926790bfaa/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "trend": "new",
+        "link": "https://www.taptap.cn/search/%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BB%A8",
+        "change": "新"
       },
       {
         "rank": 7,
         "name": "梦幻西游",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/8e/6e/fc8e6ee8-bf2e-378e-f85c-3373984d61b3/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8",
-        "change": "▲1"
+        "change": "/"
       },
       {
         "rank": 8,
-        "name": "恋与深空",
-        "publisher": "叠纸",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f1/c8/e7f1c836-d257-3244-2f65-b7b3702831a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
-        "change": "▼3"
-      },
-      {
-        "rank": 9,
         "name": "我的花园世界",
         "publisher": "厦门麟贝互娱科技有限公司",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/34/63/d03463c7-7fdb-c18c-1503-ed55de4d88be/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
-        "trend": "new",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E6%88%91%E7%9A%84%E8%8A%B1%E5%9B%AD%E4%B8%96%E7%95%8C",
-        "change": "新"
+        "change": "▲1"
+      },
+      {
+        "rank": 9,
+        "name": "英雄联盟手游",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ad/42/68ad422e-6b7c-ca58-99d3-01609194c3de/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8",
+        "change": "▼3"
       },
       {
         "rank": 10,
         "name": "开心消消乐",
         "publisher": "乐元素",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/44/ce/ef44ce9f-5c71-6597-4a09-3e0359babd83/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 11,
         "name": "向僵尸开炮-尸潮来袭",
         "publisher": "Hainan Sheng...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/eb/08/b1eb08ed-8605-98e5-b3da-9ee41bfabe89/AppIcon-1x_U007epad-0-11-0-85-220-0.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%90%91%E5%83%B5%E5%B0%B8%E5%BC%80%E7%82%AE-%E5%B0%B8%E6%BD%AE%E6%9D%A5%E8%A2%AD",
-        "change": "▲1"
+        "change": "/"
       },
       {
         "rank": 12,
-        "name": "三国：冰河时代",
-        "publisher": "EVISTA PTE. ...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/13/c8/3f13c841-cb44-c19f-a54e-5698a5eba9a3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E4%B8%89%E5%9B%BD%EF%BC%9A%E5%86%B0%E6%B2%B3%E6%97%B6%E4%BB%A3",
-        "change": "▼2"
-      },
-      {
-        "rank": 13,
         "name": "捕鱼大作战-街机打鱼游戏王者",
         "publisher": "Tuyoo Online...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/9a/8d/2a9a8d55-573e-05ea-f4bd-51a98c132806/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
@@ -163,22 +154,31 @@
         "change": "▲1"
       },
       {
+        "rank": 13,
+        "name": "三国：冰河时代",
+        "publisher": "EVISTA PTE. ...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/13/c8/3f13c841-cb44-c19f-a54e-5698a5eba9a3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E4%B8%89%E5%9B%BD%EF%BC%9A%E5%86%B0%E6%B2%B3%E6%97%B6%E4%BB%A3",
+        "change": "▼1"
+      },
+      {
         "rank": 14,
+        "name": "恋与深空",
+        "publisher": "叠纸",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f1/c8/e7f1c836-d257-3244-2f65-b7b3702831a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+        "change": "▼6"
+      },
+      {
+        "rank": 15,
         "name": "蛋仔派对",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b1/3e/f2b13e1a-998e-e79d-fb61-a2ad54ac4c04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "down",
         "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9",
         "change": "▼1"
-      },
-      {
-        "rank": 15,
-        "name": "穿越火线-枪战王者",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/0f/86/130f867b-22f2-ae80-f5dd-8e0c824523db/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF-%E6%9E%AA%E6%88%98%E7%8E%8B%E8%80%85",
-        "change": "▼4"
       }
     ],
     "highlights": [
@@ -244,98 +244,98 @@
         "name": "诡秘之主",
         "publisher": "杭州弹指宇宙网络有限公司",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/3f/9a/193f9afd-75c4-b277-e2f5-6b1e51f816f9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "trend": "new",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB",
-        "change": "新"
+        "change": "/"
       },
       {
         "rank": 2,
         "name": "王者荣耀",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/cb/c3/f8cbc3ea-678d-e931-7020-59bd87625eb0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 3,
         "name": "无畏契约：源能行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/71/1b/66711bd4-1a83-4a2b-17d0-9388cdc3e4ba/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 4,
         "name": "三角洲行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/6a/71/566a71a5-69cc-04f1-a1f9-6530fc4da650/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 5,
         "name": "蛋仔派对",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b1/3e/f2b13e1a-998e-e79d-fb61-a2ad54ac4c04/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 6,
         "name": "和平精英",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/3d/cf/553dcf01-d3bf-26f5-85ca-74027fbe3686/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 7,
         "name": "开心消消乐",
         "publisher": "乐元素",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/44/ce/ef44ce9f-5c71-6597-4a09-3e0359babd83/AppIcon-1x_U007epad-0-1-0-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 8,
         "name": "我的世界：移动版",
         "publisher": "网易移动游戏(MC)",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/8e/fc/678efcee-6542-9afc-6fed-a4b44ce75d27/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9A%E7%A7%BB%E5%8A%A8%E7%89%88",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 9,
+        "name": "地铁跑酷 - 开罗奇旅启程",
+        "publisher": "iDreamSky Te...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/a4/18/cea41873-dc8c-18c9-5e99-563667051353/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7%20-%20%E5%BC%80%E7%BD%97%E5%A5%87%E6%97%85%E5%90%AF%E7%A8%8B",
+        "change": "▲1"
+      },
+      {
+        "rank": 10,
+        "name": "腾讯欢乐斗地主",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/7b/e3/6e7be309-33bb-949f-ebdc-ef8966dde329/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E8%85%BE%E8%AE%AF%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB",
+        "change": "▲1"
+      },
+      {
+        "rank": 11,
         "name": "迷你世界",
         "publisher": "Miniwan Tech",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/4d/25/a94d2587-55ae-b441-fef2-42010e82fdfa/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
         "trend": "down",
         "link": "https://www.taptap.cn/search/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C",
-        "change": "▼1"
-      },
-      {
-        "rank": 10,
-        "name": "地铁跑酷 - 开罗奇旅启程",
-        "publisher": "iDreamSky Te...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/a4/18/cea41873-dc8c-18c9-5e99-563667051353/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7%20-%20%E5%BC%80%E7%BD%97%E5%A5%87%E6%97%85%E5%90%AF%E7%A8%8B",
-        "change": "/"
-      },
-      {
-        "rank": 11,
-        "name": "腾讯欢乐斗地主",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/7b/e3/6e7be309-33bb-949f-ebdc-ef8966dde329/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E8%85%BE%E8%AE%AF%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB",
         "change": "▼2"
       },
       {
@@ -343,35 +343,35 @@
         "name": "毛线大师 - 毛线消除游戏 疯狂毛线消不停",
         "publisher": "Happy Bubble...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/78/75/e7787520-a98c-e4f0-895e-3059031b48aa/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E6%AF%9B%E7%BA%BF%E5%A4%A7%E5%B8%88%20-%20%E6%AF%9B%E7%BA%BF%E6%B6%88%E9%99%A4%E6%B8%B8%E6%88%8F%20%E7%96%AF%E7%8B%82%E6%AF%9B%E7%BA%BF%E6%B6%88%E4%B8%8D%E5%81%9C",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 13,
         "name": "贪吃蛇大作战®",
         "publisher": "Wuhan Weipai...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/e4/0c/c9e40c8a-9410-8a5c-f042-2d846b67341e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E8%B4%AA%E5%90%83%E8%9B%87%E5%A4%A7%E4%BD%9C%E6%88%98%C2%AE",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 14,
-        "name": "金铲铲之战",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/57/e7/5157e7d2-34c7-b826-7ea1-13f5d7cb8fd0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98",
-        "change": "▼1"
+        "name": "梦幻西游：再续前缘",
+        "publisher": "网易",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/ce/a6/f0cea6b4-4f43-68ef-6469-a303ba06eff7/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/100x100bb.png",
+        "trend": "new",
+        "link": "https://www.taptap.cn/search/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8%EF%BC%9A%E5%86%8D%E7%BB%AD%E5%89%8D%E7%BC%98",
+        "change": "新"
       },
       {
         "rank": 15,
-        "name": "部落冲突（Clash of Clans）",
+        "name": "金铲铲之战",
         "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/3c/ba/ad3cba65-83eb-bde6-bc13-927bc5583b4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/21/c4/1121c48f-c261-da92-7c73-e0ac22fe3396/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
         "trend": "down",
-        "link": "https://www.taptap.cn/search/%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81%EF%BC%88Clash%20of%20Clans%EF%BC%89",
+        "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98",
         "change": "▼1"
       }
     ]
@@ -1985,5 +1985,82 @@
       }
     ],
     "insight": "<strong style=\"color:var(--purple)\">人才趋势洞察：</strong>行业呈现\"<strong style=\"color:var(--red)\">左手发offer，右手发裁员通知</strong>\"的冰火两重天。①<strong>AI是最大变量</strong>——能打通AI与游戏引擎的人最值钱（腾讯GDC展示VISVISE动画生成模型）；②<strong>去初级化不可逆</strong>——企业不再愿为培养新人付长期成本，更倾向引入成熟人才；③<strong>薪资两极分化</strong>——头部公司40-44K vs 行业平均27.4K，AI岗位再溢价26%；④<strong>出海人才溢价20-50%</strong>，懂海外市场/本地化/全球发行的人持续紧缺。GDC报告：超1/4游戏从业者遭遇裁员，设计师裁员率第一，近半被裁者仍未找到工作。"
+  },
+  "dailyBrief": [
+    {
+      "icon": "🔥",
+      "color": "orange",
+      "text": "Steam 独游《生存日志》连续多日霸榜国区热销前 15，末日生存品类再出爆款"
+    },
+    {
+      "icon": "📱",
+      "color": "cyan",
+      "text": "iOS 畅销榜格局稳定，《恋与深空》版本更新带动小幅回升，SLG品类份额被小游戏蚕食"
+    },
+    {
+      "icon": "🎮",
+      "color": "green",
+      "text": "近期上新以IP改编+测试招募为主，凡应EP02测试招募中、赘婿公测上线"
+    },
+    {
+      "icon": "💡",
+      "color": "yellow",
+      "text": "2026H1公开披露投融资超40起，资本向明星制作人+验证过的品类集中"
+    }
+  ],
+  "phenomenon": [
+    {
+      "name": "生存日志",
+      "platform": "Steam",
+      "event": "发售后一度冲入 Steam 国区热销榜前 15，稳定在畅销榜前 20",
+      "chips": [
+        {
+          "label": "排名变化",
+          "value": "新进榜 → #15",
+          "color": "green"
+        },
+        {
+          "label": "连续天数",
+          "value": "7天连涨",
+          "color": "cyan"
+        },
+        {
+          "label": "媒体覆盖",
+          "value": "多家公众号报道",
+          "color": "orange"
+        }
+      ],
+      "why": "末日生存品类继《疯狂水世界》后再度验证。小团队高性价比开发路径跑通，丧尸+末日题材在国内Steam玩家群体中有稳定受众基本盘",
+      "source": "Steam 热销榜 · 公开报道",
+      "tags": [
+        "末日生存",
+        "独立游戏",
+        "小团队爆款",
+        "Steam国区"
+      ]
+    }
+  ],
+  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜前三稳固（腾讯系），<strong style=\"color:var(--green)\">SLG品类内部分化</strong>——传统重度SLG排名下滑，轻量化挂机+SLG组合上升。免费榜方面，新游首发冲榜后留存分化明显，IP改编游戏首周下载优势约3-5倍。",
+  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>挂机+混合变现模式持续主导畅销榜，<strong style=\"color:var(--green)\">武侠+挂机</strong>组合连续三周爬升。SLG份额被轻量化小游戏蚕食，IAA+IAP混合变现成为中小团队标配。",
+  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>近期上线/测试以IP改编（赘婿/甄嬛传）和UE5重度项目（凡应）为主。<strong style=\"color:var(--cyan)\">测试招募期</strong>成为大作标配节奏，首发即公测的模式减少。独立游戏方面，《诡宅祭坛》《导师模拟器》表现亮眼，桌面挂机品类正成为小团队爆款赛道。",
+  "weeklyInsight": {
+    "title": "本周行业洞察",
+    "sections": [
+      {
+        "title": "独游观察",
+        "color": "cyan",
+        "body": "本周Steam独游热度集中在<strong style=\"color:var(--green)\">模拟经营</strong>（Waterpark Simulator 万人评测）、<strong style=\"color:var(--accent)\">动作Roguelike</strong>（Sephiria）和<strong style=\"color:var(--orange)\">解谜</strong>（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，<strong style=\"color:var(--yellow)\">桌面挂机品类正在成为小团队爆款赛道</strong>。《生存日志》末日生存题材持续发酵，验证了高性价比+垂类题材的可行路径。"
+      },
+      {
+        "title": "投资趋势洞察",
+        "color": "yellow",
+        "body": "2026H1公开披露投融资超40起，含收购总额近600亿RMB。资本不再广撒网——<strong style=\"color:var(--green)\">①明星制作人成\"硬通货\"</strong>，36起非收购类投资中60%+创始团队有大厂/明星项目背景；<strong style=\"color:var(--accent)\">②品类高度同质化</strong>，超半数新项目集中在SLG/二次元开放世界/休闲派对；<strong style=\"color:var(--orange)\">③大厂战略分化</strong>：腾讯扫货（赛道无死角）、米哈游跨界（技术溢出）、鹰角守艺（学院派）、儒意景秀务实（验证过的品类+制作人）。"
+      },
+      {
+        "title": "品类趋势判断",
+        "color": "purple",
+        "body": "<strong style=\"color:var(--cyan)\">末日生存/丧尸</strong>品类在Steam国区持续走强，继《疯狂水世界》后《生存日志》再度验证；<strong style=\"color:var(--green)\">挂机+混合变现</strong>在小游戏端蚕食传统SLG份额；<strong style=\"color:var(--accent)\">IP改编手游</strong>首发优势明显但长线留存待验证；<strong style=\"color:var(--yellow)\">UE5重度叙事</strong>（凡应）赛道已有产品进入测试期，PC/主机/移动多端发行成为标配。整体趋势：资本向头部集中，品类向轻量化收敛，中重度品类靠IP+制作人背书降低风险。"
+      }
+    ]
   }
 }
