@@ -395,7 +395,11 @@
           "Physics",
           "Indie",
           "First-Person"
-        ]
+        ],
+        "manualCover": "",
+        "gameName": "How to Fish",
+        "steamAppId": 4001890,
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4001890/capsule_616x353.jpg"
       },
       {
         "name": "Big Walk",
@@ -415,7 +419,12 @@
           "Adventure",
           "Funny",
           "Multiplayer"
-        ]
+        ],
+        "imageVerified": true,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
+        "gameName": "Big Walk",
+        "steamAppId": 1478500,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg"
       },
       {
         "name": "Mortal Shell II",
@@ -433,7 +442,11 @@
           "Action RPG",
           "Difficult",
           "Open World"
-        ]
+        ],
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
+        "gameName": "Mortal Shell II",
+        "steamAppId": 2584270,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg"
       },
       {
         "name": "No More Room in Hell 2",
@@ -451,7 +464,12 @@
           "Co-op",
           "Survival",
           "Horror"
-        ]
+        ],
+        "imageVerified": true,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/header.jpg",
+        "gameName": "No More Room in Hell 2",
+        "steamAppId": 292000,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/292000.jpg"
       },
       {
         "name": "Hell Let Loose: Vietnam",
@@ -469,7 +487,11 @@
           "Shooter",
           "Military",
           "50v50"
-        ]
+        ],
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
+        "gameName": "Hell Let Loose: Vietnam",
+        "steamAppId": 3079210,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg"
       },
       {
         "name": "VHOLUME",
@@ -487,7 +509,11 @@
           "Music",
           "Rhythm",
           "Stylized"
-        ]
+        ],
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
+        "gameName": "VHOLUME",
+        "steamAppId": 4131730,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4131730.jpg"
       },
       {
         "name": "The Sinking City 2",
@@ -506,7 +532,12 @@
           "Action",
           "Adventure",
           "Open World"
-        ]
+        ],
+        "imageVerified": true,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/header.jpg",
+        "gameName": "The Sinking City 2",
+        "steamAppId": 2825860,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2825860.jpg"
       },
       {
         "name": "Yet Another Zombie Survivors",
@@ -524,7 +555,12 @@
           "Zombies",
           "Top-Down Shooter",
           "Roguelite"
-        ]
+        ],
+        "imageVerified": true,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/header.jpg",
+        "gameName": "Yet Another Zombie Survivors",
+        "steamAppId": 2163330,
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2163330.jpg"
       }
     ],
     "topSellers": [
@@ -1099,9 +1135,12 @@
         "Steam"
       ],
       "steamAppId": 2584270,
-      "imageUrl": null,
+      "imageUrl": "",
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
+      "gameName": "致命躯壳2 (Mortal Shell II)",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg"
     },
     {
       "name": "遮天世界",
@@ -1116,10 +1155,13 @@
         "修仙",
         "大IP改编"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "遮天世界",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "头号禁区",
@@ -1134,10 +1176,13 @@
         "MOBA",
         "竞技"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "头号禁区",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "诡秘之主",
@@ -1152,10 +1197,13 @@
         "MMO",
         "大IP改编"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "诡秘之主",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "影之刃零",
@@ -1174,7 +1222,11 @@
       "steamAppId": 4115450,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
+      "gameName": "影之刃零",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4115450.jpg"
     },
     {
       "name": "赘婿",
@@ -1189,10 +1241,13 @@
         "模拟经营",
         "阅文"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "赘婿",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "甄嬛传",
@@ -1207,10 +1262,13 @@
         "IP改编",
         "雷霆"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "甄嬛传",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "粒粒的小人国",
@@ -1228,7 +1286,11 @@
       "steamAppId": 3767320,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767320/00afa6eda2f141ec33c8621bac84f255ad16bb67/header_schinese.jpg?t=1778570269",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767320/00afa6eda2f141ec33c8621bac84f255ad16bb67/header_schinese.jpg?t=1778570269",
+      "gameName": "粒粒的小人国",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3767320.jpg"
     },
     {
       "name": "轮回之兽 (Beast of Reincarnation)",
@@ -1246,7 +1308,11 @@
       "steamAppId": 2001760,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
+      "gameName": "轮回之兽 (Beast of Reincarnation)",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2001760.jpg"
     },
     {
       "name": "穿越火线:潜伏",
@@ -1265,7 +1331,11 @@
       "steamAppId": 4687500,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg?t=1781722040",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg?t=1781722040",
+      "gameName": "穿越火线:潜伏",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4687500.jpg"
     },
     {
       "name": "梦幻西游:再续前缘",
@@ -1281,10 +1351,13 @@
         "免费",
         "数据互通"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "梦幻西游:再续前缘",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "我的英雄学院 UNITED SURVIVAL",
@@ -1297,10 +1370,13 @@
         "Roguelite",
         "多端"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "我的英雄学院 UNITED SURVIVAL",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "恶校游戏",
@@ -1318,7 +1394,11 @@
       "steamAppId": 1218280,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
+      "gameName": "恶校游戏",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1218280.jpg"
     },
     {
       "name": "不问凡尘",
@@ -1337,7 +1417,11 @@
       "steamAppId": 4209920,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209920/326cb3e29530345c71fed77251ae740c138d694a/header_schinese.jpg?t=1786591924",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209920/326cb3e29530345c71fed77251ae740c138d694a/header_schinese.jpg?t=1786591924",
+      "gameName": "不问凡尘",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4209920.jpg"
     },
     {
       "name": "变形金刚:新纪元",
@@ -1352,10 +1436,13 @@
         "策略RPG",
         "Hasbro"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "变形金刚:新纪元",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "导师模拟器：桌面实验室",
@@ -1372,10 +1459,13 @@
         "国产独游",
         "4人团队"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "导师模拟器：桌面实验室",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "三国观沧海",
@@ -1391,10 +1481,13 @@
         "三国",
         "港澳台"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "三国观沧海",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "新剑皇",
@@ -1410,10 +1503,13 @@
         "韩国",
         "AI自动战斗"
       ],
-      "steamAppId": null,
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "新剑皇",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "Grounded 2",
@@ -1432,7 +1528,11 @@
       "steamAppId": 2661300,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449",
+      "gameName": "Grounded 2",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2661300.jpg"
     },
     {
       "name": "Hell Let Loose: Vietnam",
@@ -1450,7 +1550,11 @@
       "steamAppId": 3079210,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
+      "gameName": "Hell Let Loose: Vietnam",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg"
     },
     {
       "name": "JDM: Japanese Drift Master",
@@ -1468,7 +1572,11 @@
       "steamAppId": 1153410,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153410/016294c36d475a93fa656b8a99edf9a1e9ab8635/header_alt_assets_7.jpg?t=1785347132",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153410/016294c36d475a93fa656b8a99edf9a1e9ab8635/header_alt_assets_7.jpg?t=1785347132",
+      "gameName": "JDM: Japanese Drift Master",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1153410.jpg"
     },
     {
       "name": "Mafia: The Old Country - Man of Honor",
@@ -1486,7 +1594,11 @@
       "steamAppId": 1941540,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/c856b1f470f980bdc5fb6367fc5c560fe06ccea4/header_alt_assets_3.jpg?t=1786750937",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/c856b1f470f980bdc5fb6367fc5c560fe06ccea4/header_alt_assets_3.jpg?t=1786750937",
+      "gameName": "Mafia: The Old Country - Man of Honor",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1941540.jpg"
     },
     {
       "name": "The Sinking City 2",
@@ -1504,7 +1616,11 @@
       "steamAppId": 2825860,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/3886f0efead06a14e8ef047635400fafd362f1ba/header_alt_assets_1_schinese.jpg?t=1786356731",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/3886f0efead06a14e8ef047635400fafd362f1ba/header_alt_assets_1_schinese.jpg?t=1786356731",
+      "gameName": "The Sinking City 2",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2825860.jpg"
     },
     {
       "name": "FEED IT 喂它",
@@ -1522,7 +1638,11 @@
       "steamAppId": 4370990,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370990/f620b384ba83e2e1d8bf6516a3cb110bd244dfbf/header.jpg?t=1786814393",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370990/f620b384ba83e2e1d8bf6516a3cb110bd244dfbf/header.jpg?t=1786814393",
+      "gameName": "FEED IT 喂它",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4370990.jpg"
     },
     {
       "name": "湮灭之潮",
@@ -1540,7 +1660,11 @@
       "steamAppId": 3292470,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/header_schinese.jpg?t=1786504987",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/header_schinese.jpg?t=1786504987",
+      "gameName": "湮灭之潮",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3292470.jpg"
     },
     {
       "name": "Tukoni: Forest Keepers",
@@ -1558,7 +1682,11 @@
       "steamAppId": 2933200,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933200/8ba258b9db04d7da7c4d31b14418f3075087ba77/header_alt_assets_1_schinese.jpg?t=1786958548",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933200/8ba258b9db04d7da7c4d31b14418f3075087ba77/header_alt_assets_1_schinese.jpg?t=1786958548",
+      "gameName": "Tukoni: Forest Keepers",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2933200.jpg"
     },
     {
       "name": "黑神话:悟空",
@@ -1577,7 +1705,11 @@
       "steamAppId": 2358720,
       "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
       "imageSource": "steam-header",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
+      "gameName": "黑神话:悟空",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2358720.jpg"
     },
     {
       "name": "仙境传说3 (RO3)",
@@ -1587,11 +1719,18 @@
       "meta": "bilibili游戏发行 · Gravity+欢乐互娱联合开发 · 多端互通MMORPG",
       "desc": "二十余年经典IP仙境传说的全球正统续作，由Gravity与欢乐互娱联合开发，bilibili游戏发行运营。延续俯视视角风格化美术、职业成长、MVP挑战、自由交易等核心体验，全面升级画面表现、战斗手感、社交生态与公会攻城玩法。PC原生开发+多端互通，致力于打造兼具经典RO灵魂与次世代品质的全新米德加尔特大陆。8月27日开启不计费删档限号测试。",
       "date": "8月27日不限号测试",
-      "tags": ["MMORPG", "经典IP", "bilibili"],
-      "steamAppId": null,
+      "tags": [
+        "MMORPG",
+        "经典IP",
+        "bilibili"
+      ],
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "仙境传说3 (RO3)",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "代号咘咘",
@@ -1601,11 +1740,18 @@
       "meta": "灵犀互娱 · 捉宠模拟经营 · 阿里出售后首款新游",
       "desc": "灵犀互娱旗下捉宠题材模拟经营新游《代号咘咘》已在TapTap等渠道开启测试招募。玩家可收集\"咘咘\"生物，由其参与种植、灌溉和制造，把荒漠建设为绿洲。这是阿里101亿出售灵犀给信辰资本后首款对外曝光的新游，标志新东家想证明\"这公司还值钱\"。捉宠+模拟经营是近几年最稳的休闲赛道，但《代号咘咘》能否接住长线还得看玩法深度。",
       "date": "测试招募中",
-      "tags": ["捉宠", "模拟经营", "灵犀"],
-      "steamAppId": null,
+      "tags": [
+        "捉宠",
+        "模拟经营",
+        "灵犀"
+      ],
+      "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
-      "imageStatus": "placeholder"
+      "imageStatus": "placeholder",
+      "gameName": "代号咘咘",
+      "manualCover": "",
+      "finalCoverUrl": ""
     }
   ],
   "investment": {
