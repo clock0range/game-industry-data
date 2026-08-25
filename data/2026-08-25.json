@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-25",
-    "lastUpdated": "2026-08-25T10:04:00+08:00",
+    "lastUpdated": "2026-08-25T10:35:00+08:00",
     "footerDate": "数据截至2026年8月25日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,60 +183,60 @@
     ],
     "highlights": [
       {
-        "title": "快手《诡秘之主》公测爆款 · 首小时破百万 + 同时在线 70 万",
-        "titleLink": "https://www.taptap.cn/search/诡秘之主",
+        "title": "8月版号166款过审 · 网易《天下:万象》+ 灵犀《宗师之上》+ B站《逃离鸭科夫》",
+        "titleLink": "https://www.gameres.com/913909.html",
         "color": "green",
-        "source": "每经/腾讯新闻",
-        "sourceLink": "https://www.nbd.com.cn/articles/2026-08-23/4551653.html",
-        "body": "8月21日快手旗下弹指宇宙自研UE5网游《诡秘之主》开启全平台公测——<strong>开服首小时新增用户破百万</strong>，<strong>最高同时在线超70万</strong>，公测次日累计新进玩家近500万，<strong>登顶iOS免费榜</strong>，畅销榜最高第15。验证快手进军重度游戏战略阶段性成果，短期利好快手游戏业务估值提振。不过高额投入也带来回本压力，后续版本更新与用户长线留存将决定项目长期商业价值。"
+        "source": "国家新闻出版署/GameRes",
+        "sourceLink": "https://www.gameres.com/913909.html",
+        "body": "8月25日国家新闻出版署下发<strong>2025年8月份国产网络游戏审批信息</strong>，本次共<strong>166款</strong>游戏过审。重点产品包括：网易《天下:万象》、三七互娱《超牛英雄》《斗破苍穹:斗帝之路》、灵犀互娱《宗师之上》、雷霆游戏《出动吧!库鲁》、盛趣《传奇外传》、飞鱼科技《霓虹深渊2》、4399《弹弹小队》、bilibili《逃离鸭科夫》、游卡《三国杀:智定乾坤》、恺英网络《熊猫大作战》等。版号发放节奏稳定，头部厂商储备充足。"
       },
       {
-        "title": "网易Q2游戏净收入250亿 · 蛋仔派对用户破7亿",
-        "titleLink": "https://www.taptap.cn/search/蛋仔派对",
+        "title": "沐瞳《发条总动员》8/26全平台上线 · 复古橡皮管弹幕射击",
+        "titleLink": "https://bbs.gameres.com/thread_913900_1_3.html",
         "color": "blue",
-        "source": "10jqka/网易财报",
-        "sourceLink": "https://www.10jqka.com.cn/20260820/c679143606.shtml",
-        "body": "网易2026 Q2财报：<strong>总营收301亿元</strong>同比+7.9%；<strong>游戏及相关增值服务净收入250亿元</strong>同比+约10%。<strong>《蛋仔派对》</strong>接入DeepSeek V4优化UGC创作，全球注册用户破<strong>7亿</strong>、月活超1亿；逆水寒手游融合数字文旅+数千AI NPC，同时在线创近两年新高。<strong style=\"color:var(--yellow)\">看点：</strong>AI从降本工具变成拉活手段，财报里AI的贡献从\"省了多少钱\"变成\"多赚了多少钱\"。"
+        "source": "GameRes游资网",
+        "sourceLink": "https://bbs.gameres.com/thread_913900_1_3.html",
+        "body": "8月25-31日共<strong>23款游戏</strong>开测。重点：沐瞳《发条总动员》8/26全平台上线——复古橡皮管风格飞行弹幕射击手游，单指操作极限闪避弹幕，肉鸽元素技能自由搭配，500+怪诞反派首领；腾讯《全明星觉醒》8/26安卓限量删档测试（SNK授权拳皇IP卡牌）；心动《伊瑟》8/27 TapTap限量测试（异能英雄养成RPG）；景秀《偃武》8/26全平台上线。暑期档收官战密集。"
       },
       {
-        "title": "SteamDB 在线榜 · How to Fish 闯入前 7 · 黑神话回温",
-        "titleLink": "https://steamdb.info/app/4001890/charts/",
+        "title": "SteamDB 8/25 更新 · How to Fish 热销#1 + 在线10.7万 · CS2 55万领跑",
+        "titleLink": "https://steamdb.info/charts/",
         "color": "purple",
-        "source": "SteamDB/Instant Gaming",
+        "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "SteamDB 在线榜(8/24实时)：<strong>CS2</strong>稳居第一(54.4万)，<strong>Dota 2</strong>第二(45.3万)，<strong>Palworld</strong>第三(15.7万)。新游<strong>How to Fish</strong>在线11.3万冲至<strong>第7名</strong>，成新晋黑马。<strong>黑神话:悟空</strong>本周回温在线1.76万升至TOP73。本周Steam新品观察共8款，《How to Fish》《Big Walk》《Yet Another Zombie Survivors》等独立游戏表现亮眼。"
+        "body": "SteamDB 在线榜(8/25实时)：<strong>CS2</strong>稳居第一(<strong>55万</strong>在线)，<strong>Dota 2</strong>第二(41.5万)，<strong>Bongo Cat</strong>第三(14.9万)。<strong>How to Fish</strong>在线10.7万稳居<strong>第7名</strong>，同时位列全球热销榜<strong>#1</strong>（-38%折扣），成本周最大黑马。新品观察TOP8：How to Fish、Mortal Shell II、Big Walk、No More Room in Hell 2、Hell Let Loose: Vietnam、Sandustry等。<strong>黑神话:悟空</strong>-30%促销热销#11。"
       },
       {
-        "title": "巨人《超自然行动组》DAU 突破 1200 万 · 中式微恐验证",
-        "titleLink": "https://www.taptap.cn/search/超自然行动组",
+        "title": "微信小游戏8月月榜 · 三国冰河时代登顶打破向僵尸开炮半年霸榜",
+        "titleLink": "https://www.youxituoluo.com/533808.html",
         "color": "orange",
-        "source": "每经/巨人网络",
-        "sourceLink": "https://www.nbd.com.cn/articles/2026-08-23/4551653.html",
-        "body": "8月22日巨人网络宣布旗下手游《超自然行动组》<strong>DAU突破1200万</strong>。凭借<strong>中式微恐社交</strong>玩法登顶华为渠道榜，登陆抖音小游戏后单日新增用户破百万。<strong style=\"color:var(--yellow)\">点评：</strong>差异化玩法可脱离顶级IP打造长线现金流，大幅平滑巨人网络业绩波动。稳定流水将持续改善资本市场对公司盈利稳定性的预期。"
+        "source": "DataEye/引力引擎/游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/533808.html",
+        "body": "8月微信小游戏畅销月榜：<strong>《三国:冰河时代》</strong>超越连续霸榜半年的<strong>《向僵尸开炮》</strong>登顶#1，<strong>《无尽冬日》</strong>稳居#3。TOP10阵容不变但名次微调，<strong>《将魂师》</strong>（中式恐怖ARPG）新进榜冲至#5。<strong>《永远的蔚蓝星球》</strong>↑39位升至#20，手游端首月预估收入超1亿。8月共21款新游入榜，连续7个月保持20%新进率。发行商：三七互娱6款居首、大梦龙途5款、4399 4款。"
       },
       {
-        "title": "恺英网络 H1 净利预增 64% · 完美世界《异环》累计流水 14 亿",
-        "titleLink": "https://www.taptap.cn/search/烈焰觉醒",
+        "title": "TapTap预约榜 · 崩坏:因缘精灵本周热度第一 · 大侠闯天下8/25首发",
+        "titleLink": "https://www.taptap.cn/top/reserve",
         "color": "yellow",
-        "source": "东吴证券/财报",
-        "sourceLink": "https://www.gameres.com/901202652.html",
-        "body": "<strong>恺英网络</strong>2026 H1预计归母净利13-15.6亿，<strong>同比+36.84%~64.20%</strong>，《烈焰觉醒》一季度贡献约10亿元验证\"传奇+X\"品类拓展；后续储备《斗罗大陆:诛邪传说》《盗墓笔记:启程》《古龙群侠录》等IP产品。<strong>完美世界</strong>预计归母净亏0.8-1.2亿，《异环》全球累计流水超14亿元；1.2版本7/2上线后日本iOS畅销榜升至第1名，海外流水再创新高，三季度起预计对业绩产生积极贡献。"
+        "source": "TapTap/开源证券",
+        "sourceLink": "https://www.taptap.cn/top/reserve",
+        "body": "TapTap预约榜(8.24-8.30周报)：<strong>《崩坏:因缘精灵》</strong>登顶安卓+iOS双端预约热度第一。热门预约：变形金刚:新纪元、绿梦:时空之声、约定之日、梦战:剑之海。<strong>《大侠闯天下》</strong>8/25首发（养成放置Roguelike）。<strong>《代号:归墟》</strong>8/25首发（卡牌放置养成）。9月公测表已出，腾讯《异人之下》+心动《伊瑟》领衔。"
       },
       {
-        "title": "微信小游戏畅销榜 8/22 · 向僵尸开炮登顶 #1 · 7 款新游上榜",
-        "titleLink": "https://xiaoyouxi.qq.com/rankdetail/2.html",
-        "color": "orange",
-        "source": "微信动态/小游快爆",
-        "sourceLink": "https://new.qq.com/rain/a/20260824A02RA400?refer=cp_1009",
-        "body": "8月22日微信小游戏畅销榜Top100：<strong>《向僵尸开炮》</strong>反超登顶#1（霸榜），<strong>《永远的蔚蓝星球》</strong>升至#3。<strong>三国:冰河时代</strong>连续第5天霸榜(#5)。当日<strong>7款新游</strong>上榜——<strong>《保卫向日葵》</strong>(3000万+)升至#6，<strong>《占城大师》</strong>新#7，<strong>《烈焰觉醒》</strong>(恺英网络) ↑9 杀至#9，<strong>《QQ经典农场》</strong>新#12、<strong>《西游降妖记》</strong>新#13。<strong style=\"color:var(--yellow)\">畅销榜换血率维持高位</strong>，塔防/放置/模拟经营品类轮动，末日塔防+SLG仍稳坐头部。"
+        "title": "Good Job Games 6000万美元A轮 · 土耳其休闲游戏开发商 · Savvy Games联AWS+Unity",
+        "titleLink": "https://www.163.com/dy/article/K7T7LIKT05118K7K.html",
+        "color": "green",
+        "source": "亿欧/PocketGamer",
+        "sourceLink": "https://www.163.com/dy/article/K7T7LIKT05118K7K.html",
+        "body": "投融资动态：<strong>Good Job Games</strong>（土耳其休闲游戏开发商）完成<strong>6000万美元A轮融资</strong>，投资方Anthos Capital、Menlo Ventures、BVP，本轮融资金额在年度A轮排名前10%。国内：瞳电游完成A轮（真格基金投资，动漫游戏开发商）。沙特<strong>Savvy Games Group</strong>与AWS签署合作协议提升沙特游戏技术基建，另与Unity签署MoU为沙特开发者提供免费后端/分析/广告/多人工具。<strong>腾讯</strong>在Gamescom 2025发布AI游戏创作套件Visvise（动画/建模/NPC/资管）。"
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（8.24-8.30）",
-      "androidTop": "龙岛异兽起源",
-      "androidLink": "https://www.taptap.cn/search/龙岛异兽起源",
-      "iosTop": "诡秘之主:愚者",
-      "iosLink": "https://www.taptap.cn/search/诡秘之主愚者"
+      "period": "TapTap预约榜热度（8.25-8.31）",
+      "androidTop": "崩坏:因缘精灵",
+      "androidLink": "https://www.taptap.cn/app/4162040",
+      "iosTop": "崩坏:因缘精灵",
+      "iosLink": "https://www.taptap.cn/app/4162040"
     },
     "freeRanking": [
       {
@@ -379,188 +379,116 @@
   "steam": {
     "indieCards": [
       {
+        "gameName": "How to Fish",
         "name": "How to Fish",
+        "steamAppId": "4001890",
         "appId": 4001890,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4001890.jpg",
         "rating": "92%",
-        "meta": "8/20上线",
-        "reviews": "1311",
+        "meta": "20 Aug, 2026",
+        "reviews": "",
         "link": "https://store.steampowered.com/app/4001890",
         "reviewSummary": "特别好评",
-        "tags": [
-          "Multiplayer",
-          "Fishing",
-          "Co-op",
-          "Physics",
-          "Indie",
-          "First-Person"
-        ],
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
-        "gameName": "How to Fish",
-        "steamAppId": 4001890,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4001890.jpg"
+        "tags": []
       },
       {
-        "name": "Big Walk",
-        "appId": 1478500,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1478500/capsule_231x87.jpg",
-        "rating": "93%",
-        "meta": "8月上线",
-        "reviews": "22001",
-        "link": "https://store.steampowered.com/app/1478500",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "Open World",
-          "Co-op",
-          "Puzzle",
-          "Exploration",
-          "Adventure",
-          "Funny",
-          "Multiplayer"
-        ],
-        "imageVerified": true,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
-        "gameName": "Big Walk",
-        "steamAppId": 1478500,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg"
-      },
-      {
+        "gameName": "Mortal Shell II",
         "name": "Mortal Shell II",
+        "steamAppId": "2584270",
         "appId": 2584270,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2584270/capsule_231x87.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg",
         "rating": "74%",
-        "meta": "8/20上线",
-        "reviews": "4839",
+        "meta": "20 Aug, 2026",
+        "reviews": "",
         "link": "https://store.steampowered.com/app/2584270",
         "reviewSummary": "多半好评",
-        "tags": [
-          "Souls-like",
-          "Dark Fantasy",
-          "Action RPG",
-          "Difficult",
-          "Open World"
-        ],
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
-        "gameName": "Mortal Shell II",
-        "steamAppId": 2584270,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg"
+        "tags": []
       },
       {
-        "name": "No More Room in Hell 2",
-        "appId": 292000,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/292000/capsule_231x87.jpg",
-        "rating": "54%",
+        "gameName": "Big Walk",
+        "name": "Big Walk",
+        "steamAppId": "1478500",
+        "appId": 1478500,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
+        "rating": "93%",
         "meta": "8月上线",
-        "reviews": "16330",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1478500",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "No More Room in Hell 2",
+        "name": "No More Room in Hell 2",
+        "steamAppId": "292000",
+        "appId": 292000,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/header.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/292000.jpg",
+        "rating": "54%",
+        "meta": "11 Aug, 2026",
+        "reviews": "",
         "link": "https://store.steampowered.com/app/292000",
         "reviewSummary": "褒贬不一",
-        "tags": [
-          "FPS",
-          "Zombies",
-          "Co-op",
-          "Survival",
-          "Horror"
-        ],
-        "imageVerified": true,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/header.jpg",
-        "gameName": "No More Room in Hell 2",
-        "steamAppId": 292000,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/292000.jpg"
+        "tags": []
       },
       {
+        "gameName": "Hell Let Loose: Vietnam",
         "name": "Hell Let Loose: Vietnam",
+        "steamAppId": "3079210",
         "appId": 3079210,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3079210/capsule_231x87.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg",
         "rating": "60%",
-        "meta": "8月上线",
-        "reviews": "30614",
+        "meta": "13 Aug, 2026",
+        "reviews": "",
         "link": "https://store.steampowered.com/app/3079210",
         "reviewSummary": "褒贬不一",
-        "tags": [
-          "FPS",
-          "Tactical",
-          "Shooter",
-          "Military",
-          "50v50"
-        ],
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
-        "gameName": "Hell Let Loose: Vietnam",
-        "steamAppId": 3079210,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg"
+        "tags": []
       },
       {
+        "gameName": "Sandustry",
+        "name": "Sandustry",
+        "steamAppId": "2764460",
+        "appId": 2764460,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2764460.jpg",
+        "rating": "93%",
+        "meta": "13 Aug, 2026",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/2764460",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "Gallipoli",
+        "name": "Gallipoli",
+        "steamAppId": "3065940",
+        "appId": 3065940,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3065940/capsule_616x353.jpg",
+        "rating": "75%",
+        "meta": "20 Aug, 2026",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3065940",
+        "reviewSummary": "多半好评",
+        "tags": []
+      },
+      {
+        "gameName": "VHOLUME",
         "name": "VHOLUME",
+        "steamAppId": "4131730",
         "appId": 4131730,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4131730/capsule_231x87.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4131730.jpg",
         "rating": "91%",
-        "meta": "8/21上线",
-        "reviews": "1640",
+        "meta": "21 Aug, 2026",
+        "reviews": "",
         "link": "https://store.steampowered.com/app/4131730",
         "reviewSummary": "特别好评",
-        "tags": [
-          "Action",
-          "Indie",
-          "Music",
-          "Rhythm",
-          "Stylized"
-        ],
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
-        "gameName": "VHOLUME",
-        "steamAppId": 4131730,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4131730.jpg"
-      },
-      {
-        "name": "The Sinking City 2",
-        "appId": 2825860,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2825860/capsule_231x87.jpg",
-        "rating": "",
-        "meta": "8/18上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/2825860",
-        "reviewSummary": "差评",
-        "tags": [
-          "Lovecraftian",
-          "Horror",
-          "Investigation",
-          "Action",
-          "Adventure",
-          "Open World"
-        ],
-        "imageVerified": true,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/header.jpg",
-        "gameName": "The Sinking City 2",
-        "steamAppId": 2825860,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2825860.jpg"
-      },
-      {
-        "name": "Yet Another Zombie Survivors",
-        "appId": 2163330,
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/header.jpg",
-        "coverFallback": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2163330/capsule_231x87.jpg",
-        "rating": "",
-        "meta": "8月上线",
-        "reviews": "13781",
-        "link": "https://store.steampowered.com/app/2163330",
-        "reviewSummary": "差评",
-        "tags": [
-          "Bullet Heaven",
-          "Action Roguelike",
-          "Zombies",
-          "Top-Down Shooter",
-          "Roguelite"
-        ],
-        "imageVerified": true,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/header.jpg",
-        "gameName": "Yet Another Zombie Survivors",
-        "steamAppId": 2163330,
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2163330.jpg"
+        "tags": []
       }
     ],
     "topSellers": [
@@ -569,7 +497,7 @@
         "name": "How to Fish",
         "appId": 4001890,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": "4.64€",
+        "price": "HK$ 29.76",
         "originalPrice": null,
         "discount": "-38%",
         "status": null,
@@ -608,34 +536,6 @@
       },
       {
         "rank": 4,
-        "name": "WARDOGS",
-        "appId": 1867240,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
-        "price": "39.99€",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/1867240"
-      },
-      {
-        "rank": 5,
-        "name": "Mortal Shell II",
-        "appId": 2584270,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2584270/capsule_231x87.jpg",
-        "price": "49.99€",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2584270"
-      },
-      {
-        "rank": 6,
         "name": "Apex Legends",
         "appId": 1172470,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
@@ -649,11 +549,67 @@
         "link": "https://store.steampowered.com/app/1172470"
       },
       {
+        "rank": 5,
+        "name": "Mortal Shell II",
+        "appId": 2584270,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2584270/capsule_231x87.jpg",
+        "price": "HK$ 308.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2584270"
+      },
+      {
+        "rank": 6,
+        "name": "STAR WARS Zero Company",
+        "appId": 2075800,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
+        "price": "HK$ 399.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2075800"
+      },
+      {
         "rank": 7,
-        "name": "HELLDIVERS™ 2",
+        "name": "WARDOGS",
+        "appId": 1867240,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
+        "price": "HK$ 249.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/1867240"
+      },
+      {
+        "rank": 8,
+        "name": "Black Myth: Wukong",
+        "appId": 2358720,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2358720/capsule_231x87.jpg",
+        "price": "HK$ 208.60",
+        "originalPrice": null,
+        "discount": "-30%",
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2358720"
+      },
+      {
+        "rank": 9,
+        "name": "HELLDIVERS 2",
         "appId": 553850,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/553850/capsule_231x87.jpg",
-        "price": "39.99€",
+        "price": "HK$ 308.00",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -663,25 +619,11 @@
         "link": "https://store.steampowered.com/app/553850"
       },
       {
-        "rank": 8,
-        "name": "Big Walk",
-        "appId": 1478500,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1478500/capsule_231x87.jpg",
-        "price": "18.99€",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/1478500"
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "name": "No More Room in Hell 2",
         "appId": 292000,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/292000/capsule_231x87.jpg",
-        "price": "18.84€",
+        "price": "HK$ 121.55",
         "originalPrice": null,
         "discount": "-35%",
         "status": null,
@@ -689,20 +631,6 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/292000"
-      },
-      {
-        "rank": 10,
-        "name": "STAR WARS Zero Company",
-        "appId": 2075800,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
-        "price": "49.99€",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2075800"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
@@ -857,109 +785,109 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-08-24",
-    "topSellersAsOf": "2026-08-24",
+    "newGamesAsOf": "2026-08-25",
+    "topSellersAsOf": "2026-08-25",
     "mostPlayedAsOf": "2026-08-24"
   },
   "miniapp": {
     "ranking": [
       {
         "rank": 1,
-        "name": "向僵尸开炮",
-        "category": "末日塔防",
-        "publisher": "大梦龙途",
+        "name": "三国:冰河时代",
+        "category": "SLG",
+        "publisher": "上海双盟",
         "change": "▲1"
       },
       {
         "rank": 2,
-        "name": "无尽冬日",
-        "category": "SLG",
-        "publisher": "点点互动",
-        "change": "▲2"
-      },
-      {
-        "rank": 3,
-        "name": "永远的蔚蓝星球",
-        "category": "休闲塔防",
-        "publisher": "诗悦网络",
-        "change": "▲12"
-      },
-      {
-        "rank": 4,
-        "name": "疯狂水世界",
-        "category": "末日生存",
-        "publisher": "—",
+        "name": "向僵尸开炮",
+        "category": "末日塔防",
+        "publisher": "大梦龙途",
         "change": "▼1"
       },
       {
-        "rank": 5,
-        "name": "三国:冰河时代",
+        "rank": 3,
+        "name": "无尽冬日",
         "category": "SLG",
-        "publisher": "上海双盟",
-        "change": "▼4"
-      },
-      {
-        "rank": 6,
-        "name": "保卫向日葵",
-        "category": "塔防",
-        "publisher": "—",
-        "change": "新"
-      },
-      {
-        "rank": 7,
-        "name": "占城大师",
-        "category": "策略",
-        "publisher": "—",
-        "change": "新"
-      },
-      {
-        "rank": 8,
-        "name": "我的花园世界",
-        "category": "模拟经营",
-        "publisher": "—",
+        "publisher": "点点互动",
         "change": "/"
       },
       {
+        "rank": 4,
+        "name": "道友来挖宝",
+        "category": "休闲",
+        "publisher": "深圳雷霆",
+        "change": "▲1"
+      },
+      {
+        "rank": 5,
+        "name": "龙迹之城",
+        "category": "SLG",
+        "publisher": "上海德寒",
+        "change": "▼1"
+      },
+      {
+        "rank": 6,
+        "name": "灵画师",
+        "category": "国风放置",
+        "publisher": "波克城市",
+        "change": "/"
+      },
+      {
+        "rank": 7,
+        "name": "跃动小子",
+        "category": "放置",
+        "publisher": "波克科技",
+        "change": "▲2"
+      },
+      {
+        "rank": 8,
+        "name": "时光大爆炸",
+        "category": "休闲",
+        "publisher": "三七互娱",
+        "change": "▲1"
+      },
+      {
         "rank": 9,
-        "name": "烈焰觉醒",
-        "category": "传奇",
-        "publisher": "恺英网络",
-        "change": "▲9"
+        "name": "寻道大千",
+        "category": "SLG",
+        "publisher": "三七互娱",
+        "change": "▼1"
       },
       {
         "rank": 10,
-        "name": "跃动小子",
-        "category": "放置",
-        "publisher": "—",
+        "name": "雷霆战机:集结",
+        "category": "休闲",
+        "publisher": "北海爱乐游",
         "change": "/"
       },
       {
         "rank": 11,
-        "name": "灵画师",
-        "category": "国风放置",
-        "publisher": "波克城市",
-        "change": "▼4"
+        "name": "百炼英雄",
+        "category": "放置",
+        "publisher": "深圳九九",
+        "change": "/"
       },
       {
         "rank": 12,
-        "name": "QQ经典农场",
-        "category": "模拟经营",
-        "publisher": "—",
-        "change": "新"
+        "name": "神器传说",
+        "category": "休闲",
+        "publisher": "深圳全民",
+        "change": "/"
       },
       {
         "rank": 13,
-        "name": "西游降妖记",
-        "category": "西游",
-        "publisher": "—",
-        "change": "新"
+        "name": "保卫向日葵",
+        "category": "塔防",
+        "publisher": "深圳一起梦游",
+        "change": "/"
       },
       {
         "rank": 14,
-        "name": "奔奔王国",
-        "category": "SLG",
-        "publisher": "—",
-        "change": "/"
+        "name": "青云诀之伏魔",
+        "category": "角色",
+        "publisher": "海南元游",
+        "change": "▼4"
       },
       {
         "rank": 15,
@@ -970,6 +898,13 @@
       }
     ],
     "dynamics": [
+      {
+        "title": "微信小游戏8月月榜 · 三国冰河时代登顶 · 打破向僵尸开炮半年霸榜",
+        "color": "orange",
+        "body": "8月微信小游戏畅销月榜：<strong>《三国:冰河时代》</strong>超越连续霸榜半年的<strong>《向僵尸开炮》</strong>登顶#1，<strong>《无尽冬日》</strong>稳居#3。TOP10阵容不变但名次微调。8月共<strong>21款新游</strong>入榜，TOP30新进4款：<strong>《将魂师》</strong>（中式恐怖ARPG，新进#18）、<strong>《口袋诛魔》</strong>、<strong>《新弹弹堂》</strong>、<strong>《御龙主宰》</strong>。<strong>《永远的蔚蓝星球》</strong>↑39位（月榜#20），手游端首月预估收入超1亿。发行商：三七互娱6款居首、大梦龙途5款、4399 4款。连续7个月保持20%新进率。",
+        "source": "DataEye/引力引擎/游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/533808.html"
+      },
       {
         "title": "微信小游戏畅销榜 8/22 · 向僵尸开炮登顶 #1 · 7 款新游上榜",
         "color": "orange",
@@ -1043,7 +978,7 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08-22"
+    "asOf": "2026-08月榜"
   },
   "segments": [
     {
@@ -1121,6 +1056,54 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "name": "发条总动员",
+      "link": "https://www.taptap.cn/search/发条总动员",
+      "badge": "8/26上线",
+      "badgeColor": "green",
+      "meta": "沐瞳科技 · 全平台 · 复古橡皮管弹幕射击",
+      "desc": "沐瞳科技自研复古橡皮管风格飞行弹幕射击手游。生动诙谐的漫画笔触与炫目战斗融合，单指操作极限闪避弹幕。肉鸽元素提供技能自由搭配、流派随心定义，500+怪诞反派首领。全员角色无废卡设计，各具独特技能。",
+      "date": "8月26日全平台上线",
+      "tags": ["弹幕射击", "肉鸽", "沐瞳"],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "发条总动员",
+      "finalCoverUrl": ""
+    },
+    {
+      "name": "全明星觉醒",
+      "link": "https://www.taptap.cn/search/全明星觉醒",
+      "badge": "量删测试",
+      "badgeColor": "cyan",
+      "meta": "腾讯发行 · SNK授权 · 拳皇IP卡牌 · Unity 3D格斗之城",
+      "desc": "SNK授权卡牌产品，八神庵、草薙京、不知火舞、橘右京、娜可露露携手50+格斗明星。以《拳皇》世界观为背景，Unity引擎打造3D格斗之城，街道/格斗场/酒吧等经典场景延展为可探索可交互的拟真世界。致敬经典街机车轮战，1V1格斗轮番上阵。",
+      "date": "8月26日安卓限量删档测试",
+      "tags": ["卡牌", "拳皇IP", "腾讯"],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "全明星觉醒",
+      "finalCoverUrl": ""
+    },
+    {
+      "name": "伊瑟",
+      "link": "https://www.taptap.cn/search/伊瑟",
+      "badge": "限量测试",
+      "badgeColor": "cyan",
+      "meta": "心动发行 · 异能英雄养成RPG · 虚拟世界末日题材",
+      "desc": "异能英雄养成RPG。全球冻流袭击下人类文明几近崩溃，人类将自我意识转移到虚拟世界\"伊瑟\"。伊瑟中有异格者可运用原质能力，但源病毒侵蚀导致异格者暴走。玩家作为超链者清理源病毒、维护伊瑟秩序。",
+      "date": "8月27日TapTap限量测试",
+      "tags": ["RPG", "异能", "心动"],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "伊瑟",
+      "finalCoverUrl": ""
+    },
     {
       "name": "致命躯壳2 (Mortal Shell II)",
       "link": "https://store.steampowered.com/app/2584270",
@@ -1756,6 +1739,14 @@
   ],
   "investment": {
     "global": [
+      {
+        "date": "2026年8月25日",
+        "title": "Good Job Games 完成6000万美元A轮 · 土耳其休闲游戏开发商",
+        "link": "https://www.163.com/dy/article/K7T7LIKT05118K7K.html",
+        "desc": "土耳其休闲游戏开发商<strong>Good Job Games</strong>完成<strong>6000万美元A轮融资</strong>，投资方Anthos Capital、Menlo Ventures、BVP。本轮融资金额在年度A轮排名前10%。同期：沙特Savvy Games Group与AWS签署合作协议提升沙特游戏技术基建，另与Unity签署MoU为沙特开发者提供免费后端/分析/广告/多人工具。腾讯在Gamescom 2025发布AI游戏创作套件Visvise（动画/建模/NPC/资管）。",
+        "amount": "6000万美元 (约4.3亿RMB)",
+        "major": false
+      },
       {
         "date": "2026年8月15日",
         "title": "2K Games 成立 Small Axe Studio · 加码 3A 体育赛道",
