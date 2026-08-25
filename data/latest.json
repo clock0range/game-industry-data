@@ -635,159 +635,159 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-08-24",
-      "updatedAt": "10:47",
+      "asOf": "2026-08-25",
+      "updatedAt": "10:49",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
-          "appid": "730",
+          "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "CS2",
-          "current": 543516,
-          "peak24h": 1229552,
+          "nameZh": "",
+          "current": 549890,
+          "peak24h": 1213288,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
-          "appid": "570",
+          "appid": 570,
           "name": "Dota 2",
-          "nameZh": "刀塔2",
-          "current": 452984,
-          "peak24h": 1003965,
+          "nameZh": "",
+          "current": 415228,
+          "peak24h": 881278,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": "1623730",
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 156843,
-          "peak24h": 242867,
-          "link": "https://store.steampowered.com/app/1623730/"
-        },
-        {
-          "rank": 4,
-          "appid": "3419430",
+          "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "",
-          "current": 150456,
-          "peak24h": 174998,
+          "current": 148607,
+          "peak24h": 175166,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
-          "rank": 5,
-          "appid": "578080",
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 135443,
-          "peak24h": 733280,
-          "link": "https://store.steampowered.com/app/578080/"
+          "rank": 4,
+          "appid": 1623730,
+          "name": "Palworld",
+          "nameZh": "",
+          "current": 141096,
+          "peak24h": 182254,
+          "link": "https://store.steampowered.com/app/1623730/"
         },
         {
-          "rank": 6,
-          "appid": "2676230",
+          "rank": 5,
+          "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 117967,
-          "peak24h": 198230,
+          "current": 125502,
+          "peak24h": 180977,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
+          "rank": 6,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "",
+          "current": 123978,
+          "peak24h": 717866,
+          "link": "https://store.steampowered.com/app/578080/"
+        },
+        {
           "rank": 7,
-          "appid": "4001890",
+          "appid": 4001890,
           "name": "How to Fish",
-          "nameZh": "钓鱼教程",
-          "current": 113220,
-          "peak24h": 268101,
+          "nameZh": "",
+          "current": 107251,
+          "peak24h": 341691,
           "link": "https://store.steampowered.com/app/4001890/"
         },
         {
           "rank": 8,
-          "appid": "2767030",
+          "appid": 2767030,
           "name": "Marvel Rivals",
-          "nameZh": "漫威争锋",
-          "current": 105030,
-          "peak24h": 111021,
+          "nameZh": "",
+          "current": 102371,
+          "peak24h": 106531,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 9,
-          "appid": "1172470",
-          "name": "Apex Legends",
-          "nameZh": "Apex英雄",
-          "current": 83144,
-          "peak24h": 265887,
-          "link": "https://store.steampowered.com/app/1172470/"
-        },
-        {
-          "rank": 10,
-          "appid": "359550",
+          "appid": 359550,
           "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号：围攻",
-          "current": 81010,
-          "peak24h": 99787,
+          "nameZh": "",
+          "current": 79729,
+          "peak24h": 83755,
           "link": "https://store.steampowered.com/app/359550/"
         },
         {
+          "rank": 10,
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "",
+          "current": 79316,
+          "peak24h": 255169,
+          "link": "https://store.steampowered.com/app/1172470/"
+        },
+        {
           "rank": 11,
-          "appid": "3678970",
+          "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "",
-          "current": 78065,
-          "peak24h": 105530,
+          "current": 76170,
+          "peak24h": 103873,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 12,
-          "appid": "108600",
+          "appid": 108600,
           "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 77575,
-          "peak24h": 116335,
+          "nameZh": "",
+          "current": 74981,
+          "peak24h": 91501,
           "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 13,
-          "appid": "1422450",
+          "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 69583,
-          "peak24h": 86476,
+          "current": 72562,
+          "peak24h": 74698,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 14,
-          "appid": "553850",
-          "name": "HELLDIVERS™ 2",
-          "nameZh": "绝地潜兵2",
-          "current": 67706,
-          "peak24h": 98305,
-          "link": "https://store.steampowered.com/app/553850/"
+          "appid": 3405690,
+          "name": "EA SPORTS FC 26",
+          "nameZh": "",
+          "current": 71411,
+          "peak24h": 84718,
+          "link": "https://store.steampowered.com/app/3405690/"
         },
         {
           "rank": 15,
-          "appid": "2357570",
-          "name": "Overwatch®",
-          "nameZh": "守望先锋",
-          "current": 65128,
-          "peak24h": 78129,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "",
+          "current": 67094,
+          "peak24h": 125371,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 16,
-          "appid": "3405690",
-          "name": "EA SPORTS FC™ 26",
-          "nameZh": "EA FC 26",
-          "current": 64333,
-          "peak24h": 104731,
-          "link": "https://store.steampowered.com/app/3405690/"
+          "appid": 2357570,
+          "name": "Overwatch",
+          "nameZh": "",
+          "current": 65908,
+          "peak24h": 66352,
+          "link": "https://store.steampowered.com/app/2357570/"
         }
       ]
     },
     "newGamesAsOf": "2026-08-25",
     "topSellersAsOf": "2026-08-25",
-    "mostPlayedAsOf": "2026-08-24"
+    "mostPlayedAsOf": "2026-08-25"
   },
   "miniapp": {
     "ranking": [
@@ -1064,7 +1064,11 @@
       "meta": "沐瞳科技 · 全平台 · 复古橡皮管弹幕射击",
       "desc": "沐瞳科技自研复古橡皮管风格飞行弹幕射击手游。生动诙谐的漫画笔触与炫目战斗融合，单指操作极限闪避弹幕。肉鸽元素提供技能自由搭配、流派随心定义，500+怪诞反派首领。全员角色无废卡设计，各具独特技能。",
       "date": "8月26日全平台上线",
-      "tags": ["弹幕射击", "肉鸽", "沐瞳"],
+      "tags": [
+        "弹幕射击",
+        "肉鸽",
+        "沐瞳"
+      ],
       "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
@@ -1080,7 +1084,11 @@
       "meta": "腾讯发行 · SNK授权 · 拳皇IP卡牌 · Unity 3D格斗之城",
       "desc": "SNK授权卡牌产品，八神庵、草薙京、不知火舞、橘右京、娜可露露携手50+格斗明星。以《拳皇》世界观为背景，Unity引擎打造3D格斗之城，街道/格斗场/酒吧等经典场景延展为可探索可交互的拟真世界。致敬经典街机车轮战，1V1格斗轮番上阵。",
       "date": "8月26日安卓限量删档测试",
-      "tags": ["卡牌", "拳皇IP", "腾讯"],
+      "tags": [
+        "卡牌",
+        "拳皇IP",
+        "腾讯"
+      ],
       "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
@@ -1096,7 +1104,11 @@
       "meta": "心动发行 · 异能英雄养成RPG · 虚拟世界末日题材",
       "desc": "异能英雄养成RPG。全球冻流袭击下人类文明几近崩溃，人类将自我意识转移到虚拟世界\"伊瑟\"。伊瑟中有异格者可运用原质能力，但源病毒侵蚀导致异格者暴走。玩家作为超链者清理源病毒、维护伊瑟秩序。",
       "date": "8月27日TapTap限量测试",
-      "tags": ["RPG", "异能", "心动"],
+      "tags": [
+        "RPG",
+        "异能",
+        "心动"
+      ],
       "steamAppId": "",
       "imageUrl": null,
       "imageSource": "none",
