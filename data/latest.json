@@ -635,8 +635,8 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-08-25",
-      "updatedAt": "10:49",
+      "asOf": "2026-08-26",
+      "updatedAt": "10:20",
       "source": "SteamDB",
       "items": [
         {
@@ -644,8 +644,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "",
-          "current": 549890,
-          "peak24h": 1213288,
+          "current": 530079,
+          "peak24h": 1184605,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -653,8 +653,8 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "",
-          "current": 415228,
-          "peak24h": 881278,
+          "current": 398279,
+          "peak24h": 865555,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -662,8 +662,8 @@
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "",
-          "current": 148607,
-          "peak24h": 175166,
+          "current": 143722,
+          "peak24h": 170336,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
@@ -671,8 +671,8 @@
           "appid": 1623730,
           "name": "Palworld",
           "nameZh": "",
-          "current": 141096,
-          "peak24h": 182254,
+          "current": 131870,
+          "peak24h": 173839,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
@@ -680,114 +680,114 @@
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 125502,
-          "peak24h": 180977,
+          "current": 127397,
+          "peak24h": 179017,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 6,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "",
-          "current": 123978,
-          "peak24h": 717866,
-          "link": "https://store.steampowered.com/app/578080/"
-        },
-        {
-          "rank": 7,
           "appid": 4001890,
           "name": "How to Fish",
           "nameZh": "",
-          "current": 107251,
-          "peak24h": 341691,
+          "current": 109273,
+          "peak24h": 370901,
           "link": "https://store.steampowered.com/app/4001890/"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "",
-          "current": 102371,
-          "peak24h": 106531,
+          "current": 100159,
+          "peak24h": 103160,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "appid": 359550,
           "name": "Tom Clancy's Rainbow Six Siege",
           "nameZh": "",
-          "current": 79729,
-          "peak24h": 83755,
+          "current": 80798,
+          "peak24h": 82079,
           "link": "https://store.steampowered.com/app/359550/"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "",
-          "current": 79316,
-          "peak24h": 255169,
+          "current": 78891,
+          "peak24h": 255650,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "",
-          "current": 76170,
-          "peak24h": 103873,
+          "current": 74595,
+          "peak24h": 101472,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "appid": 108600,
           "name": "Project Zomboid",
           "nameZh": "",
-          "current": 74981,
-          "peak24h": 91501,
+          "current": 73526,
+          "peak24h": 87408,
           "link": "https://store.steampowered.com/app/108600/"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 72562,
-          "peak24h": 74698,
+          "current": 71904,
+          "peak24h": 73515,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "appid": 3405690,
           "name": "EA SPORTS FC 26",
           "nameZh": "",
-          "current": 71411,
-          "peak24h": 84718,
+          "current": 68970,
+          "peak24h": 80984,
           "link": "https://store.steampowered.com/app/3405690/"
         },
         {
-          "rank": 15,
-          "appid": 252490,
-          "name": "Rust",
+          "rank": 14,
+          "appid": 553850,
+          "name": "HELLDIVERS 2",
           "nameZh": "",
-          "current": 67094,
-          "peak24h": 125371,
-          "link": "https://store.steampowered.com/app/252490/"
+          "current": 67949,
+          "peak24h": 73010,
+          "link": "https://store.steampowered.com/app/553850/"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "appid": 2357570,
           "name": "Overwatch",
           "nameZh": "",
-          "current": 65908,
-          "peak24h": 66352,
+          "current": 65006,
+          "peak24h": 66320,
           "link": "https://store.steampowered.com/app/2357570/"
+        },
+        {
+          "rank": 16,
+          "appid": 381210,
+          "name": "Dead by Daylight",
+          "nameZh": "",
+          "current": 63229,
+          "peak24h": 77886,
+          "link": "https://store.steampowered.com/app/381210/"
         }
       ]
     },
     "newGamesAsOf": "2026-08-25",
     "topSellersAsOf": "2026-08-25",
-    "mostPlayedAsOf": "2026-08-25"
+    "mostPlayedAsOf": "2026-08-26"
   },
   "miniapp": {
     "ranking": [
