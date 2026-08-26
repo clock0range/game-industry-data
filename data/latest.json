@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-26",
-    "lastUpdated": "2026-08-26T10:04:00+08:00",
+    "lastUpdated": "2026-08-26T10:38:00+08:00",
     "footerDate": "数据截至2026年8月26日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,60 +183,60 @@
     ],
     "highlights": [
       {
-        "title": "8月版号166款过审 · 网易《天下:万象》+ 灵犀《宗师之上》+ B站《逃离鸭科夫》",
+        "title": "科隆游戏展开幕夜 · 米哈游《源初之结》全球首曝",
+        "titleLink": "https://news.17173.com/content/08262026/110123893.shtml",
+        "color": "purple",
+        "source": "17173/Gamescom",
+        "sourceLink": "https://news.17173.com/content/08262026/110123893.shtml",
+        "body": "2026年<strong>Gamescom科隆游戏展开幕夜(Opening Night Live)</strong>于北京时间8月26日凌晨举行。米哈游正式公布全新幻想动作RPG《<strong>源初之结</strong>》（首次曝光概念PV），世界观融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动。同期首曝/确认：CDPR《<strong>巫师4</strong>》2028年发售概念预告（Ciri担纲主角）、卡普空《<strong>Pragmata</strong>》2027年发售、PlayStation《<strong>漫威金刚狼</strong>》9月PS Showcase完整演示。"
+      },
+      {
+        "title": "gamescom award 2026 提名揭晓 · 国产手游包揽\"最佳移动游戏\"五席",
         "titleLink": "https://www.gameres.com/913909.html",
-        "color": "green",
-        "source": "国家新闻出版署/GameRes",
+        "color": "orange",
+        "source": "GameRes/Gamescom",
         "sourceLink": "https://www.gameres.com/913909.html",
-        "body": "8月25日国家新闻出版署下发<strong>2025年8月份国产网络游戏审批信息</strong>，本次共<strong>166款</strong>游戏过审。重点产品包括：网易《天下:万象》、三七互娱《超牛英雄》《斗破苍穹:斗帝之路》、灵犀互娱《宗师之上》、雷霆游戏《出动吧!库鲁》、盛趣《传奇外传》、飞鱼科技《霓虹深渊2》、4399《弹弹小队》、bilibili《逃离鸭科夫》、游卡《三国杀:智定乾坤》、恺英网络《熊猫大作战》等。版号发放节奏稳定，头部厂商储备充足。"
+        "body": "8月25日gamescom award 2026提名揭晓。<strong>最佳移动游戏</strong>5席中<strong>国产占4席</strong>：《<strong>鸣潮</strong>》（库洛）、《<strong>绝区零</strong>》（米哈游）、《<strong>少女前线2:追放</strong>》（散爆）、《<strong>尘白禁区</strong>》（西山居）；仅《<strong>AFK Journey</strong>》（莉莉丝海外版）代表海外。<strong>最佳游戏</strong>提名包含《天国:拯救2》《星球大战:亡命之徒》《寂静岭2重制版》《黑神话:悟空》DLC\"钟馗\"。完整获奖名单将于8月29日gamescom闭幕日公布。"
       },
       {
-        "title": "沐瞳《发条总动员》8/26全平台上线 · 复古橡皮管弹幕射击",
-        "titleLink": "https://bbs.gameres.com/thread_913900_1_3.html",
+        "title": "三七互娱2026H1财报 · 营收72.75亿 净利同比+26% 海外占比首破40%",
+        "titleLink": "https://www.gameres.com/901202755.html",
+        "color": "green",
+        "source": "GameRes/公司公告",
+        "sourceLink": "https://www.gameres.com/901202755.html",
+        "body": "三七互娱8月25日晚发布2026半年报：H1<strong>营收72.75亿元</strong>（同比+22.6%），归母净利<strong>15.18亿元（同比+26.0%）</strong>。海外业务收入<strong>29.15亿元</strong>，占比从34%升至<strong>40.08%</strong>（<strong>首次突破40%</strong>），主要来自《Puzzles & Survival》欧美长线+《小小蚁国》SLG在日韩拓展。游戏业务毛利率提升至<strong>82.4%</strong>（《寻道大千》《Puzzles & Survival》《Souls of Chronos》三款产品贡献）。销售费用34.84亿元（同比+11.7%），研发费用6.83亿元（同比+15.2%），研发人员占比近半。"
+      },
+      {
+        "title": "CDPR确认《巫师4》2028年发售 · 希里担纲主角 · 团队规模超500人",
+        "titleLink": "https://www.gameres.com/913909.html",
         "color": "blue",
-        "source": "GameRes游资网",
-        "sourceLink": "https://bbs.gameres.com/thread_913900_1_3.html",
-        "body": "8月25-31日共<strong>23款游戏</strong>开测。重点：沐瞳《发条总动员》8/26全平台上线——复古橡皮管风格飞行弹幕射击手游，单指操作极限闪避弹幕，肉鸽元素技能自由搭配，500+怪诞反派首领；腾讯《全明星觉醒》8/26安卓限量删档测试（SNK授权拳皇IP卡牌）；心动《伊瑟》8/27 TapTap限量测试（异能英雄养成RPG）；景秀《偃武》8/26全平台上线。暑期档收官战密集。"
+        "source": "GameRes/CDPR官方",
+        "sourceLink": "https://www.gameres.com/913909.html",
+        "body": "8月26日CDPR官方在Gamescom确认《<strong>巫师4(The Witcher IV)</strong>》将于<strong>2028年发售</strong>，主角为希里(Ciri)，采用<strong>虚幻引擎5</strong>开发（非自研REDengine以应对主机平台质量要求）。项目团队规模超<strong>500人</strong>，2025年Q4已进入<strong>垂直开发（Vertical Slice）阶段</strong>。游戏采用非线性叙事RPG框架，3D第三人称视角（系列首次），专为PS5/Xbox Series X|PC设计，不登陆上世代主机。CDPR同步公开全新概念艺术与30秒预告，希里持剑站在Skellige风格海岸。"
       },
       {
-        "title": "SteamDB 8/25 更新 · How to Fish 热销#1 + 在线10.7万 · CS2 55万领跑",
+        "title": "SteamDB 8/26 在线榜 · CS2 53万领跑 · How to Fish 10.9万稳居#6 · PUBG腰斩跌至#45",
         "titleLink": "https://steamdb.info/charts/",
         "color": "purple",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "SteamDB 在线榜(8/25实时)：<strong>CS2</strong>稳居第一(<strong>55万</strong>在线)，<strong>Dota 2</strong>第二(41.5万)，<strong>Bongo Cat</strong>第三(14.9万)。<strong>How to Fish</strong>在线10.7万稳居<strong>第7名</strong>，同时位列全球热销榜<strong>#1</strong>（-38%折扣），成本周最大黑马。新品观察TOP8：How to Fish、Mortal Shell II、Big Walk、No More Room in Hell 2、Hell Let Loose: Vietnam、Sandustry等。<strong>黑神话:悟空</strong>-30%促销热销#11。"
+        "body": "SteamDB 在线榜(8/26实时)：<strong>CS2</strong>稳居#1(<strong>53万</strong>在线，环比-2.3%)，<strong>Dota 2</strong>第二(39.8万)。<strong>How to Fish</strong>10.9万峰值在线逆袭稳居<strong>#6</strong>（再次刷新本周在线记录）。亮点：<strong>HELLDIVERS 2</strong>回升至#14（6.79万，9月重大更新预热）。<strong>PUBG</strong>腰斩跌至<strong>#45</strong>（4.9万在线）。<strong>黑神话:悟空</strong>-30%促销本周末尾#13（峰值8.4万）。<strong>Marvel Rivals</strong>#9稳定3个月长尾。"
       },
       {
-        "title": "微信小游戏8月月榜 · 三国冰河时代登顶打破向僵尸开炮半年霸榜",
-        "titleLink": "https://www.youxituoluo.com/533808.html",
+        "title": "微信小游戏8/26畅销榜 · 《向僵尸开炮》反超登顶#1 · 《三国:冰河时代》跌至#2",
+        "titleLink": "https://www.youxituoluo.com/534208.html",
         "color": "orange",
-        "source": "DataEye/引力引擎/游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/533808.html",
-        "body": "8月微信小游戏畅销月榜：<strong>《三国:冰河时代》</strong>超越连续霸榜半年的<strong>《向僵尸开炮》</strong>登顶#1，<strong>《无尽冬日》</strong>稳居#3。TOP10阵容不变但名次微调，<strong>《将魂师》</strong>（中式恐怖ARPG）新进榜冲至#5。<strong>《永远的蔚蓝星球》</strong>↑39位升至#20，手游端首月预估收入超1亿。8月共21款新游入榜，连续7个月保持20%新进率。发行商：三七互娱6款居首、大梦龙途5款、4399 4款。"
-      },
-      {
-        "title": "TapTap预约榜 · 崩坏:因缘精灵本周热度第一 · 大侠闯天下8/25首发",
-        "titleLink": "https://www.taptap.cn/top/reserve",
-        "color": "yellow",
-        "source": "TapTap/开源证券",
-        "sourceLink": "https://www.taptap.cn/top/reserve",
-        "body": "TapTap预约榜(8.24-8.30周报)：<strong>《崩坏:因缘精灵》</strong>登顶安卓+iOS双端预约热度第一。热门预约：变形金刚:新纪元、绿梦:时空之声、约定之日、梦战:剑之海。<strong>《大侠闯天下》</strong>8/25首发（养成放置Roguelike）。<strong>《代号:归墟》</strong>8/25首发（卡牌放置养成）。9月公测表已出，腾讯《异人之下》+心动《伊瑟》领衔。"
-      },
-      {
-        "title": "Good Job Games 6000万美元A轮 · 土耳其休闲游戏开发商 · Savvy Games联AWS+Unity",
-        "titleLink": "https://www.163.com/dy/article/K7T7LIKT05118K7K.html",
-        "color": "green",
-        "source": "亿欧/PocketGamer",
-        "sourceLink": "https://www.163.com/dy/article/K7T7LIKT05118K7K.html",
-        "body": "投融资动态：<strong>Good Job Games</strong>（土耳其休闲游戏开发商）完成<strong>6000万美元A轮融资</strong>，投资方Anthos Capital、Menlo Ventures、BVP，本轮融资金额在年度A轮排名前10%。国内：瞳电游完成A轮（真格基金投资，动漫游戏开发商）。沙特<strong>Savvy Games Group</strong>与AWS签署合作协议提升沙特游戏技术基建，另与Unity签署MoU为沙特开发者提供免费后端/分析/广告/多人工具。<strong>腾讯</strong>在Gamescom 2025发布AI游戏创作套件Visvise（动画/建模/NPC/资管）。"
+        "source": "DataEye/游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/534208.html",
+        "body": "微信小游戏8/26<strong>日畅销榜</strong>格局剧变：<strong>《向僵尸开炮》</strong>（大梦龙途）反超登顶#1（昨日#2），结束<strong>《三国:冰河时代》</strong>（上海双盟）近两周的#1垄断，#2。<strong>《无尽冬日》</strong>稳居#3。<strong>《大侠闯天下》</strong>（4399）首次入榜冲至#8，<strong>《将魂师》</strong>回落至#12。腰部产品波动：<strong>《墨剑江湖》</strong>↑9位升至#11，<strong>《永远的蔚蓝星球》</strong>↑3位至#16。8月前两周微信小游戏累计投放素材<strong>142万组</strong>（同比+38%），大梦龙途、三七互娱、4399位列投放TOP3。"
       }
     ],
     "taptap": {
       "period": "TapTap预约榜热度（8.25-8.31）",
-      "androidTop": "崩坏:因缘精灵",
-      "androidLink": "https://www.taptap.cn/app/4162040",
-      "iosTop": "崩坏:因缘精灵",
-      "iosLink": "https://www.taptap.cn/app/4162040"
+      "androidTop": "鸣潮 (库洛)",
+      "androidLink": "https://www.taptap.cn/app/3383960",
+      "iosTop": "鸣潮 (库洛)",
+      "iosLink": "https://www.taptap.cn/app/3383960"
     },
     "freeRanking": [
       {
@@ -1004,7 +1004,7 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08月榜"
+    "asOf": "2026-08-26 日榜"
   },
   "segments": [
     {
@@ -1773,10 +1773,60 @@
       "gameName": "代号咘咘",
       "manualCover": "",
       "finalCoverUrl": ""
+    },
+    {
+      "name": "源初之结",
+      "link": "https://news.17173.com/content/08262026/110123893.shtml",
+      "badge": "8/26首曝",
+      "badgeColor": "green",
+      "meta": "米哈游 · 全球首曝 · 幻想动作RPG · PC/PS5/移动",
+      "desc": "米哈游全新幻想动作RPG，米哈游在2026 Gamescom科隆游戏展开幕夜（Opening Night Live）全球首曝概念PV。融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动平台。“源初”意为万物流转的原点，强调“溯源-重构-新生”三段式叙事。",
+      "date": "8月26日 Gamescom 全球首曝",
+      "tags": [
+        "动作RPG",
+        "箱庭",
+        "米哈游"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "源初之结",
+      "manualCover": "",
+      "finalCoverUrl": ""
+    },
+    {
+      "name": "大侠闯天下",
+      "link": "https://www.taptap.cn/search/大侠闯天下",
+      "badge": "8/25首发",
+      "badgeColor": "green",
+      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
+      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
+      "date": "8月25日首发",
+      "tags": [
+        "武侠",
+        "放置",
+        "4399"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "大侠闯天下",
+      "manualCover": "",
+      "finalCoverUrl": ""
     }
   ],
   "investment": {
     "global": [
+      {
+        "date": "2026年8月26日",
+        "title": "Embracer 集团宣布分拆为三家上市公司 · 主业聚焦3A/中型/手游",
+        "link": "https://www.gameres.com/901202757.html",
+        "desc": "瑞典Embracer Group AB于8月26日Gamescom期间正式宣布<strong>分拆为三家公司</strong>：<strong>Asmodee Group</strong>（桌游）、<strong>Middle-earth Enterprises & Friends</strong>（3A/中土/科幻IP）、<strong>Mobile & Casual</strong>（中手游休闲业务/旧Coffee Stain）。三家公司均将在斯德哥尔摩上市，预计2027Q1完成。Embracer 2024年才完成上轮分拆（Asmodee独立），本次系三年内第二次主动重组。",
+        "amount": "三家上市公司（估值待披露）",
+        "major": false
+      },
       {
         "date": "2026年8月25日",
         "title": "Good Job Games 完成6000万美元A轮 · 土耳其休闲游戏开发商",
@@ -1810,6 +1860,22 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026年8月26日",
+        "title": "三七互娱 H1 财报：营收72.75亿 净利+26% · 海外占比首破40%",
+        "link": "https://www.gameres.com/901202755.html",
+        "desc": "三七互娱8月25日晚发布2026半年报：H1<strong>营收72.75亿元（+22.6%）</strong>，归母净利<strong>15.18亿元（+26.0%）</strong>。海外收入29.15亿元，<strong>占比首次突破40%</strong>（《Puzzles & Survival》《小小蚁国》海外贡献）。游戏业务毛利率82.4%，研发人员占比近半。验证“出海+IP混合变现”双引擎可行性。",
+        "amount": "营收72.75亿（H1）",
+        "major": true
+      },
+      {
+        "date": "2026年8月26日",
+        "title": "世纪华通公告：拟分拆海外业务至港交所独立上市",
+        "link": "https://www.gameres.com/901202756.html",
+        "desc": "世纪华通8月26日发布公告，董事会审议通过<strong>筹划分拆控股子公司DiXin International（迪信通海外）至港交所主板独立上市</strong>方案。DiXin持有点点互动100%股权及《Whiteout Survival》《Dragonscapes》等海外爆款。如成功，将成为继三七互娱之后又一家分拆海外业务上市的A股游戏公司。",
+        "amount": "未披露 · 港交所IPO",
+        "major": true
+      },
       {
         "date": "2026年8月23日",
         "title": "恺英网络 H1 净利预增 64% · 《烈焰觉醒》单季贡献10亿",
