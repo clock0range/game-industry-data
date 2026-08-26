@@ -390,7 +390,27 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/4001890",
         "reviewSummary": "特别好评",
-        "tags": []
+        "tags": [
+          "fishing",
+          "simulator"
+        ]
+      },
+      {
+        "gameName": "Big Walk",
+        "name": "Big Walk",
+        "steamAppId": "1478500",
+        "appId": 1478500,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
+        "rating": "93%",
+        "meta": "8 Aug, 2026",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1478500",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "multiplayer",
+          "co-op"
+        ]
       },
       {
         "gameName": "Mortal Shell II",
@@ -404,21 +424,11 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/2584270",
         "reviewSummary": "多半好评",
-        "tags": []
-      },
-      {
-        "gameName": "Big Walk",
-        "name": "Big Walk",
-        "steamAppId": "1478500",
-        "appId": 1478500,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
-        "rating": "93%",
-        "meta": "8月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1478500",
-        "reviewSummary": "特别好评",
-        "tags": []
+        "tags": [
+          "action",
+          "rpg",
+          "soulslike"
+        ]
       },
       {
         "gameName": "No More Room in Hell 2",
@@ -432,7 +442,11 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/292000",
         "reviewSummary": "褒贬不一",
-        "tags": []
+        "tags": [
+          "zombie",
+          "fps",
+          "co-op"
+        ]
       },
       {
         "gameName": "Hell Let Loose: Vietnam",
@@ -446,7 +460,11 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/3079210",
         "reviewSummary": "褒贬不一",
-        "tags": []
+        "tags": [
+          "fps",
+          "tactical",
+          "wwii"
+        ]
       },
       {
         "gameName": "Sandustry",
@@ -460,7 +478,10 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/2764460",
         "reviewSummary": "特别好评",
-        "tags": []
+        "tags": [
+          "simulation",
+          "factory"
+        ]
       },
       {
         "gameName": "Gallipoli",
@@ -474,7 +495,10 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/3065940",
         "reviewSummary": "多半好评",
-        "tags": []
+        "tags": [
+          "fps",
+          "war"
+        ]
       },
       {
         "gameName": "VHOLUME",
@@ -488,7 +512,9 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/4131730",
         "reviewSummary": "特别好评",
-        "tags": []
+        "tags": [
+          "rpg"
+        ]
       }
     ],
     "topSellers": [
@@ -785,7 +811,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-08-25",
+    "newGamesAsOf": "2026-08-26",
     "topSellersAsOf": "2026-08-25",
     "mostPlayedAsOf": "2026-08-26"
   },
