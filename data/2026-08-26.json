@@ -819,16 +819,16 @@
     "ranking": [
       {
         "rank": 1,
-        "name": "三国:冰河时代",
-        "category": "SLG",
-        "publisher": "上海双盟",
+        "name": "向僵尸开炮",
+        "category": "末日塔防",
+        "publisher": "大梦龙途",
         "change": "▲1"
       },
       {
         "rank": 2,
-        "name": "向僵尸开炮",
-        "category": "末日塔防",
-        "publisher": "大梦龙途",
+        "name": "三国:冰河时代",
+        "category": "SLG",
+        "publisher": "上海双盟",
         "change": "▼1"
       },
       {
