@@ -661,8 +661,8 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-08-26",
-      "updatedAt": "10:20",
+      "asOf": "2026-08-27",
+      "updatedAt": "10:05",
       "source": "SteamDB",
       "items": [
         {
@@ -670,8 +670,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "",
-          "current": 530079,
-          "peak24h": 1184605,
+          "current": 548104,
+          "peak24h": 1277861,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -679,8 +679,8 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "",
-          "current": 398279,
-          "peak24h": 865555,
+          "current": 399377,
+          "peak24h": 839635,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -688,8 +688,8 @@
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "",
-          "current": 143722,
-          "peak24h": 170336,
+          "current": 142641,
+          "peak24h": 160125,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
@@ -697,8 +697,8 @@
           "appid": 1623730,
           "name": "Palworld",
           "nameZh": "",
-          "current": 131870,
-          "peak24h": 173839,
+          "current": 126644,
+          "peak24h": 166515,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
@@ -706,89 +706,89 @@
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 127397,
-          "peak24h": 179017,
+          "current": 126625,
+          "peak24h": 175681,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 6,
-          "appid": 4001890,
-          "name": "How to Fish",
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "",
-          "current": 109273,
-          "peak24h": 370901,
-          "link": "https://store.steampowered.com/app/4001890/"
+          "current": 124786,
+          "peak24h": 733906,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
-          "appid": 2767030,
-          "name": "Marvel Rivals",
+          "appid": 4001890,
+          "name": "How to Fish",
           "nameZh": "",
-          "current": 100159,
-          "peak24h": 103160,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "current": 106190,
+          "peak24h": 373971,
+          "link": "https://store.steampowered.com/app/4001890/"
         },
         {
           "rank": 8,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
+          "appid": 2767030,
+          "name": "Marvel Rivals",
           "nameZh": "",
-          "current": 80798,
-          "peak24h": 82079,
-          "link": "https://store.steampowered.com/app/359550/"
+          "current": 97832,
+          "peak24h": 100159,
+          "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 9,
-          "appid": 1172470,
-          "name": "Apex Legends",
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
           "nameZh": "",
-          "current": 78891,
-          "peak24h": 255650,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "current": 79369,
+          "peak24h": 80798,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 10,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
+          "appid": 1172470,
+          "name": "Apex Legends",
           "nameZh": "",
-          "current": 74595,
-          "peak24h": 101472,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "current": 76325,
+          "peak24h": 258211,
+          "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 11,
-          "appid": 108600,
-          "name": "Project Zomboid",
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
           "nameZh": "",
-          "current": 73526,
-          "peak24h": 87408,
-          "link": "https://store.steampowered.com/app/108600/"
+          "current": 73753,
+          "peak24h": 99223,
+          "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 12,
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 71904,
-          "peak24h": 73515,
+          "current": 70439,
+          "peak24h": 72927,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 13,
-          "appid": 3405690,
-          "name": "EA SPORTS FC 26",
+          "appid": 108600,
+          "name": "Project Zomboid",
           "nameZh": "",
-          "current": 68970,
-          "peak24h": 80984,
-          "link": "https://store.steampowered.com/app/3405690/"
+          "current": 70340,
+          "peak24h": 83433,
+          "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 14,
           "appid": 553850,
           "name": "HELLDIVERS 2",
           "nameZh": "",
-          "current": 67949,
-          "peak24h": 73010,
+          "current": 65321,
+          "peak24h": 69196,
           "link": "https://store.steampowered.com/app/553850/"
         },
         {
@@ -796,24 +796,24 @@
           "appid": 2357570,
           "name": "Overwatch",
           "nameZh": "",
-          "current": 65006,
-          "peak24h": 66320,
+          "current": 63905,
+          "peak24h": 65006,
           "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 16,
-          "appid": 381210,
-          "name": "Dead by Daylight",
+          "appid": 3405690,
+          "name": "EA SPORTS FC 26",
           "nameZh": "",
-          "current": 63229,
-          "peak24h": 77886,
-          "link": "https://store.steampowered.com/app/381210/"
+          "current": 62845,
+          "peak24h": 77475,
+          "link": "https://store.steampowered.com/app/3405690/"
         }
       ]
     },
     "newGamesAsOf": "2026-08-26",
     "topSellersAsOf": "2026-08-25",
-    "mostPlayedAsOf": "2026-08-26"
+    "mostPlayedAsOf": "2026-08-27"
   },
   "miniapp": {
     "ranking": [
