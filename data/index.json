@@ -129,8 +129,8 @@
     "lastUpdated": "2026-08-27T10:02:00+08:00",
     "apiStatus": {
       "ios": "ok (15 games)",
-      "steamSellers": "failed (kept existing)",
-      "steamIndie": "failed (kept existing)"
+      "steamSellers": "degraded (skip, weekly)",
+      "steamIndie": "ok (8 games, web-fetch)"
     }
   }
 }
