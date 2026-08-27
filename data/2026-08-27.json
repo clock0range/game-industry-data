@@ -1,8 +1,8 @@
 {
   "meta": {
     "date": "2026-08-27",
-    "lastUpdated": "2026-08-27T10:17:00+08:00",
-    "footerDate": "数据截至2026年8月27日",
+    "lastUpdated": "2026-08-27T10:38:00+08:00",
+    "footerDate": "2026-08-27",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
   "kpi": [
@@ -385,8 +385,8 @@
         "name": "Fell & Sell",
         "steamAppId": "4627110",
         "appId": 4627110,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4627110/capsule_616x353.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/58f86a9cf3bf33495e3f603079a4096e785509a1/capsule_231x87.jpg?t=1787778317",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4627110.jpg",
         "rating": "",
         "meta": "2026-08-26",
         "reviews": "",
@@ -399,8 +399,8 @@
         "name": "Night Rolls Cozy Store",
         "steamAppId": "965190",
         "appId": 965190,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/965190/capsule_616x353.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965190/fb02972ec48664758214fea4f4530402fcac7c82/capsule_231x87.jpg?t=1787758601",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/965190.jpg",
         "rating": "",
         "meta": "2026-08-26",
         "reviews": "",
@@ -413,8 +413,8 @@
         "name": "Click the Button",
         "steamAppId": "3946950",
         "appId": 3946950,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3946950/capsule_616x353.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/322299ee17e59eafc395a1b9d023612bd7a17f87/capsule_231x87.jpg?t=1787768674",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3946950.jpg",
         "rating": "",
         "meta": "2026-08-26",
         "reviews": "",
@@ -427,8 +427,8 @@
         "name": "暗影地牢",
         "steamAppId": "4423580",
         "appId": 4423580,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4423580/capsule_616x353.jpg",
+        "manualCover": "https://cdn.akamai.steamstatic.com/steam/apps/4423580/capsule_231x87.jpg",
+        "finalCoverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4423580/capsule_sm_120.jpg",
         "rating": "",
         "meta": "2026-08-26",
         "reviews": "",
@@ -441,8 +441,8 @@
         "name": "Pickle Pete",
         "steamAppId": "3963030",
         "appId": 3963030,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3963030/capsule_616x353.jpg",
+        "manualCover": "https://cdn.akamai.steamstatic.com/steam/apps/3963030/capsule_231x87.jpg",
+        "finalCoverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3963030/capsule_sm_120.jpg",
         "rating": "",
         "meta": "2026-08-26",
         "reviews": "",
@@ -455,8 +455,8 @@
         "name": "States of Power",
         "steamAppId": "3126500",
         "appId": 3126500,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3126500/capsule_616x353.jpg",
+        "manualCover": "https://cdn.akamai.steamstatic.com/steam/apps/3126500/capsule_231x87.jpg",
+        "finalCoverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126500/capsule_sm_120.jpg",
         "rating": "",
         "meta": "2026-08-26",
         "reviews": "",
@@ -483,8 +483,8 @@
         "name": "吸吸吸有限公司",
         "steamAppId": "4073860",
         "appId": 4073860,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4073860/capsule_616x353.jpg",
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/6cb8376da45b5b8ff39a649f81e0f02d4e035340/capsule_231x87.jpg?t=1787778959",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4073860.jpg",
         "rating": "",
         "meta": "2026-08-25",
         "reviews": "",
@@ -901,6 +901,20 @@
     ],
     "dynamics": [
       {
+        "title": "微信小游戏畅销榜 8/25 · 向僵尸开炮升至榜首 · 5款新上榜",
+        "color": "orange",
+        "body": "8月25日榜：<strong>《向僵尸开炮》</strong>反超升至榜首，<strong>《我的花园世界》</strong>↓1降至#3，<strong>《无尽冬日》</strong>↑2升至#4，<strong>《疯狂水世界》</strong>稳居#5。<strong>《浪漫餐厅》</strong>↓3滑至#7。重度RPG集体暴涨：<strong>《青云诀之伏魔》</strong>↑30冲到#11，<strong>《这城有良田》</strong>↑46到#51，<strong>《英雄杀》</strong>↑37到#46。当日<strong>5款新上榜</strong>，《掌上谈兵》#48、《快来当领主》#82、《勇者联盟》#90、《冒险法则》#97、《心动女友》#98。SLG三大爆款持续霸榜，向末日开炮稳#8稳定付费转化后劲减弱。",
+        "source": "微信动态/小游快爆",
+        "sourceLink": "https://new.qq.com/rain/a/20260826A0DJ9500?refer=cp_1009"
+      },
+      {
+        "title": "微信小游戏畅销榜 8/27 · 头部铁壁稳固 · 末日题材放大腰部回暖",
+        "color": "orange",
+        "body": "8月27日榜：<strong>《三国:冰河时代》</strong>稳坐榜首(角色模拟2025卓越名品)，<strong>《向僵尸开炮》</strong>稳#2，<strong>《无尽冬日》</strong>稳#3，<strong>《疯狂水世界》</strong>稳#4，<strong>《向往的生活》</strong>稳#5，<strong>《梦幻消除战》</strong>↑2升至#6 — TOP6模拟经营铁壁。中腰部剧烈洗牌：<strong>《时光大爆炸》</strong>↑23冲到#64、<strong>《次神:光之觉醒》</strong>↑22到#22、<strong>《咸鱼之王》</strong>三天连涨(85→54→42)坐实沉淀型增长。品类观察：放置类内部剧烈洗牌(青云诀↓10/灵画师从TOP7跌至#13)，模拟经营头部三强稳固，\"中尾部温和轮动\"成主旋律（涨39/跌44/持8）。",
+        "source": "切游/微信官方榜单",
+        "sourceLink": "https://new.qq.com/rain/a/20260827A07JHI00"
+      },
+      {
         "title": "微信小游戏8月月榜 · 三国冰河时代登顶 · 打破向僵尸开炮半年霸榜",
         "color": "orange",
         "body": "8月微信小游戏畅销月榜：<strong>《三国:冰河时代》</strong>超越连续霸榜半年的<strong>《向僵尸开炮》</strong>登顶#1，<strong>《无尽冬日》</strong>稳居#3。TOP10阵容不变但名次微调。8月共<strong>21款新游</strong>入榜，TOP30新进4款：<strong>《将魂师》</strong>（中式恐怖ARPG，新进#18）、<strong>《口袋诛魔》</strong>、<strong>《新弹弹堂》</strong>、<strong>《御龙主宰》</strong>。<strong>《永远的蔚蓝星球》</strong>↑39位（月榜#20），手游端首月预估收入超1亿。发行商：三七互娱6款居首、大梦龙途5款、4399 4款。连续7个月保持20%新进率。",
@@ -980,7 +994,7 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08-26 日榜"
+    "asOf": "2026-08-27 日榜"
   },
   "segments": [
     {
@@ -1058,6 +1072,26 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "date": "2026-08-28",
+      "name": "凡应 EP02 测试",
+      "desc": "<strong style=\"color:var(--purple)\">【EP02 限量删档 PC 测试 · 8/28 正式开启】</strong>艺画开天(腾讯控股)首款自研 ARPG《凡应》EP02 测试 8/28 开启。玩家化身海履者驾驭多种海巡兽在动态净海世界迁徙，与隆舶巨兽共生。剧情演出约<strong>90分钟开场动画</strong>(被外媒评价\"高预算3A级游戏水准\"，镜头/配乐\"能媲美电影制作\")。<strong>多武器切换+极限闪避+破韧处决</strong>等高速动作机制，箱庭式地图(浪涌影响周期性变化)，PC端限量删档不付费。游戏预计<strong>2026年下半年启动大规模公开测试</strong>(PC/主机/移动三端)。",
+      "badge": "EP02 测试",
+      "badgeColor": "purple",
+      "isNew": true,
+      "newUntil": "2026-08-30",
+      "link": "https://www.biligame.com/detail/?id=110850&sourceFrom=2000040011",
+      "reservationLink": "https://game.bilibili.com/fy/ep02",
+      "reservationNote": "43万+ B站预约，测试资格已开放查询。100GB+磁盘空间推荐SSD。",
+      "publisher": "艺画开天 / 武汉澄境星壹",
+      "platform": "PC（主机/移动 后续）",
+      "score": 88,
+      "scoreLabel": "哔哩哔哩 8.3 (43万预约)",
+      "rating": "borderline",
+      "ratingLabel": "B站 8.3 · TapTap 待评",
+      "ratingPercent": 83,
+      "ratingsCount": 430000
+    },
     {
       "name": "发条总动员",
       "link": "https://www.taptap.cn/search/发条总动员",
@@ -2260,7 +2294,7 @@
     }
   ],
   "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜前三稳固（腾讯系），<strong style=\"color:var(--green)\">SLG品类内部分化</strong>——传统重度SLG排名下滑，轻量化挂机+SLG组合上升。免费榜方面，新游首发冲榜后留存分化明显，IP改编游戏首周下载优势约3-5倍。",
-  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>挂机+混合变现模式持续主导畅销榜，<strong style=\"color:var(--green)\">武侠+挂机</strong>组合连续三周爬升。SLG份额被轻量化小游戏蚕食，IAA+IAP混合变现成为中小团队标配。",
+  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>挂机+混合变现持续主导畅销榜，<strong style=\"color:var(--green)\">武侠+挂机</strong>组合连续三周爬升。SLG三剑客(三国冰河/无尽冬日/向末日开炮)合计3席稳定，<strong style=\"color:var(--blue)\">末日题材</strong>向腰部放大(向末日开炮稳#8+向僵尸开炮登顶)。模拟经营四强(无尽冬日/疯狂水世界/向往的生活/梦幻消除战)集体稳居前6形成\"铁壁\"，放置类内部剧烈洗牌(青云诀↓10/灵画师从TOP7跌#13)，<strong style=\"color:var(--purple)\">中尾部温和轮动</strong>成新常态。",
   "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>近期上线/测试以IP改编（赘婿/甄嬛传）和UE5重度项目（凡应）为主。<strong style=\"color:var(--cyan)\">测试招募期</strong>成为大作标配节奏，首发即公测的模式减少。独立游戏方面，《诡宅祭坛》《导师模拟器》表现亮眼，桌面挂机品类正成为小团队爆款赛道。",
   "weeklyInsight": {
     "title": "本周行业洞察",
