@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-27",
-    "lastUpdated": "2026-08-27T10:03:00+08:00",
+    "lastUpdated": "2026-08-27T10:17:00+08:00",
     "footerDate": "数据截至2026年8月27日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,52 +183,54 @@
     ],
     "highlights": [
       {
-        "title": "科隆游戏展开幕夜 · 米哈游《源初之结》全球首曝",
-        "titleLink": "https://news.17173.com/content/08262026/110123893.shtml",
+        "title": "腾讯领投W4 Games 1800万美元B轮 · Godot引擎加速亚洲生态",
+        "titleLink": "https://xueqiu.com/6417412234/406833760",
         "color": "purple",
-        "source": "17173/Gamescom",
-        "sourceLink": "https://news.17173.com/content/08262026/110123893.shtml",
-        "body": "2026年<strong>Gamescom科隆游戏展开幕夜(Opening Night Live)</strong>于北京时间8月26日凌晨举行。米哈游正式公布全新幻想动作RPG《<strong>源初之结</strong>》（首次曝光概念PV），世界观融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动。同期首曝/确认：CDPR《<strong>巫师4</strong>》2028年发售概念预告（Ciri担纲主角）、卡普空《<strong>Pragmata</strong>》2027年发售、PlayStation《<strong>漫威金刚狼</strong>》9月PS Showcase完整演示。"
+        "source": "映维网/雪球",
+        "sourceLink": "https://xueqiu.com/6417412234/406833760",
+        "body": "开源游戏引擎<strong>Godot</strong>商业化主体<strong>W4 Games</strong> 8/27 宣布完成 <strong>1800万美元</strong> B 轮融资，腾讯领投并与W4 Games签署多年战略合作协议，共同推动Godot引擎在亚洲企业的本地化与生态扩张。累计融资达 <strong>3300万美元</strong>。Steam平台Godot游戏数量2024-2025连续两年同比+50%，年销超100万美元的Godot游戏从3年前的2款增至50余款。",
+        "isNew": true,
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "gamescom award 2026 提名揭晓 · 国产手游包揽\"最佳移动游戏\"五席",
-        "titleLink": "https://www.gameres.com/913909.html",
-        "color": "orange",
-        "source": "GameRes/Gamescom",
-        "sourceLink": "https://www.gameres.com/913909.html",
-        "body": "8月25日gamescom award 2026提名揭晓。<strong>最佳移动游戏</strong>5席中<strong>国产占4席</strong>：《<strong>鸣潮</strong>》（库洛）、《<strong>绝区零</strong>》（米哈游）、《<strong>少女前线2:追放</strong>》（散爆）、《<strong>尘白禁区</strong>》（西山居）；仅《<strong>AFK Journey</strong>》（莉莉丝海外版）代表海外。<strong>最佳游戏</strong>提名包含《天国:拯救2》《星球大战:亡命之徒》《寂静岭2重制版》《黑神话:悟空》DLC\"钟馗\"。完整获奖名单将于8月29日gamescom闭幕日公布。"
-      },
-      {
-        "title": "三七互娱2026H1财报 · 营收72.75亿 净利同比+26% 海外占比首破40%",
-        "titleLink": "https://www.gameres.com/901202755.html",
+        "title": "巨人网络2026H1财报 · 营收46.89亿+182% · 净利21.44亿+176%",
+        "titleLink": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
         "color": "green",
-        "source": "GameRes/公司公告",
-        "sourceLink": "https://www.gameres.com/901202755.html",
-        "body": "三七互娱8月25日晚发布2026半年报：H1<strong>营收72.75亿元</strong>（同比+22.6%），归母净利<strong>15.18亿元（同比+26.0%）</strong>。海外业务收入<strong>29.15亿元</strong>，占比从34%升至<strong>40.08%</strong>（<strong>首次突破40%</strong>），主要来自《Puzzles & Survival》欧美长线+《小小蚁国》SLG在日韩拓展。游戏业务毛利率提升至<strong>82.4%</strong>（《寻道大千》《Puzzles & Survival》《Souls of Chronos》三款产品贡献）。销售费用34.84亿元（同比+11.7%），研发费用6.83亿元（同比+15.2%），研发人员占比近半。"
+        "source": "财联社/网易",
+        "sourceLink": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
+        "body": "巨人网络 002558 8/26 晚披露半年报，<strong>营收46.89亿</strong>同比<strong>+182.08%</strong>，<strong>归母净利21.44亿</strong>同比<strong>+175.96%</strong>。<strong>《超自然行动组》</strong>贡献核心增量（《鬼吹灯》联动地图云南虫谷+原创无限梦境），近期DAU突破 <strong>1200万</strong>，海外版《Tomb Busters》日韩美上线首日分别登iOS免费榜 <strong>日本#3/韩国#7</strong>；《王者征途》依托微信/抖音/快手多平台小程序上半年新增用户 <strong>1417万</strong>。",
+        "isNew": true,
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "CDPR确认《巫师4》2028年发售 · 希里担纲主角 · 团队规模超500人",
-        "titleLink": "https://www.gameres.com/913909.html",
+        "title": "网易《无限大》科隆展定档2027.1.15 · PC/PS5/移动全平台全球同步",
+        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
         "color": "blue",
-        "source": "GameRes/CDPR官方",
-        "sourceLink": "https://www.gameres.com/913909.html",
-        "body": "8月26日CDPR官方在Gamescom确认《<strong>巫师4(The Witcher IV)</strong>》将于<strong>2028年发售</strong>，主角为希里(Ciri)，采用<strong>虚幻引擎5</strong>开发（非自研REDengine以应对主机平台质量要求）。项目团队规模超<strong>500人</strong>，2025年Q4已进入<strong>垂直开发（Vertical Slice）阶段</strong>。游戏采用非线性叙事RPG框架，3D第三人称视角（系列首次），专为PS5/Xbox Series X|PC设计，不登陆上世代主机。CDPR同步公开全新概念艺术与30秒预告，希里持剑站在Skellige风格海岸。"
+        "source": "同花顺财经",
+        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
+        "body": "网易 HK9999 旗下<strong>Naked Rain工作室</strong>开发的都市题材开放世界RPG《无限大》正式定档 <strong>2027年1月15日</strong> 全球同步上线。玩家扮演代号无限扳机的王牌调查员，在多座城市中探索、结交伙伴、应对异常。2023年公布，2024年12月获版号，已宣布支持 <strong>DLSS 4</strong> 与光线追踪。",
+        "isNew": true,
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "SteamDB 8/26 在线榜 · CS2 53万领跑 · How to Fish 10.9万稳居#6 · PUBG腰斩跌至#45",
-        "titleLink": "https://steamdb.info/charts/",
+        "title": "腾讯《洛克王国:世界》国际服官宣 · 10/27全球首测 · 多语言支持",
+        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
         "color": "purple",
-        "source": "SteamDB",
-        "sourceLink": "https://steamdb.info/charts/",
-        "body": "SteamDB 在线榜(8/26实时)：<strong>CS2</strong>稳居#1(<strong>53万</strong>在线，环比-2.3%)，<strong>Dota 2</strong>第二(39.8万)。<strong>How to Fish</strong>10.9万峰值在线逆袭稳居<strong>#6</strong>（再次刷新本周在线记录）。亮点：<strong>HELLDIVERS 2</strong>回升至#14（6.79万，9月重大更新预热）。<strong>PUBG</strong>腰斩跌至<strong>#45</strong>（4.9万在线）。<strong>黑神话:悟空</strong>-30%促销本周末尾#13（峰值8.4万）。<strong>Marvel Rivals</strong>#9稳定3个月长尾。"
+        "source": "同花顺财经/腾讯魔方",
+        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
+        "body": "腾讯 K80700 魔方工作室群于 2026科隆游戏展期间宣布《<strong>洛克王国:世界</strong>》将面向海外市场推出，国际服首次全球封闭测试定于 <strong>2026年10月27日</strong>，国际服将支持繁体中文/英文/日文等多语言，主机、PC、移动三端全覆盖。腾讯在Q2财报中将本土游戏收入环比增长归因于《王者荣耀》收入增长+《洛克王国:世界》贡献。",
+        "isNew": true,
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "微信小游戏8/26畅销榜 · 《向僵尸开炮》反超登顶#1 · 《三国:冰河时代》跌至#2",
-        "titleLink": "https://www.youxituoluo.com/534208.html",
+        "title": "SteamDB 8/27在线榜 · CS2 54.8万领跑 · 邦戈猫闯入#3 · 渔力全开稳居#7",
+        "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
-        "source": "DataEye/游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/534208.html",
-        "body": "微信小游戏8/26<strong>日畅销榜</strong>格局剧变：<strong>《向僵尸开炮》</strong>（大梦龙途）反超登顶#1（昨日#2），结束<strong>《三国:冰河时代》</strong>（上海双盟）近两周的#1垄断，#2。<strong>《无尽冬日》</strong>稳居#3。<strong>《大侠闯天下》</strong>（4399）首次入榜冲至#8，<strong>《将魂师》</strong>回落至#12。腰部产品波动：<strong>《墨剑江湖》</strong>↑9位升至#11，<strong>《永远的蔚蓝星球》</strong>↑3位至#16。8月前两周微信小游戏累计投放素材<strong>142万组</strong>（同比+38%），大梦龙途、三七互娱、4399位列投放TOP3。"
+        "source": "SteamDB Charts",
+        "sourceLink": "https://steamdb.info/charts/",
+        "body": "CS2 <strong>548,104</strong> 持续霸榜，Dota 2 <strong>399,377</strong> 居次。<strong>Bongo Cat 邦戈猫 142,641</strong> 闯入#3，黑马持续发酵；PAL 幻兽帕鲁126,644 守#4；<strong>渔力全开 How to Fish 106,190</strong> 自20日发售以来稳居#7；漫威争锋 97,832 + 彩虹六号 79,369；HELLDIVERS 2 65,321 + EA FC26 62,845 收尾TOP16。",
+        "isNew": true,
+        "newUntil": "2026-08-29"
       }
     ],
     "taptap": {
@@ -379,142 +381,116 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "How to Fish",
-        "name": "How to Fish",
-        "steamAppId": "4001890",
-        "appId": 4001890,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4001890.jpg",
-        "rating": "92%",
-        "meta": "20 Aug, 2026",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4001890",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "fishing",
-          "simulator"
-        ]
-      },
-      {
-        "gameName": "Big Walk",
-        "name": "Big Walk",
-        "steamAppId": "1478500",
-        "appId": 1478500,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
-        "rating": "93%",
-        "meta": "8 Aug, 2026",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1478500",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "multiplayer",
-          "co-op"
-        ]
-      },
-      {
-        "gameName": "Mortal Shell II",
-        "name": "Mortal Shell II",
-        "steamAppId": "2584270",
-        "appId": 2584270,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg",
-        "rating": "74%",
-        "meta": "20 Aug, 2026",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/2584270",
-        "reviewSummary": "多半好评",
-        "tags": [
-          "action",
-          "rpg",
-          "soulslike"
-        ]
-      },
-      {
-        "gameName": "No More Room in Hell 2",
-        "name": "No More Room in Hell 2",
-        "steamAppId": "292000",
-        "appId": 292000,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/292000.jpg",
-        "rating": "54%",
-        "meta": "11 Aug, 2026",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/292000",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "zombie",
-          "fps",
-          "co-op"
-        ]
-      },
-      {
-        "gameName": "Hell Let Loose: Vietnam",
-        "name": "Hell Let Loose: Vietnam",
-        "steamAppId": "3079210",
-        "appId": 3079210,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg",
-        "rating": "60%",
-        "meta": "13 Aug, 2026",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3079210",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "fps",
-          "tactical",
-          "wwii"
-        ]
-      },
-      {
-        "gameName": "Sandustry",
-        "name": "Sandustry",
-        "steamAppId": "2764460",
-        "appId": 2764460,
+        "gameName": "Fell & Sell",
+        "name": "Fell & Sell",
+        "steamAppId": "4627110",
+        "appId": 4627110,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2764460.jpg",
-        "rating": "93%",
-        "meta": "13 Aug, 2026",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4627110/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/2764460",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "simulation",
-          "factory"
-        ]
+        "link": "https://store.steampowered.com/app/4627110",
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
-        "gameName": "Gallipoli",
-        "name": "Gallipoli",
-        "steamAppId": "3065940",
-        "appId": 3065940,
+        "gameName": "Night Rolls Cozy Store",
+        "name": "Night Rolls Cozy Store",
+        "steamAppId": "965190",
+        "appId": 965190,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3065940/capsule_616x353.jpg",
-        "rating": "75%",
-        "meta": "20 Aug, 2026",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/965190/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/3065940",
-        "reviewSummary": "多半好评",
-        "tags": [
-          "fps",
-          "war"
-        ]
+        "link": "https://store.steampowered.com/app/965190",
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
-        "gameName": "VHOLUME",
-        "name": "VHOLUME",
-        "steamAppId": "4131730",
-        "appId": 4131730,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4131730.jpg",
-        "rating": "91%",
-        "meta": "21 Aug, 2026",
+        "gameName": "Click the Button",
+        "name": "Click the Button",
+        "steamAppId": "3946950",
+        "appId": 3946950,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3946950/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4131730",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "rpg"
-        ]
+        "link": "https://store.steampowered.com/app/3946950",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "暗影地牢",
+        "name": "暗影地牢",
+        "steamAppId": "4423580",
+        "appId": 4423580,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4423580/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4423580",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "Pickle Pete",
+        "name": "Pickle Pete",
+        "steamAppId": "3963030",
+        "appId": 3963030,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3963030/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3963030",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "States of Power",
+        "name": "States of Power",
+        "steamAppId": "3126500",
+        "appId": 3126500,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3126500/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3126500",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "致命利爪",
+        "name": "致命利爪",
+        "steamAppId": "2827750",
+        "appId": 2827750,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2827750.jpg",
+        "rating": "",
+        "meta": "2026-08-26",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/2827750",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "吸吸吸有限公司",
+        "name": "吸吸吸有限公司",
+        "steamAppId": "4073860",
+        "appId": 4073860,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4073860/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-08-25",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4073860",
+        "reviewSummary": "差评",
+        "tags": []
       }
     ],
     "topSellers": [
@@ -661,159 +637,159 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-08-26",
-      "updatedAt": "10:20",
+      "asOf": "2026-08-27",
+      "updatedAt": "10:15",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "",
-          "current": 530079,
-          "peak24h": 1184605,
+          "nameZh": "反恐精英2",
+          "current": 548104,
+          "peak24h": 1277861,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "",
-          "current": 398279,
-          "peak24h": 865555,
+          "nameZh": "刀塔2",
+          "current": 399377,
+          "peak24h": 839635,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
           "appid": 3419430,
           "name": "Bongo Cat",
-          "nameZh": "",
-          "current": 143722,
-          "peak24h": 170336,
+          "nameZh": "邦戈猫",
+          "current": 142641,
+          "peak24h": 160125,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 4,
           "appid": 1623730,
           "name": "Palworld",
-          "nameZh": "",
-          "current": 131870,
-          "peak24h": 173839,
+          "nameZh": "幻兽帕鲁",
+          "current": 126644,
+          "peak24h": 166515,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
           "rank": 5,
           "appid": 2676230,
           "name": "FiveM",
-          "nameZh": "",
-          "current": 127397,
-          "peak24h": 179017,
+          "nameZh": "FiveM",
+          "current": 126625,
+          "peak24h": 175681,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 6,
-          "appid": 4001890,
-          "name": "How to Fish",
-          "nameZh": "",
-          "current": 109273,
-          "peak24h": 370901,
-          "link": "https://store.steampowered.com/app/4001890/"
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 124786,
+          "peak24h": 733906,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
-          "appid": 2767030,
-          "name": "Marvel Rivals",
-          "nameZh": "",
-          "current": 100159,
-          "peak24h": 103160,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "appid": 4001890,
+          "name": "How to Fish",
+          "nameZh": "How to Fish",
+          "current": 106190,
+          "peak24h": 373971,
+          "link": "https://store.steampowered.com/app/4001890/"
         },
         {
           "rank": 8,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "",
-          "current": 80798,
-          "peak24h": 82079,
-          "link": "https://store.steampowered.com/app/359550/"
+          "appid": 2767030,
+          "name": "Marvel Rivals",
+          "nameZh": "漫威争锋",
+          "current": 97832,
+          "peak24h": 100159,
+          "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 9,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "",
-          "current": 78891,
-          "peak24h": 255650,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号：围攻",
+          "current": 79369,
+          "peak24h": 80798,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 10,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "",
-          "current": 74595,
-          "peak24h": 101472,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "Apex英雄",
+          "current": 76325,
+          "peak24h": 258211,
+          "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 11,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "",
-          "current": 73526,
-          "peak24h": 87408,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "TBH: Task Bar Hero",
+          "current": 73753,
+          "peak24h": 99223,
+          "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 12,
           "appid": 1422450,
           "name": "Deadlock",
-          "nameZh": "",
-          "current": 71904,
-          "peak24h": 73515,
+          "nameZh": "死锁",
+          "current": 70439,
+          "peak24h": 72927,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 13,
-          "appid": 3405690,
-          "name": "EA SPORTS FC 26",
-          "nameZh": "",
-          "current": 68970,
-          "peak24h": 80984,
-          "link": "https://store.steampowered.com/app/3405690/"
+          "appid": 108600,
+          "name": "Project Zomboid",
+          "nameZh": "僵尸末日工程",
+          "current": 70340,
+          "peak24h": 83433,
+          "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 14,
           "appid": 553850,
           "name": "HELLDIVERS 2",
-          "nameZh": "",
-          "current": 67949,
-          "peak24h": 73010,
+          "nameZh": "绝地潜兵2",
+          "current": 65321,
+          "peak24h": 69196,
           "link": "https://store.steampowered.com/app/553850/"
         },
         {
           "rank": 15,
           "appid": 2357570,
           "name": "Overwatch",
-          "nameZh": "",
-          "current": 65006,
-          "peak24h": 66320,
+          "nameZh": "守望先锋",
+          "current": 63905,
+          "peak24h": 65006,
           "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 16,
-          "appid": 381210,
-          "name": "Dead by Daylight",
-          "nameZh": "",
-          "current": 63229,
-          "peak24h": 77886,
-          "link": "https://store.steampowered.com/app/381210/"
+          "appid": 3405690,
+          "name": "EA SPORTS FC 26",
+          "nameZh": "EA体育FC26",
+          "current": 62845,
+          "peak24h": 77475,
+          "link": "https://store.steampowered.com/app/3405690/"
         }
       ]
     },
-    "newGamesAsOf": "2026-08-26",
+    "newGamesAsOf": "2026-08-27",
     "topSellersAsOf": "2026-08-25",
-    "mostPlayedAsOf": "2026-08-26"
+    "mostPlayedAsOf": "2026-08-27"
   },
   "miniapp": {
     "ranking": [
@@ -1860,6 +1836,17 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026-08-26",
+        "title": "巨人网络 H1 财报：营收46.89亿+182% 净利21.44亿+176% ·《超自然行动组》DAU破1200万",
+        "amount": "净利21.44亿",
+        "stage": "半年报",
+        "investor": "巨人网络 002558",
+        "link": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
+        "major": true,
+        "isNew": true,
+        "newUntil": "2026-08-29"
+      },
       {
         "date": "2026年8月26日",
         "title": "三七互娱 H1 财报：营收72.75亿 净利+26% · 海外占比首破40%",
