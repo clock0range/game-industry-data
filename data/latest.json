@@ -385,32 +385,12 @@
         "appId": 4001890,
         "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg",
         "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4001890.jpg",
-        "rating": "92%",
-        "meta": "20 Aug, 2026",
+        "rating": "",
+        "meta": "8/20上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4001890",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "fishing",
-          "simulator"
-        ]
-      },
-      {
-        "gameName": "Big Walk",
-        "name": "Big Walk",
-        "steamAppId": "1478500",
-        "appId": 1478500,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
-        "rating": "93%",
-        "meta": "8 Aug, 2026",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1478500",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "multiplayer",
-          "co-op"
-        ]
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
         "gameName": "Mortal Shell II",
@@ -419,16 +399,26 @@
         "appId": 2584270,
         "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
         "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg",
-        "rating": "74%",
-        "meta": "20 Aug, 2026",
+        "rating": "",
+        "meta": "8/20上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/2584270",
-        "reviewSummary": "多半好评",
-        "tags": [
-          "action",
-          "rpg",
-          "soulslike"
-        ]
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "Big Walk",
+        "name": "Big Walk",
+        "steamAppId": "1478500",
+        "appId": 1478500,
+        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/header.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
+        "rating": "",
+        "meta": "8/20上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1478500",
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
         "gameName": "No More Room in Hell 2",
@@ -437,16 +427,12 @@
         "appId": 292000,
         "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/header.jpg",
         "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/292000.jpg",
-        "rating": "54%",
-        "meta": "11 Aug, 2026",
+        "rating": "",
+        "meta": "8/13上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/292000",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "zombie",
-          "fps",
-          "co-op"
-        ]
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
         "gameName": "Hell Let Loose: Vietnam",
@@ -455,66 +441,54 @@
         "appId": 3079210,
         "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
         "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg",
-        "rating": "60%",
-        "meta": "13 Aug, 2026",
+        "rating": "",
+        "meta": "8/13上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/3079210",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "fps",
-          "tactical",
-          "wwii"
-        ]
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
-        "gameName": "Sandustry",
-        "name": "Sandustry",
-        "steamAppId": "2764460",
-        "appId": 2764460,
+        "gameName": "Alien: Fireteam Elite 2",
+        "name": "Alien: Fireteam Elite 2",
+        "steamAppId": "3448650",
+        "appId": 3448650,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2764460.jpg",
-        "rating": "93%",
-        "meta": "13 Aug, 2026",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3448650/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "8/25上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/2764460",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "simulation",
-          "factory"
-        ]
+        "link": "https://store.steampowered.com/app/3448650",
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
-        "gameName": "Gallipoli",
-        "name": "Gallipoli",
-        "steamAppId": "3065940",
-        "appId": 3065940,
+        "gameName": "Fell & Sell",
+        "name": "Fell & Sell",
+        "steamAppId": "4627110",
+        "appId": 4627110,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3065940/capsule_616x353.jpg",
-        "rating": "75%",
-        "meta": "20 Aug, 2026",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4627110/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "8/26上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/3065940",
-        "reviewSummary": "多半好评",
-        "tags": [
-          "fps",
-          "war"
-        ]
+        "link": "https://store.steampowered.com/app/4627110",
+        "reviewSummary": "差评",
+        "tags": []
       },
       {
-        "gameName": "VHOLUME",
-        "name": "VHOLUME",
-        "steamAppId": "4131730",
-        "appId": 4131730,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4131730/1b262360aa9cfa7ce376b2677b3c641556a7254f/header.jpg?t=1787478152",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4131730.jpg",
-        "rating": "91%",
-        "meta": "21 Aug, 2026",
+        "gameName": "致命利爪",
+        "name": "致命利爪",
+        "steamAppId": "2827750",
+        "appId": 2827750,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2827750.jpg",
+        "rating": "",
+        "meta": "8/26上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4131730",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "rpg"
-        ]
+        "link": "https://store.steampowered.com/app/2827750",
+        "reviewSummary": "差评",
+        "tags": []
       }
     ],
     "topSellers": [
@@ -811,7 +785,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-08-26",
+    "newGamesAsOf": "2026-08-27",
     "topSellersAsOf": "2026-08-25",
     "mostPlayedAsOf": "2026-08-27"
   },
