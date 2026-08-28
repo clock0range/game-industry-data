@@ -1,11 +1,11 @@
 {
-  "generated": "2026-08-28T10:21:00+08:00",
+  "generated": "2026-08-28T10:20:00+08:00",
   "latest": "data/latest.json",
   "archives": [
     {
       "date": "2026-08-28",
       "file": "data/2026-08-28.json",
-      "lastUpdated": "2026-08-28T10:21:00+08:00",
+      "lastUpdated": "2026-08-28T10:20:00+08:00",
       "summary": {
         "iosCount": 15,
         "steamSellers": 10,
@@ -137,26 +137,11 @@
   ],
   "current": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T10:21:00+08:00",
-    "ios": [
-      "王者荣耀",
-      "和平精英",
-      "无畏契约：源能行动"
-    ],
-    "steamMostPlayed": [
-      "Counter-Strike 2",
-      "Dota 2",
-      "Bongo Cat"
-    ],
-    "steamTopSellers": [
-      "How to Fish",
-      "Counter-Strike 2",
-      "Dota 2"
-    ],
-    "highlights": [
-      "科隆游戏展再现中国时间 · 最佳手游五席全包 ·《湮灭之潮》获双提名",
-      "网易《无限大》定档2027.1.15 · 新都市重霄融合杭州上海地标",
-      "腾讯《洛克王国：世界》国际服10/27首测 ·《昭和米国物语》科隆回归"
-    ]
+    "lastUpdated": "2026-08-28T10:20:00+08:00",
+    "apiStatus": {
+      "ios": "ok (15 games)",
+      "steamSellers": "failed (kept existing)",
+      "steamIndie": "failed (kept existing)"
+    }
   }
 }
