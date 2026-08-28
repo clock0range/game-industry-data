@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T10:20:00+08:00",
+    "lastUpdated": "2026-08-28T10:57:00+08:00",
     "footerDate": "数据截至2026年8月28日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,14 +183,44 @@
     ],
     "highlights": [
       {
+        "title": "市场监管总局附条件批准腾讯收购喜马拉雅股权案",
+        "titleLink": "https://new.qq.com/rain/a/20260828A025PH00",
+        "color": "purple",
+        "source": "金台资讯/腾讯网",
+        "sourceLink": "https://new.qq.com/rain/a/20260828A025PH00",
+        "body": "8/27 市场监管总局<strong>附条件批准腾讯控股收购喜马拉雅股权案</strong>，涉数字音频领域经营者集中审查。结合近期腾讯连续出手（领投 Godot 引擎 W4 Games 1800万美元 B 轮、官宣《王者万象棋》定档），文娱/音频/AI 赛道整合持续加速。",
+        "isNew": true,
+        "newUntil": "2026-08-30"
+      },
+      {
+        "title": "A股游戏公司半年报集中披露 · 近七成盈利 · 行业H1收入1884.5亿+12.17%",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a9046e069252",
+        "color": "green",
+        "source": "Wind/中国音数协",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a9046e069252",
+        "body": "截至 8/27 A股已有 <strong>21家游戏公司</strong>披露 2026 半年报，<strong>14家盈利</strong>（占比近七成）。世纪华通 H1 净利同比 <strong>+69.51%</strong>（点点互动《无尽冬日》长占小游戏榜前列）；吉比特营收37.27亿 <strong>+48%</strong>；游族归母净利 2.53亿 <strong>+403.8%</strong>（海外收入占比72%）。行业整体 H1 实际销售收入 <strong>1884.50亿元 +12.17%</strong>，自研游戏出海收入 <strong>123.72亿美元 +30.22%</strong>。",
+        "isNew": true,
+        "newUntil": "2026-08-30"
+      },
+      {
+        "title": "腾讯《王者万象棋》定档9/10 · 王者荣耀IP自走棋 · 全平台预约7000万",
+        "titleLink": "https://view.inews.qq.com/a/20260827A0DKXF00",
+        "color": "blue",
+        "source": "观点新媒体/腾讯网",
+        "sourceLink": "https://view.inews.qq.com/a/20260827A0DKXF00",
+        "body": "腾讯 8/27 官宣<strong>《王者荣耀》IP自走棋新作《王者万象棋》</strong>定档 <strong>9月10日</strong>上线，全平台预约突破 <strong>7000万</strong>。天美工作室群开发，以老 IP + 新品类延长《王者荣耀》生命周期，9/10 上线后关注 iOS 免费榜走势。",
+        "isNew": true,
+        "newUntil": "2026-08-30"
+      },
+      {
         "title": "腾讯领投W4 Games 1800万美元B轮 · Godot引擎加速亚洲生态",
         "titleLink": "https://xueqiu.com/6417412234/406833760",
         "color": "purple",
         "source": "映维网/雪球",
         "sourceLink": "https://xueqiu.com/6417412234/406833760",
-        "body": "开源游戏引擎<strong>Godot</strong>商业化主体<strong>W4 Games</strong> 8/27 宣布完成 <strong>1800万美元</strong> B 轮融资，腾讯领投并与W4 Games签署多年战略合作协议，共同推动Godot引擎在亚洲企业的本地化与生态扩张。累计融资达 <strong>3300万美元</strong>。Steam平台Godot游戏数量2024-2025连续两年同比+50%，年销超100万美元的Godot游戏从3年前的2款增至50余款。",
+        "body": "开源引擎 <strong>Godot</strong> 商业化主体 <strong>W4 Games</strong> 8/27 宣布完成 <strong>1800万美元</strong> B 轮融资，腾讯领投并签署多年战略合作，推动 Godot 在亚洲本地化。累计融资超 <strong>3300万美元</strong>；Steam 上 Godot 游戏数量连续两年同比+50%，年销超百万美元的 Godot 游戏从 3 年前的 2 款增至 50 余款。",
         "isNew": true,
-        "newUntil": "2026-08-29"
+        "newUntil": "2026-08-30"
       },
       {
         "title": "巨人网络2026H1财报 · 营收46.89亿+182% · 净利21.44亿+176%",
@@ -198,39 +228,19 @@
         "color": "green",
         "source": "财联社/网易",
         "sourceLink": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
-        "body": "巨人网络 002558 8/26 晚披露半年报，<strong>营收46.89亿</strong>同比<strong>+182.08%</strong>，<strong>归母净利21.44亿</strong>同比<strong>+175.96%</strong>。<strong>《超自然行动组》</strong>贡献核心增量（《鬼吹灯》联动地图云南虫谷+原创无限梦境），近期DAU突破 <strong>1200万</strong>，海外版《Tomb Busters》日韩美上线首日分别登iOS免费榜 <strong>日本#3/韩国#7</strong>；《王者征途》依托微信/抖音/快手多平台小程序上半年新增用户 <strong>1417万</strong>。",
+        "body": "巨人网络 002558 半年报：<strong>营收46.89亿</strong> <strong>+182.08%</strong>，<strong>归母净利21.44亿</strong> <strong>+175.96%</strong>。<strong>《超自然行动组》</strong>DAU 突破 <strong>1200万</strong>（海外版《Tomb Busters》日韩美首日登 iOS 免费榜日本#3/韩国#7）；《王者征途》小程序上半年新增用户 1417万。",
         "isNew": true,
-        "newUntil": "2026-08-29"
+        "newUntil": "2026-08-30"
       },
       {
-        "title": "网易《无限大》科隆展定档2027.1.15 · PC/PS5/移动全平台全球同步",
-        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "color": "blue",
-        "source": "同花顺财经",
-        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "body": "网易 HK9999 旗下<strong>Naked Rain工作室</strong>开发的都市题材开放世界RPG《无限大》正式定档 <strong>2027年1月15日</strong> 全球同步上线。玩家扮演代号无限扳机的王牌调查员，在多座城市中探索、结交伙伴、应对异常。2023年公布，2024年12月获版号，已宣布支持 <strong>DLSS 4</strong> 与光线追踪。",
-        "isNew": true,
-        "newUntil": "2026-08-29"
-      },
-      {
-        "title": "腾讯《洛克王国:世界》国际服官宣 · 10/27全球首测 · 多语言支持",
-        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "color": "purple",
-        "source": "同花顺财经/腾讯魔方",
-        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "body": "腾讯 K80700 魔方工作室群于 2026科隆游戏展期间宣布《<strong>洛克王国:世界</strong>》将面向海外市场推出，国际服首次全球封闭测试定于 <strong>2026年10月27日</strong>，国际服将支持繁体中文/英文/日文等多语言，主机、PC、移动三端全覆盖。腾讯在Q2财报中将本土游戏收入环比增长归因于《王者荣耀》收入增长+《洛克王国:世界》贡献。",
-        "isNew": true,
-        "newUntil": "2026-08-29"
-      },
-      {
-        "title": "SteamDB 8/27在线榜 · CS2 54.8万领跑 · 邦戈猫闯入#3 · 渔力全开稳居#7",
+        "title": "SteamDB 8/28在线榜 · CS2 54.3万领跑 · 邦戈猫稳居#3 · 星球大战零号公司首进#16",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB Charts",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "CS2 <strong>548,104</strong> 持续霸榜，Dota 2 <strong>399,377</strong> 居次。<strong>Bongo Cat 邦戈猫 142,641</strong> 闯入#3，黑马持续发酵；PAL 幻兽帕鲁126,644 守#4；<strong>渔力全开 How to Fish 106,190</strong> 自20日发售以来稳居#7；漫威争锋 97,832 + 彩虹六号 79,369；HELLDIVERS 2 65,321 + EA FC26 62,845 收尾TOP16。",
+        "body": "CS2 <strong>542,750</strong> 领跑，Dota 2 <strong>442,316</strong> 居次，<strong>Bongo Cat 邦戈猫 137,527</strong> 稳居#3。PUBG <strong>116,547</strong> 守#6；<strong>How to Fish 渔力全开 88,162</strong> 滑至#8（发售 9 天累计稳居 TOP10）。新进 TOP16：<strong>STAR WARS Zero Company™ 63,514</strong> 首登#16（EA BioWare 星球大战新 IP）。",
         "isNew": true,
-        "newUntil": "2026-08-29"
+        "newUntil": "2026-08-30"
       }
     ],
     "taptap": {
@@ -797,109 +807,149 @@
         "rank": 1,
         "name": "向僵尸开炮",
         "category": "末日塔防",
-        "publisher": "大梦龙途",
-        "change": "▲1"
+        "publisher": "海南盛昌",
+        "change": "/"
       },
       {
         "rank": 2,
         "name": "三国:冰河时代",
         "category": "SLG",
-        "publisher": "上海双盟",
-        "change": "▼1"
+        "publisher": "欢游互动",
+        "change": "/"
       },
       {
         "rank": 3,
         "name": "无尽冬日",
         "category": "SLG",
         "publisher": "点点互动",
-        "change": "/"
+        "change": "▲3"
       },
       {
         "rank": 4,
-        "name": "道友来挖宝",
+        "name": "灵画师",
         "category": "休闲",
-        "publisher": "深圳雷霆",
-        "change": "▲1"
+        "publisher": "广州光游",
+        "change": "▲9"
       },
       {
         "rank": 5,
-        "name": "龙迹之城",
-        "category": "SLG",
-        "publisher": "上海德寒",
-        "change": "▼1"
+        "name": "疯狂水世界",
+        "category": "休闲",
+        "publisher": "益世界",
+        "change": "▲6"
       },
       {
         "rank": 6,
-        "name": "灵画师",
-        "category": "国风放置",
-        "publisher": "波克城市",
-        "change": "/"
+        "name": "永远的蔚蓝星球",
+        "category": "休闲",
+        "publisher": "广州颂悦",
+        "change": "▲2"
       },
       {
         "rank": 7,
         "name": "跃动小子",
         "category": "放置",
         "publisher": "波克科技",
-        "change": "▲2"
+        "change": "▲8"
       },
       {
         "rank": 8,
-        "name": "时光大爆炸",
-        "category": "休闲",
-        "publisher": "三七互娱",
+        "name": "浪漫餐厅",
+        "category": "模拟经营",
+        "publisher": "柠檬微趣",
         "change": "▲1"
       },
       {
         "rank": 9,
-        "name": "寻道大千",
-        "category": "SLG",
-        "publisher": "三七互娱",
-        "change": "▼1"
+        "name": "我的花园世界",
+        "category": "休闲",
+        "publisher": "厦门麟贝",
+        "change": "▲6"
       },
       {
         "rank": 10,
-        "name": "雷霆战机:集结",
-        "category": "休闲",
-        "publisher": "北海爱乐游",
-        "change": "/"
+        "name": "向往的生活",
+        "category": "模拟经营",
+        "publisher": "深圳必凡",
+        "change": "▲2"
       },
       {
         "rank": 11,
-        "name": "百炼英雄",
-        "category": "放置",
-        "publisher": "深圳九九",
-        "change": "/"
+        "name": "向末日开炮",
+        "category": "末日塔防",
+        "publisher": "海南易多量",
+        "change": "▲1"
       },
       {
         "rank": 12,
-        "name": "神器传说",
-        "category": "休闲",
-        "publisher": "深圳全民",
-        "change": "/"
+        "name": "梦幻消除战",
+        "category": "消除",
+        "publisher": "广州喜势",
+        "change": "▲1"
       },
       {
         "rank": 13,
+        "name": "神器传说",
+        "category": "放置",
+        "publisher": "深圳全民",
+        "change": "▲7"
+      },
+      {
+        "rank": 14,
         "name": "保卫向日葵",
         "category": "塔防",
         "publisher": "深圳一起梦游",
         "change": "/"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "青云诀之伏魔",
-        "category": "角色",
+        "category": "MMO",
         "publisher": "海南元游",
-        "change": "▼4"
+        "change": "▲3"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "腾讯欢乐斗地主",
         "category": "棋牌",
         "publisher": "腾讯",
         "change": "/"
+      },
+      {
+        "rank": 17,
+        "name": "天命行者",
+        "category": "放置",
+        "publisher": "广州大蓝",
+        "change": "▲1"
+      },
+      {
+        "rank": 18,
+        "name": "永夜起源",
+        "category": "卡牌",
+        "publisher": "广州招崭",
+        "change": "▲3"
+      },
+      {
+        "rank": 19,
+        "name": "空格之境",
+        "category": "休闲",
+        "publisher": "江西启游",
+        "change": "▲2"
+      },
+      {
+        "rank": 20,
+        "name": "奔奔王国",
+        "category": "SLG",
+        "publisher": "福州点点松云",
+        "change": "▲1"
       }
     ],
     "dynamics": [
+      {
+        "title": "8/27 官方畅销榜 · 向僵尸开炮连续霸榜 · 灵画师/疯狂水世界强势回归",
+        "color": "cyan",
+        "body": "AppGrowing 官方小游戏畅销榜更新：<strong>《向僵尸开炮》</strong>连续霸榜#1，《三国:冰河时代》守#2，《无尽冬日》▲3 至#3。<strong>《灵画师》▲9 至#4</strong>、<strong>《疯狂水世界》▲6 至#5</strong> 强势回归；<strong>《跃动小子》▲8</strong> 升至#7。<strong>《我的花园世界》▲6 首进TOP10</strong>，模拟经营/休闲换血加速。"
+      },
       {
         "title": "微信小游戏畅销榜 8/25 · 向僵尸开炮升至榜首 · 5款新上榜",
         "color": "orange",
@@ -994,7 +1044,7 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08-27 日榜"
+    "asOf": "2026-08-27 官方畅销榜"
   },
   "segments": [
     {
@@ -1072,6 +1122,28 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "name": "王者万象棋",
+      "link": "https://view.inews.qq.com/a/20260827A0DKXF00",
+      "badge": "9.10定档",
+      "badgeColor": "blue",
+      "meta": "腾讯 · 王者荣耀IP自走棋 · 天美工作室 · 全平台预约7000万",
+      "desc": "腾讯《王者荣耀》IP 自走棋新作《王者万象棋》8/27 官宣定档 9月10日 全平台上线，全平台预约突破 7000万。天美工作室群开发，腾讯旗下首款正式商业化的自走棋产品，老 IP + 新玩法延长《王者荣耀》生命周期。9/10 上线后可关注 iOS 免费榜/畅销榜走势。",
+      "date": "9月10日上线",
+      "tags": [
+        "自走棋",
+        "王者荣耀",
+        "腾讯",
+        "IP衍生"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "王者万象棋",
+      "manualCover": "",
+      "finalCoverUrl": ""
+    },
     {
       "date": "2026-08-28",
       "name": "凡应 EP02 测试",
@@ -1870,6 +1942,12 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026上半年",
+        "title": "世纪华通 H1 净利同比 +69.51% · 创历史最佳",
+        "desc": "世纪华通（002602）H1 净利润同比 <strong>+69.51%</strong>，跻身游戏公司第一梯队。旗下 <strong>点点互动</strong>《无尽冬日》长期占据小游戏赛道前列并稳居 iOS 畅销榜前五，《奔奔王国》排名稳步提升；盛趣游戏聚焦核心 IP（《传奇》系新品+端手并进）；<strong>Century Games</strong> 出海三爆款（Whiteout Survival 6月再度问鼎全球手游收入冠军 / Kingshot 稳居出海前三 / Tasty Travels 进前五）。储备管线：《彩虹岛:经典》《永恒之塔:经典》《饥困荒野》加速推进，7月与韩国 NC 达成《AION2》上线运营合作。",
+        "amount": "净利同比 +69.51%"
+      },
       {
         "date": "2026-08-26",
         "title": "巨人网络 H1 财报：营收46.89亿+182% 净利21.44亿+176% ·《超自然行动组》DAU破1200万",
