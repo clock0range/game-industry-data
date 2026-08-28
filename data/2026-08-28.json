@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T10:20:00+08:00",
+    "lastUpdated": "2026-08-28T10:57:00+08:00",
     "footerDate": "数据截至2026年8月28日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,14 +183,44 @@
     ],
     "highlights": [
       {
+        "title": "市场监管总局附条件批准腾讯收购喜马拉雅股权案",
+        "titleLink": "https://new.qq.com/rain/a/20260828A025PH00",
+        "color": "purple",
+        "source": "金台资讯/腾讯网",
+        "sourceLink": "https://new.qq.com/rain/a/20260828A025PH00",
+        "body": "8/27 市场监管总局<strong>附条件批准腾讯控股收购喜马拉雅股权案</strong>，涉数字音频领域经营者集中审查。结合近期腾讯连续出手（领投 Godot 引擎 W4 Games 1800万美元 B 轮、官宣《王者万象棋》定档），文娱/音频/AI 赛道整合持续加速。",
+        "isNew": true,
+        "newUntil": "2026-08-30"
+      },
+      {
+        "title": "A股游戏公司半年报集中披露 · 近七成盈利 · 行业H1收入1884.5亿+12.17%",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a9046e069252",
+        "color": "green",
+        "source": "Wind/中国音数协",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_4216a9046e069252",
+        "body": "截至 8/27 A股已有 <strong>21家游戏公司</strong>披露 2026 半年报，<strong>14家盈利</strong>（占比近七成）。世纪华通 H1 净利同比 <strong>+69.51%</strong>（点点互动《无尽冬日》长占小游戏榜前列）；吉比特营收37.27亿 <strong>+48%</strong>；游族归母净利 2.53亿 <strong>+403.8%</strong>（海外收入占比72%）。行业整体 H1 实际销售收入 <strong>1884.50亿元 +12.17%</strong>，自研游戏出海收入 <strong>123.72亿美元 +30.22%</strong>。",
+        "isNew": true,
+        "newUntil": "2026-08-30"
+      },
+      {
+        "title": "腾讯《王者万象棋》定档9/10 · 王者荣耀IP自走棋 · 全平台预约7000万",
+        "titleLink": "https://view.inews.qq.com/a/20260827A0DKXF00",
+        "color": "blue",
+        "source": "观点新媒体/腾讯网",
+        "sourceLink": "https://view.inews.qq.com/a/20260827A0DKXF00",
+        "body": "腾讯 8/27 官宣<strong>《王者荣耀》IP自走棋新作《王者万象棋》</strong>定档 <strong>9月10日</strong>上线，全平台预约突破 <strong>7000万</strong>。天美工作室群开发，以老 IP + 新品类延长《王者荣耀》生命周期，9/10 上线后关注 iOS 免费榜走势。",
+        "isNew": true,
+        "newUntil": "2026-08-30"
+      },
+      {
         "title": "腾讯领投W4 Games 1800万美元B轮 · Godot引擎加速亚洲生态",
         "titleLink": "https://xueqiu.com/6417412234/406833760",
         "color": "purple",
         "source": "映维网/雪球",
         "sourceLink": "https://xueqiu.com/6417412234/406833760",
-        "body": "开源游戏引擎<strong>Godot</strong>商业化主体<strong>W4 Games</strong> 8/27 宣布完成 <strong>1800万美元</strong> B 轮融资，腾讯领投并与W4 Games签署多年战略合作协议，共同推动Godot引擎在亚洲企业的本地化与生态扩张。累计融资达 <strong>3300万美元</strong>。Steam平台Godot游戏数量2024-2025连续两年同比+50%，年销超100万美元的Godot游戏从3年前的2款增至50余款。",
+        "body": "开源引擎 <strong>Godot</strong> 商业化主体 <strong>W4 Games</strong> 8/27 宣布完成 <strong>1800万美元</strong> B 轮融资，腾讯领投并签署多年战略合作，推动 Godot 在亚洲本地化。累计融资超 <strong>3300万美元</strong>；Steam 上 Godot 游戏数量连续两年同比+50%，年销超百万美元的 Godot 游戏从 3 年前的 2 款增至 50 余款。",
         "isNew": true,
-        "newUntil": "2026-08-29"
+        "newUntil": "2026-08-30"
       },
       {
         "title": "巨人网络2026H1财报 · 营收46.89亿+182% · 净利21.44亿+176%",
@@ -198,39 +228,19 @@
         "color": "green",
         "source": "财联社/网易",
         "sourceLink": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
-        "body": "巨人网络 002558 8/26 晚披露半年报，<strong>营收46.89亿</strong>同比<strong>+182.08%</strong>，<strong>归母净利21.44亿</strong>同比<strong>+175.96%</strong>。<strong>《超自然行动组》</strong>贡献核心增量（《鬼吹灯》联动地图云南虫谷+原创无限梦境），近期DAU突破 <strong>1200万</strong>，海外版《Tomb Busters》日韩美上线首日分别登iOS免费榜 <strong>日本#3/韩国#7</strong>；《王者征途》依托微信/抖音/快手多平台小程序上半年新增用户 <strong>1417万</strong>。",
+        "body": "巨人网络 002558 半年报：<strong>营收46.89亿</strong> <strong>+182.08%</strong>，<strong>归母净利21.44亿</strong> <strong>+175.96%</strong>。<strong>《超自然行动组》</strong>DAU 突破 <strong>1200万</strong>（海外版《Tomb Busters》日韩美首日登 iOS 免费榜日本#3/韩国#7）；《王者征途》小程序上半年新增用户 1417万。",
         "isNew": true,
-        "newUntil": "2026-08-29"
+        "newUntil": "2026-08-30"
       },
       {
-        "title": "网易《无限大》科隆展定档2027.1.15 · PC/PS5/移动全平台全球同步",
-        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "color": "blue",
-        "source": "同花顺财经",
-        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "body": "网易 HK9999 旗下<strong>Naked Rain工作室</strong>开发的都市题材开放世界RPG《无限大》正式定档 <strong>2027年1月15日</strong> 全球同步上线。玩家扮演代号无限扳机的王牌调查员，在多座城市中探索、结交伙伴、应对异常。2023年公布，2024年12月获版号，已宣布支持 <strong>DLSS 4</strong> 与光线追踪。",
-        "isNew": true,
-        "newUntil": "2026-08-29"
-      },
-      {
-        "title": "腾讯《洛克王国:世界》国际服官宣 · 10/27全球首测 · 多语言支持",
-        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "color": "purple",
-        "source": "同花顺财经/腾讯魔方",
-        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
-        "body": "腾讯 K80700 魔方工作室群于 2026科隆游戏展期间宣布《<strong>洛克王国:世界</strong>》将面向海外市场推出，国际服首次全球封闭测试定于 <strong>2026年10月27日</strong>，国际服将支持繁体中文/英文/日文等多语言，主机、PC、移动三端全覆盖。腾讯在Q2财报中将本土游戏收入环比增长归因于《王者荣耀》收入增长+《洛克王国:世界》贡献。",
-        "isNew": true,
-        "newUntil": "2026-08-29"
-      },
-      {
-        "title": "SteamDB 8/27在线榜 · CS2 54.8万领跑 · 邦戈猫闯入#3 · 渔力全开稳居#7",
+        "title": "SteamDB 8/28在线榜 · CS2 54.3万领跑 · 邦戈猫稳居#3 · 星球大战零号公司首进#16",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB Charts",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "CS2 <strong>548,104</strong> 持续霸榜，Dota 2 <strong>399,377</strong> 居次。<strong>Bongo Cat 邦戈猫 142,641</strong> 闯入#3，黑马持续发酵；PAL 幻兽帕鲁126,644 守#4；<strong>渔力全开 How to Fish 106,190</strong> 自20日发售以来稳居#7；漫威争锋 97,832 + 彩虹六号 79,369；HELLDIVERS 2 65,321 + EA FC26 62,845 收尾TOP16。",
+        "body": "CS2 <strong>542,750</strong> 领跑，Dota 2 <strong>442,316</strong> 居次，<strong>Bongo Cat 邦戈猫 137,527</strong> 稳居#3。PUBG <strong>116,547</strong> 守#6；<strong>How to Fish 渔力全开 88,162</strong> 滑至#8（发售 9 天累计稳居 TOP10）。新进 TOP16：<strong>STAR WARS Zero Company™ 63,514</strong> 首登#16（EA BioWare 星球大战新 IP）。",
         "isNew": true,
-        "newUntil": "2026-08-29"
+        "newUntil": "2026-08-30"
       }
     ],
     "taptap": {
@@ -637,159 +647,159 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-08-27",
-      "updatedAt": "10:15",
+      "asOf": "2026-08-28",
+      "updatedAt": "10:37",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
-          "appid": 730,
+          "appid": "730",
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 548104,
-          "peak24h": 1277861,
+          "current": 542750,
+          "peak24h": 1249537,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
-          "appid": 570,
+          "appid": "570",
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 399377,
-          "peak24h": 839635,
+          "current": 442316,
+          "peak24h": 885638,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": 3419430,
+          "appid": "3419430",
           "name": "Bongo Cat",
           "nameZh": "邦戈猫",
-          "current": 142641,
-          "peak24h": 160125,
+          "current": 137527,
+          "peak24h": 166028,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 4,
-          "appid": 1623730,
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 126644,
-          "peak24h": 166515,
-          "link": "https://store.steampowered.com/app/1623730/"
-        },
-        {
-          "rank": 5,
-          "appid": 2676230,
+          "appid": "2676230",
           "name": "FiveM",
           "nameZh": "FiveM",
-          "current": 126625,
-          "peak24h": 175681,
+          "current": 129058,
+          "peak24h": 172267,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
+          "rank": 5,
+          "appid": "1623730",
+          "name": "Palworld",
+          "nameZh": "幻兽帕鲁",
+          "current": 121570,
+          "peak24h": 162853,
+          "link": "https://store.steampowered.com/app/1623730/"
+        },
+        {
           "rank": 6,
-          "appid": 578080,
+          "appid": "578080",
           "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "绝地求生",
-          "current": 124786,
-          "peak24h": 733906,
+          "current": 116547,
+          "peak24h": 735831,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
-          "appid": 4001890,
-          "name": "How to Fish",
-          "nameZh": "How to Fish",
-          "current": 106190,
-          "peak24h": 373971,
-          "link": "https://store.steampowered.com/app/4001890/"
-        },
-        {
-          "rank": 8,
-          "appid": 2767030,
+          "appid": "2767030",
           "name": "Marvel Rivals",
           "nameZh": "漫威争锋",
-          "current": 97832,
-          "peak24h": 100159,
+          "current": 96027,
+          "peak24h": 97832,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
+          "rank": 8,
+          "appid": "4001890",
+          "name": "How to Fish",
+          "nameZh": "渔力全开",
+          "current": 88162,
+          "peak24h": 372462,
+          "link": "https://store.steampowered.com/app/4001890/"
+        },
+        {
           "rank": 9,
-          "appid": 359550,
+          "appid": "359550",
           "name": "Tom Clancy's Rainbow Six Siege",
           "nameZh": "彩虹六号：围攻",
-          "current": 79369,
-          "peak24h": 80798,
+          "current": 79107,
+          "peak24h": 79624,
           "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 10,
-          "appid": 1172470,
+          "appid": "1172470",
           "name": "Apex Legends",
           "nameZh": "Apex英雄",
-          "current": 76325,
-          "peak24h": 258211,
+          "current": 74060,
+          "peak24h": 257945,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 11,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "TBH: Task Bar Hero",
-          "current": 73753,
-          "peak24h": 99223,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "appid": "252490",
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 70411,
+          "peak24h": 122536,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 12,
-          "appid": 1422450,
-          "name": "Deadlock",
-          "nameZh": "死锁",
-          "current": 70439,
-          "peak24h": 72927,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "appid": "3678970",
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "TBH：任务栏英雄",
+          "current": 70180,
+          "peak24h": 95770,
+          "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 13,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "僵尸末日工程",
-          "current": 70340,
-          "peak24h": 83433,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": "1422450",
+          "name": "Deadlock",
+          "nameZh": "僵局",
+          "current": 69878,
+          "peak24h": 72034,
+          "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 14,
-          "appid": 553850,
-          "name": "HELLDIVERS 2",
-          "nameZh": "绝地潜兵2",
-          "current": 65321,
-          "peak24h": 69196,
-          "link": "https://store.steampowered.com/app/553850/"
+          "appid": "3405690",
+          "name": "EA SPORTS FC™ 26",
+          "nameZh": "EA SPORTS FC 26",
+          "current": 67797,
+          "peak24h": 79517,
+          "link": "https://store.steampowered.com/app/3405690/"
         },
         {
           "rank": 15,
-          "appid": 2357570,
-          "name": "Overwatch",
-          "nameZh": "守望先锋",
-          "current": 63905,
-          "peak24h": 65006,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "appid": "108600",
+          "name": "Project Zomboid",
+          "nameZh": "僵尸末日工程",
+          "current": 67718,
+          "peak24h": 81630,
+          "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 16,
-          "appid": 3405690,
-          "name": "EA SPORTS FC 26",
-          "nameZh": "EA体育FC26",
-          "current": 62845,
-          "peak24h": 77475,
-          "link": "https://store.steampowered.com/app/3405690/"
+          "appid": "2075800",
+          "name": "STAR WARS Zero Company™",
+          "nameZh": "星球大战：零号公司",
+          "current": 63514,
+          "peak24h": 69046,
+          "link": "https://store.steampowered.com/app/2075800/"
         }
       ]
     },
     "newGamesAsOf": "2026-08-27",
     "topSellersAsOf": "2026-08-25",
-    "mostPlayedAsOf": "2026-08-27"
+    "mostPlayedAsOf": "2026-08-28"
   },
   "miniapp": {
     "ranking": [
@@ -797,158 +807,144 @@
         "rank": 1,
         "name": "向僵尸开炮",
         "category": "末日塔防",
-        "publisher": "大梦龙途",
-        "change": "▲1"
+        "publisher": "海南盛昌",
+        "change": "/"
       },
       {
         "rank": 2,
         "name": "三国:冰河时代",
         "category": "SLG",
-        "publisher": "上海双盟",
-        "change": "▼1"
+        "publisher": "欢游互动",
+        "change": "/"
       },
       {
         "rank": 3,
         "name": "无尽冬日",
         "category": "SLG",
         "publisher": "点点互动",
-        "change": "/"
+        "change": "▲3"
       },
       {
         "rank": 4,
-        "name": "道友来挖宝",
+        "name": "灵画师",
         "category": "休闲",
-        "publisher": "深圳雷霆",
-        "change": "▲1"
+        "publisher": "广州光游",
+        "change": "▲9"
       },
       {
         "rank": 5,
-        "name": "龙迹之城",
-        "category": "SLG",
-        "publisher": "上海德寒",
-        "change": "▼1"
+        "name": "疯狂水世界",
+        "category": "休闲",
+        "publisher": "益世界",
+        "change": "▲6"
       },
       {
         "rank": 6,
-        "name": "灵画师",
-        "category": "国风放置",
-        "publisher": "波克城市",
-        "change": "/"
+        "name": "永远的蔚蓝星球",
+        "category": "休闲",
+        "publisher": "广州颂悦",
+        "change": "▲2"
       },
       {
         "rank": 7,
         "name": "跃动小子",
         "category": "放置",
         "publisher": "波克科技",
-        "change": "▲2"
+        "change": "▲8"
       },
       {
         "rank": 8,
-        "name": "时光大爆炸",
-        "category": "休闲",
-        "publisher": "三七互娱",
+        "name": "浪漫餐厅",
+        "category": "模拟经营",
+        "publisher": "柠檬微趣",
         "change": "▲1"
       },
       {
         "rank": 9,
-        "name": "寻道大千",
-        "category": "SLG",
-        "publisher": "三七互娱",
-        "change": "▼1"
+        "name": "我的花园世界",
+        "category": "休闲",
+        "publisher": "厦门麟贝",
+        "change": "▲6"
       },
       {
         "rank": 10,
-        "name": "雷霆战机:集结",
-        "category": "休闲",
-        "publisher": "北海爱乐游",
-        "change": "/"
+        "name": "向往的生活",
+        "category": "模拟经营",
+        "publisher": "深圳必凡",
+        "change": "▲2"
       },
       {
         "rank": 11,
-        "name": "百炼英雄",
-        "category": "放置",
-        "publisher": "深圳九九",
-        "change": "/"
+        "name": "向末日开炮",
+        "category": "末日塔防",
+        "publisher": "海南易多量",
+        "change": "▲1"
       },
       {
         "rank": 12,
-        "name": "神器传说",
-        "category": "休闲",
-        "publisher": "深圳全民",
-        "change": "/"
+        "name": "梦幻消除战",
+        "category": "消除",
+        "publisher": "广州喜势",
+        "change": "▲1"
       },
       {
         "rank": 13,
+        "name": "神器传说",
+        "category": "放置",
+        "publisher": "深圳全民",
+        "change": "▲7"
+      },
+      {
+        "rank": 14,
         "name": "保卫向日葵",
         "category": "塔防",
         "publisher": "深圳一起梦游",
         "change": "/"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "name": "青云诀之伏魔",
-        "category": "角色",
+        "category": "MMO",
         "publisher": "海南元游",
-        "change": "▼4"
+        "change": "▲3"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "name": "腾讯欢乐斗地主",
         "category": "棋牌",
         "publisher": "腾讯",
         "change": "/"
+      },
+      {
+        "rank": 17,
+        "name": "天命行者",
+        "category": "放置",
+        "publisher": "广州大蓝",
+        "change": "▲1"
+      },
+      {
+        "rank": 18,
+        "name": "永夜起源",
+        "category": "卡牌",
+        "publisher": "广州招崭",
+        "change": "▲3"
+      },
+      {
+        "rank": 19,
+        "name": "空格之境",
+        "category": "休闲",
+        "publisher": "江西启游",
+        "change": "▲2"
+      },
+      {
+        "rank": 20,
+        "name": "奔奔王国",
+        "category": "SLG",
+        "publisher": "福州点点松云",
+        "change": "▲1"
       }
     ],
     "dynamics": [
-      {
-        "title": "微信小游戏畅销榜 8/25 · 向僵尸开炮升至榜首 · 5款新上榜",
-        "color": "orange",
-        "body": "8月25日榜：<strong>《向僵尸开炮》</strong>反超升至榜首，<strong>《我的花园世界》</strong>↓1降至#3，<strong>《无尽冬日》</strong>↑2升至#4，<strong>《疯狂水世界》</strong>稳居#5。<strong>《浪漫餐厅》</strong>↓3滑至#7。重度RPG集体暴涨：<strong>《青云诀之伏魔》</strong>↑30冲到#11，<strong>《这城有良田》</strong>↑46到#51，<strong>《英雄杀》</strong>↑37到#46。当日<strong>5款新上榜</strong>，《掌上谈兵》#48、《快来当领主》#82、《勇者联盟》#90、《冒险法则》#97、《心动女友》#98。SLG三大爆款持续霸榜，向末日开炮稳#8稳定付费转化后劲减弱。",
-        "source": "微信动态/小游快爆",
-        "sourceLink": "https://new.qq.com/rain/a/20260826A0DJ9500?refer=cp_1009"
-      },
-      {
-        "title": "微信小游戏畅销榜 8/27 · 头部铁壁稳固 · 末日题材放大腰部回暖",
-        "color": "orange",
-        "body": "8月27日榜：<strong>《三国:冰河时代》</strong>稳坐榜首(角色模拟2025卓越名品)，<strong>《向僵尸开炮》</strong>稳#2，<strong>《无尽冬日》</strong>稳#3，<strong>《疯狂水世界》</strong>稳#4，<strong>《向往的生活》</strong>稳#5，<strong>《梦幻消除战》</strong>↑2升至#6 — TOP6模拟经营铁壁。中腰部剧烈洗牌：<strong>《时光大爆炸》</strong>↑23冲到#64、<strong>《次神:光之觉醒》</strong>↑22到#22、<strong>《咸鱼之王》</strong>三天连涨(85→54→42)坐实沉淀型增长。品类观察：放置类内部剧烈洗牌(青云诀↓10/灵画师从TOP7跌至#13)，模拟经营头部三强稳固，\"中尾部温和轮动\"成主旋律（涨39/跌44/持8）。",
-        "source": "切游/微信官方榜单",
-        "sourceLink": "https://new.qq.com/rain/a/20260827A07JHI00"
-      },
-      {
-        "title": "微信小游戏8月月榜 · 三国冰河时代登顶 · 打破向僵尸开炮半年霸榜",
-        "color": "orange",
-        "body": "8月微信小游戏畅销月榜：<strong>《三国:冰河时代》</strong>超越连续霸榜半年的<strong>《向僵尸开炮》</strong>登顶#1，<strong>《无尽冬日》</strong>稳居#3。TOP10阵容不变但名次微调。8月共<strong>21款新游</strong>入榜，TOP30新进4款：<strong>《将魂师》</strong>（中式恐怖ARPG，新进#18）、<strong>《口袋诛魔》</strong>、<strong>《新弹弹堂》</strong>、<strong>《御龙主宰》</strong>。<strong>《永远的蔚蓝星球》</strong>↑39位（月榜#20），手游端首月预估收入超1亿。发行商：三七互娱6款居首、大梦龙途5款、4399 4款。连续7个月保持20%新进率。",
-        "source": "DataEye/引力引擎/游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/533808.html"
-      },
-      {
-        "title": "微信小游戏畅销榜 8/22 · 向僵尸开炮登顶 #1 · 7 款新游上榜",
-        "color": "orange",
-        "body": "8月22日榜：<strong>《向僵尸开炮》</strong>反超登顶#1（霸榜），<strong>《永远的蔚蓝星球》</strong>↑12杀至#3，<strong>《无尽冬日》</strong>↑2升至#2。<strong>三国:冰河时代</strong>连续第5天霸榜(#5)。当日<strong>7款新游</strong>上榜——<strong>《保卫向日葵》</strong>(3000万+)新#6，<strong>《占城大师》</strong>新#7，<strong>《烈焰觉醒》</strong>(恺英网络)↑9杀至#9，<strong>《QQ经典农场》</strong>新#12，<strong>《西游降妖记》</strong>新#13。塔防/SLG/模拟经营三足鼎立，末日塔防+传奇成新黑马。",
-        "source": "微信动态/小游快爆",
-        "sourceLink": "https://new.qq.com/rain/a/20260824A02RA400?refer=cp_1009"
-      },
-      {
-        "title": "微信小游戏畅销榜周报 · 欢乐战三国+神器传说新进TOP10",
-        "color": "orange",
-        "body": "8月16日周榜：微信畅销TOP10大幅换血——<strong>欢乐战三国</strong>（玖玖游）和<strong>神器传说</strong>（柿柿互动）本周新上榜进TOP10。<strong>向僵尸开炮</strong>稳坐榜首，<strong>疯狂水世界</strong>升至第2，<strong>三国:冰河时代</strong>第3。腰部\"挂机+武侠+Roguelike\"品类持续跑通。<strong>原始征途</strong>+16名飙升至第7创历史新高。2026年截至8/16已下发游戏版号1147个。买量榜巨人《超自然行动组》91315素材量第一。",
-        "source": "竞核HOT周报",
-        "sourceLink": "https://www.163.com/dy/article/L4F3ULTC0511CVBI.html"
-      },
-      {
-        "title": "微信小游戏畅销榜 8/16 · 疯狂水世界登顶第 2",
-        "color": "orange",
-        "body": "8月16日榜：<strong>疯狂水世界</strong>从第 4 升至<strong>第 2</strong>，末日海上割草持续爬升；<strong>我的花园世界</strong>从第 14 暴涨 8 位到第 6（模拟经营治愈田园类逼近前十）；<strong>跃动小子</strong>+5 升至第 7；<strong>大侠闯天下</strong>+17 杀入前 35 成为最大黑马（\"挂机+武侠+Roguelike\"组合跑通畅销端）。本周\"挂机/武侠/放置\"是腰部最大黑马品类。SLG 三剑客（无尽冬日/三国冰河/向末日开炮）合计 3 席稳定。",
-        "source": "小游快爆 / 切游",
-        "sourceLink": "https://new.qq.com/rain/a/20260816A06JHI00?refer=cp_1009"
-      },
-      {
-        "title": "畅玩榜大事件：赵云与阿斗打断11个月霸榜",
-        "color": "orange",
-        "body": "文字拼接塔防《赵云与阿斗》登顶畅玩榜，打断了《羊了个羊:星球》连续11个月的霸榜。带动文字组合类玩法赛道崛起，《文造兵器》《小妖退退退》等新品入榜。",
-        "source": "DataEye/引力引擎联合发布",
-        "sourceLink": "https://new.qq.com/rain/a/20260803A05AHL00?refer=cp_1009"
-      },
       {
         "title": "三七互娱：6款入榜成最大赢家",
         "color": "green",
@@ -994,7 +990,7 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08-27 日榜"
+    "asOf": "2026-08-27 官方畅销榜"
   },
   "segments": [
     {
@@ -1072,6 +1068,28 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "name": "王者万象棋",
+      "link": "https://view.inews.qq.com/a/20260827A0DKXF00",
+      "badge": "9.10定档",
+      "badgeColor": "blue",
+      "meta": "腾讯 · 王者荣耀IP自走棋 · 天美工作室 · 全平台预约7000万",
+      "desc": "腾讯《王者荣耀》IP 自走棋新作《王者万象棋》8/27 官宣定档 9月10日 全平台上线，全平台预约突破 7000万。天美工作室群开发，腾讯旗下首款正式商业化的自走棋产品，老 IP + 新玩法延长《王者荣耀》生命周期。9/10 上线后可关注 iOS 免费榜/畅销榜走势。",
+      "date": "9月10日上线",
+      "tags": [
+        "自走棋",
+        "王者荣耀",
+        "腾讯",
+        "IP衍生"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "王者万象棋",
+      "manualCover": "",
+      "finalCoverUrl": ""
+    },
     {
       "date": "2026-08-28",
       "name": "凡应 EP02 测试",
@@ -1870,6 +1888,12 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026上半年",
+        "title": "世纪华通 H1 净利同比 +69.51% · 创历史最佳",
+        "desc": "世纪华通（002602）H1 净利润同比 <strong>+69.51%</strong>，跻身游戏公司第一梯队。旗下 <strong>点点互动</strong>《无尽冬日》长期占据小游戏赛道前列并稳居 iOS 畅销榜前五，《奔奔王国》排名稳步提升；盛趣游戏聚焦核心 IP（《传奇》系新品+端手并进）；<strong>Century Games</strong> 出海三爆款（Whiteout Survival 6月再度问鼎全球手游收入冠军 / Kingshot 稳居出海前三 / Tasty Travels 进前五）。储备管线：《彩虹岛:经典》《永恒之塔:经典》《饥困荒野》加速推进，7月与韩国 NC 达成《AION2》上线运营合作。",
+        "amount": "净利同比 +69.51%"
+      },
       {
         "date": "2026-08-26",
         "title": "巨人网络 H1 财报：营收46.89亿+182% 净利21.44亿+176% ·《超自然行动组》DAU破1200万",
