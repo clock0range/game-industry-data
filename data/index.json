@@ -138,13 +138,13 @@
   ],
   "current": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T10:57:00+08:00",
+    "lastUpdated": "2026-08-28T14:05:00+08:00",
     "apiStatus": {
       "ios": "ok (15 games)",
       "steamSellers": "degraded (kept 8/25 snapshot, weekly retry)",
       "steamIndie": "degraded (kept 8/27 snapshot)",
       "steamMostPlayed": "ok (16 rows, asOf 2026-08-28)",
-      "miniapp": "ok (official 8/27 top20, dynamics trimmed to event/analysis)"
+      "miniapp": "ok (official 8/27 top20; dynamics = 8/28 latest IAP/IAA policies + 8/23 chart)"
     }
   }
 }
