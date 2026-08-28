@@ -133,15 +133,18 @@
         "steamIndie": 8,
         "newGames": 15
       }
-    }
+    },
+    "2026-08-28.json"
   ],
   "current": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T10:20:00+08:00",
+    "lastUpdated": "2026-08-28T10:57:00+08:00",
     "apiStatus": {
       "ios": "ok (15 games)",
-      "steamSellers": "failed (kept existing)",
-      "steamIndie": "failed (kept existing)"
+      "steamSellers": "degraded (kept 8/25 snapshot, weekly retry 8/31)",
+      "steamIndie": "degraded (kept 8/27 snapshot, store fetch blocked)",
+      "steamMostPlayed": "ok (16 rows, asOf 2026-08-28)",
+      "miniapp": "ok (official 2026-08-27 top20)"
     }
   }
 }
