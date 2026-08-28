@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T14:05:00+08:00",
+    "lastUpdated": "2026-08-28T19:25:00+08:00",
     "footerDate": "数据截至2026年8月28日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -1087,16 +1087,16 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "王者万象棋",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/4fc6cb2c04aad3da58d314ac766cccdb.jpg/_tap_banner.jpg"
     },
     {
       "date": "2026-08-28",
       "name": "凡应 EP02 测试",
-      "desc": "<strong style=\"color:var(--purple)\">【EP02 限量删档 PC 测试 · 8/28 正式开启】</strong>艺画开天(腾讯控股)首款自研 ARPG《凡应》EP02 测试 8/28 开启。玩家化身海履者驾驭多种海巡兽在动态净海世界迁徙，与隆舶巨兽共生。剧情演出约<strong>90分钟开场动画</strong>(被外媒评价\"高预算3A级游戏水准\"，镜头/配乐\"能媲美电影制作\")。<strong>多武器切换+极限闪避+破韧处决</strong>等高速动作机制，箱庭式地图(浪涌影响周期性变化)，PC端限量删档不付费。游戏预计<strong>2026年下半年启动大规模公开测试</strong>(PC/主机/移动三端)。",
+      "desc": "【EP02 限量删档 PC 测试 · 8/28 正式开启】艺画开天(腾讯控股)首款自研 ARPG《凡应》EP02 测试 8/28 开启。玩家化身海履者驾驭多种海巡兽在动态净海世界迁徙，与隆舶巨兽共生。剧情演出约90分钟开场动画（被外媒评价为\"高预算 3A 级游戏水准\"，镜头/配乐\"能媲美电影制作\"）。多武器切换 + 极限闪避 + 破韧处决等高速动作机制，箱庭式地图（浪涌影响周期性变化），PC 端限量删档不付费。游戏预计 2026 年下半年启动大规模公开测试（PC/主机/移动三端）。",
       "badge": "EP02 测试",
       "badgeColor": "purple",
       "isNew": true,
@@ -1111,7 +1111,10 @@
       "rating": "borderline",
       "ratingLabel": "B站 8.3 · TapTap 待评",
       "ratingPercent": 83,
-      "ratingsCount": 430000
+      "ratingsCount": 430000,
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/0fc3f252cb91453a55ca08f40b4a5237.png/_tap_banner.jpg",
+      "imageSource": "taptap",
+      "imageStatus": "ok"
     },
     {
       "name": "发条总动员",
@@ -1128,10 +1131,10 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "发条总动员",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/365034a8e0105116f909e6cbe4dcd858.jpg/_tap_banner.jpg"
     },
     {
       "name": "全明星觉醒",
@@ -1148,10 +1151,10 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "全明星觉醒",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/73d82d84a25593dcc8a379e0e6e8244a.png/_tap_banner.jpg"
     },
     {
       "name": "伊瑟",
@@ -1168,10 +1171,10 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "伊瑟",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/1ba701b0d388b30cea597b1df14195bc.jpg/_tap_banner.jpg"
     },
     {
       "name": "致命躯壳2 (Mortal Shell II)",
@@ -1209,11 +1212,11 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "遮天世界",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/f2216be680e8631b925cf6a2e71018c1.png/_tap_banner.jpg"
     },
     {
       "name": "头号禁区",
@@ -1230,11 +1233,11 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "头号禁区",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/cdd8fceb1360fdd7947e9ce88466be13.jpg/_tap_banner.jpg"
     },
     {
       "name": "诡秘之主",
@@ -1251,11 +1254,11 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "诡秘之主",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/3b588266863eb76fe79071a5524b4912.jpg/_tap_banner.jpg"
     },
     {
       "name": "影之刃零",
@@ -1295,11 +1298,11 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "赘婿",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/dc3d849db6af3c133a107053561e8385.png/_tap_banner.jpg"
     },
     {
       "name": "甄嬛传",
@@ -1316,11 +1319,11 @@
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
+      "imageSource": "taptap",
+      "imageStatus": "ok",
       "gameName": "甄嬛传",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/d472cf91b80e0adc94c15293ab7cbe5f.jpg/_tap_banner.jpg"
     },
     {
       "name": "粒粒的小人国",
