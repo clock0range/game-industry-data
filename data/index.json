@@ -1,7 +1,18 @@
 {
-  "generated": "2026-08-27T10:03:00+08:00",
+  "generated": "2026-08-28T10:21:00+08:00",
   "latest": "data/latest.json",
   "archives": [
+    {
+      "date": "2026-08-28",
+      "file": "data/2026-08-28.json",
+      "lastUpdated": "2026-08-28T10:21:00+08:00",
+      "summary": {
+        "iosCount": 15,
+        "steamSellers": 10,
+        "steamIndie": 8,
+        "newGames": 35
+      }
+    },
     {
       "date": "2026-08-27",
       "file": "data/2026-08-27.json",
@@ -11,12 +22,7 @@
         "steamSellers": 10,
         "steamIndie": 8,
         "newGames": 35
-      },
-      "notes": [
-        "8/27 增量修复：indieCards 7 张封面从 capsule_616x353(404) → shared.fastly.steamstatic.com (4张成功jsDelivr+3张保留fastly)",
-        "miniapp.dynamics +2 (8/25 + 8/27)",
-        "newGames +1 凡应 EP02 8/28"
-      ]
+      }
     },
     {
       "date": "2026-08-26",
@@ -130,12 +136,12 @@
     }
   ],
   "current": {
-    "date": "2026-08-27",
-    "lastUpdated": "2026-08-27T10:38:00+08:00",
+    "date": "2026-08-28",
+    "lastUpdated": "2026-08-28T10:21:00+08:00",
     "apiStatus": {
-      "ios": "ok",
-      "steamSellers": "skip(weekly)",
-      "steamIndie": "degraded (7/8 covers fixed via Steam store API real hash URLs)"
+      "ios": "ok (15 games)",
+      "steamSellers": "failed (kept existing)",
+      "steamIndie": "failed (kept existing)"
     }
   }
 }
