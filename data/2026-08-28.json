@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-28",
-    "lastUpdated": "2026-08-28T10:21:00+08:00",
+    "lastUpdated": "2026-08-28T10:20:00+08:00",
     "footerDate": "数据截至2026年8月28日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,64 +183,54 @@
     ],
     "highlights": [
       {
-        "title": "科隆游戏展再现中国时间 · 最佳手游五席全包 ·《湮灭之潮》获双提名",
-        "titleLink": "https://new.qq.com/rain/a/20260828A02HN000?refer=cp_1009",
-        "color": "orange",
-        "source": "南方都市报/腾讯新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260828A02HN000?refer=cp_1009",
-        "body": "2026科隆游戏展官方提名公布，<strong>最佳移动游戏</strong>五个席位首次被中国厂商包揽：鹰角《明日方舟：终末地》､米哈游《原神》与《绝区零》､乐元素《白银之城》､网易《燕云十六声》。腾讯投资发行的<strong>《湮灭之潮》</strong>获最佳动作冒险+最佳角色扮演双提名，展会上还公布了《怪物猎人：旅人》全新古龙光稜龙与《洛克王国：世界》国际服动向。",
+        "title": "腾讯领投W4 Games 1800万美元B轮 · Godot引擎加速亚洲生态",
+        "titleLink": "https://xueqiu.com/6417412234/406833760",
+        "color": "purple",
+        "source": "映维网/雪球",
+        "sourceLink": "https://xueqiu.com/6417412234/406833760",
+        "body": "开源游戏引擎<strong>Godot</strong>商业化主体<strong>W4 Games</strong> 8/27 宣布完成 <strong>1800万美元</strong> B 轮融资，腾讯领投并与W4 Games签署多年战略合作协议，共同推动Godot引擎在亚洲企业的本地化与生态扩张。累计融资达 <strong>3300万美元</strong>。Steam平台Godot游戏数量2024-2025连续两年同比+50%，年销超100万美元的Godot游戏从3年前的2款增至50余款。",
         "isNew": true,
-        "newUntil": "2026-08-31"
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "网易《无限大》定档2027.1.15 · 新都市重霄融合杭州上海地标",
-        "titleLink": "https://new.qq.com/rain/a/20260828A02HN000?refer=cp_1009",
+        "title": "巨人网络2026H1财报 · 营收46.89亿+182% · 净利21.44亿+176%",
+        "titleLink": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
+        "color": "green",
+        "source": "财联社/网易",
+        "sourceLink": "https://www.163.com/dy/article/L5A19KJ705198CJN.html",
+        "body": "巨人网络 002558 8/26 晚披露半年报，<strong>营收46.89亿</strong>同比<strong>+182.08%</strong>，<strong>归母净利21.44亿</strong>同比<strong>+175.96%</strong>。<strong>《超自然行动组》</strong>贡献核心增量（《鬼吹灯》联动地图云南虫谷+原创无限梦境），近期DAU突破 <strong>1200万</strong>，海外版《Tomb Busters》日韩美上线首日分别登iOS免费榜 <strong>日本#3/韩国#7</strong>；《王者征途》依托微信/抖音/快手多平台小程序上半年新增用户 <strong>1417万</strong>。",
+        "isNew": true,
+        "newUntil": "2026-08-29"
+      },
+      {
+        "title": "网易《无限大》科隆展定档2027.1.15 · PC/PS5/移动全平台全球同步",
+        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
         "color": "blue",
-        "source": "南方都市报/腾讯新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260828A02HN000?refer=cp_1009",
-        "body": "网易Naked Rain工作室都市开放世界RPG《无限大》在科隆展宣布<strong>2027年1月15日</strong>全球同步上线（PC/PS5/移动）。新公开都市<strong>重霄</strong>以杭州西湖､雷峰塔､龙井村与上海东方明珠､外滩天际线､武康路为灵感，战斗融入功夫电影风格的刀剑拳脚，主角依靠社交媒体与粉丝系统积累声望。",
+        "source": "同花顺财经",
+        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
+        "body": "网易 HK9999 旗下<strong>Naked Rain工作室</strong>开发的都市题材开放世界RPG《无限大》正式定档 <strong>2027年1月15日</strong> 全球同步上线。玩家扮演代号无限扳机的王牌调查员，在多座城市中探索、结交伙伴、应对异常。2023年公布，2024年12月获版号，已宣布支持 <strong>DLSS 4</strong> 与光线追踪。",
         "isNew": true,
-        "newUntil": "2026-08-31"
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "腾讯《洛克王国：世界》国际服10/27首测 ·《昭和米国物语》科隆回归",
-        "titleLink": "https://new.qq.com/rain/a/20260828A02HN000?refer=cp_1009",
+        "title": "腾讯《洛克王国:世界》国际服官宣 · 10/27全球首测 · 多语言支持",
+        "titleLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
         "color": "purple",
-        "source": "南方都市报/腾讯新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260828A02HN000?refer=cp_1009",
-        "body": "腾讯魔方《洛克王国：世界》国际服宣布<strong>10月27日</strong>开启首次全球封闭测试，支持繁中/英文/日文，主机､PC､移动三端覆盖。沉寂近两年的铃空游戏《昭和米国物语》借科隆展回归，发布全新实机预告并在6号馆A-30开放线下试玩，计划年内登陆PS5与PC。",
+        "source": "同花顺财经/腾讯魔方",
+        "sourceLink": "https://m.10jqka.com.cn/20260827/c679322304.shtml",
+        "body": "腾讯 K80700 魔方工作室群于 2026科隆游戏展期间宣布《<strong>洛克王国:世界</strong>》将面向海外市场推出，国际服首次全球封闭测试定于 <strong>2026年10月27日</strong>，国际服将支持繁体中文/英文/日文等多语言，主机、PC、移动三端全覆盖。腾讯在Q2财报中将本土游戏收入环比增长归因于《王者荣耀》收入增长+《洛克王国:世界》贡献。",
         "isNew": true,
-        "newUntil": "2026-08-31"
+        "newUntil": "2026-08-29"
       },
       {
-        "title": "世纪华通2026H1净利增长近七成 · 海外爆款矩阵+AI效能兑现",
-        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0016a907f1f13852",
-        "color": "green",
-        "source": "财联社/QQ新闻",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0016a907f1f13852",
-        "body": "世纪华通披露半年报，<strong>归母净利润同比增长近七成</strong>，海外爆款矩阵成型，AI技术全面嵌入研发､美术､测试､运营链路。盛趣游戏自研企业级AI编码平台易码投入使用，点点互动借AI资产管理平台参与投放策略与版本节奏决策。公司还计划实施上市以来首次中期现金分红约5.87亿元。",
+        "title": "SteamDB 8/27在线榜 · CS2 54.8万领跑 · 邦戈猫闯入#3 · 渔力全开稳居#7",
+        "titleLink": "https://steamdb.info/charts/",
+        "color": "orange",
+        "source": "SteamDB Charts",
+        "sourceLink": "https://steamdb.info/charts/",
+        "body": "CS2 <strong>548,104</strong> 持续霸榜，Dota 2 <strong>399,377</strong> 居次。<strong>Bongo Cat 邦戈猫 142,641</strong> 闯入#3，黑马持续发酵；PAL 幻兽帕鲁126,644 守#4；<strong>渔力全开 How to Fish 106,190</strong> 自20日发售以来稳居#7；漫威争锋 97,832 + 彩虹六号 79,369；HELLDIVERS 2 65,321 + EA FC26 62,845 收尾TOP16。",
         "isNew": true,
-        "newUntil": "2026-08-31"
-      },
-      {
-        "title": "三七互娱SLG赛道再下一子 · 丧尸题材数字门单月收入增长124.3%",
-        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6286a90edec55452",
-        "color": "green",
-        "source": "DataEye/QQ新闻",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6286a90edec55452",
-        "body": "三七互娱丧尸题材数字门SLG海外强势起量，带动相关产品线<strong>单月收入增长124.3%</strong>。当前数字门+SLG赛道已成海内外爆款合围格局：海外《Last War》稳居畅销前列，国内大梦龙途《向末日开炮》稳居微信小游戏人气榜TOP1､畅销榜TOP10，赛道进入大厂主导的精细化竞争阶段。",
-        "isNew": true,
-        "newUntil": "2026-08-31"
-      },
-      {
-        "title": "《剑网3》制作人郭炜炜告别西山居 · 育碧启动玩家委员会试运营",
-        "titleLink": "https://new.qq.com/rain/a/20260828A02EZ000?refer=cp_1009",
-        "color": "purple",
-        "source": "每日经济新闻/腾讯新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260828A02EZ000?refer=cp_1009",
-        "body": "《剑网3》系列制作人<strong>郭炜炜</strong>8月28日正式结束在西山居22年的任职；雷军转发微博致谢。同日，<strong>育碧</strong>在科隆展宣布The Player Council玩家委员会试运营，玩家可在保密协议下参与不同开发阶段项目并与开发者直接互动，首批测试包括《极限国度》等。",
-        "isNew": true,
-        "newUntil": "2026-08-31"
+        "newUntil": "2026-08-29"
       }
     ],
     "taptap": {
@@ -647,159 +637,159 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-08-28",
-      "updatedAt": "10:23",
+      "asOf": "2026-08-27",
+      "updatedAt": "10:15",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "",
-          "current": 542750,
-          "peak24h": 1249537,
+          "nameZh": "反恐精英2",
+          "current": 548104,
+          "peak24h": 1277861,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "",
-          "current": 442316,
-          "peak24h": 885638,
+          "nameZh": "刀塔2",
+          "current": 399377,
+          "peak24h": 839635,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
           "appid": 3419430,
           "name": "Bongo Cat",
-          "nameZh": "",
-          "current": 137527,
-          "peak24h": 166028,
+          "nameZh": "邦戈猫",
+          "current": 142641,
+          "peak24h": 160125,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 4,
-          "appid": 2676230,
-          "name": "FiveM",
-          "nameZh": "",
-          "current": 129058,
-          "peak24h": 172267,
-          "link": "https://store.steampowered.com/app/2676230/"
-        },
-        {
-          "rank": 5,
           "appid": 1623730,
           "name": "Palworld",
           "nameZh": "幻兽帕鲁",
-          "current": 121570,
-          "peak24h": 162853,
+          "current": 126644,
+          "peak24h": 166515,
           "link": "https://store.steampowered.com/app/1623730/"
+        },
+        {
+          "rank": 5,
+          "appid": 2676230,
+          "name": "FiveM",
+          "nameZh": "FiveM",
+          "current": 126625,
+          "peak24h": 175681,
+          "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 6,
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "绝地求生",
-          "current": 116547,
-          "peak24h": 735831,
+          "current": 124786,
+          "peak24h": 733906,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
-          "appid": 2767030,
-          "name": "Marvel Rivals",
-          "nameZh": "漫威争锋",
-          "current": 96027,
-          "peak24h": 97832,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "appid": 4001890,
+          "name": "How to Fish",
+          "nameZh": "How to Fish",
+          "current": 106190,
+          "peak24h": 373971,
+          "link": "https://store.steampowered.com/app/4001890/"
         },
         {
           "rank": 8,
-          "appid": 4001890,
-          "name": "How to Fish",
-          "nameZh": "",
-          "current": 88162,
-          "peak24h": 372462,
-          "link": "https://store.steampowered.com/app/4001890/"
+          "appid": 2767030,
+          "name": "Marvel Rivals",
+          "nameZh": "漫威争锋",
+          "current": 97832,
+          "peak24h": 100159,
+          "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 9,
           "appid": 359550,
           "name": "Tom Clancy's Rainbow Six Siege",
           "nameZh": "彩虹六号：围攻",
-          "current": 79107,
-          "peak24h": 79624,
+          "current": 79369,
+          "peak24h": 80798,
           "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 10,
           "appid": 1172470,
           "name": "Apex Legends",
-          "nameZh": "Apex 英雄",
-          "current": 74060,
-          "peak24h": 257945,
+          "nameZh": "Apex英雄",
+          "current": 76325,
+          "peak24h": 258211,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 11,
-          "appid": 252490,
-          "name": "Rust",
-          "nameZh": "腐蚀",
-          "current": 70411,
-          "peak24h": 122536,
-          "link": "https://store.steampowered.com/app/252490/"
-        },
-        {
-          "rank": 12,
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
-          "nameZh": "",
-          "current": 70180,
-          "peak24h": 95770,
+          "nameZh": "TBH: Task Bar Hero",
+          "current": 73753,
+          "peak24h": 99223,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "死锁",
-          "current": 69878,
-          "peak24h": 72034,
+          "current": 70439,
+          "peak24h": 72927,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
-          "rank": 14,
-          "appid": 3405690,
-          "name": "EA SPORTS FC 26",
-          "nameZh": "EA SPORTS FC 26",
-          "current": 67797,
-          "peak24h": 79517,
-          "link": "https://store.steampowered.com/app/3405690/"
-        },
-        {
-          "rank": 15,
+          "rank": 13,
           "appid": 108600,
           "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 67718,
-          "peak24h": 81630,
+          "nameZh": "僵尸末日工程",
+          "current": 70340,
+          "peak24h": 83433,
           "link": "https://store.steampowered.com/app/108600/"
         },
         {
+          "rank": 14,
+          "appid": 553850,
+          "name": "HELLDIVERS 2",
+          "nameZh": "绝地潜兵2",
+          "current": 65321,
+          "peak24h": 69196,
+          "link": "https://store.steampowered.com/app/553850/"
+        },
+        {
+          "rank": 15,
+          "appid": 2357570,
+          "name": "Overwatch",
+          "nameZh": "守望先锋",
+          "current": 63905,
+          "peak24h": 65006,
+          "link": "https://store.steampowered.com/app/2357570/"
+        },
+        {
           "rank": 16,
-          "appid": 2075800,
-          "name": "STAR WARS Zero Company",
-          "nameZh": "星球大战：零号连队",
-          "current": 63514,
-          "peak24h": 69046,
-          "link": "https://store.steampowered.com/app/2075800/"
+          "appid": 3405690,
+          "name": "EA SPORTS FC 26",
+          "nameZh": "EA体育FC26",
+          "current": 62845,
+          "peak24h": 77475,
+          "link": "https://store.steampowered.com/app/3405690/"
         }
       ]
     },
     "newGamesAsOf": "2026-08-27",
     "topSellersAsOf": "2026-08-25",
-    "mostPlayedAsOf": "2026-08-28"
+    "mostPlayedAsOf": "2026-08-27"
   },
   "miniapp": {
     "ranking": [
@@ -1880,17 +1870,6 @@
       }
     ],
     "domestic": [
-      {
-        "date": "2026-08-28",
-        "title": "世纪华通 H1 财报：净利同比增近七成 · 海外爆款矩阵+AI效能兑现 · 首次中期分红5.87亿",
-        "amount": "净利增长近七成（H1）",
-        "stage": "半年报",
-        "investor": "世纪华通 002602",
-        "link": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0016a907f1f13852",
-        "major": true,
-        "isNew": true,
-        "newUntil": "2026-08-31"
-      },
       {
         "date": "2026-08-26",
         "title": "巨人网络 H1 财报：营收46.89亿+182% 净利21.44亿+176% ·《超自然行动组》DAU破1200万",
