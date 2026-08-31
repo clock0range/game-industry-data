@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-08-31",
-    "lastUpdated": "2026-08-31T10:34:00+08:00",
+    "lastUpdated": "2026-08-31T11:50:00+08:00",
     "footerDate": "数据截至2026年8月31日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -819,80 +819,80 @@
       },
       {
         "rank": 3,
-        "name": "无尽冬日",
-        "category": "SLG",
-        "publisher": "点点互动",
-        "change": "▲3"
+        "name": "浪漫餐厅",
+        "category": "模拟经营",
+        "publisher": "柠檬微趣",
+        "change": "▲5"
       },
       {
         "rank": 4,
-        "name": "灵画师",
-        "category": "休闲",
-        "publisher": "广州光游",
-        "change": "▲9"
+        "name": "梦幻消除战",
+        "category": "消除",
+        "publisher": "广州喜势",
+        "change": "▲8"
       },
       {
         "rank": 5,
         "name": "疯狂水世界",
         "category": "休闲",
         "publisher": "益世界",
-        "change": "▲6"
+        "change": "/"
       },
       {
         "rank": 6,
-        "name": "永远的蔚蓝星球",
-        "category": "休闲",
-        "publisher": "广州颂悦",
-        "change": "▲2"
+        "name": "永夜起源",
+        "category": "卡牌",
+        "publisher": "广州招崭",
+        "change": "▲12"
       },
       {
         "rank": 7,
-        "name": "跃动小子",
-        "category": "放置",
-        "publisher": "波克科技",
-        "change": "▲8"
+        "name": "向末日开炮",
+        "category": "末日塔防",
+        "publisher": "海南易多量",
+        "change": "▲4"
       },
       {
         "rank": 8,
-        "name": "浪漫餐厅",
-        "category": "模拟经营",
-        "publisher": "柠檬微趣",
-        "change": "▲1"
-      },
-      {
-        "rank": 9,
-        "name": "我的花园世界",
-        "category": "休闲",
-        "publisher": "厦门麟贝",
-        "change": "▲6"
-      },
-      {
-        "rank": 10,
         "name": "向往的生活",
         "category": "模拟经营",
         "publisher": "深圳必凡",
         "change": "▲2"
       },
       {
+        "rank": 9,
+        "name": "无尽冬日",
+        "category": "SLG",
+        "publisher": "点点互动",
+        "change": "▼6"
+      },
+      {
+        "rank": 10,
+        "name": "永远的蔚蓝星球",
+        "category": "休闲",
+        "publisher": "广州颂悦",
+        "change": "▼4"
+      },
+      {
         "rank": 11,
-        "name": "向末日开炮",
-        "category": "末日塔防",
-        "publisher": "海南易多量",
-        "change": "▲1"
+        "name": "灵画师",
+        "category": "休闲",
+        "publisher": "广州光游",
+        "change": "▼7"
       },
       {
         "rank": 12,
-        "name": "梦幻消除战",
-        "category": "消除",
-        "publisher": "广州喜势",
-        "change": "▲1"
+        "name": "跃动小子",
+        "category": "放置",
+        "publisher": "波克科技",
+        "change": "▼5"
       },
       {
         "rank": 13,
-        "name": "神器传说",
+        "name": "天命行者",
         "category": "放置",
-        "publisher": "深圳全民",
-        "change": "▲7"
+        "publisher": "广州大蓝",
+        "change": "▲4"
       },
       {
         "rank": 14,
@@ -903,10 +903,10 @@
       },
       {
         "rank": 15,
-        "name": "青云诀之伏魔",
-        "category": "MMO",
-        "publisher": "海南元游",
-        "change": "▲3"
+        "name": "我的花园世界",
+        "category": "休闲",
+        "publisher": "厦门麟贝",
+        "change": "▼6"
       },
       {
         "rank": 16,
@@ -917,34 +917,48 @@
       },
       {
         "rank": 17,
-        "name": "天命行者",
-        "category": "放置",
-        "publisher": "广州大蓝",
-        "change": "▲1"
+        "name": "青云诀之伏魔",
+        "category": "MMO",
+        "publisher": "海南元游",
+        "change": "▼2"
       },
       {
         "rank": 18,
-        "name": "永夜起源",
-        "category": "卡牌",
-        "publisher": "广州招崭",
-        "change": "▲3"
+        "name": "大王请上阵",
+        "category": "角色卡牌",
+        "publisher": "",
+        "change": "新"
       },
       {
         "rank": 19,
         "name": "空格之境",
         "category": "休闲",
         "publisher": "江西启游",
-        "change": "▲2"
+        "change": "/"
       },
       {
         "rank": 20,
-        "name": "奔奔王国",
-        "category": "SLG",
-        "publisher": "福州点点松云",
-        "change": "▲1"
+        "name": "神器传说",
+        "category": "放置",
+        "publisher": "深圳全民",
+        "change": "▼7"
       }
     ],
     "dynamics": [
+      {
+        "title": "8/29 微信小游戏畅销榜 · 向僵尸开炮连续5天霸榜 · 三国谋定天下/胡莱三国新入榜",
+        "color": "orange",
+        "body": "8/29 微信小游戏畅销榜 TOP100：<strong>《向僵尸开炮》连续第 5 天霸榜</strong>，末日塔防热度延续；当日 4 款新上榜——<strong>《三国:谋定天下》#71 新入榜</strong>、《胡莱三国手机版》#45 新入榜；《王者征途》#26 较昨日升 27 名、《工匠小能手》#57 较上周升 19 名。头部波动依旧剧烈，榜单换血频繁。",
+        "source": "腾讯新闻",
+        "sourceLink": "https://new.qq.com/rain/a/20260831A0053D00?refer=cp_1009"
+      },
+      {
+        "title": "8月微信小游戏月榜 · 三国冰河时代登顶月榜第一 · 打破向僵尸开炮连霸局面",
+        "color": "purple",
+        "body": "8 月微信小游戏畅销月榜：<strong>《三国:冰河时代》登顶月榜</strong>，打破《向僵尸开炮》连续霸榜局面；《无尽冬日》稳居第三，头部三强稳固，TOP10 无新品空降。4 款新游入榜 TOP30（《将魂师》《新弹弹堂》《我的英雄之路》《口袋诛魔》）；《永远的蔚蓝星球》月榜 #20 环比升 39 名，手游 iOS 端首月预估收入超 1 亿；《开心消消乐》升 17 名至 #44。",
+        "source": "腾讯/游戏客栈",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98568b574fa04352"
+      },
       {
         "title": "微信小游戏 IAP 首发激励再升级 · 单款最高5000万流水不分成 · 综合分成最高170%",
         "color": "purple",
@@ -993,7 +1007,7 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08-27 官方畅销榜"
+    "asOf": "2026-08-29 微信小游戏畅销榜（当日榜）"
   },
   "segments": [
     {
@@ -1857,7 +1871,7 @@
         "date": "2026年8月26日",
         "title": "Embracer 集团宣布分拆为三家上市公司 · 主业聚焦3A/中型/手游",
         "link": "https://www.gameres.com/901202757.html",
-        "desc": "瑞典Embracer Group AB于8月26日Gamescom期间正式宣布<strong>分拆为三家公司</strong>：<strong>Asmodee Group</strong>（桌游）、<strong>Middle-earth Enterprises & Friends</strong>（3A/中土/科幻IP）、<strong>Mobile & Casual</strong>（中手游休闲业务/旧Coffee Stain）。三家公司均将在斯德哥尔摩上市，预计2027Q1完成。Embracer 2024年才完成上轮分拆（Asmodee独立），本次系三年内第二次主动重组。",
+        "desc": "瑞典Embracer Group AB于8月26日Gamescom期间正式宣布分拆为三家公司：Asmodee Group（桌游）、Middle-earth Enterprises & Friends（3A/中土/科幻IP）、Mobile & Casual（中手游休闲业务/旧Coffee Stain）。三家公司均将在斯德哥尔摩上市，预计2027Q1完成。Embracer 2024年才完成上轮分拆（Asmodee独立），本次系三年内第二次主动重组。",
         "amount": "三家上市公司（估值待披露）",
         "major": false
       },
@@ -1865,7 +1879,7 @@
         "date": "2026年8月25日",
         "title": "Good Job Games 完成6000万美元A轮 · 土耳其休闲游戏开发商",
         "link": "https://www.163.com/dy/article/K7T7LIKT05118K7K.html",
-        "desc": "土耳其休闲游戏开发商<strong>Good Job Games</strong>完成<strong>6000万美元A轮融资</strong>，投资方Anthos Capital、Menlo Ventures、BVP。本轮融资金额在年度A轮排名前10%。同期：沙特Savvy Games Group与AWS签署合作协议提升沙特游戏技术基建，另与Unity签署MoU为沙特开发者提供免费后端/分析/广告/多人工具。腾讯在Gamescom 2025发布AI游戏创作套件Visvise（动画/建模/NPC/资管）。",
+        "desc": "土耳其休闲游戏开发商Good Job Games完成6000万美元A轮融资，投资方Anthos Capital、Menlo Ventures、BVP。本轮融资金额在年度A轮排名前10%。同期：沙特Savvy Games Group与AWS签署合作协议提升沙特游戏技术基建，另与Unity签署MoU为沙特开发者提供免费后端/分析/广告/多人工具。腾讯在Gamescom 2025发布AI游戏创作套件Visvise（动画/建模/NPC/资管）。",
         "amount": "6000万美元 (约4.3亿RMB)",
         "major": false
       },
@@ -1898,14 +1912,14 @@
         "date": "2026年8月28日",
         "title": "A股21家游戏公司半年报 · 近七成盈利 · 恺英预盈13-15.6亿 · 完美世界预亏",
         "link": "https://new.qq.com/rain/a/20260828A0CU2500",
-        "desc": "8/27-28 A股 21 家游戏公司披露 2026 年半年报，<strong>近七成实现盈利</strong>，多家提升中期分红力度。恺英网络 H1 归母净利 13.0-15.6 亿（+36.84%~64.20%），《烈焰觉醒》Q1 收入约 10 亿；完美世界预亏 0.8-1.2 亿（收入费用错配），《异环》全球流水超 14 亿；巨人网络营收 46.89 亿 +182%。行业 H1 收入 1884.5 亿 +12.17%。",
+        "desc": "8/27-28 A股 21 家游戏公司披露 2026 年半年报，近七成实现盈利，多家提升中期分红力度。恺英网络 H1 归母净利 13.0-15.6 亿（+36.84%~64.20%），《烈焰觉醒》Q1 收入约 10 亿；完美世界预亏 0.8-1.2 亿（收入费用错配），《异环》全球流水超 14 亿；巨人网络营收 46.89 亿 +182%。行业 H1 收入 1884.5 亿 +12.17%。",
         "amount": "行业H1收入1884.5亿元 (+12.17%)",
         "major": false
       },
       {
         "date": "2026上半年",
         "title": "世纪华通 H1 净利同比 +69.51% · 创历史最佳",
-        "desc": "世纪华通（002602）H1 净利润同比 <strong>+69.51%</strong>，跻身游戏公司第一梯队。旗下 <strong>点点互动</strong>《无尽冬日》长期占据小游戏赛道前列并稳居 iOS 畅销榜前五，《奔奔王国》排名稳步提升；盛趣游戏聚焦核心 IP（《传奇》系新品+端手并进）；<strong>Century Games</strong> 出海三爆款（Whiteout Survival 6月再度问鼎全球手游收入冠军 / Kingshot 稳居出海前三 / Tasty Travels 进前五）。储备管线：《彩虹岛:经典》《永恒之塔:经典》《饥困荒野》加速推进，7月与韩国 NC 达成《AION2》上线运营合作。",
+        "desc": "世纪华通（002602）H1 净利润同比 +69.51%，跻身游戏公司第一梯队。旗下 点点互动《无尽冬日》长期占据小游戏赛道前列并稳居 iOS 畅销榜前五，《奔奔王国》排名稳步提升；盛趣游戏聚焦核心 IP（《传奇》系新品+端手并进）；Century Games 出海三爆款（Whiteout Survival 6月再度问鼎全球手游收入冠军 / Kingshot 稳居出海前三 / Tasty Travels 进前五）。储备管线：《彩虹岛:经典》《永恒之塔:经典》《饥困荒野》加速推进，7月与韩国 NC 达成《AION2》上线运营合作。",
         "amount": "净利同比 +69.51%"
       },
       {
@@ -1923,7 +1937,7 @@
         "date": "2026年8月26日",
         "title": "三七互娱 H1 财报：营收72.75亿 净利+26% · 海外占比首破40%",
         "link": "https://www.gameres.com/901202755.html",
-        "desc": "三七互娱8月25日晚发布2026半年报：H1<strong>营收72.75亿元（+22.6%）</strong>，归母净利<strong>15.18亿元（+26.0%）</strong>。海外收入29.15亿元，<strong>占比首次突破40%</strong>（《Puzzles & Survival》《小小蚁国》海外贡献）。游戏业务毛利率82.4%，研发人员占比近半。验证“出海+IP混合变现”双引擎可行性。",
+        "desc": "三七互娱8月25日晚发布2026半年报：H1营收72.75亿元（+22.6%），归母净利15.18亿元（+26.0%）。海外收入29.15亿元，占比首次突破40%（《Puzzles & Survival》《小小蚁国》海外贡献）。游戏业务毛利率82.4%，研发人员占比近半。验证“出海+IP混合变现”双引擎可行性。",
         "amount": "营收72.75亿（H1）",
         "major": true
       },
@@ -1931,7 +1945,7 @@
         "date": "2026年8月26日",
         "title": "世纪华通公告：拟分拆海外业务至港交所独立上市",
         "link": "https://www.gameres.com/901202756.html",
-        "desc": "世纪华通8月26日发布公告，董事会审议通过<strong>筹划分拆控股子公司DiXin International（迪信通海外）至港交所主板独立上市</strong>方案。DiXin持有点点互动100%股权及《Whiteout Survival》《Dragonscapes》等海外爆款。如成功，将成为继三七互娱之后又一家分拆海外业务上市的A股游戏公司。",
+        "desc": "世纪华通8月26日发布公告，董事会审议通过筹划分拆控股子公司DiXin International（迪信通海外）至港交所主板独立上市方案。DiXin持有点点互动100%股权及《Whiteout Survival》《Dragonscapes》等海外爆款。如成功，将成为继三七互娱之后又一家分拆海外业务上市的A股游戏公司。",
         "amount": "未披露 · 港交所IPO",
         "major": true
       },
@@ -1939,7 +1953,7 @@
         "date": "2026年8月23日",
         "title": "恺英网络 H1 净利预增 64% · 《烈焰觉醒》单季贡献10亿",
         "link": "https://www.gameres.com/901202652.html",
-        "desc": "恺英网络2026 H1预计实现归母净利13.0-15.6亿元，<strong>同比+36.84%~64.20%</strong>；扣非净利10.2-13.2亿元，同比+8.68%~40.64%。H1非经常性损益约2.4-2.8亿元（主要来自传奇IP相关仲裁诉讼和解收益，一季度已确认2.35亿）。Q2扣非净利4.75-7.75亿元，环比-13%~+42%。《烈焰觉醒》Q1贡献约10亿收入，验证\"传奇+X\"品类拓展。后续储备《斗罗大陆:诛邪传说》《盗墓笔记:启程》（8/11已公测）《古龙群侠录》等IP产品。",
+        "desc": "恺英网络2026 H1预计实现归母净利13.0-15.6亿元，同比+36.84%~64.20%；扣非净利10.2-13.2亿元，同比+8.68%~40.64%。H1非经常性损益约2.4-2.8亿元（主要来自传奇IP相关仲裁诉讼和解收益，一季度已确认2.35亿）。Q2扣非净利4.75-7.75亿元，环比-13%~+42%。《烈焰觉醒》Q1贡献约10亿收入，验证\"传奇+X\"品类拓展。后续储备《斗罗大陆:诛邪传说》《盗墓笔记:启程》（8/11已公测）《古龙群侠录》等IP产品。",
         "amount": "13.0-15.6亿元（H1 净利）",
         "major": true
       },
