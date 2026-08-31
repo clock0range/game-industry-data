@@ -1,16 +1,17 @@
 {
-  "generated": "2026-08-31T10:34:00+08:00",
+  "generated": "2026-08-31T11:50:00+08:00",
   "latest": "data/latest.json",
   "archives": [
     {
       "date": "2026-08-31",
       "file": "data/2026-08-31.json",
-      "lastUpdated": "2026-08-31T10:34:00+08:00",
+      "lastUpdated": "2026-08-31T11:50:00+08:00",
       "summary": {
         "iosCount": 15,
         "steamSellers": 10,
         "steamIndie": 8,
-        "newGames": 36
+        "newGames": 36,
+        "miniapp": 20
       }
     },
     {
