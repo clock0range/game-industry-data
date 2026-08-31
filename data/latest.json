@@ -506,20 +506,6 @@
     "topSellers": [
       {
         "rank": 1,
-        "name": "How to Fish",
-        "appId": 4001890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": "HK$ 29.76",
-        "originalPrice": null,
-        "discount": "-38%",
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/4001890"
-      },
-      {
-        "rank": 2,
         "name": "Counter-Strike 2",
         "appId": 730,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
@@ -533,7 +519,35 @@
         "link": "https://store.steampowered.com/app/730"
       },
       {
+        "rank": 2,
+        "name": "STAR WARS Zero Company™",
+        "appId": 2075800,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
+        "price": "¥ 6900",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2075800"
+      },
+      {
         "rank": 3,
+        "name": "How to Fish",
+        "appId": 4001890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
+        "price": "¥ 880",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/4001890"
+      },
+      {
+        "rank": 4,
         "name": "Dota 2",
         "appId": 570,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
@@ -547,8 +561,8 @@
         "link": "https://store.steampowered.com/app/570"
       },
       {
-        "rank": 4,
-        "name": "Apex Legends",
+        "rank": 5,
+        "name": "Apex Legends™",
         "appId": 1172470,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
         "price": "免费",
@@ -561,39 +575,53 @@
         "link": "https://store.steampowered.com/app/1172470"
       },
       {
-        "rank": 5,
-        "name": "Mortal Shell II",
-        "appId": 2584270,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2584270/capsule_231x87.jpg",
-        "price": "HK$ 308.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2584270"
-      },
-      {
         "rank": 6,
-        "name": "STAR WARS Zero Company",
-        "appId": 2075800,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
-        "price": "HK$ 399.00",
+        "name": "EA SPORTS FC™ 27",
+        "appId": 4080220,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4080220/capsule_231x87.jpg",
+        "price": "¥ 9800",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/2075800"
+        "link": "https://store.steampowered.com/app/4080220"
       },
       {
         "rank": 7,
+        "name": "NBA 2K27",
+        "appId": 4356430,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4356430/capsule_231x87.jpg",
+        "price": "¥ 9460",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/4356430"
+      },
+      {
+        "rank": 8,
+        "name": "Bodycam",
+        "appId": 2406770,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
+        "price": "¥ 3900",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2406770"
+      },
+      {
+        "rank": 9,
         "name": "WARDOGS",
         "appId": 1867240,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
-        "price": "HK$ 249.00",
+        "price": "¥ 4980",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -603,46 +631,18 @@
         "link": "https://store.steampowered.com/app/1867240"
       },
       {
-        "rank": 8,
-        "name": "Black Myth: Wukong",
-        "appId": 2358720,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2358720/capsule_231x87.jpg",
-        "price": "HK$ 208.60",
-        "originalPrice": null,
-        "discount": "-30%",
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2358720"
-      },
-      {
-        "rank": 9,
-        "name": "HELLDIVERS 2",
-        "appId": 553850,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/553850/capsule_231x87.jpg",
-        "price": "HK$ 308.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/553850"
-      },
-      {
         "rank": 10,
-        "name": "No More Room in Hell 2",
-        "appId": 292000,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/292000/capsule_231x87.jpg",
-        "price": "HK$ 121.55",
+        "name": "Crimson Desert Enhanced",
+        "appId": 3321460,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3321460/capsule_231x87.jpg",
+        "price": "¥ 7744",
         "originalPrice": null,
-        "discount": "-35%",
+        "discount": "-20%",
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/292000"
+        "link": "https://store.steampowered.com/app/3321460"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
@@ -798,7 +798,7 @@
       ]
     },
     "newGamesAsOf": "2026-08-27",
-    "topSellersAsOf": "2026-08-25",
+    "topSellersAsOf": "2026-08-31",
     "mostPlayedAsOf": "2026-08-31"
   },
   "miniapp": {
