@@ -391,115 +391,115 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "Fell & Sell",
-        "name": "Fell & Sell",
-        "steamAppId": "4627110",
-        "appId": 4627110,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627110/58f86a9cf3bf33495e3f603079a4096e785509a1/capsule_231x87.jpg?t=1787778317",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4627110.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4627110",
-        "reviewSummary": "差评",
-        "tags": []
-      },
-      {
-        "gameName": "Night Rolls Cozy Store",
-        "name": "Night Rolls Cozy Store",
-        "steamAppId": "965190",
-        "appId": 965190,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965190/fb02972ec48664758214fea4f4530402fcac7c82/capsule_231x87.jpg?t=1787758601",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/965190.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/965190",
-        "reviewSummary": "差评",
-        "tags": []
-      },
-      {
-        "gameName": "Click the Button",
-        "name": "Click the Button",
-        "steamAppId": "3946950",
-        "appId": 3946950,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946950/322299ee17e59eafc395a1b9d023612bd7a17f87/capsule_231x87.jpg?t=1787768674",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3946950.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3946950",
-        "reviewSummary": "差评",
-        "tags": []
-      },
-      {
-        "gameName": "暗影地牢",
-        "name": "暗影地牢",
-        "steamAppId": "4423580",
-        "appId": 4423580,
-        "manualCover": "https://cdn.akamai.steamstatic.com/steam/apps/4423580/capsule_231x87.jpg",
-        "finalCoverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4423580/capsule_sm_120.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4423580",
-        "reviewSummary": "差评",
-        "tags": []
-      },
-      {
-        "gameName": "Pickle Pete",
-        "name": "Pickle Pete",
-        "steamAppId": "3963030",
-        "appId": 3963030,
-        "manualCover": "https://cdn.akamai.steamstatic.com/steam/apps/3963030/capsule_231x87.jpg",
-        "finalCoverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3963030/capsule_sm_120.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3963030",
-        "reviewSummary": "差评",
-        "tags": []
-      },
-      {
-        "gameName": "States of Power",
-        "name": "States of Power",
-        "steamAppId": "3126500",
-        "appId": 3126500,
-        "manualCover": "https://cdn.akamai.steamstatic.com/steam/apps/3126500/capsule_231x87.jpg",
-        "finalCoverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3126500/capsule_sm_120.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3126500",
-        "reviewSummary": "差评",
-        "tags": []
-      },
-      {
-        "gameName": "致命利爪",
-        "name": "致命利爪",
-        "steamAppId": "2827750",
-        "appId": 2827750,
+        "gameName": "渔力全开 (How to Fish)",
+        "name": "渔力全开 (How to Fish)",
+        "steamAppId": "4001890",
+        "appId": 4001890,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2827750.jpg",
-        "rating": "",
-        "meta": "2026-08-26",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/2827750",
-        "reviewSummary": "差评",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4001890/capsule_616x353.jpg",
+        "rating": "93%",
+        "meta": "8/20上线",
+        "reviews": "44155",
+        "link": "https://store.steampowered.com/app/4001890",
+        "reviewSummary": "特别好评",
         "tags": []
       },
       {
-        "gameName": "吸吸吸有限公司",
-        "name": "吸吸吸有限公司",
-        "steamAppId": "4073860",
-        "appId": 4073860,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/6cb8376da45b5b8ff39a649f81e0f02d4e035340/capsule_231x87.jpg?t=1787778959",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4073860.jpg",
-        "rating": "",
-        "meta": "2026-08-25",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4073860",
-        "reviewSummary": "差评",
+        "gameName": "星球大战：零号连队 (STAR WARS Zero Company)",
+        "name": "星球大战：零号连队 (STAR WARS Zero Company)",
+        "steamAppId": "2075800",
+        "appId": 2075800,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2075800/capsule_616x353.jpg",
+        "rating": "76%",
+        "meta": "8/27上线",
+        "reviews": "84638",
+        "link": "https://store.steampowered.com/app/2075800",
+        "reviewSummary": "多半好评",
+        "tags": []
+      },
+      {
+        "gameName": "Big Walk",
+        "name": "Big Walk",
+        "steamAppId": "1478500",
+        "appId": 1478500,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
+        "rating": "93%",
+        "meta": "8/26上线",
+        "reviews": "71043",
+        "link": "https://store.steampowered.com/app/1478500",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "致命躯壳 II (Mortal Shell II)",
+        "name": "致命躯壳 II (Mortal Shell II)",
+        "steamAppId": "2584270",
+        "appId": 2584270,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2584270/capsule_616x353.jpg",
+        "rating": "74%",
+        "meta": "8/20上线",
+        "reviews": "71022",
+        "link": "https://store.steampowered.com/app/2584270",
+        "reviewSummary": "多半好评",
+        "tags": []
+      },
+      {
+        "gameName": "No More Room in Hell 2",
+        "name": "No More Room in Hell 2",
+        "steamAppId": "292000",
+        "appId": 292000,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/292000.jpg",
+        "rating": "55%",
+        "meta": "8/26上线",
+        "reviews": "102293",
+        "link": "https://store.steampowered.com/app/292000",
+        "reviewSummary": "褒贬不一",
+        "tags": []
+      },
+      {
+        "gameName": "Hell Let Loose: Vietnam",
+        "name": "Hell Let Loose: Vietnam",
+        "steamAppId": "3079210",
+        "appId": 3079210,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3079210/capsule_616x353.jpg",
+        "rating": "60%",
+        "meta": "8/26上线",
+        "reviews": "71151",
+        "link": "https://store.steampowered.com/app/3079210",
+        "reviewSummary": "褒贬不一",
+        "tags": []
+      },
+      {
+        "gameName": "Big Ambitions",
+        "name": "Big Ambitions",
+        "steamAppId": "1331550",
+        "appId": 1331550,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1331550.jpg",
+        "rating": "90%",
+        "meta": "8/28上线",
+        "reviews": "73315",
+        "link": "https://store.steampowered.com/app/1331550",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "Aliens: Fireteam Elite 2",
+        "name": "Aliens: Fireteam Elite 2",
+        "steamAppId": "3448650",
+        "appId": 3448650,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3448650/capsule_616x353.jpg",
+        "rating": "62%",
+        "meta": "8/26上线",
+        "reviews": "24179",
+        "link": "https://store.steampowered.com/app/3448650",
+        "reviewSummary": "褒贬不一",
         "tags": []
       }
     ],
@@ -797,7 +797,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-08-27",
+    "newGamesAsOf": "2026-08-31",
     "topSellersAsOf": "2026-08-31",
     "mostPlayedAsOf": "2026-08-31"
   },
@@ -1091,7 +1091,7 @@
       "imageStatus": "ok",
       "gameName": "王者万象棋",
       "manualCover": "",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/4fc6cb2c04aad3da58d314ac766cccdb.jpg/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_王者万象棋.jpg"
     },
     {
       "date": "2026-08-28",
@@ -1134,7 +1134,7 @@
       "imageSource": "taptap",
       "imageStatus": "ok",
       "gameName": "发条总动员",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/365034a8e0105116f909e6cbe4dcd858.jpg/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_发条总动员.jpg"
     },
     {
       "name": "全明星觉醒",
@@ -1174,7 +1174,7 @@
       "imageSource": "taptap",
       "imageStatus": "ok",
       "gameName": "伊瑟",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/1ba701b0d388b30cea597b1df14195bc.jpg/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊瑟.jpg"
     },
     {
       "name": "致命躯壳2 (Mortal Shell II)",
@@ -1237,7 +1237,7 @@
       "imageStatus": "ok",
       "gameName": "头号禁区",
       "manualCover": "",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/cdd8fceb1360fdd7947e9ce88466be13.jpg/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_头号禁区.jpg"
     },
     {
       "name": "诡秘之主",
@@ -1258,7 +1258,7 @@
       "imageStatus": "ok",
       "gameName": "诡秘之主",
       "manualCover": "",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/3b588266863eb76fe79071a5524b4912.jpg/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_诡秘之主.jpg"
     },
     {
       "name": "影之刃零",
@@ -1302,7 +1302,7 @@
       "imageStatus": "ok",
       "gameName": "赘婿",
       "manualCover": "",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/dc3d849db6af3c133a107053561e8385.png/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_赘婿.jpg"
     },
     {
       "name": "甄嬛传",
@@ -1323,7 +1323,7 @@
       "imageStatus": "ok",
       "gameName": "甄嬛传",
       "manualCover": "",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/d472cf91b80e0adc94c15293ab7cbe5f.jpg/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_甄嬛传.jpg"
     },
     {
       "name": "粒粒的小人国",
