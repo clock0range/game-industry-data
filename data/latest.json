@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-01",
-    "lastUpdated": "2026-09-01T10:48:00+08:00",
+    "lastUpdated": "2026-09-01T10:52:00+08:00",
     "footerDate": "数据截至2026年9月1日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,64 +183,64 @@
     ],
     "highlights": [
       {
-        "title": "SteamDB 8/31在线榜 · CS2 52.0万领跑 · 星球大战零号公司热销冲至#2 · 三角洲行动入榜",
-        "titleLink": "https://steamdb.info/charts/",
+        "title": "世纪华通并购盛趣科技 · 超10亿业绩补偿悬空 · 仲裁胜诉仍未到账",
+        "titleLink": "https://news.bjd.com.cn/2026/09/01/11940742.shtml",
         "color": "purple",
+        "source": "京报网",
+        "sourceLink": "https://news.bjd.com.cn/2026/09/01/11940742.shtml",
+        "body": "世纪华通 2026 半年报披露：收购盛趣科技触发对赌失败，<strong>曜瞿如约 7.72 亿 + 熠趣盛约 2.43 亿</strong>（合计超 10 亿）业绩补偿经仲裁裁决后仍未到账，相关股份已质押/冻结。事件源于盛趣子公司<strong>虚增营收 1.04 亿</strong>被证监会认定，业绩承诺实际未达标，暴露高溢价并购对赌风险。",
+        "isNew": true,
+        "newUntil": "2026-09-03"
+      },
+      {
+        "title": "Scopely 约 10 亿美元收购 Loom · 手游资本转向成熟资产",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
+        "color": "green",
+        "source": "腾讯证券",
+        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
+        "body": "本季度手游最大并购之一：<strong>Scopely 约 10 亿美元收购 Loom</strong>；同期 JustPlay、Bluetile 等休闲团队相继易主。Q2 全球手游 IAP 收入同比<strong> -4%</strong>、下载量 -12%，资本偏好从\"押注爆款\"转向<strong>收购已验证现金流的成熟资产</strong>。",
+        "isNew": true,
+        "newUntil": "2026-09-03"
+      },
+      {
+        "title": "Wemade 创始人朴宽镐出售 35% 股份予中国投资方 NeoPulse · 涉资 5.97 亿美元",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
+        "color": "green",
+        "source": "腾讯证券",
+        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
+        "body": "韩国 <strong>Wemade（娱美德）</strong>创始人朴宽镐宣布出售约 35% 股份给中国投资方 <strong>NeoPulse</strong>，涉及金额约 <strong>5.97 亿美元</strong>，成为本季度全球资本市场重点关注事件之一。",
+        "isNew": true,
+        "newUntil": "2026-09-03"
+      },
+      {
+        "title": "巨人网络大宗交易折价成交 1.22 亿元 · 折价 6.59%",
+        "titleLink": "https://www.nbd.com.cn/articles/2026-08-31/4567735.html",
+        "color": "purple",
+        "source": "每日经济新闻",
+        "sourceLink": "https://www.nbd.com.cn/articles/2026-08-31/4567735.html",
+        "body": "8/31 <strong>巨人网络</strong>完成大宗交易合计 475.2 万股、总金额 <strong>1.22 亿元</strong>，成交价 25.64 元较收盘价折价 6.59%，占当日个股成交额 6.7%，被解读为部分资金离场信号，短期或扰动二级市场情绪。",
+        "isNew": true,
+        "newUntil": "2026-09-03"
+      },
+      {
+        "title": "《Among Us VR》开发商 Schell Games 20 余年来首次裁员",
+        "titleLink": "https://www.nbd.com.cn/articles/2026-08-31/4567735.html",
+        "color": "green",
+        "source": "每日经济新闻",
+        "sourceLink": "https://www.nbd.com.cn/articles/2026-08-31/4567735.html",
+        "body": "老牌 VR 工作室 <strong>Schell Games</strong> 8/31 确认启动裁员，覆盖市场/美术/设计/VFX 等部门，系成立 20 余年来首次大规模调整，反映 <strong>VR 游戏赛道商业化承压</strong>、用户基数与变现不及预期。",
+        "isNew": true,
+        "newUntil": "2026-09-03"
+      },
+      {
+        "title": "SteamDB 9/1 在线榜 · CS2 49.5万领跑 · 杀戮尖塔2首登在线榜",
+        "titleLink": "https://steamdb.info/charts/",
+        "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "8/31 实时数据：<strong>CS2 52.0万</strong>在线居首，Dota2 43.1万次席；<strong>《星球大战：零号连队》</strong>上市即冲全球热销榜第 2（¥6900 / 好评 76%）；《渔力全开》热销#3 + 在线7.6万成黑马；国服《三角洲行动》在线 3.5万入榜；CoD MW4 Beta 开测在线 6.5万。",
+        "body": "9/1 实时：<strong>CS2 49.5万</strong>居首、Dota2 40.9万次席；<strong>邦戈猫 13.5万</strong>稳居#3；热销榜《星球大战：零号公司》#3、《血之黎明行者》预购冲#4；<strong>杀戮尖塔2 在线 6.0万</strong>首登在线榜#15；《绝地潜兵2》#16 守门。",
         "isNew": true,
-        "newUntil": "2026-09-02"
-      },
-      {
-        "title": "未成年破解《崩铁》测试包致父母连带赔偿百万 · 上海浦东法院判决生效",
-        "titleLink": "https://news.qq.com/rain/a/20260829A053JK00",
-        "color": "red",
-        "source": "上海高院/腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20260829A053JK00",
-        "body": "未成年人郭某获取《崩坏：星穹铁道》测试版并破解搭建私服，杨某长期发布泄密视频与下载链接。上海浦东法院一审判决<strong>监护人连带赔偿米哈游 100 万元</strong>，判决已生效——游戏行业商业秘密保护标志性判例。",
-        "isNew": true,
-        "newUntil": "2026-09-02"
-      },
-      {
-        "title": "腾讯游戏 AI 生产管线接入超 90 个项目 · 覆盖研发与运营",
-        "titleLink": "https://new.qq.com/rain/a/20260828A0CU2500",
-        "color": "blue",
-        "source": "热点中台",
-        "sourceLink": "https://new.qq.com/rain/a/20260828A0CU2500",
-        "body": "8/28 腾讯游戏披露 AI 生产管线已接入<strong>超过 90 个项目</strong>，覆盖研发、运营等环节，显著提升内容生产效率。同期 A股 21 家游戏公司密集披露半年报，<strong>近七成盈利</strong>，行业 H1 收入 1884.5 亿 +12.17%。",
-        "isNew": true,
-        "newUntil": "2026-09-02"
-      },
-      {
-        "title": "上海英澈网络破产清算 · 《千年之旅ELF》《晴空之下》8/26 停服",
-        "titleLink": "https://news.qq.com/rain/a/20260829A053JK00",
-        "color": "orange",
-        "source": "游戏新知",
-        "sourceLink": "https://news.qq.com/rain/a/20260829A053JK00",
-        "body": "上海英澈网络进入破产清算，旗下两款手游 8/26 17:00 起停服交接。公司成立于 2018 年，去年底起频传欠租欠款，资金链断裂终致破产。初版停服公告曾承诺玩家数据封存与专项处置方案，后续被删除，<strong>玩家权益存不确定性</strong>。",
-        "isNew": true,
-        "newUntil": "2026-09-02"
-      },
-      {
-        "title": "腾讯《王者万象棋》定档9/10 · 全平台预约7000万",
-        "titleLink": "https://news.qq.com/rain/a/20260829A053JK00",
-        "color": "purple",
-        "source": "游戏那点事",
-        "sourceLink": "https://news.qq.com/rain/a/20260829A053JK00",
-        "body": "王者荣耀 IP 自走棋<strong>定档 9/10 上线</strong>，全平台预约突破 7000 万。发布会以刘谦魔术秀诠释玩法、黄子韬组建 ZT.CLUB 电竞战队，围绕「人人可参与」打造百万级奖金全民赛事，携手华润万象生活、京东等品牌线上线下联动。",
-        "isNew": true,
-        "newUntil": "2026-09-02"
-      },
-      {
-        "title": "恺英H1预盈13-15.6亿(+37%~64%) · 完美世界预亏0.8-1.2亿 · 《异环》全球流水破14亿",
-        "titleLink": "https://new.qq.com/rain/a/20260828A0CU2500",
-        "color": "blue",
-        "source": "内部研报/腾讯网",
-        "sourceLink": "https://new.qq.com/rain/a/20260828A0CU2500",
-        "body": "半年报季：恺英网络 H1 归母净利 13.0-15.6 亿（+36.84%~64.20%），《烈焰觉醒》Q1 贡献收入约 10 亿；完美世界预亏 0.8-1.2 亿（收入费用错配），《异环》全球累计流水超 <strong>14 亿</strong>，日本 iOS 畅销榜登顶。",
-        "isNew": true,
-        "newUntil": "2026-09-02"
+        "newUntil": "2026-09-03"
       }
     ],
     "taptap": {
@@ -1869,6 +1869,14 @@
   "investment": {
     "global": [
       {
+        "date": "2026年9月1日",
+        "title": "Scopely 约10亿美元收购 Loom · 手游资本转向成熟资产",
+        "link": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
+        "desc": "本季度手游领域规模最大交易之一：Scopely 完成对 Loom 约10亿美元收购。同期 JustPlay、Bluetile 等休闲手游团队相继被并购；韩国 Wemade 创始人朴宽镐出售约35%股份给中国投资方 NeoPulse（约5.97亿美元）。Q2 全球手游 IAP 收入同比 -4%、下载量 -12%，资本关注点从'押注下一款爆款'转向收购已验证现金流的成熟团队。",
+        "amount": "约10亿美元",
+        "major": true
+      },
+      {
         "date": "2026年8月26日",
         "title": "Embracer 集团宣布分拆为三家上市公司 · 主业聚焦3A/中型/手游",
         "link": "https://www.gameres.com/901202757.html",
@@ -2023,6 +2031,20 @@
   },
   "lawsuits": {
     "cards": [
+      {
+        "title": "世纪华通并购盛趣科技 · 超10亿业绩补偿悬空 · 仲裁胜诉仍未到账",
+        "badge": "并购对赌",
+        "badgeColor": "red",
+        "body": "<strong>案情：</strong>世纪华通收购盛趣科技后，交易对手方曜瞿如、熠趣盛、吉虞梵作出业绩承诺。证监会认定盛趣子公司存在<strong>提前确认《彩虹联萌》软件著作权交易收入、虚增营收1.04亿元</strong>的行为，扣除后2020年实际归母净利26.17亿元，<strong>业绩承诺未达标</strong>，对赌补偿义务正式触发。<br><br><strong>进展：</strong>吉虞梵对应约2447万股已于2025年8月回购注销；世纪华通2025年9月向上海国际经济贸易仲裁委员会提起仲裁，<strong>2026年2月裁决</strong>要求曜瞿如支付约<strong>7.72亿元</strong>、熠趣盛约<strong>2.43亿元</strong>（合计超10亿）或足额交付股份；截至2026年半年报披露日补偿款仍未到账，相关股份已全部质押/冻结。<br><br><strong>意义：</strong>高溢价并购对赌的典型\"后遗症\"——因财务造假导致的对赌失败与补偿悬空，暴露高溢价收购中交易对方股权锁定不足的风险，引发行业对并购对赌模式的反思。",
+        "source": "京报网/今日头条",
+        "sourceLink": "https://news.bjd.com.cn/2026/09/01/11940742.shtml",
+        "tags": [
+          "并购对赌",
+          "业绩补偿",
+          "仲裁",
+          "财务造假"
+        ]
+      },
       {
         "title": "新疆法院调解游戏换皮案 · 玩法规则保护路径破冰",
         "badge": "司法调解",
