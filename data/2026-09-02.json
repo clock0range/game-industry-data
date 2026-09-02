@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-02",
-    "lastUpdated": "2026-09-02T10:04:00+08:00",
+    "lastUpdated": "2026-09-02T10:08:22+08:00",
     "footerDate": "数据截至2026年9月2日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,64 +183,64 @@
     ],
     "highlights": [
       {
-        "title": "世纪华通并购盛趣科技 · 超10亿业绩补偿悬空 · 仲裁胜诉仍未到账",
-        "titleLink": "https://news.bjd.com.cn/2026/09/01/11940742.shtml",
-        "color": "purple",
-        "source": "京报网",
-        "sourceLink": "https://news.bjd.com.cn/2026/09/01/11940742.shtml",
-        "body": "世纪华通 2026 半年报披露：收购盛趣科技触发对赌失败，<strong>曜瞿如约 7.72 亿 + 熠趣盛约 2.43 亿</strong>（合计超 10 亿）业绩补偿经仲裁裁决后仍未到账，相关股份已质押/冻结。事件源于盛趣子公司<strong>虚增营收 1.04 亿</strong>被证监会认定，业绩承诺实际未达标，暴露高溢价并购对赌风险。",
-        "isNew": true,
-        "newUntil": "2026-09-03"
-      },
-      {
-        "title": "Scopely 约 10 亿美元收购 Loom · 手游资本转向成熟资产",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
+        "title": "8月版号215款再创年内新高 · 版号常态化板块转向业绩驱动",
+        "titleLink": "https://www.toutiao.com/article/7680744792678072878/",
         "color": "green",
-        "source": "腾讯证券",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
-        "body": "本季度手游最大并购之一：<strong>Scopely 约 10 亿美元收购 Loom</strong>；同期 JustPlay、Bluetile 等休闲团队相继易主。Q2 全球手游 IAP 收入同比<strong> -4%</strong>、下载量 -12%，资本偏好从\"押注爆款\"转向<strong>收购已验证现金流的成熟资产</strong>。",
+        "source": "第一财经·壹评级",
+        "sourceLink": "https://www.toutiao.com/article/7680744792678072878/",
+        "body": "国家新闻出版署公布8月游戏审批信息，单月下发版号<strong>215款</strong>，再创年内新高。壹评级认为版号供给常态化趋势明确，行业供给侧约束全面放开，游戏板块正从题材驱动转向业绩驱动。2026H1国内游戏市场收入同比+12.17%，端游收入+27.92%，海外自研收入+30.22%。世纪华通、巨人等头部公司H1业绩增速普遍超50%。",
         "isNew": true,
-        "newUntil": "2026-09-03"
+        "newUntil": "2026-09-04"
       },
       {
-        "title": "Wemade 创始人朴宽镐出售 35% 股份予中国投资方 NeoPulse · 涉资 5.97 亿美元",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
-        "color": "green",
-        "source": "腾讯证券",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?_tentrees_trans=0&id=SN20260721152708954ab95f",
-        "body": "韩国 <strong>Wemade（娱美德）</strong>创始人朴宽镐宣布出售约 35% 股份给中国投资方 <strong>NeoPulse</strong>，涉及金额约 <strong>5.97 亿美元</strong>，成为本季度全球资本市场重点关注事件之一。",
-        "isNew": true,
-        "newUntil": "2026-09-03"
-      },
-      {
-        "title": "未成年破解《崩坏：星穹铁道》测试包 · 监护人连带赔偿百万",
-        "titleLink": "https://news.17173.com/content/08272026/102034705.shtml",
-        "color": "purple",
-        "source": "17173",
-        "sourceLink": "https://news.17173.com/content/08272026/102034705.shtml",
-        "body": "上海浦东法院审结米哈游诉<strong>未成年人郭某非法破解《崩铁》测试包</strong>、搭建私服网站，杨某传播泄密案：测试版新角色/剧情被认定构成<strong>经营秘密</strong>，判令停止侵权、消除影响，<strong>杨某与监护人董某连带赔偿 100 万元</strong>（索赔 200 万），系<strong>未成年人破解泄密承担监护责任的标志性判例</strong>，判决已生效。",
-        "isNew": true,
-        "newUntil": "2026-09-03"
-      },
-      {
-        "title": "《Among Us VR》开发商 Schell Games 20 余年来首次裁员",
-        "titleLink": "https://www.nbd.com.cn/articles/2026-08-31/4567735.html",
-        "color": "green",
-        "source": "每日经济新闻",
-        "sourceLink": "https://www.nbd.com.cn/articles/2026-08-31/4567735.html",
-        "body": "老牌 VR 工作室 <strong>Schell Games</strong> 8/31 确认启动裁员，覆盖市场/美术/设计/VFX 等部门，系成立 20 余年来首次大规模调整，反映 <strong>VR 游戏赛道商业化承压</strong>、用户基数与变现不及预期。",
-        "isNew": true,
-        "newUntil": "2026-09-03"
-      },
-      {
-        "title": "国内首部 AI 长剧《后西游记》上星 · 芒果超媒涨停",
-        "titleLink": "https://www.cnstock.com/commonDetail/783564",
+        "title": "AI 3D公司VAST完成约30亿融资 · 完美世界/三七互娱入局",
+        "titleLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
         "color": "blue",
-        "source": "上证报·中国证券网",
-        "sourceLink": "https://www.cnstock.com/commonDetail/783564",
-        "body": "8/31 国内首部<strong>上星 AI 长剧《后西游记》</strong>登陆湖南卫视黄金档+芒果TV：全 AIGC 制作、无真人演员，<strong>首播卫视收视第一</strong>，芒果超媒 20cm 涨停、AI 影视概念股集体跟涨；系<strong>「广电21条」后首部「边审边播」剧集</strong>，制作成本约为真人剧 1/10，标志 AI 内容进入主流电视体系，对游戏 AIGC 工业化有同频信号意义。",
+        "source": "凤凰网",
+        "sourceLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
+        "body": "成立仅3年的AI 3D创业公司VAST于9月1日官宣完成约<strong>30亿元</strong>B轮与B+轮融资，经纬创投领投，完美世界、蓝色光标、三七互娱等产业资本入局。意在降低3D模型获取门槛，革新游戏工业管线。",
         "isNew": true,
-        "newUntil": "2026-09-03"
+        "newUntil": "2026-09-04"
+      },
+      {
+        "title": "未成年破解崩铁测试包·监护人连带赔百万 · 浦东法院判决生效",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3226a9779df31752",
+        "color": "purple",
+        "source": "上海高院",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_3226a9779df31752",
+        "body": "上海浦东新区法院审结一起未成年人破解《崩坏：星穹铁道》测试版软件包并披露更新内容的商业秘密案。法院认定游戏测试版本内容构成<strong>经营秘密</strong>，判令杨某、郭某停止侵权并消除影响，杨某与监护人连带赔偿<strong>100万元</strong>。判决已生效。系全国首例游戏测试包泄密商业秘密案。",
+        "isNew": true,
+        "newUntil": "2026-09-04"
+      },
+      {
+        "title": "科隆游戏展中国厂商60+参展创纪录 · 网易《燕云十六声》获最佳移动游戏",
+        "titleLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
+        "color": "blue",
+        "source": "财经网科技",
+        "sourceLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
+        "body": "2026科隆游戏展中国超<strong>60家</strong>厂商参展创纪录，网易《燕云十六声》斩获最佳移动游戏，五项提名首度被国产游戏包揽。米哈游《源初之结》全球首曝，标志中国游戏从被看见到被认可。",
+        "isNew": true,
+        "newUntil": "2026-09-04"
+      },
+      {
+        "title": "SteamDB 9/2在线榜 · CS2 46万领跑 FiveM/Bongo Cat稳居TOP4",
+        "titleLink": "https://steamdb.info/charts/",
+        "color": "orange",
+        "source": "SteamDB",
+        "sourceLink": "https://steamdb.info/charts/",
+        "body": "CS2 <strong>46万</strong>在线领跑，Dota2 38.7万居次。FiveM 13.2万首超Bongo Cat升至#3。Slay the Spire 2 杀戮尖塔2以5.5万稳居#16第二周。How to Fish 渔力全开跌至#19（5万）。",
+        "isNew": true,
+        "newUntil": "2026-09-04"
+      },
+      {
+        "title": "游戏驿站Q2利润预增超七成 · 债务交换+业绩提振股价涨5%",
+        "titleLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
+        "color": "green",
+        "source": "和讯网",
+        "sourceLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
+        "body": "游戏驿站(GME)盘初涨超5%，受14亿美元债务交换条款调整及Q2业绩预告提振。预计净利润<strong>2.9亿—3.1亿美元</strong>，同比增约72%—84%，但增长主要来自一次性投资收益而非主业改善。",
+        "isNew": true,
+        "newUntil": "2026-09-04"
       }
     ],
     "taptap": {
@@ -522,76 +522,6 @@
       },
       {
         "rank": 2,
-        "name": "How to Fish",
-        "appId": 4001890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": "S$8.50",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/4001890"
-      },
-      {
-        "rank": 3,
-        "name": "STAR WARS Zero Company",
-        "appId": 2075800,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
-        "price": "S$64.90",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2075800"
-      },
-      {
-        "rank": 4,
-        "name": "The Blood of Dawnwalker",
-        "appId": 3751260,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
-        "price": "S$89.90",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/3751260"
-      },
-      {
-        "rank": 5,
-        "name": "Dota 2",
-        "appId": 570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
-        "price": "免费",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/570"
-      },
-      {
-        "rank": 6,
-        "name": "EA SPORTS FC 27",
-        "appId": 4080220,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4080220/capsule_231x87.jpg",
-        "price": "S$99.90",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/4080220"
-      },
-      {
-        "rank": 7,
         "name": "Apex Legends",
         "appId": 1172470,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
@@ -605,25 +535,53 @@
         "link": "https://store.steampowered.com/app/1172470"
       },
       {
-        "rank": 8,
-        "name": "NBA 2K27",
-        "appId": 4356430,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4356430/capsule_231x87.jpg",
-        "price": "S$99.00",
+        "rank": 3,
+        "name": "The Blood of Dawnwalker",
+        "appId": 3751260,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
+        "price": "HK$ 499.00",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4356430"
+        "link": "https://store.steampowered.com/app/3751260"
       },
       {
-        "rank": 9,
+        "rank": 4,
+        "name": "Dota 2",
+        "appId": 570,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+        "price": "免费",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/570"
+      },
+      {
+        "rank": 5,
+        "name": "How to Fish",
+        "appId": 4001890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
+        "price": "HK$ 48.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/4001890"
+      },
+      {
+        "rank": 6,
         "name": "WARDOGS",
         "appId": 1867240,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
-        "price": "S$39.99",
+        "price": "HK$ 249.00",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -633,11 +591,53 @@
         "link": "https://store.steampowered.com/app/1867240"
       },
       {
+        "rank": 7,
+        "name": "STAR WARS Zero Company",
+        "appId": 2075800,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
+        "price": "HK$ 399.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2075800"
+      },
+      {
+        "rank": 8,
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "appId": 359550,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/359550/capsule_231x87.jpg",
+        "price": "免费",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/359550"
+      },
+      {
+        "rank": 9,
+        "name": "Onimusha: Way of the Sword",
+        "appId": 2638890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
+        "price": "HK$ 518.00",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2638890"
+      },
+      {
         "rank": 10,
         "name": "Bodycam",
         "appId": 2406770,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
-        "price": "S$29.00",
+        "price": "HK$ 218.00",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -649,89 +649,89 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-01",
-      "updatedAt": "10:49",
+      "asOf": "2026-09-02",
+      "updatedAt": "10:06",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "CS2",
-          "current": 494529,
-          "peak24h": 1193764,
+          "nameZh": "",
+          "current": 460207,
+          "peak24h": 1225505,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "刀塔2",
-          "current": 409190,
-          "peak24h": 852622,
+          "nameZh": "",
+          "current": 386727,
+          "peak24h": 844584,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": 3419430,
-          "name": "Bongo Cat",
-          "nameZh": "邦戈猫",
-          "current": 135056,
-          "peak24h": 162054,
-          "link": "https://store.steampowered.com/app/3419430/"
-        },
-        {
-          "rank": 4,
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 126865,
-          "peak24h": 182933,
+          "current": 131956,
+          "peak24h": 182200,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
-          "rank": 5,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
+          "rank": 4,
+          "appid": 3419430,
+          "name": "Bongo Cat",
           "nameZh": "",
-          "current": 118977,
-          "peak24h": 709735,
-          "link": "https://store.steampowered.com/app/578080/"
+          "current": 130406,
+          "peak24h": 161317,
+          "link": "https://store.steampowered.com/app/3419430/"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "appid": 1623730,
           "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 113991,
-          "peak24h": 157895,
+          "nameZh": "",
+          "current": 106311,
+          "peak24h": 149204,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
+          "rank": 6,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "",
+          "current": 100921,
+          "peak24h": 703864,
+          "link": "https://store.steampowered.com/app/578080/"
+        },
+        {
           "rank": 7,
-          "appid": 2767030,
-          "name": "Marvel Rivals",
-          "nameZh": "漫威争锋",
-          "current": 90746,
-          "peak24h": 96538,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "",
+          "current": 98746,
+          "peak24h": 98889,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 8,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号:围攻",
-          "current": 81327,
-          "peak24h": 83959,
-          "link": "https://store.steampowered.com/app/359550/"
+          "appid": 2767030,
+          "name": "Marvel Rivals",
+          "nameZh": "",
+          "current": 88730,
+          "peak24h": 90746,
+          "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 9,
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 73148,
-          "peak24h": 74005,
+          "current": 71360,
+          "peak24h": 73869,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
@@ -739,8 +739,8 @@
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "",
-          "current": 71281,
-          "peak24h": 262269,
+          "current": 69191,
+          "peak24h": 260821,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
@@ -748,8 +748,8 @@
           "appid": 108600,
           "name": "Project Zomboid",
           "nameZh": "",
-          "current": 69547,
-          "peak24h": 82039,
+          "current": 69072,
+          "peak24h": 81704,
           "link": "https://store.steampowered.com/app/108600/"
         },
         {
@@ -757,17 +757,17 @@
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "",
-          "current": 66403,
-          "peak24h": 93216,
+          "current": 63240,
+          "peak24h": 89580,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 13,
           "appid": 2357570,
           "name": "Overwatch",
-          "nameZh": "守望先锋",
-          "current": 63275,
-          "peak24h": 65302,
+          "nameZh": "",
+          "current": 62641,
+          "peak24h": 65334,
           "link": "https://store.steampowered.com/app/2357570/"
         },
         {
@@ -775,33 +775,33 @@
           "appid": 3405690,
           "name": "EA SPORTS FC 26",
           "nameZh": "",
-          "current": 60923,
-          "peak24h": 76101,
+          "current": 60200,
+          "peak24h": 71893,
           "link": "https://store.steampowered.com/app/3405690/"
         },
         {
           "rank": 15,
-          "appid": 2868840,
-          "name": "Slay the Spire 2",
-          "nameZh": "杀戮尖塔2",
-          "current": 60025,
-          "peak24h": 98240,
-          "link": "https://store.steampowered.com/app/2868840/"
+          "appid": 553850,
+          "name": "HELLDIVERS 2",
+          "nameZh": "",
+          "current": 58288,
+          "peak24h": 64042,
+          "link": "https://store.steampowered.com/app/553850/"
         },
         {
           "rank": 16,
-          "appid": 553850,
-          "name": "HELLDIVERS 2",
-          "nameZh": "绝地潜兵2",
-          "current": 59519,
-          "peak24h": 65311,
-          "link": "https://store.steampowered.com/app/553850/"
+          "appid": 2868840,
+          "name": "Slay the Spire 2",
+          "nameZh": "",
+          "current": 55126,
+          "peak24h": 97874,
+          "link": "https://store.steampowered.com/app/2868840/"
         }
       ]
     },
     "newGamesAsOf": "2026-08-31",
-    "topSellersAsOf": "2026-09-01",
-    "mostPlayedAsOf": "2026-09-01"
+    "topSellersAsOf": "2026-09-02",
+    "mostPlayedAsOf": "2026-09-02"
   },
   "miniapp": {
     "ranking": [
@@ -2027,6 +2027,15 @@
         "title": "鹰角/儒意景秀差异化投资",
         "desc": "鹰角投资上海不眠夜（央美/中传背景，解谜《一笔勾销》）、广州冬屋——学院派艺术向。儒意景秀投资小智游创（UE5二次元大世界）、北京卡布姆（科幻SLG《群星纪元》首月破亿）——务实绑定验证过的品类和制作人。",
         "amount": "未披露"
+      },
+      {
+        "date": "2026-09-01",
+        "title": "AI 3D公司VAST完成约30亿B轮+B+轮融资",
+        "amount": "约30亿元",
+        "stage": "B轮+B+轮",
+        "investor": "经纬创投（领投）、完美世界、蓝色光标、三七互娱",
+        "link": "https://new.qq.com/rain/a/20260901A0CF1R00",
+        "major": true
       }
     ],
     "insight": "<strong style=\"color:var(--yellow)\">投资趋势洞察：</strong>2026年1-8月公开披露投融资40+起，含灵犀互娱（101亿RMB）、沐瞳科技（413亿RMB）两笔百亿级易主及Scopely收购Loom（约71亿RMB）等大交易。趋势四条——①<strong>明星制作人成\"硬通货\"</strong>，非收购类投资中60%+创始团队有大厂/明星项目背景；②<strong>品类同质化</strong>，新项目仍扎堆SLG/二次元开放世界/休闲派对；③<strong>大厂战略分化加剧</strong>：腾讯扫货（赛道无死角）、米哈游跨界（技术溢出）、鹰角守艺（学院派）、儒意景秀务实（验证过的品类+制作人），新增<strong>阿里、字节\"退游\"聚焦AI</strong>（出售灵犀/沐瞳、收缩游戏战线）；④<strong>资本结构多元化</strong>：私募接盘（信宸资本控股型并购首入游戏）、中东资本扫货（PIF/Savvy收购沐瞳、私有化EA）、资金流向成熟资产（Scopely收购Loom）。",
