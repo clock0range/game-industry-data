@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-04",
-    "lastUpdated": "2026-09-04T11:18:00+08:00",
+    "lastUpdated": "2026-09-04 11:40:15+08:00",
     "footerDate": "数据截至2026年9月4日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,64 +183,44 @@
     ],
     "highlights": [
       {
-        "title": "8月版号215款再创新高·游戏板块早盘拉升",
-        "titleLink": "https://caifuhao.eastmoney.com/news/20260903095632773423740",
+        "title": "游戏板块早盘涨3.12%·版号红利持续释放",
+        "titleLink": "https://m.21jingji.com/article/20260904/herald/21d888f638d1ca75f43836829d4de2ff.html",
         "color": "green",
-        "source": "财联社",
-        "sourceLink": "https://caifuhao.eastmoney.com/news/20260903095632773423740",
-        "body": "<strong>国家新闻出版署</strong>公布 8 月游戏审批信息，单月下发版号 <strong>215 款，再创年内新高</strong>。游戏 ETF 华夏（159869）近五日资金净流入约 2805.76 万元。开源证券指出：<strong>国产大模型性能持续提升</strong>叠加暑期档产品表现与 AI 技术赋能游戏研发提效，<strong>游戏行业景气度有望持续修复</strong>，看好 AI 游戏产业链投资机会。",
+        "source": "21财经",
+        "sourceLink": "https://m.21jingji.com/article/20260904/herald/21d888f638d1ca75f43836829d4de2ff.html",
+        "body": "8 月 <strong>215 款版号</strong>公布次日，游戏板块盘中上涨 <strong>3.12%</strong>：天娱数科 +10.04%、昆仑万维 +6.94%、世纪华通 +6.73%。年内累计发放版号 <strong>1362 个</strong>；腾讯《金铲铲之战》、恺英《斗罗大陆:诛邪传说》、吉比特《问剑长生》同批<strong>新增客户端版本</strong>。兴业证券：行业处「业绩上行、估值低位」，<strong>估值修复基础坚实</strong>。",
         "isNew": true,
-        "newUntil": "2026-09-05"
+        "newUntil": "2026-09-06"
       },
       {
-        "title": "王者万象棋定档9月·影之刃零登顶Steam全球畅销榜",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?#/index?_tentrees_trans=0&id=res840565642642",
+        "title": "The Blood of Dawnwalker 登顶Steam全球热销榜",
+        "titleLink": "https://steamdb.info/stats/globaltopsellers/",
         "color": "blue",
-        "source": "国海证券研报",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?#/index?_tentrees_trans=0&id=res840565642642",
-        "body": "腾讯《<strong>王者万象棋</strong>》正式定档 9 月上线，全网预约量已达 <strong>5000 万</strong>。8 月 12 日由灵游坊开发的国产 3A 武侠动作游戏《<strong>影之刃零</strong>》开启预售即<strong>登顶 Steam 全球畅销榜</strong>，定档 10 月 29 日全球同步发售；索尼 8/18 举办专属 State of Play。Sensor Tower 7 月 38 家中国厂商入围全球手游发行商收入 TOP100，合计吸金 23 亿美元、<strong>占榜单总收入 42.6%</strong>。",
+        "source": "SteamDB",
+        "sourceLink": "https://steamdb.info/stats/globaltopsellers/",
+        "body": " Rebel Ways 开发的吸血鬼题材开放世界 RPG《<strong>The Blood of Dawnwalker</strong>》（9/2 发售，¥298）<strong>登顶 Steam 全球热销榜</strong>，当前在线 <strong>3.2 万</strong>、24h 峰值 <strong>6.4 万</strong>，好评率 <strong>76.4%</strong>。新品热销榜同榜还有《鬼武者 Way of the Sword》（9月发售预售第3）与《NBA 2K27》。",
         "isNew": true,
-        "newUntil": "2026-09-05"
+        "newUntil": "2026-09-06"
       },
       {
-        "title": "未成年玩10分钟游戏被免密扣费近2千·苹果只退款600",
-        "titleLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
-        "color": "green",
-        "source": "江苏新闻",
-        "sourceLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
-        "body": "天津一名 <strong>12 岁孩子</strong>通过弹窗下载境外英文游戏《My Shark》，玩约 10 分钟后卸载，却因<strong>免密支付被连续自动扣费近 2000 元</strong>；苹果客服因开发商在境外仅退款约 <strong>600 元</strong>，游戏客服失联。该游戏国内已现多起类似投诉，<strong>事件登上江苏新闻热搜</strong>，凸显<strong>境外游戏免密扣费监管盲区</strong>与未成年人保护法执行难点。",
-        "isNew": true,
-        "newUntil": "2026-09-05"
-      },
-      {
-        "title": "重庆华龙网8月斩获4款游戏版号·小游戏产业基地发力",
-        "titleLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
-        "color": "green",
-        "source": "华龙网",
-        "sourceLink": "https://new.qq.com/rain/a/20260901A0CF1R00",
-        "body": "重庆华龙网 8 月一举获《洪荒修行路》《龙纹传说》《秘境神探》《勇士起源》<strong>4 款版号</strong>，其中 <strong>3 款出自重庆市小游戏产业基地入驻企业</strong>；2026 年 1—8 月累计出版游戏 29 款，<strong>同比增长 81.25%</strong>，跻身全国前列。区域游戏产业基地成为版号新增长极。",
-        "isNew": true,
-        "newUntil": "2026-09-05"
-      },
-      {
-        "title": "A股游戏中报透视·完美世界《异环》6亿亏损+出海AI双重变量分化",
-        "titleLink": "https://www.toutiao.com/article/7680982907795587620/",
-        "color": "purple",
-        "source": "每经/今日头条",
-        "sourceLink": "https://www.toutiao.com/article/7680982907795587620/",
-        "body": "完美世界 2026H1 归母净利润 <strong>转亏 1.18 亿</strong>，《异环》上线首日流水 20 亿却因<strong>收入与费用阶段性错配</strong>压制当期报表；掌趣科技营收 <strong>3.34 亿同比-6.75%</strong>、净利 3626 万同比-24.13%；神州泰岳归母净利 <strong>3.82 亿同比-25.03%</strong>，《Age of Origins》告别高速增长。<strong>AI 路线分化</strong>：算力基建（完美/神州泰岳）+ 场景应用双线竞速。",
-        "isNew": true,
-        "newUntil": "2026-09-05"
-      },
-      {
-        "title": "SteamDB 9-3·CS2在线49.7万+R6围攻冲入TOP7",
+        "title": "WARDOGS 试玩版冲上Steam在线榜第4·13.8万人同玩",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "9 月 3 日 Steam 在线榜：CS2 <strong>49.7 万</strong>稳居榜首，Dota 2 <strong>39.7 万</strong>、Bongo Cat <strong>13.4 万</strong>#3、PUBG <strong>13.1 万</strong>#4；Rainbow Six Siege <strong>9.0 万</strong>挤入 #7、Marvel Rivals <strong>8.9 万</strong>#8；<strong>Blood of Dawnwalker</strong>（9/2 新发售）39,481 在线首登 TOP28。",
+        "body": "《<strong>WARDOGS</strong>》试玩版（Playtest）以 <strong>13.8 万人当前在线</strong>冲上 Steam 在线榜第 4，超过 FiveM 与幻兽帕鲁，同时位居<strong>热销榜第 2</strong>。产品尚无评分与定价，正式发售日期未公布。昨日 TOP16 黑马 <strong>Bongo Cat</strong>（13.6 万人）与 <strong>TBH 任务栏英雄</strong>（6.6 万人）继续守住 TOP12。",
         "isNew": true,
-        "newUntil": "2026-09-05"
+        "newUntil": "2026-09-06"
+      },
+      {
+        "title": "《仙逆：本尊》空降iOS免费榜第1",
+        "titleLink": "https://apps.apple.com/cn/charts/iphone/top-free/games",
+        "color": "orange",
+        "source": "iTunes RSS",
+        "sourceLink": "https://apps.apple.com/cn/charts/iphone/top-free/games",
+        "body": "官方正版授权手游《<strong>仙逆：本尊</strong>》今日空降 <strong>iOS 免费榜第 1</strong>。畅销榜 TOP3 仍为<strong>王者荣耀 / 和平精英 / 三角洲行动</strong>，格局稳定。",
+        "isNew": true,
+        "newUntil": "2026-09-06"
       }
     ],
     "taptap": {
@@ -393,106 +373,78 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "How to Fish 渔力全开",
-        "name": "How to Fish 渔力全开",
-        "steamAppId": "4001890",
-        "appId": 4001890,
+        "gameName": "ShoreTiles",
+        "name": "ShoreTiles",
+        "steamAppId": "4268460",
+        "appId": 4268460,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4001890/capsule_616x353.jpg",
-        "rating": "93%",
-        "meta": "2026-08-20",
-        "reviews": "44155",
-        "link": "https://store.steampowered.com/app/4001890",
-        "reviewSummary": "特别好评",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4268460/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-03",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4268460",
+        "reviewSummary": "差评",
         "tags": []
       },
       {
-        "gameName": "Blood of Dawnwalker",
-        "name": "Blood of Dawnwalker",
+        "gameName": "Rogue Blight",
+        "name": "Rogue Blight",
+        "steamAppId": "1890310",
+        "appId": 1890310,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1890310.jpg",
+        "rating": "",
+        "meta": "2026-09-03",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1890310",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "混沌兵团",
+        "name": "混沌兵团",
+        "steamAppId": "2770330",
+        "appId": 2770330,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2770330.jpg",
+        "rating": "",
+        "meta": "2026-09-03",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/2770330",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "The Blood of Dawnwalker",
+        "name": "The Blood of Dawnwalker",
         "steamAppId": "3751260",
         "appId": 3751260,
         "manualCover": "",
         "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3751260/capsule_616x353.jpg",
-        "rating": "72%",
+        "rating": "",
         "meta": "2026-09-02",
         "reviews": "",
         "link": "https://store.steampowered.com/app/3751260",
-        "reviewSummary": "多半好评",
+        "reviewSummary": "差评",
         "tags": []
       },
       {
-        "gameName": "STAR WARS Zero Company 星球大战:零号连队",
-        "name": "STAR WARS Zero Company 星球大战:零号连队",
-        "steamAppId": "2075800",
-        "appId": 2075800,
+        "gameName": "Megastore: Tidy Up Together",
+        "name": "Megastore: Tidy Up Together",
+        "steamAppId": "5027520",
+        "appId": 5027520,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2075800/capsule_616x353.jpg",
-        "rating": "76%",
-        "meta": "2026-08-27",
-        "reviews": "84638",
-        "link": "https://store.steampowered.com/app/2075800",
-        "reviewSummary": "多半好评",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/5027520/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-02",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/5027520",
+        "reviewSummary": "差评",
         "tags": []
       },
       {
-        "gameName": "Big Walk",
-        "name": "Big Walk",
-        "steamAppId": "1478500",
-        "appId": 1478500,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
-        "rating": "93%",
-        "meta": "2026-08-26",
-        "reviews": "71043",
-        "link": "https://store.steampowered.com/app/1478500",
-        "reviewSummary": "特别好评",
-        "tags": []
-      },
-      {
-        "gameName": "Mortal Shell II 致命躯壳II",
-        "name": "Mortal Shell II 致命躯壳II",
-        "steamAppId": "2584270",
-        "appId": 2584270,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2584270/capsule_616x353.jpg",
-        "rating": "74%",
-        "meta": "2026-08-20",
-        "reviews": "71022",
-        "link": "https://store.steampowered.com/app/2584270",
-        "reviewSummary": "多半好评",
-        "tags": []
-      },
-      {
-        "gameName": "Big Ambitions",
-        "name": "Big Ambitions",
-        "steamAppId": "1331550",
-        "appId": 1331550,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1331550.jpg",
-        "rating": "90%",
-        "meta": "2026-08-28",
-        "reviews": "73315",
-        "link": "https://store.steampowered.com/app/1331550",
-        "reviewSummary": "特别好评",
-        "tags": []
-      },
-      {
-        "gameName": "共鸣：瘟疫传说传承 Resonance: A Plague Tale Legacy",
-        "name": "共鸣：瘟疫传说传承 Resonance: A Plague Tale Legacy",
-        "steamAppId": "2713000",
-        "appId": 2713000,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2713000/capsule_616x353.jpg",
-        "rating": "88%",
-        "meta": "2026-08-27",
-        "reviews": "27703",
-        "link": "https://store.steampowered.com/app/2713000",
-        "reviewSummary": "特别好评",
-        "tags": []
-      },
-      {
-        "gameName": "Moonlighter 2: The Endless Vault",
-        "name": "Moonlighter 2: The Endless Vault",
+        "gameName": "夜勤人2：无尽宝库",
+        "name": "夜勤人2：无尽宝库",
         "steamAppId": "2350790",
         "appId": 2350790,
         "manualCover": "",
@@ -503,11 +455,81 @@
         "link": "https://store.steampowered.com/app/2350790",
         "reviewSummary": "差评",
         "tags": []
+      },
+      {
+        "gameName": "BOMBANANA!",
+        "name": "BOMBANANA!",
+        "steamAppId": "4656000",
+        "appId": 4656000,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4656000/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-02",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4656000",
+        "reviewSummary": "差评",
+        "tags": []
+      },
+      {
+        "gameName": "一把菜刀打天下",
+        "name": "一把菜刀打天下",
+        "steamAppId": "4501680",
+        "appId": 4501680,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4501680/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-02",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4501680",
+        "reviewSummary": "差评",
+        "tags": []
       }
     ],
     "topSellers": [
       {
         "rank": 1,
+        "name": "The Blood of Dawnwalker",
+        "appId": 3751260,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
+        "price": "S$89.90",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/3751260"
+      },
+      {
+        "rank": 2,
+        "name": "WARDOGS",
+        "appId": 1867240,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
+        "price": "S$39.99",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/1867240"
+      },
+      {
+        "rank": 3,
+        "name": "Onimusha: Way of the Sword",
+        "appId": 2638890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
+        "price": "S$85.90",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2638890"
+      },
+      {
+        "rank": 4,
         "name": "Counter-Strike 2",
         "appId": 730,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
@@ -521,7 +543,21 @@
         "link": "https://store.steampowered.com/app/730"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "name": "Bodycam",
+        "appId": 2406770,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
+        "price": "S$23.20",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2406770"
+      },
+      {
+        "rank": 6,
         "name": "Apex Legends",
         "appId": 1172470,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
@@ -535,21 +571,21 @@
         "link": "https://store.steampowered.com/app/1172470"
       },
       {
-        "rank": 3,
-        "name": "The Blood of Dawnwalker",
-        "appId": 3751260,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
-        "price": "HK$ 499.00",
+        "rank": 7,
+        "name": "Halloween: The Game",
+        "appId": 3219630,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3219630/capsule_231x87.jpg",
+        "price": "S$37.99",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3751260"
+        "link": "https://store.steampowered.com/app/3219630"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "name": "Dota 2",
         "appId": 570,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
@@ -563,11 +599,11 @@
         "link": "https://store.steampowered.com/app/570"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "name": "How to Fish",
         "appId": 4001890,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": "HK$ 48.00",
+        "price": "S$8.50",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -577,80 +613,24 @@
         "link": "https://store.steampowered.com/app/4001890"
       },
       {
-        "rank": 6,
-        "name": "WARDOGS",
-        "appId": 1867240,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
-        "price": "HK$ 249.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/1867240"
-      },
-      {
-        "rank": 7,
-        "name": "STAR WARS Zero Company",
-        "appId": 2075800,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
-        "price": "HK$ 399.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2075800"
-      },
-      {
-        "rank": 8,
-        "name": "Tom Clancy's Rainbow Six Siege",
-        "appId": 359550,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/359550/capsule_231x87.jpg",
-        "price": "免费",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/359550"
-      },
-      {
-        "rank": 9,
-        "name": "Onimusha: Way of the Sword",
-        "appId": 2638890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
-        "price": "HK$ 518.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2638890"
-      },
-      {
         "rank": 10,
-        "name": "Bodycam",
-        "appId": 2406770,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
-        "price": "HK$ 218.00",
+        "name": "NBA 2K27",
+        "appId": 4356430,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4356430/capsule_231x87.jpg",
+        "price": "S$99.00",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/2406770"
+        "link": "https://store.steampowered.com/app/4356430"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-03",
-      "updatedAt": "10:14",
+      "asOf": "2026-09-04",
+      "updatedAt": "11:35",
       "source": "SteamDB",
       "items": [
         {
@@ -658,8 +638,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 496610,
-          "peak24h": 1300990,
+          "current": 480606,
+          "peak24h": 1193750,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -667,62 +647,62 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 397475,
-          "peak24h": 834096,
+          "current": 410486,
+          "peak24h": 828824,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": 3419430,
-          "name": "Bongo Cat",
-          "nameZh": "邦戈猫",
-          "current": 134286,
-          "peak24h": 160467,
-          "link": "https://store.steampowered.com/app/3419430/"
-        },
-        {
-          "rank": 4,
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "绝地求生",
-          "current": 131220,
-          "peak24h": 725224,
+          "current": 157367,
+          "peak24h": 719645,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
+          "rank": 4,
+          "appid": 4809930,
+          "name": "WARDOGS Playtest",
+          "nameZh": "WARDOGS 试玩",
+          "current": 138105,
+          "peak24h": 162488,
+          "link": "https://store.steampowered.com/app/4809930/"
+        },
+        {
           "rank": 5,
-          "appid": 2676230,
-          "name": "FiveM",
-          "nameZh": "FiveM",
-          "current": 117896,
-          "peak24h": 180397,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "appid": 3419430,
+          "name": "Bongo Cat",
+          "nameZh": "邦戈猫",
+          "current": 136182,
+          "peak24h": 165359,
+          "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 6,
-          "appid": 1623730,
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 103705,
-          "peak24h": 145377,
-          "link": "https://store.steampowered.com/app/1623730/"
+          "appid": 2676230,
+          "name": "FiveM",
+          "nameZh": "FiveM",
+          "current": 101875,
+          "peak24h": 180270,
+          "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 7,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号:围攻",
-          "current": 90304,
-          "peak24h": 95234,
-          "link": "https://store.steampowered.com/app/359550/"
+          "appid": 1623730,
+          "name": "Palworld",
+          "nameZh": "幻兽帕鲁",
+          "current": 96058,
+          "peak24h": 139842,
+          "link": "https://store.steampowered.com/app/1623730/"
         },
         {
           "rank": 8,
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "漫威争锋",
-          "current": 88911,
-          "peak24h": 89626,
+          "current": 85298,
+          "peak24h": 90942,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
@@ -730,78 +710,78 @@
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "Apex 英雄",
-          "current": 75156,
-          "peak24h": 270278,
+          "current": 78367,
+          "peak24h": 269308,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 10,
-          "appid": 1422450,
-          "name": "Deadlock",
-          "nameZh": "Deadlock",
-          "current": 70715,
-          "peak24h": 72511,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号:围攻",
+          "current": 76273,
+          "peak24h": 90829,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 11,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 66906,
-          "peak24h": 78960,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 74543,
+          "peak24h": 148168,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 12,
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "TBH 任务栏英雄",
-          "current": 66179,
-          "peak24h": 86160,
+          "current": 65902,
+          "peak24h": 86199,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 13,
-          "appid": 2357570,
-          "name": "Overwatch",
-          "nameZh": "守望先锋2",
-          "current": 63103,
-          "peak24h": 64916,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "appid": 1422450,
+          "name": "Deadlock",
+          "nameZh": "Deadlock",
+          "current": 65345,
+          "peak24h": 70593,
+          "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 14,
-          "appid": 2868840,
-          "name": "Slay the Spire 2",
-          "nameZh": "杀戮尖塔2",
-          "current": 60051,
-          "peak24h": 96644,
-          "link": "https://store.steampowered.com/app/2868840/"
-        },
-        {
-          "rank": 15,
-          "appid": 553850,
-          "name": "HELLDIVERS 2",
-          "nameZh": "绝地潜兵2",
-          "current": 57975,
-          "peak24h": 59477,
-          "link": "https://store.steampowered.com/app/553850/"
-        },
-        {
-          "rank": 16,
           "appid": 431960,
           "name": "Wallpaper Engine",
           "nameZh": "Wallpaper Engine",
-          "current": 57229,
-          "peak24h": 107599,
+          "current": 62321,
+          "peak24h": 107107,
           "link": "https://store.steampowered.com/app/431960/"
+        },
+        {
+          "rank": 15,
+          "appid": 2868840,
+          "name": "Slay the Spire 2",
+          "nameZh": "杀戮尖塔2",
+          "current": 61540,
+          "peak24h": 95672,
+          "link": "https://store.steampowered.com/app/2868840/"
+        },
+        {
+          "rank": 16,
+          "appid": 108600,
+          "name": "Project Zomboid",
+          "nameZh": "僵尸毁灭工程",
+          "current": 59908,
+          "peak24h": 75794,
+          "link": "https://store.steampowered.com/app/108600/"
         }
       ]
     },
-    "newGamesAsOf": "2026-09-03",
-    "topSellersAsOf": "2026-09-02",
-    "mostPlayedAsOf": "2026-09-03"
+    "newGamesAsOf": "2026-09-04",
+    "topSellersAsOf": "2026-09-04",
+    "mostPlayedAsOf": "2026-09-04"
   },
   "miniapp": {
     "ranking": [
@@ -1128,7 +1108,7 @@
       "ratingLabel": "B站 8.3 · TapTap 待评",
       "ratingPercent": 83,
       "ratingsCount": 430000,
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/0fc3f252cb91453a55ca08f40b4a5237.png/_tap_banner.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_凡应_EP02_测试.jpg",
       "imageSource": "taptap",
       "imageStatus": "ok"
     },
@@ -1170,7 +1150,7 @@
       "imageSource": "taptap",
       "imageStatus": "ok",
       "gameName": "全明星觉醒",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/73d82d84a25593dcc8a379e0e6e8244a.png/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_全明星觉醒.jpg"
     },
     {
       "name": "伊瑟",
@@ -1232,7 +1212,7 @@
       "imageStatus": "ok",
       "gameName": "遮天世界",
       "manualCover": "",
-      "finalCoverUrl": "https://img-tc.tapimg.com/market/images/f2216be680e8631b925cf6a2e71018c1.png/_tap_banner.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_遮天世界.jpg"
     },
     {
       "name": "头号禁区",
