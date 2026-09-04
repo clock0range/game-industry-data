@@ -649,8 +649,8 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-03",
-      "updatedAt": "10:14",
+      "asOf": "2026-09-04",
+      "updatedAt": "11:35",
       "source": "SteamDB",
       "items": [
         {
@@ -658,8 +658,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 496610,
-          "peak24h": 1300990,
+          "current": 480606,
+          "peak24h": 1193750,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -667,62 +667,62 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 397475,
-          "peak24h": 834096,
+          "current": 410486,
+          "peak24h": 828824,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": 3419430,
-          "name": "Bongo Cat",
-          "nameZh": "邦戈猫",
-          "current": 134286,
-          "peak24h": 160467,
-          "link": "https://store.steampowered.com/app/3419430/"
-        },
-        {
-          "rank": 4,
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "绝地求生",
-          "current": 131220,
-          "peak24h": 725224,
+          "current": 157367,
+          "peak24h": 719645,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
+          "rank": 4,
+          "appid": 4809930,
+          "name": "WARDOGS Playtest",
+          "nameZh": "WARDOGS 试玩",
+          "current": 138105,
+          "peak24h": 162488,
+          "link": "https://store.steampowered.com/app/4809930/"
+        },
+        {
           "rank": 5,
-          "appid": 2676230,
-          "name": "FiveM",
-          "nameZh": "FiveM",
-          "current": 117896,
-          "peak24h": 180397,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "appid": 3419430,
+          "name": "Bongo Cat",
+          "nameZh": "邦戈猫",
+          "current": 136182,
+          "peak24h": 165359,
+          "link": "https://store.steampowered.com/app/3419430/"
         },
         {
           "rank": 6,
-          "appid": 1623730,
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 103705,
-          "peak24h": 145377,
-          "link": "https://store.steampowered.com/app/1623730/"
+          "appid": 2676230,
+          "name": "FiveM",
+          "nameZh": "FiveM",
+          "current": 101875,
+          "peak24h": 180270,
+          "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 7,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号:围攻",
-          "current": 90304,
-          "peak24h": 95234,
-          "link": "https://store.steampowered.com/app/359550/"
+          "appid": 1623730,
+          "name": "Palworld",
+          "nameZh": "幻兽帕鲁",
+          "current": 96058,
+          "peak24h": 139842,
+          "link": "https://store.steampowered.com/app/1623730/"
         },
         {
           "rank": 8,
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "漫威争锋",
-          "current": 88911,
-          "peak24h": 89626,
+          "current": 85298,
+          "peak24h": 90942,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
@@ -730,78 +730,78 @@
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "Apex 英雄",
-          "current": 75156,
-          "peak24h": 270278,
+          "current": 78367,
+          "peak24h": 269308,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 10,
-          "appid": 1422450,
-          "name": "Deadlock",
-          "nameZh": "Deadlock",
-          "current": 70715,
-          "peak24h": 72511,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号:围攻",
+          "current": 76273,
+          "peak24h": 90829,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 11,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 66906,
-          "peak24h": 78960,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 74543,
+          "peak24h": 148168,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 12,
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "TBH 任务栏英雄",
-          "current": 66179,
-          "peak24h": 86160,
+          "current": 65902,
+          "peak24h": 86199,
           "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 13,
-          "appid": 2357570,
-          "name": "Overwatch",
-          "nameZh": "守望先锋2",
-          "current": 63103,
-          "peak24h": 64916,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "appid": 1422450,
+          "name": "Deadlock",
+          "nameZh": "Deadlock",
+          "current": 65345,
+          "peak24h": 70593,
+          "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 14,
-          "appid": 2868840,
-          "name": "Slay the Spire 2",
-          "nameZh": "杀戮尖塔2",
-          "current": 60051,
-          "peak24h": 96644,
-          "link": "https://store.steampowered.com/app/2868840/"
-        },
-        {
-          "rank": 15,
-          "appid": 553850,
-          "name": "HELLDIVERS 2",
-          "nameZh": "绝地潜兵2",
-          "current": 57975,
-          "peak24h": 59477,
-          "link": "https://store.steampowered.com/app/553850/"
-        },
-        {
-          "rank": 16,
           "appid": 431960,
           "name": "Wallpaper Engine",
           "nameZh": "Wallpaper Engine",
-          "current": 57229,
-          "peak24h": 107599,
+          "current": 62321,
+          "peak24h": 107107,
           "link": "https://store.steampowered.com/app/431960/"
+        },
+        {
+          "rank": 15,
+          "appid": 2868840,
+          "name": "Slay the Spire 2",
+          "nameZh": "杀戮尖塔2",
+          "current": 61540,
+          "peak24h": 95672,
+          "link": "https://store.steampowered.com/app/2868840/"
+        },
+        {
+          "rank": 16,
+          "appid": 108600,
+          "name": "Project Zomboid",
+          "nameZh": "僵尸毁灭工程",
+          "current": 59908,
+          "peak24h": 75794,
+          "link": "https://store.steampowered.com/app/108600/"
         }
       ]
     },
     "newGamesAsOf": "2026-09-03",
     "topSellersAsOf": "2026-09-02",
-    "mostPlayedAsOf": "2026-09-03"
+    "mostPlayedAsOf": "2026-09-04"
   },
   "miniapp": {
     "ranking": [
