@@ -508,6 +508,48 @@
     "topSellers": [
       {
         "rank": 1,
+        "name": "The Blood of Dawnwalker",
+        "appId": 3751260,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
+        "price": "S$89.90",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/3751260"
+      },
+      {
+        "rank": 2,
+        "name": "WARDOGS",
+        "appId": 1867240,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
+        "price": "S$39.99",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/1867240"
+      },
+      {
+        "rank": 3,
+        "name": "Onimusha: Way of the Sword",
+        "appId": 2638890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
+        "price": "S$85.90",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2638890"
+      },
+      {
+        "rank": 4,
         "name": "Counter-Strike 2",
         "appId": 730,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
@@ -521,7 +563,21 @@
         "link": "https://store.steampowered.com/app/730"
       },
       {
-        "rank": 2,
+        "rank": 5,
+        "name": "Bodycam",
+        "appId": 2406770,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
+        "price": "S$23.20",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2406770"
+      },
+      {
+        "rank": 6,
         "name": "Apex Legends",
         "appId": 1172470,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
@@ -535,21 +591,21 @@
         "link": "https://store.steampowered.com/app/1172470"
       },
       {
-        "rank": 3,
-        "name": "The Blood of Dawnwalker",
-        "appId": 3751260,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
-        "price": "HK$ 499.00",
+        "rank": 7,
+        "name": "Halloween: The Game",
+        "appId": 3219630,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3219630/capsule_231x87.jpg",
+        "price": "S$37.99",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3751260"
+        "link": "https://store.steampowered.com/app/3219630"
       },
       {
-        "rank": 4,
+        "rank": 8,
         "name": "Dota 2",
         "appId": 570,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
@@ -563,11 +619,11 @@
         "link": "https://store.steampowered.com/app/570"
       },
       {
-        "rank": 5,
+        "rank": 9,
         "name": "How to Fish",
         "appId": 4001890,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": "HK$ 48.00",
+        "price": "S$8.50",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -577,74 +633,18 @@
         "link": "https://store.steampowered.com/app/4001890"
       },
       {
-        "rank": 6,
-        "name": "WARDOGS",
-        "appId": 1867240,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
-        "price": "HK$ 249.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/1867240"
-      },
-      {
-        "rank": 7,
-        "name": "STAR WARS Zero Company",
-        "appId": 2075800,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2075800/capsule_231x87.jpg",
-        "price": "HK$ 399.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2075800"
-      },
-      {
-        "rank": 8,
-        "name": "Tom Clancy's Rainbow Six Siege",
-        "appId": 359550,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/359550/capsule_231x87.jpg",
-        "price": "免费",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/359550"
-      },
-      {
-        "rank": 9,
-        "name": "Onimusha: Way of the Sword",
-        "appId": 2638890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
-        "price": "HK$ 518.00",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2638890"
-      },
-      {
         "rank": 10,
-        "name": "Bodycam",
-        "appId": 2406770,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
-        "price": "HK$ 218.00",
+        "name": "NBA 2K27",
+        "appId": 4356430,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4356430/capsule_231x87.jpg",
+        "price": "S$99.00",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/2406770"
+        "link": "https://store.steampowered.com/app/4356430"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
@@ -800,7 +800,7 @@
       ]
     },
     "newGamesAsOf": "2026-09-03",
-    "topSellersAsOf": "2026-09-02",
+    "topSellersAsOf": "2026-09-04",
     "mostPlayedAsOf": "2026-09-04"
   },
   "miniapp": {
