@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T11:34:29.107Z",
+  "generated": "2026-09-04T11:40:24.976Z",
   "latest": "data/latest.json",
   "archives": [
     {
@@ -181,12 +181,12 @@
   ],
   "current": {
     "date": "2026-09-04",
-    "lastUpdated": "2026-09-04T11:18:00+08:00",
+    "lastUpdated": "2026-09-04 11:40:15+08:00",
     "apiStatus": {
       "ios": "ok",
       "iosFree": "ok",
-      "steamSellers": "kept (Edge failed)",
-      "steamIndie": "kept (Edge failed)"
+      "steamSellers": "ok",
+      "steamIndie": "ok (Edge fallback via WebFetch)"
     }
   }
 }
