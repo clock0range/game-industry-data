@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-07",
-    "lastUpdated": "2026-09-07T10:45:00+08:00",
+    "lastUpdated": "2026-09-07 10:57:45+08:00",
     "footerDate": "数据截至2026年9月7日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,44 +183,54 @@
     ],
     "highlights": [
       {
-        "title": "游戏板块早盘涨3.12%·版号红利持续释放",
-        "titleLink": "https://m.21jingji.com/article/20260904/herald/21d888f638d1ca75f43836829d4de2ff.html",
+        "title": "传媒指数涨1.14%·掌趣科技+13%领涨+关税缓和预期",
+        "titleLink": "https://www.163.com/dy/article/L67F3RJ10534A4SC.html",
         "color": "green",
-        "source": "21财经",
-        "sourceLink": "https://m.21jingji.com/article/20260904/herald/21d888f638d1ca75f43836829d4de2ff.html",
-        "body": "8 月 <strong>215 款版号</strong>公布次日，游戏板块盘中上涨 <strong>3.12%</strong>：天娱数科 +10.04%、昆仑万维 +6.94%、世纪华通 +6.73%。年内累计发放版号 <strong>1362 个</strong>；腾讯《金铲铲之战》、恺英《斗罗大陆:诛邪传说》、吉比特《问剑长生》同批<strong>新增客户端版本</strong>。兴业证券：行业处「业绩上行、估值低位」，<strong>估值修复基础坚实</strong>。",
+        "source": "界面新闻",
+        "sourceLink": "https://www.163.com/dy/article/L67F3RJ10534A4SC.html",
+        "body": "9/7 盘中<strong>中证传媒指数涨 1.14%</strong>，掌趣科技 <strong>+13.41%</strong>、上海电影 +10.03%、完美世界 +4.84% 领涨。消息面：美贸易代表格里尔暗示部分中国商品（含<strong>玩具和游戏</strong>）可能<strong>被免除关税</strong>；7 月国内游戏市场实际销售收入 <strong>230.75 亿元，环比 +7.83%</strong>（银河证券：暑期窗口开启、多端齐发驱动回暖）。",
         "isNew": true,
-        "newUntil": "2026-09-06"
+        "newUntil": "2026-09-08"
       },
       {
-        "title": "The Blood of Dawnwalker 登顶Steam全球热销榜",
-        "titleLink": "https://steamdb.info/stats/globaltopsellers/",
-        "color": "blue",
-        "source": "SteamDB",
-        "sourceLink": "https://steamdb.info/stats/globaltopsellers/",
-        "body": " Rebel Ways 开发的吸血鬼题材开放世界 RPG《<strong>The Blood of Dawnwalker</strong>》（9/2 发售，¥298）<strong>登顶 Steam 全球热销榜</strong>，当前在线 <strong>3.2 万</strong>、24h 峰值 <strong>6.4 万</strong>，好评率 <strong>76.4%</strong>。新品热销榜同榜还有《鬼武者 Way of the Sword》（9月发售预售第3）与《NBA 2K27》。",
+        "title": "米哈游《雨之城》悄悄内测 AGC·AI视频平台人人拍大片",
+        "titleLink": "https://m.weibo.cn/status/5340460672879707",
+        "color": "purple",
+        "source": "微博",
+        "sourceLink": "https://m.weibo.cn/status/5340460672879707",
+        "body": "玩家发现，米哈游未上线新游《<strong>雨之城</strong>》(Varsapura) 已开始悄悄测试 <strong>AGC 平台</strong>（AI 视频创作平台）。流出样品视频质量被评价为<strong>AI 视频第一梯队</strong>，指向「AI 梦工厂」方向——游戏内 UGC + AIGC 视频的玩家共创模式。",
         "isNew": true,
-        "newUntil": "2026-09-06"
+        "newUntil": "2026-09-08"
       },
       {
-        "title": "WARDOGS 试玩版冲上Steam在线榜第4·13.8万人同玩",
+        "title": "Steam 在线 CS2 重回 52万榜首·鬼武者发售进热销前5",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "《<strong>WARDOGS</strong>》试玩版（Playtest）以 <strong>13.8 万人当前在线</strong>冲上 Steam 在线榜第 4，超过 FiveM 与幻兽帕鲁，同时位居<strong>热销榜第 2</strong>。产品尚无评分与定价，正式发售日期未公布。昨日 TOP16 黑马 <strong>Bongo Cat</strong>（13.6 万人）与 <strong>TBH 任务栏英雄</strong>（6.6 万人）继续守住 TOP12。",
+        "body": "<strong>CS2 当前在线 52.4 万</strong>重回 Steam 榜首（Dota2 39.6 万第 2）；邦戈猫 <strong>13.6 万</strong>稳居第 4。9/3 发售的《<strong>鬼武者 Way of the Sword</strong>》冲上<strong>热销榜第 5</strong>（好评率 85%、在线峰值 8.5 万）；《NBA 2K27》同样 9/3 发售列热销第 10；The Blood of Dawnwalker 在线 3.7 万回落至热销第 4。",
         "isNew": true,
-        "newUntil": "2026-09-06"
+        "newUntil": "2026-09-08"
       },
       {
-        "title": "《仙逆：本尊》空降iOS免费榜第1",
+        "title": "上海文创游戏电竞专项公示·完美/网易/腾讯/米哈游/莉莉丝入选",
+        "titleLink": "https://new.qq.com/rain/a/20260905A05FJ400",
+        "color": "green",
+        "source": "DataEye游戏观察",
+        "sourceLink": "https://new.qq.com/rain/a/20260905A05FJ400",
+        "body": "上海市文创办公示 <strong>2026 年促进文化创意产业发展专项资金</strong>拟支持项目，成果资助类「游戏电竞」中<strong>完美世界、网易、腾讯、米哈游、莉莉丝</strong>等十余家企业入选，产业扶持持续向头部游戏厂商倾斜。",
+        "isNew": true,
+        "newUntil": "2026-09-08"
+      },
+      {
+        "title": "《塔塔冒险队》登顶 iOS 免费榜",
         "titleLink": "https://apps.apple.com/cn/charts/iphone/top-free/games",
         "color": "orange",
         "source": "iTunes RSS",
         "sourceLink": "https://apps.apple.com/cn/charts/iphone/top-free/games",
-        "body": "官方正版授权手游《<strong>仙逆：本尊</strong>》今日空降 <strong>iOS 免费榜第 1</strong>。畅销榜 TOP3 仍为<strong>王者荣耀 / 和平精英 / 三角洲行动</strong>，格局稳定。",
+        "body": "《<strong>塔塔冒险队</strong>》今日登顶 <strong>iOS 免费榜第 1</strong>，三角洲行动升至第 2、王者荣耀第 3。畅销榜 TOP3：王者荣耀 / 三角洲行动 / 和平精英。",
         "isNew": true,
-        "newUntil": "2026-09-06"
+        "newUntil": "2026-09-08"
       }
     ],
     "taptap": {
