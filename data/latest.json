@@ -488,48 +488,6 @@
     "topSellers": [
       {
         "rank": 1,
-        "name": "The Blood of Dawnwalker",
-        "appId": 3751260,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
-        "price": "S$89.90",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/3751260"
-      },
-      {
-        "rank": 2,
-        "name": "WARDOGS",
-        "appId": 1867240,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
-        "price": "S$39.99",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/1867240"
-      },
-      {
-        "rank": 3,
-        "name": "Onimusha: Way of the Sword",
-        "appId": 2638890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
-        "price": "S$85.90",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2638890"
-      },
-      {
-        "rank": 4,
         "name": "Counter-Strike 2",
         "appId": 730,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
@@ -543,11 +501,25 @@
         "link": "https://store.steampowered.com/app/730"
       },
       {
-        "rank": 5,
+        "rank": 2,
+        "name": "WARDOGS",
+        "appId": 1867240,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
+        "price": "39,99€",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/1867240"
+      },
+      {
+        "rank": 3,
         "name": "Bodycam",
         "appId": 2406770,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2406770/capsule_231x87.jpg",
-        "price": "S$23.20",
+        "price": "26,65€",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -555,6 +527,34 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2406770"
+      },
+      {
+        "rank": 4,
+        "name": "The Blood of Dawnwalker",
+        "appId": 3751260,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
+        "price": "69,99€",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/3751260"
+      },
+      {
+        "rank": 5,
+        "name": "Onimusha: Way of the Sword",
+        "appId": 2638890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
+        "price": "69,99€",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2638890"
       },
       {
         "rank": 6,
@@ -575,7 +575,7 @@
         "name": "Halloween: The Game",
         "appId": 3219630,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3219630/capsule_231x87.jpg",
-        "price": "S$37.99",
+        "price": "40,99€",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -586,6 +586,20 @@
       },
       {
         "rank": 8,
+        "name": "How to Fish",
+        "appId": 4001890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
+        "price": "7,49€",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/4001890"
+      },
+      {
+        "rank": 9,
         "name": "Dota 2",
         "appId": 570,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
@@ -599,25 +613,11 @@
         "link": "https://store.steampowered.com/app/570"
       },
       {
-        "rank": 9,
-        "name": "How to Fish",
-        "appId": 4001890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": "S$8.50",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/4001890"
-      },
-      {
         "rank": 10,
         "name": "NBA 2K27",
         "appId": 4356430,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4356430/capsule_231x87.jpg",
-        "price": "S$99.00",
+        "price": "69,99€",
         "originalPrice": null,
         "discount": null,
         "status": null,
@@ -780,7 +780,7 @@
       ]
     },
     "newGamesAsOf": "2026-09-04",
-    "topSellersAsOf": "2026-09-04",
+    "topSellersAsOf": "2026-09-07",
     "mostPlayedAsOf": "2026-09-07"
   },
   "miniapp": {
