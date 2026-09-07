@@ -1,11 +1,33 @@
 {
-  "generated": "2026-09-04T11:40:24.976Z",
+  "generated": "2026-09-07T10:45:00+08:00",
   "latest": "data/latest.json",
   "archives": [
     {
+      "date": "2026-09-07",
+      "file": "data/2026-09-07.json",
+      "lastUpdated": "2026-09-07T10:45:00+08:00",
+      "summary": {
+        "iosCount": 15,
+        "steamSellers": 10,
+        "steamIndie": 8,
+        "newGames": 36
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "file": "data/2026-09-04.json",
+      "lastUpdated": "2026-09-04 11:40:15+08:00",
+      "summary": {
+        "iosCount": 15,
+        "steamSellers": 10,
+        "steamIndie": 8,
+        "newGames": 36
+      }
+    },
+    {
       "date": "2026-09-03",
       "file": "data/2026-09-03.json",
-      "lastUpdated": "2026-09-03T10:12:00+08:00",
+      "lastUpdated": "2026-09-03 15:51:20+08:00",
       "summary": {
         "iosCount": 15,
         "steamSellers": 10,
@@ -180,13 +202,12 @@
     }
   ],
   "current": {
-    "date": "2026-09-04",
-    "lastUpdated": "2026-09-04 11:40:15+08:00",
+    "date": "2026-09-07",
+    "lastUpdated": "2026-09-07T10:45:00+08:00",
     "apiStatus": {
-      "ios": "ok",
-      "iosFree": "ok",
-      "steamSellers": "ok",
-      "steamIndie": "ok (Edge fallback via WebFetch)"
+      "ios": "ok (15 games)",
+      "steamSellers": "failed (kept existing)",
+      "steamIndie": "failed (kept existing)"
     }
   }
 }
