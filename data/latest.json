@@ -540,6 +540,20 @@
       },
       {
         "rank": 4,
+        "name": "Halloween: The Game",
+        "appId": 3219630,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3219630/capsule_231x87.jpg",
+        "price": "40,99€",
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/3219630"
+      },
+      {
+        "rank": 5,
         "name": "The Blood of Dawnwalker",
         "appId": 3751260,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3751260/capsule_231x87.jpg",
@@ -551,20 +565,6 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/3751260"
-      },
-      {
-        "rank": 5,
-        "name": "Onimusha: Way of the Sword",
-        "appId": 2638890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
-        "price": "69,99€",
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2638890"
       },
       {
         "rank": 6,
@@ -582,17 +582,17 @@
       },
       {
         "rank": 7,
-        "name": "Halloween: The Game",
-        "appId": 3219630,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3219630/capsule_231x87.jpg",
-        "price": "40,99€",
+        "name": "Onimusha: Way of the Sword",
+        "appId": 2638890,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2638890/capsule_231x87.jpg",
+        "price": "69,99€",
         "originalPrice": null,
         "discount": null,
         "status": null,
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3219630"
+        "link": "https://store.steampowered.com/app/2638890"
       },
       {
         "rank": 8,
@@ -790,7 +790,7 @@
       ]
     },
     "newGamesAsOf": "2026-09-07",
-    "topSellersAsOf": "2026-09-07",
+    "topSellersAsOf": "2026-09-08",
     "mostPlayedAsOf": "2026-09-08"
   },
   "miniapp": {
