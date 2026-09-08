@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-08",
-    "lastUpdated": "2026-09-08T16:10:00+08:00",
+    "lastUpdated": "2026-09-08T16:21:54+08:00",
     "footerDate": "数据截至2026年9月8日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,54 +183,44 @@
     ],
     "highlights": [
       {
-        "title": "传媒指数涨1.14%·掌趣科技+13%领涨+关税缓和预期",
-        "titleLink": "https://www.163.com/dy/article/L67F3RJ10534A4SC.html",
+        "title": "龙版传媒 AI 概念 7 连板未遂·上交所警示信披口径反转",
+        "titleLink": "https://caifuhao.eastmoney.com/news/20260908154217055758010",
         "color": "green",
-        "source": "界面新闻",
-        "sourceLink": "https://www.163.com/dy/article/L67F3RJ10534A4SC.html",
-        "body": "9/7 盘中<strong>中证传媒指数涨 1.14%</strong>，掌趣科技 <strong>+13.41%</strong>、上海电影 +10.03%、完美世界 +4.84% 领涨。消息面：美贸易代表格里尔暗示部分中国商品（含<strong>玩具和游戏</strong>）可能<strong>被免除关税</strong>；7 月国内游戏市场实际销售收入 <strong>230.75 亿元，环比 +7.83%</strong>（银河证券：暑期窗口开启、多端齐发驱动回暖）。",
+        "source": "东方财富",
+        "sourceLink": "https://caifuhao.eastmoney.com/news/20260908154217055758010",
+        "body": "9/8 <strong>龙版传媒尾盘炸板</strong>未实现 7 连板（7 日累涨 93.47%）。引爆点为其 AI 漫剧《穿越1988》170 集上线、全网播放<strong>破 1.2 亿</strong>；但 3 日内 AI 业务营收口径从 <strong>0 元→80 元→7.5 万元</strong>前后反转，上交所认定信披不准确、下发<strong>监管警示</strong>并要求限期整改。监管对 AI 内容概念炒作趋严的信号。",
         "isNew": true,
-        "newUntil": "2026-09-08"
+        "newUntil": "2026-09-10"
       },
       {
-        "title": "米哈游《雨之城》悄悄内测 AGC·AI视频平台人人拍大片",
-        "titleLink": "https://m.weibo.cn/status/5340460672879707",
+        "title": "伽马数据：上半年游戏公司 AI 投资 108 宗·超 2025 全年",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6716a9e9d3021052",
         "color": "purple",
-        "source": "微博",
-        "sourceLink": "https://m.weibo.cn/status/5340460672879707",
-        "body": "玩家发现，米哈游未上线新游《<strong>雨之城</strong>》(Varsapura) 已开始悄悄测试 <strong>AGC 平台</strong>（AI 视频创作平台）。流出样品视频质量被评价为<strong>AI 视频第一梯队</strong>，指向「AI 梦工厂」方向——游戏内 UGC + AIGC 视频的玩家共创模式。",
+        "source": "伽马数据",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6716a9e9d3021052",
+        "body": "伽马数据《2026 中国游戏产业 AI 发展报告》：上半年收入 TOP50 游戏企业累计 <strong>AI 投资 108 宗</strong>，超 2025 全年（89 宗）、为 2022 年（52 宗）两倍有余，<strong>广东企业为主力</strong>。典型案例 VAST（三启万物）半年累计融资约 <strong>50 亿元</strong>刷新 3D 原生智能融资纪录，旗舰模型 Tripo P2.0 为全球首个支持原生四边面拓扑的 3D 基座模型，网易《蛋仔派对》蛋仔工坊已率先接入。",
         "isNew": true,
-        "newUntil": "2026-09-08"
+        "newUntil": "2026-09-10"
       },
       {
-        "title": "Steam 在线 CS2 重回 52万榜首·鬼武者发售进热销前5",
+        "title": "北京文化设动漫游戏子公司·半年报净亏损减亏 83%",
+        "titleLink": "https://k.sina.com.cn/article_1644983660_620c756c02001vdpq.html",
+        "color": "green",
+        "source": "观点网",
+        "sourceLink": "https://k.sina.com.cn/article_1644983660_620c756c02001vdpq.html",
+        "body": "9/8 企查查显示，<strong>北京文化（000802）全资成立北文扶摇（沈阳）数字科技公司</strong>，经营范围含数字文化创意软件开发、<strong>动漫游戏开发、剧本娱乐</strong>。同日披露半年报：营收 9746.86 万元（同比 -38.22%），归母净亏损 <strong>3920.48 万元，同比减亏 83.15%</strong>——传统影视公司持续向游戏动漫内容延伸。",
+        "isNew": true,
+        "newUntil": "2026-09-10"
+      },
+      {
+        "title": "Steam 在线 CS2 50.5万领跑·WARDOGS 热销第2·鬼武者回落第7",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "<strong>CS2 当前在线 52.4 万</strong>重回 Steam 榜首（Dota2 39.6 万第 2）；邦戈猫 <strong>13.6 万</strong>稳居第 4。9/3 发售的《<strong>鬼武者 Way of the Sword</strong>》冲上<strong>热销榜第 5</strong>（好评率 85%、在线峰值 8.5 万）；《NBA 2K27》同样 9/3 发售列热销第 10；The Blood of Dawnwalker 在线 3.7 万回落至热销第 4。",
+        "body": "Steam 在线榜：<strong>CS2 50.5 万</strong>第 1、Dota2 36.8 万第 2、PUBG 23.1 万第 3，邦戈猫 13.8 万居第 4。热销榜：WARDOGS（试玩）升至第 2、Bodycam 第 3、新游 <strong>Halloween: The Game 第 4</strong>（在线峰值 2.6 万）；《鬼武者 Way of the Sword》从第 5 回落第 7；The Blood of Dawnwalker 第 5。",
         "isNew": true,
-        "newUntil": "2026-09-08"
-      },
-      {
-        "title": "上海文创游戏电竞专项公示·完美/网易/腾讯/米哈游/莉莉丝入选",
-        "titleLink": "https://new.qq.com/rain/a/20260905A05FJ400",
-        "color": "green",
-        "source": "DataEye游戏观察",
-        "sourceLink": "https://new.qq.com/rain/a/20260905A05FJ400",
-        "body": "上海市文创办公示 <strong>2026 年促进文化创意产业发展专项资金</strong>拟支持项目，成果资助类「游戏电竞」中<strong>完美世界、网易、腾讯、米哈游、莉莉丝</strong>等十余家企业入选，产业扶持持续向头部游戏厂商倾斜。",
-        "isNew": true,
-        "newUntil": "2026-09-08"
-      },
-      {
-        "title": "《塔塔冒险队》登顶 iOS 免费榜",
-        "titleLink": "https://apps.apple.com/cn/charts/iphone/top-free/games",
-        "color": "orange",
-        "source": "iTunes RSS",
-        "sourceLink": "https://apps.apple.com/cn/charts/iphone/top-free/games",
-        "body": "《<strong>塔塔冒险队</strong>》今日登顶 <strong>iOS 免费榜第 1</strong>，三角洲行动升至第 2、王者荣耀第 3。畅销榜 TOP3：王者荣耀 / 三角洲行动 / 和平精英。",
-        "isNew": true,
-        "newUntil": "2026-09-08"
+        "newUntil": "2026-09-10"
       }
     ],
     "taptap": {
