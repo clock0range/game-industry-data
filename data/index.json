@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T16:10:00+08:00",
+  "generated": "2026-09-08T16:22:01.780Z",
   "latest": "data/latest.json",
   "archives": [
     {
@@ -214,11 +214,12 @@
   ],
   "current": {
     "date": "2026-09-08",
-    "lastUpdated": "2026-09-08T16:10:00+08:00",
+    "lastUpdated": "2026-09-08T16:21:54+08:00",
     "apiStatus": {
-      "ios": "ok (15 games)",
-      "steamSellers": "failed (kept existing)",
-      "steamIndie": "failed (kept existing)"
+      "ios": "ok",
+      "iosFree": "ok",
+      "steamSellers": "ok (Edge failed, WebFetch ok)",
+      "steamIndie": "kept 09-07 (Edge+WebFetch failed)"
     }
   }
 }
