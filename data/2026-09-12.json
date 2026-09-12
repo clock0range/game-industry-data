@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-12",
-    "lastUpdated": "2026-09-12T10:35:00+08:00",
+    "lastUpdated": "2026-09-12 10:47:39+08:00",
     "footerDate": "数据截至2026年9月12日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,44 +183,54 @@
     ],
     "highlights": [
       {
-        "title": "龙版传媒 AI 概念 7 连板未遂·上交所警示信披口径反转",
-        "titleLink": "https://caifuhao.eastmoney.com/news/20260908154217055758010",
-        "color": "green",
-        "source": "东方财富",
-        "sourceLink": "https://caifuhao.eastmoney.com/news/20260908154217055758010",
-        "body": "9/8 <strong>龙版传媒尾盘炸板</strong>未实现 7 连板（7 日累涨 93.47%）。引爆点为其 AI 漫剧《穿越1988》170 集上线、全网播放<strong>破 1.2 亿</strong>；但 3 日内 AI 业务营收口径从 <strong>0 元→80 元→7.5 万元</strong>前后反转，上交所认定信披不准确、下发<strong>监管警示</strong>并要求限期整改。监管对 AI 内容概念炒作趋严的信号。",
-        "isNew": true,
-        "newUntil": "2026-09-10"
-      },
-      {
-        "title": "伽马数据：上半年游戏公司 AI 投资 108 宗·超 2025 全年",
-        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6716a9e9d3021052",
+        "title": "Supercell 收购 Metacore 剩余股权",
+        "titleLink": "https://www.youxituoluo.com/",
         "color": "purple",
-        "source": "伽马数据",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6716a9e9d3021052",
-        "body": "伽马数据《2026 中国游戏产业 AI 发展报告》：上半年收入 TOP50 游戏企业累计 <strong>AI 投资 108 宗</strong>，超 2025 全年（89 宗）、为 2022 年（52 宗）两倍有余，<strong>广东企业为主力</strong>。典型案例 VAST（三启万物）半年累计融资约 <strong>50 亿元</strong>刷新 3D 原生智能融资纪录，旗舰模型 Tripo P2.0 为全球首个支持原生四边面拓扑的 3D 基座模型，网易《蛋仔派对》蛋仔工坊已率先接入。",
+        "source": "游戏陀螺/pocketgamer",
+        "sourceLink": "https://www.youxituoluo.com/",
+        "body": "腾讯系 <strong>Supercell</strong> 于 8/31 签署协议，收购芬兰手游开发商 <strong>Metacore</strong> 剩余全部股权。Metacore 旗下合成手游二合产品累计创收达 <strong>7 亿美元</strong>，此次收购标志 Supercell 进一步加码休闲合成赛道。",
         "isNew": true,
-        "newUntil": "2026-09-10"
+        "newUntil": "2026-09-14"
       },
       {
-        "title": "北京文化设动漫游戏子公司·半年报净亏损减亏 83%",
-        "titleLink": "https://k.sina.com.cn/article_1644983660_620c756c02001vdpq.html",
-        "color": "green",
-        "source": "观点网",
-        "sourceLink": "https://k.sina.com.cn/article_1644983660_620c756c02001vdpq.html",
-        "body": "9/8 企查查显示，<strong>北京文化（000802）全资成立北文扶摇（沈阳）数字科技公司</strong>，经营范围含数字文化创意软件开发、<strong>动漫游戏开发、剧本娱乐</strong>。同日披露半年报：营收 9746.86 万元（同比 -38.22%），归母净亏损 <strong>3920.48 万元，同比减亏 83.15%</strong>——传统影视公司持续向游戏动漫内容延伸。",
+        "title": "Steam 黑马《维修物语》7 天流水破 2000 万",
+        "titleLink": "https://new.qq.com/rain/a/20260902A0DOQP00",
+        "color": "blue",
+        "source": "腾讯新闻/游戏陀螺",
+        "sourceLink": "https://new.qq.com/rain/a/20260902A0DOQP00",
+        "body": "Steam 电器维修模拟游戏 <strong>《维修物语》</strong> 发售一周销量突破 <strong>30 万份</strong>，流水推算超 2000 万元，好评率 88%。慢生活 Cozy 品类近五年持续涌现小爆款，多由独立团队打造。",
         "isNew": true,
-        "newUntil": "2026-09-10"
+        "newUntil": "2026-09-14"
       },
       {
-        "title": "Steam 在线 CS2 50.5万领跑·WARDOGS 热销第2·鬼武者回落第7",
+        "title": "西山居《剑侠世界4:无限》定档 10/15 全平台公测",
+        "titleLink": "https://economy.nbd.com.cn/columns/2183.html",
+        "color": "blue",
+        "source": "每经网/游戏早参",
+        "sourceLink": "https://economy.nbd.com.cn/columns/2183.html",
+        "body": "西山居宣布 <strong>《剑侠世界4:无限》</strong> 定档 <strong>10 月 15 日</strong> 全平台公测。剑侠系列续作，延续国产武侠 MMO 经典 IP 生命力。",
+        "isNew": true,
+        "newUntil": "2026-09-14"
+      },
+      {
+        "title": "SteamDB 在线榜 9/12：CS2 55 万领跑，WARDOGS 30 万冲入前三",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "Steam 在线榜：<strong>CS2 50.5 万</strong>第 1、Dota2 36.8 万第 2、PUBG 23.1 万第 3，邦戈猫 13.8 万居第 4。热销榜：WARDOGS（试玩）升至第 2、Bodycam 第 3、新游 <strong>Halloween: The Game 第 4</strong>（在线峰值 2.6 万）；《鬼武者 Way of the Sword》从第 5 回落第 7；The Blood of Dawnwalker 第 5。",
+        "body": "CS2 在线 <strong>55.3 万</strong>稳居 #1；<strong>WARDOGS</strong> 在线 29.96 万冲入 #3（新品 9/10 发售热度延续）；Valheim 15.8 万 #4；Marvel Rivals 14.0 万 #6；Bongo Cat 13.5 万 #7。",
         "isNew": true,
-        "newUntil": "2026-09-10"
+        "newUntil": "2026-09-14"
+      },
+      {
+        "title": "游族网络 2026H1 营收净利双增，加码 AI 产业生态",
+        "titleLink": "https://www.youxituoluo.com/",
+        "color": "green",
+        "source": "游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/",
+        "body": "游族网络发布 2026 年半年度报告，<strong>营收与净利润双增长</strong>，并持续加码 <strong>AI 产业生态</strong>布局。同期完美世界、三七互娱、4399 参投 AI 3D 公司 VAST（B 轮合计约 30 亿元）。",
+        "isNew": true,
+        "newUntil": "2026-09-14"
       }
     ],
     "taptap": {
@@ -373,115 +383,99 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "Dungeon Settlers",
-        "name": "Dungeon Settlers",
-        "steamAppId": "2798330",
-        "appId": 2798330,
+        "steamAppId": "3393280",
+        "appId": 3393280,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2798330.jpg",
-        "rating": "82%",
-        "meta": "2026-09-04",
-        "reviews": "859",
-        "link": "https://store.steampowered.com/app/2798330",
-        "reviewSummary": "特别好评",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3393280/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-11",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3393280",
+        "reviewSummary": "",
         "tags": []
       },
       {
-        "gameName": "虫林好汉：乌合之众",
-        "name": "虫林好汉：乌合之众",
-        "steamAppId": "3607470",
-        "appId": 3607470,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3607470/87113059425a3b61a64504773f0deb9a22853c34/header.jpg?t=1788510795",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3607470/capsule_616x353.jpg",
-        "rating": "84%",
-        "meta": "2026-09-04",
-        "reviews": "168",
-        "link": "https://store.steampowered.com/app/3607470",
-        "reviewSummary": "特别好评",
-        "tags": []
-      },
-      {
-        "gameName": "鬼武者 Way of the Sword",
-        "name": "鬼武者 Way of the Sword",
-        "steamAppId": "2638890",
-        "appId": 2638890,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788758919",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2638890/capsule_616x353.jpg",
-        "rating": "89%",
-        "meta": "2026-09-03",
-        "reviews": "14370",
-        "link": "https://store.steampowered.com/app/2638890",
-        "reviewSummary": "特别好评",
-        "tags": []
-      },
-      {
-        "gameName": "NBA 2K27",
-        "name": "NBA 2K27",
-        "steamAppId": "4356430",
-        "appId": 4356430,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1789075530",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4356430/capsule_616x353.jpg",
-        "rating": "51%",
-        "meta": "2026-09-03",
-        "reviews": "1980",
-        "link": "https://store.steampowered.com/app/4356430",
-        "reviewSummary": "褒贬不一",
-        "tags": []
-      },
-      {
-        "gameName": "Phantom PHANTOM OF INFERNO",
-        "name": "Phantom PHANTOM OF INFERNO",
-        "steamAppId": "3639590",
-        "appId": 3639590,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639590/051a9587d9ad7ff74d7e29ef000f2072cfe92b56/header.jpg?t=1788753884",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3639590/capsule_616x353.jpg",
-        "rating": "97%",
-        "meta": "2026-09-03",
-        "reviews": "87",
-        "link": "https://store.steampowered.com/app/3639590",
-        "reviewSummary": "好评如潮",
-        "tags": []
-      },
-      {
-        "gameName": "LUMI：桌面宠物",
-        "name": "LUMI：桌面宠物",
-        "steamAppId": "5075020",
-        "appId": 5075020,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075020/0e3b73ccda56e75e0db763bfbd47afb0f6a99e10/header.jpg?t=1789103556",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/5075020/capsule_616x353.jpg",
-        "rating": "99%",
-        "meta": "2026-09-03",
-        "reviews": "501",
-        "link": "https://store.steampowered.com/app/5075020",
-        "reviewSummary": "好评如潮",
-        "tags": []
-      },
-      {
-        "gameName": "Rogue Blight",
-        "name": "Rogue Blight",
-        "steamAppId": "1890310",
-        "appId": 1890310,
+        "steamAppId": "4368640",
+        "appId": 4368640,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1890310.jpg",
-        "rating": "93%",
-        "meta": "2026-09-03",
-        "reviews": "279",
-        "link": "https://store.steampowered.com/app/1890310",
-        "reviewSummary": "特别好评",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4368640/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-11",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4368640",
+        "reviewSummary": "",
         "tags": []
       },
       {
-        "gameName": "The Blood of Dawnwalker",
-        "name": "The Blood of Dawnwalker",
-        "steamAppId": "3751260",
-        "appId": 3751260,
-        "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/a7062f3b59d491c2678e3fd7ce2672858e480641/header.jpg?t=1788784813",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3751260/capsule_616x353.jpg",
-        "rating": "85%",
-        "meta": "2026-09-02",
-        "reviews": "17979",
-        "link": "https://store.steampowered.com/app/3751260",
-        "reviewSummary": "特别好评",
+        "steamAppId": "4821420",
+        "appId": 4821420,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4821420/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-11",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4821420",
+        "reviewSummary": "",
+        "tags": []
+      },
+      {
+        "steamAppId": "3649690",
+        "appId": 3649690,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3649690/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-10",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3649690",
+        "reviewSummary": "",
+        "tags": []
+      },
+      {
+        "steamAppId": "1465470",
+        "appId": 1465470,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1465470.jpg",
+        "rating": "",
+        "meta": "2026-09-10",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1465470",
+        "reviewSummary": "",
+        "tags": []
+      },
+      {
+        "steamAppId": "1867240",
+        "appId": 1867240,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-10",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1867240",
+        "reviewSummary": "",
+        "tags": []
+      },
+      {
+        "steamAppId": "3271280",
+        "appId": 3271280,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3271280/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-10",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3271280",
+        "reviewSummary": "",
+        "tags": []
+      },
+      {
+        "steamAppId": "3195440",
+        "appId": 3195440,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3195440/capsule_616x353.jpg",
+        "rating": "",
+        "meta": "2026-09-10",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3195440",
+        "reviewSummary": "",
         "tags": []
       }
     ],
@@ -629,159 +623,159 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-08",
-      "updatedAt": "16:20",
+      "asOf": "2026-09-12",
+      "updatedAt": "10:45",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "反恐精英2",
-          "current": 504762,
-          "peak24h": 1226877,
+          "nameZh": "",
+          "current": 552668,
+          "peak24h": 1324203,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "刀塔2",
-          "current": 367608,
-          "peak24h": 817878,
+          "nameZh": "",
+          "current": 362987,
+          "peak24h": 820747,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
           "rank": 3,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 230537,
-          "peak24h": 703219,
-          "link": "https://store.steampowered.com/app/578080/"
+          "appid": 1867240,
+          "name": "WARDOGS",
+          "nameZh": "",
+          "current": 299605,
+          "peak24h": 365111,
+          "link": "https://store.steampowered.com/app/1867240/"
         },
         {
           "rank": 4,
-          "appid": 3419430,
-          "name": "Bongo Cat",
-          "nameZh": "邦戈猫",
-          "current": 138122,
-          "peak24h": 158215,
-          "link": "https://store.steampowered.com/app/3419430/"
+          "appid": 892970,
+          "name": "Valheim",
+          "nameZh": "",
+          "current": 157808,
+          "peak24h": 217966,
+          "link": "https://store.steampowered.com/app/892970/"
         },
         {
           "rank": 5,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "Apex 英雄",
-          "current": 83129,
-          "peak24h": 256347,
-          "link": "https://store.steampowered.com/app/1172470/"
-        },
-        {
-          "rank": 6,
-          "appid": 1623730,
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 77796,
-          "peak24h": 137465,
-          "link": "https://store.steampowered.com/app/1623730/"
-        },
-        {
-          "rank": 7,
           "appid": 2676230,
           "name": "FiveM",
-          "nameZh": "FiveM",
-          "current": 75502,
-          "peak24h": 206457,
+          "nameZh": "",
+          "current": 146665,
+          "peak24h": 190620,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
-          "rank": 8,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "TBH: Task Bar Hero",
-          "current": 71151,
-          "peak24h": 86189,
-          "link": "https://store.steampowered.com/app/3678970/"
-        },
-        {
-          "rank": 9,
-          "appid": 431960,
-          "name": "Wallpaper Engine",
-          "nameZh": "壁纸引擎",
-          "current": 66106,
-          "peak24h": 105853,
-          "link": "https://store.steampowered.com/app/431960/"
-        },
-        {
-          "rank": 10,
-          "appid": 2507950,
-          "name": "Delta Force",
-          "nameZh": "三角洲行动",
-          "current": 64262,
-          "peak24h": 144699,
-          "link": "https://store.steampowered.com/app/2507950/"
-        },
-        {
-          "rank": 11,
-          "appid": 252490,
-          "name": "Rust",
-          "nameZh": "腐蚀",
-          "current": 55154,
-          "peak24h": 135989,
-          "link": "https://store.steampowered.com/app/252490/"
-        },
-        {
-          "rank": 12,
-          "appid": 2694490,
-          "name": "Path of Exile 2",
-          "nameZh": "流放之路2",
-          "current": 53237,
-          "peak24h": 131947,
-          "link": "https://store.steampowered.com/app/2694490/"
-        },
-        {
-          "rank": 13,
-          "appid": 2868840,
-          "name": "Slay the Spire 2",
-          "nameZh": "杀戮尖塔2",
-          "current": 51770,
-          "peak24h": 97244,
-          "link": "https://store.steampowered.com/app/2868840/"
-        },
-        {
-          "rank": 14,
+          "rank": 6,
           "appid": 2767030,
           "name": "Marvel Rivals",
-          "nameZh": "漫威争锋",
-          "current": 51745,
-          "peak24h": 91013,
+          "nameZh": "",
+          "current": 140336,
+          "peak24h": 140336,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
-          "rank": 15,
+          "rank": 7,
+          "appid": 3419430,
+          "name": "Bongo Cat",
+          "nameZh": "",
+          "current": 135029,
+          "peak24h": 158611,
+          "link": "https://store.steampowered.com/app/3419430/"
+        },
+        {
+          "rank": 8,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "",
+          "current": 119266,
+          "peak24h": 767214,
+          "link": "https://store.steampowered.com/app/578080/"
+        },
+        {
+          "rank": 9,
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "",
+          "current": 86282,
+          "peak24h": 90584,
+          "link": "https://store.steampowered.com/app/359550/"
+        },
+        {
+          "rank": 10,
+          "appid": 1623730,
+          "name": "Palworld",
+          "nameZh": "",
+          "current": 83853,
+          "peak24h": 113920,
+          "link": "https://store.steampowered.com/app/1623730/"
+        },
+        {
+          "rank": 11,
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "",
+          "current": 80951,
+          "peak24h": 105825,
+          "link": "https://store.steampowered.com/app/3678970/"
+        },
+        {
+          "rank": 12,
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "",
+          "current": 73776,
+          "peak24h": 123903,
+          "link": "https://store.steampowered.com/app/252490/"
+        },
+        {
+          "rank": 13,
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "",
+          "current": 68940,
+          "peak24h": 262083,
+          "link": "https://store.steampowered.com/app/1172470/"
+        },
+        {
+          "rank": 14,
           "appid": 1422450,
           "name": "Deadlock",
-          "nameZh": "死锁",
-          "current": 48346,
-          "peak24h": 91106,
+          "nameZh": "",
+          "current": 63552,
+          "peak24h": 74009,
           "link": "https://store.steampowered.com/app/1422450/"
+        },
+        {
+          "rank": 15,
+          "appid": 2357570,
+          "name": "Overwatch",
+          "nameZh": "",
+          "current": 61119,
+          "peak24h": 65963,
+          "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 16,
           "appid": 108600,
           "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 46240,
-          "peak24h": 98065,
+          "nameZh": "",
+          "current": 60002,
+          "peak24h": 68975,
           "link": "https://store.steampowered.com/app/108600/"
         }
       ]
     },
-    "newGamesAsOf": "2026-09-07",
+    "newGamesAsOf": "2026-09-12",
     "topSellersAsOf": "2026-09-08",
-    "mostPlayedAsOf": "2026-09-08"
+    "mostPlayedAsOf": "2026-09-12"
   },
   "miniapp": {
     "ranking": [
@@ -1838,10 +1832,31 @@
       "gameName": "大侠闯天下",
       "manualCover": "",
       "finalCoverUrl": ""
+    },
+    {
+      "date": "10月15日公测",
+      "name": "剑侠世界4:无限",
+      "badge": "西山居",
+      "desc": "剑侠系列正统续作，10/15 全平台公测。延续国产武侠 MMO 经典 IP，西山居旗舰级新品。",
+      "link": "https://economy.nbd.com.cn/columns/2183.html",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-10-16"
     }
   ],
   "investment": {
     "global": [
+      {
+        "date": "2026-08-31",
+        "title": "Supercell 收购 Metacore 剩余全部股权（合成手游创收 7 亿美元）",
+        "amount": "未披露",
+        "stage": "并购",
+        "investor": "Supercell（腾讯系）",
+        "link": "https://www.youxituoluo.com/",
+        "major": true,
+        "isNew": true,
+        "newUntil": "2026-09-14"
+      },
       {
         "date": "2026年9月1日",
         "title": "Scopely 约10亿美元收购 Loom · 手游资本转向成熟资产",
