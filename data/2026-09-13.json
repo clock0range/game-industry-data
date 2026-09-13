@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-13",
-    "lastUpdated": "2026-09-13T10:32:00+08:00",
+    "lastUpdated": "2026-09-13 10:46:15+08:00",
     "footerDate": "数据截至2026年9月13日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,54 +183,64 @@
     ],
     "highlights": [
       {
-        "title": "Supercell 收购 Metacore 剩余股权",
-        "titleLink": "https://www.youxituoluo.com/",
+        "title": "恺英网络拟收购 Neosphere 49% 股权，传奇 IP 控制权再落中国厂商",
+        "titleLink": "https://www.163.com/dy/article/L6MS930D05118O92.html",
         "color": "purple",
-        "source": "游戏陀螺/pocketgamer",
-        "sourceLink": "https://www.youxituoluo.com/",
-        "body": "腾讯系 <strong>Supercell</strong> 于 8/31 签署协议，收购芬兰手游开发商 <strong>Metacore</strong> 剩余全部股权。Metacore 旗下合成手游二合产品累计创收达 <strong>7 亿美元</strong>，此次收购标志 Supercell 进一步加码休闲合成赛道。",
+        "source": "钛媒体 / 网易号",
+        "sourceLink": "https://www.163.com/dy/article/L6MS930D05118O92.html",
+        "body": "恺英网络公告拟通过香港子公司收购 Neosphere 49% 股权，间接参股韩国娱美德。此举意味着恺英从传奇 IP 被授权方跃迁为原始权利方的间接股东，与盛趣形成“IP 授权—用户平台”双核心格局。2025 年传奇 IP 市场规模已达 355.5 亿元，正版化进程加速。",
         "isNew": true,
-        "newUntil": "2026-09-14"
+        "newUntil": "2026-09-15"
       },
       {
-        "title": "Steam 黑马《维修物语》7 天流水破 2000 万",
-        "titleLink": "https://new.qq.com/rain/a/20260902A0DOQP00",
+        "title": "索尼音乐 286 亿日元收购《智龙迷城》开发商 23% 股份",
+        "titleLink": "https://www.youxituoluo.com/?p=777/",
+        "color": "purple",
+        "source": "游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/?p=777/",
+        "body": "索尼音乐娱乐日本（SMEJ）宣布以 286 亿日元收购《智龙迷城》开发商 23% 股份，成为其第一大股东。这是日本主机/音乐巨头继续向移动游戏内容上游延伸的标志性交易，也反映出长青手游 IP 在资本层面的持续溢价。",
+        "isNew": true,
+        "newUntil": "2026-09-15"
+      },
+      {
+        "title": "《旅行青蛙·中国之旅》宣布 12 月 8 日停运，巅峰日活 763 万",
+        "titleLink": "https://www.youxituoluo.com/?p=777/",
         "color": "blue",
-        "source": "腾讯新闻/游戏陀螺",
-        "sourceLink": "https://new.qq.com/rain/a/20260902A0DOQP00",
-        "body": "Steam 电器维修模拟游戏 <strong>《维修物语》</strong> 发售一周销量突破 <strong>30 万份</strong>，流水推算超 2000 万元，好评率 88%。慢生活 Cozy 品类近五年持续涌现小爆款，多由独立团队打造。",
+        "source": "游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/?p=777/",
+        "body": "曾刷爆朋友圈的治愈系手游《旅行青蛙·中国之旅》发布公告称将于 2026 年 12 月 8 日关闭服务器。项目组透露 95% 收入归版权方、8 位数买断版权谈判破裂等长期运营困境。该游戏巅峰日活曾达 763 万，其停运引发玩家集体怀旧与行业对 IP 授权模式的再讨论。",
         "isNew": true,
-        "newUntil": "2026-09-14"
+        "newUntil": "2026-09-15"
       },
       {
-        "title": "西山居《剑侠世界4:无限》定档 10/15 全平台公测",
-        "titleLink": "https://economy.nbd.com.cn/columns/2183.html",
-        "color": "blue",
-        "source": "每经网/游戏早参",
-        "sourceLink": "https://economy.nbd.com.cn/columns/2183.html",
-        "body": "西山居宣布 <strong>《剑侠世界4:无限》</strong> 定档 <strong>10 月 15 日</strong> 全平台公测。剑侠系列续作，延续国产武侠 MMO 经典 IP 生命力。",
+        "title": "游戏新版本泄密可构成经营秘密，浦东法院法官详解保护边界",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260912040538a73153ab",
+        "color": "green",
+        "source": "证券时报 / 咕咾腾讯新闻",
+        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260912040538a73153ab",
+        "body": "针对全国首例游戏测试包泄密商业秘密案，浦东法院法官表示：长期服务型游戏未上线新版本属于阶段性商业成果，在采取保密措施前提下可构成经营秘密；侵权人未成年不免除责任，监护人需承担相应后果。该案为游戏行业商业秘密保护提供了新范式。",
         "isNew": true,
-        "newUntil": "2026-09-14"
+        "newUntil": "2026-09-15"
       },
       {
-        "title": "SteamDB 在线榜 9/12：CS2 55 万领跑，WARDOGS 30 万冲入前三",
+        "title": "腾讯《和平精英》上线 AI 队友实时语音交互新玩法",
+        "titleLink": "https://www.youxituoluo.com/?p=777/",
+        "color": "green",
+        "source": "游戏陀螺",
+        "sourceLink": "https://www.youxituoluo.com/?p=777/",
+        "body": "《和平精英》新版本推出“AI 队友”功能，支持实时语音交互与战术配合。该功能被视为腾讯在大 DAUs 竞技游戏中落地大模型交互的重要尝试，也为“游戏 + AI”的玩法创新提供了可复用的产品化样本。",
+        "isNew": true,
+        "newUntil": "2026-09-15"
+      },
+      {
+        "title": "SteamDB 9/13 在线榜：CS2 54 万领跑，WARDOGS 32 万稳居前三",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "CS2 在线 <strong>55.3 万</strong>稳居 #1；<strong>WARDOGS</strong> 在线 29.96 万冲入 #3（新品 9/10 发售热度延续）；Valheim 15.8 万 #4；Marvel Rivals 14.0 万 #6；Bongo Cat 13.5 万 #7。",
+        "body": "今日 SteamDB 热门在线榜 TOP3 为 <strong>Counter-Strike 2</strong>（54.2 万）、<strong>Dota 2</strong>（39.6 万）与 <strong>WARDOGS</strong>（31.2 万）。<strong>Valheim</strong>（17.9 万）与 <strong>Bongo Cat</strong>（13.0 万）紧随其后，新品与长青产品共同撑起周末在线高峰。",
         "isNew": true,
-        "newUntil": "2026-09-14"
-      },
-      {
-        "title": "游族网络 2026H1 营收净利双增，加码 AI 产业生态",
-        "titleLink": "https://www.youxituoluo.com/",
-        "color": "green",
-        "source": "游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/",
-        "body": "游族网络发布 2026 年半年度报告，<strong>营收与净利润双增长</strong>，并持续加码 <strong>AI 产业生态</strong>布局。同期完美世界、三七互娱、4399 参投 AI 3D 公司 VAST（B 轮合计约 30 亿元）。",
-        "isNew": true,
-        "newUntil": "2026-09-14"
+        "newUntil": "2026-09-15"
       }
     ],
     "taptap": {
@@ -623,26 +633,26 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-12",
-      "updatedAt": "10:45",
+      "asOf": "2026-09-13",
+      "updatedAt": "10:43",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "",
-          "current": 552668,
-          "peak24h": 1324203,
+          "nameZh": "反恐精英2",
+          "current": 542003,
+          "peak24h": 1355646,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "",
-          "current": 362987,
-          "peak24h": 820747,
+          "nameZh": "刀塔2",
+          "current": 395902,
+          "peak24h": 867424,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -650,17 +660,17 @@
           "appid": 1867240,
           "name": "WARDOGS",
           "nameZh": "",
-          "current": 299605,
-          "peak24h": 365111,
+          "current": 312065,
+          "peak24h": 400196,
           "link": "https://store.steampowered.com/app/1867240/"
         },
         {
           "rank": 4,
           "appid": 892970,
           "name": "Valheim",
-          "nameZh": "",
-          "current": 157808,
-          "peak24h": 217966,
+          "nameZh": "英灵神殿",
+          "current": 179256,
+          "peak24h": 271958,
           "link": "https://store.steampowered.com/app/892970/"
         },
         {
@@ -668,114 +678,114 @@
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 146665,
-          "peak24h": 190620,
+          "current": 146810,
+          "peak24h": 203082,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 6,
-          "appid": 2767030,
-          "name": "Marvel Rivals",
-          "nameZh": "",
-          "current": 140336,
-          "peak24h": 140336,
-          "link": "https://store.steampowered.com/app/2767030/"
-        },
-        {
-          "rank": 7,
           "appid": 3419430,
           "name": "Bongo Cat",
-          "nameZh": "",
-          "current": 135029,
-          "peak24h": 158611,
+          "nameZh": "邦戈猫",
+          "current": 130018,
+          "peak24h": 160913,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "",
-          "current": 119266,
-          "peak24h": 767214,
+          "nameZh": "绝地求生",
+          "current": 120402,
+          "peak24h": 791618,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
+          "rank": 8,
+          "appid": 2767030,
+          "name": "Marvel Rivals",
+          "nameZh": "漫威争锋",
+          "current": 116782,
+          "peak24h": 146798,
+          "link": "https://store.steampowered.com/app/2767030/"
+        },
+        {
           "rank": 9,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "",
-          "current": 86282,
-          "peak24h": 90584,
-          "link": "https://store.steampowered.com/app/359550/"
+          "appid": 2357570,
+          "name": "Overwatch®",
+          "nameZh": "守望先锋",
+          "current": 99280,
+          "peak24h": 122602,
+          "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 10,
           "appid": 1623730,
           "name": "Palworld",
-          "nameZh": "",
-          "current": 83853,
-          "peak24h": 113920,
+          "nameZh": "幻兽帕鲁",
+          "current": 90578,
+          "peak24h": 132042,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
           "rank": 11,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "",
-          "current": 80951,
-          "peak24h": 105825,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号：围攻",
+          "current": 89828,
+          "peak24h": 108042,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 12,
-          "appid": 252490,
-          "name": "Rust",
-          "nameZh": "",
-          "current": 73776,
-          "peak24h": 123903,
-          "link": "https://store.steampowered.com/app/252490/"
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "任务栏英雄",
+          "current": 75970,
+          "peak24h": 103286,
+          "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 13,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "",
-          "current": 68940,
-          "peak24h": 262083,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 74592,
+          "peak24h": 129242,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 14,
-          "appid": 1422450,
-          "name": "Deadlock",
-          "nameZh": "",
-          "current": 63552,
-          "peak24h": 74009,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "Apex英雄",
+          "current": 70531,
+          "peak24h": 269302,
+          "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 15,
-          "appid": 2357570,
-          "name": "Overwatch",
-          "nameZh": "",
-          "current": 61119,
-          "peak24h": 65963,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "appid": 108600,
+          "name": "Project Zomboid",
+          "nameZh": "僵尸毁灭工程",
+          "current": 64683,
+          "peak24h": 82366,
+          "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 16,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "",
-          "current": 60002,
-          "peak24h": 68975,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 1422450,
+          "name": "Deadlock",
+          "nameZh": "死锁",
+          "current": 63861,
+          "peak24h": 80160,
+          "link": "https://store.steampowered.com/app/1422450/"
         }
       ]
     },
     "newGamesAsOf": "2026-09-12",
     "topSellersAsOf": "2026-09-08",
-    "mostPlayedAsOf": "2026-09-12"
+    "mostPlayedAsOf": "2026-09-13"
   },
   "miniapp": {
     "ranking": [
@@ -1847,6 +1857,17 @@
   "investment": {
     "global": [
       {
+        "date": "2026-09-13",
+        "title": "索尼音乐 286 亿日元收购《智龙迷城》开发商 23% 股份",
+        "amount": "286亿日元",
+        "stage": "股权收购",
+        "investor": "索尼音乐娱乐日本（SMEJ）",
+        "link": "https://www.youxituoluo.com/?p=777/",
+        "major": true,
+        "isNew": true,
+        "newUntil": "2026-09-15"
+      },
+      {
         "date": "2026-08-31",
         "title": "Supercell 收购 Metacore 剩余全部股权（合成手游创收 7 亿美元）",
         "amount": "未披露",
@@ -1906,6 +1927,17 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026-09-13",
+        "title": "恺英网络拟收购 Neosphere 49% 股权，间接参股娱美德",
+        "amount": "未披露",
+        "stage": "战略收购",
+        "investor": "恺英网络（香港子公司 Cypress Technology）",
+        "link": "https://www.163.com/dy/article/L6MS930D05118O92.html",
+        "major": true,
+        "isNew": true,
+        "newUntil": "2026-09-15"
+      },
       {
         "date": "2026年8月28日",
         "title": "A股21家游戏公司半年报 · 近七成盈利 · 恺英预盈13-15.6亿 · 完美世界预亏",
