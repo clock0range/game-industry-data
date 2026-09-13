@@ -623,26 +623,26 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-12",
-      "updatedAt": "10:45",
+      "asOf": "2026-09-13",
+      "updatedAt": "10:43",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 730,
           "name": "Counter-Strike 2",
-          "nameZh": "",
-          "current": 552668,
-          "peak24h": 1324203,
+          "nameZh": "反恐精英2",
+          "current": 542003,
+          "peak24h": 1355646,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
           "rank": 2,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "",
-          "current": 362987,
-          "peak24h": 820747,
+          "nameZh": "刀塔2",
+          "current": 395902,
+          "peak24h": 867424,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -650,17 +650,17 @@
           "appid": 1867240,
           "name": "WARDOGS",
           "nameZh": "",
-          "current": 299605,
-          "peak24h": 365111,
+          "current": 312065,
+          "peak24h": 400196,
           "link": "https://store.steampowered.com/app/1867240/"
         },
         {
           "rank": 4,
           "appid": 892970,
           "name": "Valheim",
-          "nameZh": "",
-          "current": 157808,
-          "peak24h": 217966,
+          "nameZh": "英灵神殿",
+          "current": 179256,
+          "peak24h": 271958,
           "link": "https://store.steampowered.com/app/892970/"
         },
         {
@@ -668,114 +668,114 @@
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 146665,
-          "peak24h": 190620,
+          "current": 146810,
+          "peak24h": 203082,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
           "rank": 6,
-          "appid": 2767030,
-          "name": "Marvel Rivals",
-          "nameZh": "",
-          "current": 140336,
-          "peak24h": 140336,
-          "link": "https://store.steampowered.com/app/2767030/"
-        },
-        {
-          "rank": 7,
           "appid": 3419430,
           "name": "Bongo Cat",
-          "nameZh": "",
-          "current": 135029,
-          "peak24h": 158611,
+          "nameZh": "邦戈猫",
+          "current": 130018,
+          "peak24h": 160913,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "",
-          "current": 119266,
-          "peak24h": 767214,
+          "nameZh": "绝地求生",
+          "current": 120402,
+          "peak24h": 791618,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
+          "rank": 8,
+          "appid": 2767030,
+          "name": "Marvel Rivals",
+          "nameZh": "漫威争锋",
+          "current": 116782,
+          "peak24h": 146798,
+          "link": "https://store.steampowered.com/app/2767030/"
+        },
+        {
           "rank": 9,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "",
-          "current": 86282,
-          "peak24h": 90584,
-          "link": "https://store.steampowered.com/app/359550/"
+          "appid": 2357570,
+          "name": "Overwatch®",
+          "nameZh": "守望先锋",
+          "current": 99280,
+          "peak24h": 122602,
+          "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 10,
           "appid": 1623730,
           "name": "Palworld",
-          "nameZh": "",
-          "current": 83853,
-          "peak24h": 113920,
+          "nameZh": "幻兽帕鲁",
+          "current": 90578,
+          "peak24h": 132042,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
           "rank": 11,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "",
-          "current": 80951,
-          "peak24h": 105825,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号：围攻",
+          "current": 89828,
+          "peak24h": 108042,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 12,
-          "appid": 252490,
-          "name": "Rust",
-          "nameZh": "",
-          "current": 73776,
-          "peak24h": 123903,
-          "link": "https://store.steampowered.com/app/252490/"
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "任务栏英雄",
+          "current": 75970,
+          "peak24h": 103286,
+          "link": "https://store.steampowered.com/app/3678970/"
         },
         {
           "rank": 13,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "",
-          "current": 68940,
-          "peak24h": 262083,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 74592,
+          "peak24h": 129242,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 14,
-          "appid": 1422450,
-          "name": "Deadlock",
-          "nameZh": "",
-          "current": 63552,
-          "peak24h": 74009,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "Apex英雄",
+          "current": 70531,
+          "peak24h": 269302,
+          "link": "https://store.steampowered.com/app/1172470/"
         },
         {
           "rank": 15,
-          "appid": 2357570,
-          "name": "Overwatch",
-          "nameZh": "",
-          "current": 61119,
-          "peak24h": 65963,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "appid": 108600,
+          "name": "Project Zomboid",
+          "nameZh": "僵尸毁灭工程",
+          "current": 64683,
+          "peak24h": 82366,
+          "link": "https://store.steampowered.com/app/108600/"
         },
         {
           "rank": 16,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "",
-          "current": 60002,
-          "peak24h": 68975,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 1422450,
+          "name": "Deadlock",
+          "nameZh": "死锁",
+          "current": 63861,
+          "peak24h": 80160,
+          "link": "https://store.steampowered.com/app/1422450/"
         }
       ]
     },
     "newGamesAsOf": "2026-09-12",
     "topSellersAsOf": "2026-09-08",
-    "mostPlayedAsOf": "2026-09-12"
+    "mostPlayedAsOf": "2026-09-13"
   },
   "miniapp": {
     "ranking": [
