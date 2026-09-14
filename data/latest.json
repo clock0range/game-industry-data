@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-14",
-    "lastUpdated": "2026-09-14T10:36:00+08:00",
+    "lastUpdated": "2026-09-14T10:49:00+08:00",
     "footerDate": "数据截至2026年9月14日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,64 +183,64 @@
     ],
     "highlights": [
       {
-        "title": "恺英网络拟收购 Neosphere 49% 股权，传奇 IP 控制权再落中国厂商",
-        "titleLink": "https://www.163.com/dy/article/L6MS930D05118O92.html",
-        "color": "purple",
-        "source": "钛媒体 / 网易号",
-        "sourceLink": "https://www.163.com/dy/article/L6MS930D05118O92.html",
-        "body": "恺英网络公告拟通过香港子公司收购 Neosphere 49% 股权，间接参股韩国娱美德。此举意味着恺英从传奇 IP 被授权方跃迁为原始权利方的间接股东，与盛趣形成“IP 授权—用户平台”双核心格局。2025 年传奇 IP 市场规模已达 355.5 亿元，正版化进程加速。",
-        "isNew": true,
-        "newUntil": "2026-09-15"
-      },
-      {
-        "title": "索尼音乐 286 亿日元收购《智龙迷城》开发商 23% 股份",
-        "titleLink": "https://www.youxituoluo.com/?p=777/",
-        "color": "purple",
-        "source": "游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/?p=777/",
-        "body": "索尼音乐娱乐日本（SMEJ）宣布以 286 亿日元收购《智龙迷城》开发商 23% 股份，成为其第一大股东。这是日本主机/音乐巨头继续向移动游戏内容上游延伸的标志性交易，也反映出长青手游 IP 在资本层面的持续溢价。",
-        "isNew": true,
-        "newUntil": "2026-09-15"
-      },
-      {
-        "title": "《旅行青蛙·中国之旅》宣布 12 月 8 日停运，巅峰日活 763 万",
-        "titleLink": "https://www.youxituoluo.com/?p=777/",
+        "title": "腾讯《王者万象棋》全平台开服，预约 7000 万验证王者荣耀 IP 延伸",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260914080659a444eeea",
         "color": "blue",
-        "source": "游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/?p=777/",
-        "body": "曾刷爆朋友圈的治愈系手游《旅行青蛙·中国之旅》发布公告称将于 2026 年 12 月 8 日关闭服务器。项目组透露 95% 收入归版权方、8 位数买断版权谈判破裂等长期运营困境。该游戏巅峰日活曾达 763 万，其停运引发玩家集体怀旧与行业对 IP 授权模式的再讨论。",
+        "source": "腾讯新闻",
+        "sourceLink": "https://gu.qq.com/",
+        "body": "9 月 10 日腾讯《王者万象棋》全平台开服（iOS/Android/PC/鸿蒙，微信/QQ 同服），由王者荣耀原班人马打造，预约突破 <strong>7000 万</strong>。9 月新品排期密集：B 站《闪耀吧!噜咪》~9/17、米哈游《星布谷地》~9/20、腾讯《粒粒的小人国》~9/22。",
         "isNew": true,
-        "newUntil": "2026-09-15"
+        "newUntil": "2026-09-16"
       },
       {
-        "title": "游戏新版本泄密可构成经营秘密，浦东法院法官详解保护边界",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260912040538a73153ab",
+        "title": "恺英网络拟间接参股韩国娱美德 49% 权益，传奇 IP 闭环再巩固",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260914080659a444eeea",
+        "color": "purple",
+        "source": "腾讯新闻",
+        "sourceLink": "https://gu.qq.com/",
+        "body": "9 月 12 日晚恺英网络公告拟间接参股韩国 Wemade（娱美德），完成后间接持有其约 <strong>40.25%</strong> 控股权中对应约 <strong>49%</strong> 权益。娱美德为「传奇」IP 原始权利方，绑定有望完善授权/分成/衍生品机制。",
+        "isNew": true,
+        "newUntil": "2026-09-16"
+      },
+      {
+        "title": "招商证券 9/14 研报：AI 短剧市场超 400 亿，游戏板块 H1 增 12.17%",
+        "titleLink": "https://www.toutiao.com/article/7685203362802827827/",
         "color": "green",
-        "source": "证券时报 / 咕咾腾讯新闻",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260912040538a73153ab",
-        "body": "针对全国首例游戏测试包泄密商业秘密案，浦东法院法官表示：长期服务型游戏未上线新版本属于阶段性商业成果，在采取保密措施前提下可构成经营秘密；侵权人未成年不免除责任，监护人需承担相应后果。该案为游戏行业商业秘密保护提供了新范式。",
+        "source": "今日头条",
+        "sourceLink": "https://www.toutiao.com/",
+        "body": "招商证券研报指出 AI 从「能力建设」进入「商业执行」——易点天下 AI 覆盖 50% 核心执行工作、运营人效提升 <strong>40%+</strong>。2026H1 国内游戏市场收入 <strong>1884.5 亿</strong>同比 +12.17%，自研游戏海外收入 +30.22%。A 股游戏龙头估值普遍 10-13 倍。",
         "isNew": true,
-        "newUntil": "2026-09-15"
+        "newUntil": "2026-09-16"
       },
       {
-        "title": "腾讯《和平精英》上线 AI 队友实时语音交互新玩法",
-        "titleLink": "https://www.youxituoluo.com/?p=777/",
-        "color": "green",
-        "source": "游戏陀螺",
-        "sourceLink": "https://www.youxituoluo.com/?p=777/",
-        "body": "《和平精英》新版本推出“AI 队友”功能，支持实时语音交互与战术配合。该功能被视为腾讯在大 DAUs 竞技游戏中落地大模型交互的重要尝试，也为“游戏 + AI”的玩法创新提供了可复用的产品化样本。",
+        "title": "国内首部真人 VR 互动电影开机，亚马逊 AI 口型同步配音全球首发",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260914080659a444eeea",
+        "color": "yellow",
+        "source": "腾讯新闻",
+        "sourceLink": "https://gu.qq.com/",
+        "body": "9/9 上海电影技术厂启动国内首部真人实拍 VR 互动电影开机（上海影视乐园）；9/10 亚马逊 Prime Video 官宣 <strong>AI 口型同步配音</strong>（Lip-Sync AI Dubbing）全球首发，流媒体本地化降本路径清晰。AI 短剧及漫剧市场规模预计超 <strong>400 亿</strong>。",
         "isNew": true,
-        "newUntil": "2026-09-15"
+        "newUntil": "2026-09-16"
       },
       {
-        "title": "SteamDB 9/13 在线榜：CS2 54 万领跑，WARDOGS 32 万稳居前三",
+        "title": "北京石景山法院判 87 个游戏账号可继承，数字遗产司法认定再进一步",
+        "titleLink": "https://www.163.com/dy/article/L6PH1F7C055040N3.html",
+        "color": "purple",
+        "source": "网易",
+        "sourceLink": "https://www.163.com/",
+        "body": "北京石景山区法院审结一起涉网络游戏账号继承纠纷案，认定网游账号属<strong>网络虚拟财产</strong>范畴，使用者享有的使用权具有可继承性，判令游戏公司配合办理实名认证信息变更。截至 2025 年 12 月我国网络游戏用户规模达 <strong>5.73 亿</strong>。",
+        "isNew": true,
+        "newUntil": "2026-09-16"
+      },
+      {
+        "title": "SteamDB 9/14 在线榜：CS2 44.6 万领跑，WARDOGS 28 万稳居前三",
         "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "今日 SteamDB 热门在线榜 TOP3 为 <strong>Counter-Strike 2</strong>（54.2 万）、<strong>Dota 2</strong>（39.6 万）与 <strong>WARDOGS</strong>（31.2 万）。<strong>Valheim</strong>（17.9 万）与 <strong>Bongo Cat</strong>（13.0 万）紧随其后，新品与长青产品共同撑起周末在线高峰。",
+        "body": "CS2 <strong>44.6 万</strong>在线领跑，Dota2 36.5 万 #2，WARDOGS 28.0 万 #3，Valheim 16.8 万 #4，PUBG 14.3 万 #5。热销榜：WARDOGS 登顶 #1，CS2 #2，PUBG #3。",
         "isNew": true,
-        "newUntil": "2026-09-15"
+        "newUntil": "2026-09-16"
       }
     ],
     "taptap": {
@@ -2254,6 +2254,14 @@
         "link": "https://new.qq.com/rain/a/20260901A0CF1R00",
         "isNew": true,
         "newUntil": "2026-09-05"
+      },
+      {
+        "date": "2026-09-14",
+        "title": "北京石景山法院判 87 个游戏账号可继承·数字遗产司法认定",
+        "court": "北京市石景山区人民法院",
+        "verdict": "认定网游账号属网络虚拟财产，使用权具有可继承性，判令游戏公司配合办理实名认证信息变更",
+        "impact": "继 8 月浦东法院泄密案后，数字遗产继承司法实践又一标杆案例，5.73 亿网游用户权益保护路径拓宽",
+        "link": "https://www.163.com/dy/article/L6PH1F7C055040N3.html"
       }
     ],
     "insight": "<strong style=\"color:var(--red)\">法律趋势：</strong>①<strong>二创商业化边界进一步明确</strong>——多摩万事屋案首次以司法判决划定\"个人非营利二创\"与\"企业规模化侵权\"的界限，对\"谷子店\"行业有标杆意义。②<strong>跨国IP保护力度加强</strong>——检察机关创新履职推动刑事+民事+商业合作三重解决。③<strong>游戏泄密首次刑事入罪</strong>——点击量10万次即达追诉标准，\"剧透\"不再是灰色地带。④<strong>IP从\"平面\"到\"立体\"保护</strong>——宜兴盗版手办案入选最高检典型，厘清游戏角色从2D形象到3D实体周边的保护边界。"
