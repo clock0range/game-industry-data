@@ -1,11 +1,22 @@
 {
-  "generated": "2026-09-13T10:32:00+08:00",
+  "generated": "2026-09-14T10:36:00+08:00",
   "latest": "data/latest.json",
   "archives": [
     {
+      "date": "2026-09-14",
+      "file": "data/2026-09-14.json",
+      "lastUpdated": "2026-09-14T10:36:00+08:00",
+      "summary": {
+        "iosCount": 15,
+        "steamSellers": 10,
+        "steamIndie": 8,
+        "newGames": 37
+      }
+    },
+    {
       "date": "2026-09-13",
       "file": "data/2026-09-13.json",
-      "lastUpdated": "2026-09-13T10:32:00+08:00",
+      "lastUpdated": "2026-09-13 10:46:15+08:00",
       "summary": {
         "iosCount": 15,
         "steamSellers": 10,
@@ -235,22 +246,12 @@
     }
   ],
   "current": {
-    "date": "2026-09-13",
-    "lastUpdated": "2026-09-13 10:46:15+08:00",
-    "ios": {
-      "rankingTop3": [
-        "王者荣耀",
-        "三角洲行动",
-        "金铲铲之战"
-      ]
-    },
-    "steam": {
-      "mostPlayedAsOf": "2026-09-13",
-      "topSellersAsOf": "2026-09-08",
-      "newGamesAsOf": "2026-09-12"
-    },
-    "miniapp": {
-      "asOf": "2026-08-29 微信小游戏畅销榜（当日榜）"
+    "date": "2026-09-14",
+    "lastUpdated": "2026-09-14T10:36:00+08:00",
+    "apiStatus": {
+      "ios": "ok (15 games)",
+      "steamSellers": "failed (kept existing)",
+      "steamIndie": "failed (kept existing)"
     }
   }
 }
