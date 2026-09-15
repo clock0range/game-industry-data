@@ -435,20 +435,6 @@
         "name": "赌石之王"
       },
       {
-        "steamAppId": "3649690",
-        "appId": 3649690,
-        "manualCover": "",
-        "finalCoverUrl": "",
-        "rating": "",
-        "meta": "2026-09-10",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3649690",
-        "reviewSummary": "暂无评价",
-        "tags": [],
-        "gameName": "夜园游记",
-        "name": "夜园游记"
-      },
-      {
         "steamAppId": "1465470",
         "appId": 1465470,
         "manualCover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1465470/header.jpg",
@@ -461,20 +447,6 @@
         "tags": [],
         "gameName": "The Crust",
         "name": "The Crust"
-      },
-      {
-        "steamAppId": "1867240",
-        "appId": 1867240,
-        "manualCover": "",
-        "finalCoverUrl": "",
-        "rating": "79%",
-        "meta": "2026-09-10",
-        "reviews": "49249",
-        "link": "https://store.steampowered.com/app/1867240",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "gameName": "WARDOGS",
-        "name": "WARDOGS"
       },
       {
         "steamAppId": "3271280",
@@ -503,6 +475,34 @@
         "tags": [],
         "gameName": "Welcome to Elderfield",
         "name": "Welcome to Elderfield"
+      },
+      {
+        "steamAppId": "3649690",
+        "appId": 3649690,
+        "manualCover": "",
+        "finalCoverUrl": "",
+        "rating": "",
+        "meta": "2026-09-10",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3649690",
+        "reviewSummary": "暂无评价",
+        "tags": [],
+        "gameName": "夜园游记",
+        "name": "夜园游记"
+      },
+      {
+        "steamAppId": "1867240",
+        "appId": 1867240,
+        "manualCover": "",
+        "finalCoverUrl": "",
+        "rating": "79%",
+        "meta": "2026-09-10",
+        "reviews": "49249",
+        "link": "https://store.steampowered.com/app/1867240",
+        "reviewSummary": "特别好评",
+        "tags": [],
+        "gameName": "WARDOGS",
+        "name": "WARDOGS"
       }
     ],
     "topSellers": [
@@ -1102,6 +1102,16 @@
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_王者万象棋.jpg"
     },
     {
+      "date": "10月15日公测",
+      "name": "剑侠世界4:无限",
+      "badge": "西山居",
+      "desc": "剑侠系列正统续作，10/15 全平台公测。延续国产武侠 MMO 经典 IP，西山居旗舰级新品。",
+      "link": "https://economy.nbd.com.cn/columns/2183.html",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-10-16"
+    },
+    {
       "date": "2026-08-28",
       "name": "凡应 EP02 测试",
       "desc": "【EP02 限量删档 PC 测试 · 8/28 正式开启】艺画开天(腾讯控股)首款自研 ARPG《凡应》EP02 测试 8/28 开启。玩家化身海履者驾驭多种海巡兽在动态净海世界迁徙，与隆舶巨兽共生。剧情演出约90分钟开场动画（被外媒评价为\"高预算 3A 级游戏水准\"，镜头/配乐\"能媲美电影制作\"）。多武器切换 + 极限闪避 + 破韧处决等高速动作机制，箱庭式地图（浪涌影响周期性变化），PC 端限量删档不付费。游戏预计 2026 年下半年启动大规模公开测试（PC/主机/移动三端）。",
@@ -1122,6 +1132,47 @@
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_凡应_EP02_测试.jpg",
       "imageSource": "taptap",
       "imageStatus": "ok"
+    },
+    {
+      "name": "伊瑟",
+      "link": "https://www.taptap.cn/search/伊瑟",
+      "badge": "限量测试",
+      "badgeColor": "cyan",
+      "meta": "心动发行 · 异能英雄养成RPG · 虚拟世界末日题材",
+      "desc": "异能英雄养成RPG。全球冻流袭击下人类文明几近崩溃，人类将自我意识转移到虚拟世界\"伊瑟\"。伊瑟中有异格者可运用原质能力，但源病毒侵蚀导致异格者暴走。玩家作为超链者清理源病毒、维护伊瑟秩序。",
+      "date": "8月27日TapTap限量测试",
+      "tags": [
+        "RPG",
+        "异能",
+        "心动"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "伊瑟",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊瑟.jpg"
+    },
+    {
+      "name": "仙境传说3 (RO3)",
+      "link": "https://www.taptap.cn/search/仙境传说3",
+      "badge": "8.27测试",
+      "badgeColor": "cyan",
+      "meta": "bilibili游戏发行 · Gravity+欢乐互娱联合开发 · 多端互通MMORPG",
+      "desc": "二十余年经典IP仙境传说的全球正统续作，由Gravity与欢乐互娱联合开发，bilibili游戏发行运营。延续俯视视角风格化美术、职业成长、MVP挑战、自由交易等核心体验，全面升级画面表现、战斗手感、社交生态与公会攻城玩法。PC原生开发+多端互通，致力于打造兼具经典RO灵魂与次世代品质的全新米德加尔特大陆。8月27日开启不计费删档限号测试。",
+      "date": "8月27日不限号测试",
+      "tags": [
+        "MMORPG",
+        "经典IP",
+        "bilibili"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "仙境传说3 (RO3)",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "发条总动员",
@@ -1164,108 +1215,46 @@
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_全明星觉醒.jpg"
     },
     {
-      "name": "伊瑟",
-      "link": "https://www.taptap.cn/search/伊瑟",
-      "badge": "限量测试",
-      "badgeColor": "cyan",
-      "meta": "心动发行 · 异能英雄养成RPG · 虚拟世界末日题材",
-      "desc": "异能英雄养成RPG。全球冻流袭击下人类文明几近崩溃，人类将自我意识转移到虚拟世界\"伊瑟\"。伊瑟中有异格者可运用原质能力，但源病毒侵蚀导致异格者暴走。玩家作为超链者清理源病毒、维护伊瑟秩序。",
-      "date": "8月27日TapTap限量测试",
-      "tags": [
-        "RPG",
-        "异能",
-        "心动"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "伊瑟",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊瑟.jpg"
-    },
-    {
-      "name": "致命躯壳2 (Mortal Shell II)",
-      "link": "https://store.steampowered.com/app/2584270",
-      "badge": "已发售",
+      "name": "源初之结",
+      "link": "https://news.17173.com/content/08262026/110123893.shtml",
+      "badge": "8/26首曝",
       "badgeColor": "green",
-      "meta": "Cold Symmetry · Playstack · PS5/Xbox/PC · 动作RPG",
-      "desc": "《致命躯壳》独立续作，大幅扩展原作战斗系统，节奏更快更硬核。无耐力条束缚，强化快意处决体验。紧凑开放世界自由探索，八位可附身战士各具独特能力。8月20日已解锁，国区标准版198元，虔诚版228元（含黑曜石皮肤套装+提前72小时开玩）。",
-      "date": "8月20日已发售",
+      "meta": "米哈游 · 全球首曝 · 幻想动作RPG · PC/PS5/移动",
+      "desc": "米哈游全新幻想动作RPG，米哈游在2026 Gamescom科隆游戏展开幕夜（Opening Night Live）全球首曝概念PV。融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动平台。“源初”意为万物流转的原点，强调“溯源-重构-新生”三段式叙事。",
+      "date": "8月26日 Gamescom 全球首曝",
       "tags": [
         "动作RPG",
-        "硬核",
-        "Steam"
+        "箱庭",
+        "米哈游"
       ],
-      "steamAppId": 2584270,
-      "imageUrl": "",
+      "steamAppId": "",
+      "imageUrl": null,
       "imageSource": "none",
       "imageStatus": "placeholder",
-      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
-      "gameName": "致命躯壳2 (Mortal Shell II)",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg"
-    },
-    {
-      "name": "遮天世界",
-      "link": "https://www.taptap.cn/search/遮天世界",
-      "badge": "量删测试",
-      "badgeColor": "cyan",
-      "meta": "腾讯代理 · 辰东小说正版授权 · 国风修仙SLG",
-      "desc": "辰东小说《遮天》正版授权改编的国风修仙SLG手游。把轮海、道宫等五大秘境修行养成与仙府经营、仙门结盟、帝源矿脉争夺融于一体。8月20日上午10点已开启量删删档测试。",
-      "date": "8月20日量删测试中",
-      "tags": [
-        "SLG",
-        "修仙",
-        "大IP改编"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "遮天世界",
+      "gameName": "源初之结",
       "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_遮天世界.jpg"
+      "finalCoverUrl": ""
     },
     {
-      "name": "头号禁区",
-      "link": "https://www.taptap.cn/search/头号禁区",
-      "badge": "裂变测试",
-      "badgeColor": "cyan",
-      "meta": "沫瞳科技 · 俯视角竞技摸金 · 搜打撤",
-      "desc": "沫瞳科技旗下轻快俯视角竞技摸金手游，把搜打撤移玩法与MOBA英雄技能体系融合。单局约10分钟，搜刮宝箱、改装冷热兵器、放技能清敌打Boss，缩圈前带高价值物资撤离。8月20日上午11点已开启裂变测试。",
-      "date": "8月20日裂变测试中",
-      "tags": [
-        "搜打撤",
-        "MOBA",
-        "竞技"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "头号禁区",
-      "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_头号禁区.jpg"
-    },
-    {
-      "name": "诡秘之主",
-      "link": "https://www.taptap.cn/search/诡秘之主",
-      "badge": "已公测",
+      "name": "大侠闯天下",
+      "link": "https://www.taptap.cn/search/大侠闯天下",
+      "badge": "8/25首发",
       "badgeColor": "green",
-      "meta": "快手旗下 · UE5 · MMORPG · 改编自白金网文",
-      "desc": "国内首款UE5欧式古风神秘学MMO。22条神之途径系统，220个专属序列，SAN值理智机制（理智清零角色可能被删）。六百人团队开发四年，TapTap预约突破210万。8月21日正式公测上线。",
-      "date": "8月21日公测",
+      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
+      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
+      "date": "8月25日首发",
       "tags": [
-        "UE5",
-        "MMO",
-        "大IP改编"
+        "武侠",
+        "放置",
+        "4399"
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "诡秘之主",
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "大侠闯天下",
       "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_诡秘之主.jpg"
+      "finalCoverUrl": ""
     },
     {
       "name": "影之刃零",
@@ -1291,48 +1280,6 @@
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4115450.jpg"
     },
     {
-      "name": "赘婿",
-      "link": "https://www.taptap.cn/search/赘婿",
-      "badge": "爆款",
-      "badgeColor": "green",
-      "meta": "阅文IP · 模拟经营 · 全平台",
-      "desc": "阅文白金网文IP改编的模拟经营手游，预约量突破200万。8月12日全平台公测，上线首日即登顶App Store及主流安卓渠道免费榜，为阅文\"IP+游戏\"生态开年之作。",
-      "date": "8月12日公测",
-      "tags": [
-        "IP改编",
-        "模拟经营",
-        "阅文"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "赘婿",
-      "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_赘婿.jpg"
-    },
-    {
-      "name": "甄嬛传",
-      "link": "https://www.taptap.cn/search/甄嬛传",
-      "badge": "预约中",
-      "badgeColor": "purple",
-      "meta": "雷霆游戏 · 宫斗养成 · 模拟经营",
-      "desc": "经典宫斗IP改编，宫斗养成+宫廷模拟经营双玩法。华妃、沈眉庄、皇后等角色还原，\"角色IP×猫猫\"双向复用。8月13日开启iOS、TapTap、官网全平台预约，预计2026年内公测。",
-      "date": "8月13日开启预约",
-      "tags": [
-        "宫斗",
-        "IP改编",
-        "雷霆"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "甄嬛传",
-      "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_甄嬛传.jpg"
-    },
-    {
       "name": "粒粒的小人国",
       "link": "https://store.steampowered.com/app/3767320",
       "badge": "预约800万+",
@@ -1353,28 +1300,6 @@
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767320/00afa6eda2f141ec33c8621bac84f255ad16bb67/header_schinese.jpg?t=1778570269",
       "gameName": "粒粒的小人国",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3767320.jpg"
-    },
-    {
-      "name": "轮回之兽 (Beast of Reincarnation)",
-      "link": "https://store.steampowered.com/app/2001760",
-      "badge": "新品",
-      "badgeColor": "cyan",
-      "meta": "Game Freak · Steam · 动作RPG",
-      "desc": "宝可梦开发商Game Freak全新IP！融合即时与回合制战斗的\"一人一狗动作RPG\"。精美的日式卡通渲染画风，在广阔的幻想世界中与伙伴犬并肩作战。",
-      "date": "8月3日上线 · $59.99",
-      "tags": [
-        "Game Freak",
-        "ARPG",
-        "全新IP"
-      ],
-      "steamAppId": 2001760,
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
-      "imageSource": "steam-header",
-      "imageStatus": "ok",
-      "imageVerified": true,
-      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
-      "gameName": "轮回之兽 (Beast of Reincarnation)",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2001760.jpg"
     },
     {
       "name": "穿越火线:潜伏",
@@ -1400,69 +1325,6 @@
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4687500.jpg"
     },
     {
-      "name": "梦幻西游:再续前缘",
-      "link": "https://www.taptap.cn/search/梦幻西游再续前缘",
-      "badge": "8.21上线",
-      "badgeColor": "green",
-      "meta": "网易 · MMORPG · 手游 · 电脑版数据互通",
-      "desc": "《梦幻西游》电脑版出手游了！无需点卡免费畅玩，账号数据与电脑端完全互通。首批6大服务器（定海神针/富甲一方/少林寺/神兵天降/烟雨江南/一生所爱）8月21日12:00同步开放。预约2天突破30万人。",
-      "date": "8月21日12:00正式上线",
-      "tags": [
-        "MMO",
-        "网易",
-        "免费",
-        "数据互通"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "梦幻西游:再续前缘",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "name": "我的英雄学院 UNITED SURVIVAL",
-      "link": "https://www.taptap.cn/search/我的英雄学院",
-      "meta": "KLab · 多平台 · Roguelite动作",
-      "desc": "人气动漫IP改编，3人组队Roguelite英雄动作游戏。角色「个性」强化+合体必杀技+原创剧情。全球预约突破80万人。",
-      "date": "8月6日全球上线",
-      "tags": [
-        "日漫IP",
-        "Roguelite",
-        "多端"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "我的英雄学院 UNITED SURVIVAL",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "name": "恶校游戏",
-      "link": "https://store.steampowered.com/app/1218280",
-      "badge": "已发售",
-      "badgeColor": "red",
-      "meta": "CineGame Interactive · PC · 真人互动影游",
-      "desc": "直面校园霸凌题材的真人互动影游！讲述跨越八年的复仇寻真故事，近500分钟沉浸式剧情、100余条分支、59种结局。开发团队核心来自阿里、网易、三七互娱。8月14日11:00正式发售，试玩Demo已开放。",
-      "date": "8月14日发售 · PC",
-      "tags": [
-        "互动影游",
-        "校园霸凌",
-        "独立团队"
-      ],
-      "steamAppId": 1218280,
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
-      "imageSource": "steam-header",
-      "imageStatus": "ok",
-      "imageVerified": true,
-      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
-      "gameName": "恶校游戏",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1218280.jpg"
-    },
-    {
       "name": "不问凡尘",
       "link": "https://store.steampowered.com/app/4209920",
       "badge": "AI单机",
@@ -1484,6 +1346,29 @@
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209920/326cb3e29530345c71fed77251ae740c138d694a/header_schinese.jpg?t=1786591924",
       "gameName": "不问凡尘",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4209920.jpg"
+    },
+    {
+      "name": "黑神话:悟空",
+      "link": "https://store.steampowered.com/app/2358720",
+      "badge": "本周热销",
+      "badgeColor": "red",
+      "meta": "游戏科学 · 本周 Steam 热销 #5 · 暑期回弹",
+      "desc": "本周 Steam 热销榜 #5（较上周 +36 名），暑期《黑神话:悟空》再次强势回弹（-30% 折扣 ¥187.60 / 原价 ¥268）。配合 8月20日发售的\"暗夜传说\"预告，国产 3A 持续放大招。",
+      "date": "本周 +36名",
+      "tags": [
+        "黑神话",
+        "3A",
+        "国产单机",
+        "夏季促销"
+      ],
+      "steamAppId": 2358720,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
+      "imageSource": "steam-header",
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
+      "gameName": "黑神话:悟空",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2358720.jpg"
     },
     {
       "name": "变形金刚:新纪元",
@@ -1530,6 +1415,258 @@
       "finalCoverUrl": ""
     },
     {
+      "name": "代号咘咘",
+      "link": "https://www.taptap.cn/search/代号咘咘",
+      "badge": "TapTap测试招募",
+      "badgeColor": "purple",
+      "meta": "灵犀互娱 · 捉宠模拟经营 · 阿里出售后首款新游",
+      "desc": "灵犀互娱旗下捉宠题材模拟经营新游《代号咘咘》已在TapTap等渠道开启测试招募。玩家可收集\"咘咘\"生物，由其参与种植、灌溉和制造，把荒漠建设为绿洲。这是阿里101亿出售灵犀给信辰资本后首款对外曝光的新游，标志新东家想证明\"这公司还值钱\"。捉宠+模拟经营是近几年最稳的休闲赛道，但《代号咘咘》能否接住长线还得看玩法深度。",
+      "date": "测试招募中",
+      "tags": [
+        "捉宠",
+        "模拟经营",
+        "灵犀"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "代号咘咘",
+      "manualCover": "",
+      "finalCoverUrl": ""
+    },
+    {
+      "name": "致命躯壳2 (Mortal Shell II)",
+      "link": "https://store.steampowered.com/app/2584270",
+      "badge": "已发售",
+      "badgeColor": "green",
+      "meta": "Cold Symmetry · Playstack · PS5/Xbox/PC · 动作RPG",
+      "desc": "《致命躯壳》独立续作，大幅扩展原作战斗系统，节奏更快更硬核。无耐力条束缚，强化快意处决体验。紧凑开放世界自由探索，八位可附身战士各具独特能力。8月20日已解锁，国区标准版198元，虔诚版228元（含黑曜石皮肤套装+提前72小时开玩）。",
+      "date": "8月20日已发售",
+      "tags": [
+        "动作RPG",
+        "硬核",
+        "Steam"
+      ],
+      "steamAppId": 2584270,
+      "imageUrl": "",
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787326472",
+      "gameName": "致命躯壳2 (Mortal Shell II)",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2584270.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "遮天世界",
+      "link": "https://www.taptap.cn/search/遮天世界",
+      "badge": "量删测试",
+      "badgeColor": "cyan",
+      "meta": "腾讯代理 · 辰东小说正版授权 · 国风修仙SLG",
+      "desc": "辰东小说《遮天》正版授权改编的国风修仙SLG手游。把轮海、道宫等五大秘境修行养成与仙府经营、仙门结盟、帝源矿脉争夺融于一体。8月20日上午10点已开启量删删档测试。",
+      "date": "8月20日量删测试中",
+      "tags": [
+        "SLG",
+        "修仙",
+        "大IP改编"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "遮天世界",
+      "manualCover": "",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_遮天世界.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "头号禁区",
+      "link": "https://www.taptap.cn/search/头号禁区",
+      "badge": "裂变测试",
+      "badgeColor": "cyan",
+      "meta": "沫瞳科技 · 俯视角竞技摸金 · 搜打撤",
+      "desc": "沫瞳科技旗下轻快俯视角竞技摸金手游，把搜打撤移玩法与MOBA英雄技能体系融合。单局约10分钟，搜刮宝箱、改装冷热兵器、放技能清敌打Boss，缩圈前带高价值物资撤离。8月20日上午11点已开启裂变测试。",
+      "date": "8月20日裂变测试中",
+      "tags": [
+        "搜打撤",
+        "MOBA",
+        "竞技"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "头号禁区",
+      "manualCover": "",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_头号禁区.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "诡秘之主",
+      "link": "https://www.taptap.cn/search/诡秘之主",
+      "badge": "已公测",
+      "badgeColor": "green",
+      "meta": "快手旗下 · UE5 · MMORPG · 改编自白金网文",
+      "desc": "国内首款UE5欧式古风神秘学MMO。22条神之途径系统，220个专属序列，SAN值理智机制（理智清零角色可能被删）。六百人团队开发四年，TapTap预约突破210万。8月21日正式公测上线。",
+      "date": "8月21日公测",
+      "tags": [
+        "UE5",
+        "MMO",
+        "大IP改编"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "诡秘之主",
+      "manualCover": "",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_诡秘之主.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "赘婿",
+      "link": "https://www.taptap.cn/search/赘婿",
+      "badge": "爆款",
+      "badgeColor": "green",
+      "meta": "阅文IP · 模拟经营 · 全平台",
+      "desc": "阅文白金网文IP改编的模拟经营手游，预约量突破200万。8月12日全平台公测，上线首日即登顶App Store及主流安卓渠道免费榜，为阅文\"IP+游戏\"生态开年之作。",
+      "date": "8月12日公测",
+      "tags": [
+        "IP改编",
+        "模拟经营",
+        "阅文"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "赘婿",
+      "manualCover": "",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_赘婿.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "甄嬛传",
+      "link": "https://www.taptap.cn/search/甄嬛传",
+      "badge": "预约中",
+      "badgeColor": "purple",
+      "meta": "雷霆游戏 · 宫斗养成 · 模拟经营",
+      "desc": "经典宫斗IP改编，宫斗养成+宫廷模拟经营双玩法。华妃、沈眉庄、皇后等角色还原，\"角色IP×猫猫\"双向复用。8月13日开启iOS、TapTap、官网全平台预约，预计2026年内公测。",
+      "date": "8月13日开启预约",
+      "tags": [
+        "宫斗",
+        "IP改编",
+        "雷霆"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "甄嬛传",
+      "manualCover": "",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_甄嬛传.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "轮回之兽 (Beast of Reincarnation)",
+      "link": "https://store.steampowered.com/app/2001760",
+      "badge": "新品",
+      "badgeColor": "cyan",
+      "meta": "Game Freak · Steam · 动作RPG",
+      "desc": "宝可梦开发商Game Freak全新IP！融合即时与回合制战斗的\"一人一狗动作RPG\"。精美的日式卡通渲染画风，在广阔的幻想世界中与伙伴犬并肩作战。",
+      "date": "8月3日上线 · $59.99",
+      "tags": [
+        "Game Freak",
+        "ARPG",
+        "全新IP"
+      ],
+      "steamAppId": 2001760,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
+      "imageSource": "steam-header",
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1786337922",
+      "gameName": "轮回之兽 (Beast of Reincarnation)",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2001760.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "梦幻西游:再续前缘",
+      "link": "https://www.taptap.cn/search/梦幻西游再续前缘",
+      "badge": "8.21上线",
+      "badgeColor": "green",
+      "meta": "网易 · MMORPG · 手游 · 电脑版数据互通",
+      "desc": "《梦幻西游》电脑版出手游了！无需点卡免费畅玩，账号数据与电脑端完全互通。首批6大服务器（定海神针/富甲一方/少林寺/神兵天降/烟雨江南/一生所爱）8月21日12:00同步开放。预约2天突破30万人。",
+      "date": "8月21日12:00正式上线",
+      "tags": [
+        "MMO",
+        "网易",
+        "免费",
+        "数据互通"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "梦幻西游:再续前缘",
+      "manualCover": "",
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "我的英雄学院 UNITED SURVIVAL",
+      "link": "https://www.taptap.cn/search/我的英雄学院",
+      "meta": "KLab · 多平台 · Roguelite动作",
+      "desc": "人气动漫IP改编，3人组队Roguelite英雄动作游戏。角色「个性」强化+合体必杀技+原创剧情。全球预约突破80万人。",
+      "date": "8月6日全球上线",
+      "tags": [
+        "日漫IP",
+        "Roguelite",
+        "多端"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "我的英雄学院 UNITED SURVIVAL",
+      "manualCover": "",
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
+      "name": "恶校游戏",
+      "link": "https://store.steampowered.com/app/1218280",
+      "badge": "已发售",
+      "badgeColor": "red",
+      "meta": "CineGame Interactive · PC · 真人互动影游",
+      "desc": "直面校园霸凌题材的真人互动影游！讲述跨越八年的复仇寻真故事，近500分钟沉浸式剧情、100余条分支、59种结局。开发团队核心来自阿里、网易、三七互娱。8月14日11:00正式发售，试玩Demo已开放。",
+      "date": "8月14日发售 · PC",
+      "tags": [
+        "互动影游",
+        "校园霸凌",
+        "独立团队"
+      ],
+      "steamAppId": 1218280,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
+      "imageSource": "steam-header",
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1218280/header.jpg?t=1593206301",
+      "gameName": "恶校游戏",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1218280.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
+    },
+    {
       "name": "三国观沧海",
       "link": "https://www.taptap.cn/search/三国观沧海",
       "badge": "公测",
@@ -1549,7 +1686,9 @@
       "imageStatus": "placeholder",
       "gameName": "三国观沧海",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "新剑皇",
@@ -1571,7 +1710,9 @@
       "imageStatus": "placeholder",
       "gameName": "新剑皇",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "Grounded 2",
@@ -1594,7 +1735,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661300/b52405d3dd3d4bfd356cd9af7b399bcbc5a23f7e/header.jpg?t=1786582449",
       "gameName": "Grounded 2",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2661300.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2661300.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "Hell Let Loose: Vietnam",
@@ -1616,7 +1759,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
       "gameName": "Hell Let Loose: Vietnam",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3079210.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "JDM: Japanese Drift Master",
@@ -1638,7 +1783,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153410/016294c36d475a93fa656b8a99edf9a1e9ab8635/header_alt_assets_7.jpg?t=1785347132",
       "gameName": "JDM: Japanese Drift Master",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1153410.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1153410.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "Mafia: The Old Country - Man of Honor",
@@ -1660,7 +1807,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1941540/c856b1f470f980bdc5fb6367fc5c560fe06ccea4/header_alt_assets_3.jpg?t=1786750937",
       "gameName": "Mafia: The Old Country - Man of Honor",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1941540.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1941540.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "The Sinking City 2",
@@ -1682,7 +1831,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825860/3886f0efead06a14e8ef047635400fafd362f1ba/header_alt_assets_1_schinese.jpg?t=1786356731",
       "gameName": "The Sinking City 2",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2825860.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2825860.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "FEED IT 喂它",
@@ -1704,7 +1855,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4370990/f620b384ba83e2e1d8bf6516a3cb110bd244dfbf/header.jpg?t=1786814393",
       "gameName": "FEED IT 喂它",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4370990.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4370990.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "湮灭之潮",
@@ -1726,7 +1879,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292470/header_schinese.jpg?t=1786504987",
       "gameName": "湮灭之潮",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3292470.jpg"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3292470.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     },
     {
       "name": "Tukoni: Forest Keepers",
@@ -1748,124 +1903,9 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933200/8ba258b9db04d7da7c4d31b14418f3075087ba77/header_alt_assets_1_schinese.jpg?t=1786958548",
       "gameName": "Tukoni: Forest Keepers",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2933200.jpg"
-    },
-    {
-      "name": "黑神话:悟空",
-      "link": "https://store.steampowered.com/app/2358720",
-      "badge": "本周热销",
-      "badgeColor": "red",
-      "meta": "游戏科学 · 本周 Steam 热销 #5 · 暑期回弹",
-      "desc": "本周 Steam 热销榜 #5（较上周 +36 名），暑期《黑神话:悟空》再次强势回弹（-30% 折扣 ¥187.60 / 原价 ¥268）。配合 8月20日发售的\"暗夜传说\"预告，国产 3A 持续放大招。",
-      "date": "本周 +36名",
-      "tags": [
-        "黑神话",
-        "3A",
-        "国产单机",
-        "夏季促销"
-      ],
-      "steamAppId": 2358720,
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
-      "imageSource": "steam-header",
-      "imageStatus": "ok",
-      "imageVerified": true,
-      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
-      "gameName": "黑神话:悟空",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2358720.jpg"
-    },
-    {
-      "name": "仙境传说3 (RO3)",
-      "link": "https://www.taptap.cn/search/仙境传说3",
-      "badge": "8.27测试",
-      "badgeColor": "cyan",
-      "meta": "bilibili游戏发行 · Gravity+欢乐互娱联合开发 · 多端互通MMORPG",
-      "desc": "二十余年经典IP仙境传说的全球正统续作，由Gravity与欢乐互娱联合开发，bilibili游戏发行运营。延续俯视视角风格化美术、职业成长、MVP挑战、自由交易等核心体验，全面升级画面表现、战斗手感、社交生态与公会攻城玩法。PC原生开发+多端互通，致力于打造兼具经典RO灵魂与次世代品质的全新米德加尔特大陆。8月27日开启不计费删档限号测试。",
-      "date": "8月27日不限号测试",
-      "tags": [
-        "MMORPG",
-        "经典IP",
-        "bilibili"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "仙境传说3 (RO3)",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "name": "代号咘咘",
-      "link": "https://www.taptap.cn/search/代号咘咘",
-      "badge": "TapTap测试招募",
-      "badgeColor": "purple",
-      "meta": "灵犀互娱 · 捉宠模拟经营 · 阿里出售后首款新游",
-      "desc": "灵犀互娱旗下捉宠题材模拟经营新游《代号咘咘》已在TapTap等渠道开启测试招募。玩家可收集\"咘咘\"生物，由其参与种植、灌溉和制造，把荒漠建设为绿洲。这是阿里101亿出售灵犀给信辰资本后首款对外曝光的新游，标志新东家想证明\"这公司还值钱\"。捉宠+模拟经营是近几年最稳的休闲赛道，但《代号咘咘》能否接住长线还得看玩法深度。",
-      "date": "测试招募中",
-      "tags": [
-        "捉宠",
-        "模拟经营",
-        "灵犀"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "代号咘咘",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "name": "源初之结",
-      "link": "https://news.17173.com/content/08262026/110123893.shtml",
-      "badge": "8/26首曝",
-      "badgeColor": "green",
-      "meta": "米哈游 · 全球首曝 · 幻想动作RPG · PC/PS5/移动",
-      "desc": "米哈游全新幻想动作RPG，米哈游在2026 Gamescom科隆游戏展开幕夜（Opening Night Live）全球首曝概念PV。融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动平台。“源初”意为万物流转的原点，强调“溯源-重构-新生”三段式叙事。",
-      "date": "8月26日 Gamescom 全球首曝",
-      "tags": [
-        "动作RPG",
-        "箱庭",
-        "米哈游"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "源初之结",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "name": "大侠闯天下",
-      "link": "https://www.taptap.cn/search/大侠闯天下",
-      "badge": "8/25首发",
-      "badgeColor": "green",
-      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
-      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
-      "date": "8月25日首发",
-      "tags": [
-        "武侠",
-        "放置",
-        "4399"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "大侠闯天下",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "date": "10月15日公测",
-      "name": "剑侠世界4:无限",
-      "badge": "西山居",
-      "desc": "剑侠系列正统续作，10/15 全平台公测。延续国产武侠 MMO 经典 IP，西山居旗舰级新品。",
-      "link": "https://economy.nbd.com.cn/columns/2183.html",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-10-16"
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2933200.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-15"
     }
   ],
   "investment": {
