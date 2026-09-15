@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-15",
-    "lastUpdated": "2026-09-15T10:33:00+08:00",
+    "lastUpdated": "2026-09-15T10:52:00+08:00",
     "footerDate": "数据截至2026年9月15日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,64 +183,64 @@
     ],
     "highlights": [
       {
-        "title": "腾讯《王者万象棋》全平台开服，预约 7000 万验证王者荣耀 IP 延伸",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260914080659a444eeea",
+        "title": "国内首部AIGC上星长剧《后西游记》开播，芒果超媒涨停近50%",
+        "titleLink": "https://caifuhao.eastmoney.com/news/20260915102330337588320",
         "color": "blue",
-        "source": "腾讯新闻",
-        "sourceLink": "https://gu.qq.com/",
-        "body": "9 月 10 日腾讯《王者万象棋》全平台开服（iOS/Android/PC/鸿蒙，微信/QQ 同服），由王者荣耀原班人马打造，预约突破 <strong>7000 万</strong>。9 月新品排期密集：B 站《闪耀吧!噜咪》~9/17、米哈游《星布谷地》~9/20、腾讯《粒粒的小人国》~9/22。",
+        "source": "投中网",
+        "sourceLink": "https://caifuhao.eastmoney.com/news/20260915102330337588320",
+        "body": "字节跳动 Seedance 模型生成的 30 集 AI 长剧在湖南卫视黄金档开播，单集成本约 <strong>90 万元</strong>（同体量真人剧 1/10）。AI 短剧虚拟角色「方桃子」出道月余商单报价 25.8 万超越百万粉真人网红；DataEye 数据显示 2026 年前 5 月 AI 短剧/漫剧市场规模突破 <strong>220 亿元</strong>，全年预计超 400 亿。",
         "isNew": true,
-        "newUntil": "2026-09-16"
+        "newUntil": "2026-09-17"
       },
       {
-        "title": "恺英网络拟间接参股韩国娱美德 49% 权益，传奇 IP 闭环再巩固",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260914080659a444eeea",
+        "title": "米哈游《原神》63 角色声纹遭 AI 盗用，浦东法院判赔 75 万",
+        "titleLink": "https://news.qq.com/rain/a/20260912A0361300",
         "color": "purple",
         "source": "腾讯新闻",
-        "sourceLink": "https://gu.qq.com/",
-        "body": "9 月 12 日晚恺英网络公告拟间接参股韩国 Wemade（娱美德），完成后间接持有其约 <strong>40.25%</strong> 控股权中对应约 <strong>49%</strong> 权益。娱美德为「传奇」IP 原始权利方，绑定有望完善授权/分成/衍生品机制。",
+        "sourceLink": "https://news.qq.com/rain/a/20260912A0361300",
+        "body": "上海浦东法院对首例涉 AI 声音仿冒不正当竞争案宣判：某 AI 变声软件擅自提取《原神》<strong>63 位角色</strong>声音资源包，利用官方立绘引流提供付费变声服务。司法声纹鉴定认定生成语音与原声「倾向认定同一」，游戏角色特定音色具备商业标识功能属品牌资产。判赔 <strong>75 万元</strong>，恰逢最高法发布首部涉 AI 司法裁判规则。",
         "isNew": true,
-        "newUntil": "2026-09-16"
+        "newUntil": "2026-09-17"
       },
       {
-        "title": "招商证券 9/14 研报：AI 短剧市场超 400 亿，游戏板块 H1 增 12.17%",
-        "titleLink": "https://www.toutiao.com/article/7685203362802827827/",
+        "title": "上海徐汇检方全链条打击游戏账号黑工厂：14.5 万条个人信息、4.9 万组账号",
+        "titleLink": "https://m.weibo.cn/status/5343350943127959",
         "color": "green",
-        "source": "今日头条",
-        "sourceLink": "https://www.toutiao.com/",
-        "body": "招商证券研报指出 AI 从「能力建设」进入「商业执行」——易点天下 AI 覆盖 50% 核心执行工作、运营人效提升 <strong>40%+</strong>。2026H1 国内游戏市场收入 <strong>1884.5 亿</strong>同比 +12.17%，自研游戏海外收入 +30.22%。A 股游戏龙头估值普遍 10-13 倍。",
+        "source": "上海徐汇检察",
+        "sourceLink": "https://m.weibo.cn/status/5343350943127959",
+        "body": "不法分子非法获取含姓名及身份证号公民个人信息 <strong>14.5 万余条</strong>，批量注册游戏账号 <strong>4.9 万余组</strong>，借助外挂脚本养号后高价转售。徐汇区检察院以非法获取计算机信息系统数据、侵犯公民个人信息罪提起公诉，并提起刑事附带民事公益诉讼，全链条打击账号黑产。",
         "isNew": true,
-        "newUntil": "2026-09-16"
+        "newUntil": "2026-09-17"
       },
       {
-        "title": "国内首部真人 VR 互动电影开机，亚马逊 AI 口型同步配音全球首发",
+        "title": "9 月新品排期：噜咪 9/17、星布谷地 9/20、粒粒的小人国 9/22 接力上线",
         "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20260914080659a444eeea",
-        "color": "yellow",
-        "source": "腾讯新闻",
-        "sourceLink": "https://gu.qq.com/",
-        "body": "9/9 上海电影技术厂启动国内首部真人实拍 VR 互动电影开机（上海影视乐园）；9/10 亚马逊 Prime Video 官宣 <strong>AI 口型同步配音</strong>（Lip-Sync AI Dubbing）全球首发，流媒体本地化降本路径清晰。AI 短剧及漫剧市场规模预计超 <strong>400 亿</strong>。",
-        "isNew": true,
-        "newUntil": "2026-09-16"
-      },
-      {
-        "title": "北京石景山法院判 87 个游戏账号可继承，数字遗产司法认定再进一步",
-        "titleLink": "https://www.163.com/dy/article/L6PH1F7C055040N3.html",
-        "color": "purple",
-        "source": "网易",
-        "sourceLink": "https://www.163.com/",
-        "body": "北京石景山区法院审结一起涉网络游戏账号继承纠纷案，认定网游账号属<strong>网络虚拟财产</strong>范畴，使用者享有的使用权具有可继承性，判令游戏公司配合办理实名认证信息变更。截至 2025 年 12 月我国网络游戏用户规模达 <strong>5.73 亿</strong>。",
-        "isNew": true,
-        "newUntil": "2026-09-16"
-      },
-      {
-        "title": "SteamDB 9/14 在线榜：CS2 44.6 万领跑，WARDOGS 28 万稳居前三",
-        "titleLink": "https://steamdb.info/charts/",
         "color": "orange",
+        "source": "腾讯证券",
+        "sourceLink": "https://gu.qq.com/",
+        "body": "王者万象棋开服验证王者 IP 延伸后，B 站《闪耀吧！噜咪》约 9/17、米哈游《星布谷地》约 9/20、腾讯《粒粒的小人国》约 9/22 接力上线，暑期后供给接续。恺英网络间接参股娱美德 <strong>49% 权益</strong>，传奇 IP 闭环再巩固。",
+        "isNew": true,
+        "newUntil": "2026-09-17"
+      },
+      {
+        "title": "AI 短剧出海加速：昆仑万维 DramaWave 月流水超 6500 万美元居海外第一",
+        "titleLink": "https://caifuhao.eastmoney.com/news/20260915102330337588320",
+        "color": "blue",
+        "source": "投中网",
+        "sourceLink": "https://caifuhao.eastmoney.com/news/20260915102330337588320",
+        "body": "收入前 20 的海外微短剧应用中 <strong>九成有中国背景</strong>。昆仑万维 AI 短剧平台 DramaWave 6 月单月流水超 6500 万美元稳居第一；中文在线 FlareFlow 上半年扭亏，收入 2.52 亿净利 1.52 亿净利率超 60%。一级市场快手可灵 AI 获 15.31 亿注资，生数科技 5 亿美元融资。",
+        "isNew": true,
+        "newUntil": "2026-09-17"
+      },
+      {
+        "title": "SteamDB 9/15 在线榜：CS2 47.1 万领跑，WARDOGS 28 万稳居前三",
+        "titleLink": "https://steamdb.info/charts/",
+        "color": "green",
         "source": "SteamDB",
         "sourceLink": "https://steamdb.info/charts/",
-        "body": "CS2 <strong>44.6 万</strong>在线领跑，Dota2 36.5 万 #2，WARDOGS 28.0 万 #3，Valheim 16.8 万 #4，PUBG 14.3 万 #5。热销榜：WARDOGS 登顶 #1，CS2 #2，PUBG #3。",
+        "body": "CS2 <strong>47.1 万</strong>在线领跑，Dota2 34.9 万 #2，WARDOGS 28.2 万 #3，Valheim 16.5 万 #4，Bongo Cat 13.7 万 #5。PUBG 回升 #6 13.2 万，FiveM #7 12.0 万，Marvel Rivals #8 10.6 万。Rust 首入 #15（5.6 万）。热销榜 WARDOGS 登顶 #1。",
         "isNew": true,
-        "newUntil": "2026-09-16"
+        "newUntil": "2026-09-17"
       }
     ],
     "taptap": {
@@ -649,8 +649,8 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-14",
-      "updatedAt": "10:46",
+      "asOf": "2026-09-15",
+      "updatedAt": "10:43",
       "source": "SteamDB",
       "items": [
         {
@@ -658,8 +658,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 445727,
-          "peak24h": 1359955,
+          "current": 471389,
+          "peak24h": 1194411,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -667,8 +667,8 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 364608,
-          "peak24h": 898758,
+          "current": 349236,
+          "peak24h": 809608,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -676,8 +676,8 @@
           "appid": 1867240,
           "name": "WARDOGS",
           "nameZh": "",
-          "current": 279817,
-          "peak24h": 428666,
+          "current": 281780,
+          "peak24h": 351246,
           "link": "https://store.steampowered.com/app/1867240/"
         },
         {
@@ -685,35 +685,35 @@
           "appid": 892970,
           "name": "Valheim",
           "nameZh": "英灵神殿",
-          "current": 167607,
-          "peak24h": 308477,
+          "current": 164609,
+          "peak24h": 242460,
           "link": "https://store.steampowered.com/app/892970/"
         },
         {
           "rank": 5,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 142937,
-          "peak24h": 794644,
-          "link": "https://store.steampowered.com/app/578080/"
-        },
-        {
-          "rank": 6,
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "邦戈猫",
-          "current": 136322,
-          "peak24h": 163134,
+          "current": 136504,
+          "peak24h": 159298,
           "link": "https://store.steampowered.com/app/3419430/"
+        },
+        {
+          "rank": 6,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 132103,
+          "peak24h": 753580,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 114900,
-          "peak24h": 213586,
+          "current": 120488,
+          "peak24h": 187774,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
@@ -721,8 +721,8 @@
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "漫威争锋",
-          "current": 108438,
-          "peak24h": 123654,
+          "current": 106132,
+          "peak24h": 110716,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
@@ -730,35 +730,35 @@
           "appid": 2357570,
           "name": "Overwatch",
           "nameZh": "守望先锋",
-          "current": 84528,
-          "peak24h": 109223,
+          "current": 79947,
+          "peak24h": 86051,
           "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 10,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号围攻",
-          "current": 79907,
-          "peak24h": 113556,
-          "link": "https://store.steampowered.com/app/359550/"
-        },
-        {
-          "rank": 11,
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "任务栏英雄",
-          "current": 78431,
-          "peak24h": 101904,
+          "current": 78994,
+          "peak24h": 101298,
           "link": "https://store.steampowered.com/app/3678970/"
+        },
+        {
+          "rank": 11,
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号围攻",
+          "current": 78207,
+          "peak24h": 83349,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 12,
           "appid": 1623730,
           "name": "Palworld",
           "nameZh": "幻兽帕鲁",
-          "current": 77888,
-          "peak24h": 133412,
+          "current": 68535,
+          "peak24h": 98471,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
@@ -766,8 +766,8 @@
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "Apex英雄",
-          "current": 69679,
-          "peak24h": 262557,
+          "current": 66393,
+          "peak24h": 243719,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
@@ -775,33 +775,33 @@
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 64587,
-          "peak24h": 82967,
+          "current": 64763,
+          "peak24h": 68694,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 15,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 58160,
-          "peak24h": 85750,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 56181,
+          "peak24h": 113177,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 16,
           "appid": 2868840,
           "name": "Slay the Spire 2",
           "nameZh": "杀戮尖塔2",
-          "current": 57746,
-          "peak24h": 99824,
+          "current": 55864,
+          "peak24h": 91787,
           "link": "https://store.steampowered.com/app/2868840/"
         }
       ]
     },
     "newGamesAsOf": "2026-09-12",
-    "topSellersAsOf": "2026-09-14",
-    "mostPlayedAsOf": "2026-09-14"
+    "topSellersAsOf": "2026-09-15",
+    "mostPlayedAsOf": "2026-09-15"
   },
   "miniapp": {
     "ranking": [
@@ -948,36 +948,28 @@
     ],
     "dynamics": [
       {
-        "title": "新政 · 微信小游戏 IAP 首发激励升级：单款最高 5000 万流水不分成，综合分成最高 170%",
-        "color": "purple",
-        "body": "8/24 起微信小游戏升级 2026 首发新游激励：符合条件的 IAP（含混变）首发新游，单款最高可享 <strong>5000 万元流水不分成</strong> + 最高 <strong>2000 万元激励金</strong>；首 1000 万流水叠加暑期专项后最高 <strong>170% 综合分成</strong>，新游期月流水破 1000 万即解锁后续 4000 万不分成。9/22 起激励金仅限同 appid 广告账户投放，聚焦长线运营。平台对优质内购产品的争夺明显加码（政策执行至 12/31）。",
-        "source": "GameLook",
-        "sourceLink": "http://www.gamelook.com.cn/2026/08/600613/",
-        "pubDate": "8/29"
+        "title": "上新趋势 · 8月百强榜：解压品类崛起，沙画/打毛线闯入畅玩TOP30",
+        "color": "cyan",
+        "body": "8月畅玩榜新进6款新游，《解压打毛线》《清了个屏》代表解压品类替代箭头类老玩法成为新风向。畅销榜TOP5稳固（向僵尸开炮/三国冰河时代/无尽冬日/疯狂水世界/浪漫餐厅），新进5款含永夜起源、向末日开炮、大王请上阵。",
+        "pubDate": "9/15",
+        "source": "游戏客栈/引力引擎",
+        "sourceLink": "https://game.sohu.com/a/1073833548_121826140"
       },
       {
-        "title": "新政 · IAA 激励方案生效：3 分钟累计达标，长线激励延长至 180 天",
-        "color": "green",
-        "body": "8/20 起微信小游戏 IAA 激励新方案生效：注册用户时长门槛由「当天活跃超 5 分钟」放宽为「注册以来累计超 3 分钟」；长线激励从「第 1-90 天广告流水 35%」延长至 <strong>第 1-180 天 35%</strong>，回流激励覆盖流失超 45 日用户。长周期休闲/超休闲产品的长线经营价值被进一步放大（政策执行至 12/31）。",
-        "source": "DataEye游戏观察/开源证券",
-        "sourceLink": "https://www.fupanwang.com/kplart_info/1040325.html",
-        "pubDate": "8/29"
+        "title": "品类概况 · 买量榜17款畅销游入围，寻道大千79亿曝光登顶",
+        "color": "yellow",
+        "body": "8月买量百强榜TOP1=寻道大千（79亿预估曝光值），畅销榜TOP30中17款同时进入买量榜，买量与畅销高度重合。投放素材数同比+22.1%但参投公司-16.5%，单品深投替代广撒网成为主流。",
+        "pubDate": "9/15",
+        "source": "Insightrackr/DataEye",
+        "sourceLink": "https://game.sohu.com/a/1073833548_121826140"
       },
       {
-        "title": "上新趋势 · 经典 IP 改编密集进场：三国杀单日涨 36 名，仙逆：本尊空降畅销榜",
+        "title": "新政 · IAP激励金9/22红线：矩阵输血失效，单品自我造血成硬指标",
         "color": "blue",
-        "body": "9 月第 1 周微信小游戏上新主线清晰：<strong>经典 IP 改编进场明显加密</strong>——三国杀（铠甲勇士联动，单日 ↑36 至 #37）、《新弹弹堂》《仙逆 H5》《斗破:莫欺少年穷》同期新进；IP 授权 ARPG <strong>《仙逆：本尊》9/5 冲进畅销榜 #23</strong>（同步登顶 iOS 免费榜）。9/5 单日 11 款新游上榜，但尾部存活残酷：9/1 新进 13 款中 4 天内已有 4 款掉出 TOP100。",
-        "source": "小游快爆/切游日报",
-        "sourceLink": "https://new.qq.com/rain/a/20260906A0CAC800?refer=cp_1009",
-        "pubDate": "8/29"
-      },
-      {
-        "title": "品类概况 · 头部格局固化：向僵尸开炮 9 月连霸，SLG/塔防铁三角稳固",
-        "color": "orange",
-        "body": "9 月畅销榜头部进入<strong>格局固化期</strong>：《向僵尸开炮》连续霸榜，前 7 名一度连续两天零变动，换庄需大版本级变量；SLG/塔防/卡牌「铁三角」（三国:冰河时代 / 向僵尸开炮 / 无尽冬日）付费护城河稳固，奔奔王国、永夜起源等策略卡牌紧随。棋牌 7-8 款扎堆尾部、「有人气缺流水」；合成经营头部小幅回调。8 月月榜参考：三国:冰河时代登顶月榜，<strong>《永远的蔚蓝星球》首月 iOS 端预估收入破 1 亿</strong>（月榜 #20 环比升 39 名）。",
-        "source": "切游/游戏客栈",
-        "sourceLink": "https://new.qq.com/rain/a/20260906A0CAC800?refer=cp_1009",
-        "pubDate": "8/29"
+        "body": "自9月22日起首发新游激励金仅限同appid广告账户使用，跨游戏调配资金链被切断。「老游养新游」矩阵打法失效，365天未消耗广告金将被收回，立项前须重算单产品ROI。七档叠加才凑满170%，非首发差距达10倍。",
+        "pubDate": "9/6",
+        "source": "卓思游想/微信开放社区",
+        "sourceLink": "https://developers.weixin.qq.com/minigame/introduction/commercialization/guide/virtual-payment.html"
       }
     ],
     "categories": [
@@ -1008,7 +1000,7 @@
     ],
     "asOf": "2026-08-29 微信小游戏畅销榜（当日榜）",
     "source": "腾讯新闻（微信小游戏畅销榜当日榜）",
-    "dynamicsAsOf": "2026-08-29",
+    "dynamicsAsOf": "2026-09-15",
     "dynamicsStatus": "ok"
   },
   "segments": [
@@ -2284,6 +2276,22 @@
         "verdict": "认定网游账号属网络虚拟财产，使用权具有可继承性，判令游戏公司配合办理实名认证信息变更",
         "impact": "继 8 月浦东法院泄密案后，数字遗产继承司法实践又一标杆案例，5.73 亿网游用户权益保护路径拓宽",
         "link": "https://www.163.com/dy/article/L6PH1F7C055040N3.html"
+      },
+      {
+        "date": "2026-09-15",
+        "title": "上海首例 AI 声音仿冒不正当竞争案：米哈游《原神》63 角色声纹被盗用",
+        "court": "上海市浦东新区人民法院",
+        "verdict": "被告立即停止侵权，赔偿米哈游经济损失及合理开支 75 万元",
+        "impact": "司法声纹鉴定认定 AI 生成语音与原声「倾向认定同一」，游戏角色特定音色具备商业标识功能属品牌资产。恰逢最高法发布首部涉 AI 司法裁判规则，「AI 偷声」不再处于法律灰色地带。",
+        "link": "https://news.qq.com/rain/a/20260912A0361300"
+      },
+      {
+        "date": "2026-09-15",
+        "title": "上海徐汇检方全链条打击游戏账号黑工厂：14.5 万条个人信息、4.9 万组账号",
+        "court": "上海市徐汇区检察院",
+        "verdict": "以非法获取计算机信息系统数据、侵犯公民个人信息罪提起公诉，并提起刑事附带民事公益诉讼",
+        "impact": "不法分子非法获取公民个人信息 14.5 万余条，批量注册游戏账号 4.9 万余组，借助外挂养号高价转售。检方全链条打击账号黑产，覆盖信息获取→注册→养号→销售全环节。",
+        "link": "https://m.weibo.cn/status/5343350943127959"
       }
     ],
     "insight": "<strong style=\"color:var(--red)\">法律趋势：</strong>①<strong>二创商业化边界进一步明确</strong>——多摩万事屋案首次以司法判决划定\"个人非营利二创\"与\"企业规模化侵权\"的界限，对\"谷子店\"行业有标杆意义。②<strong>跨国IP保护力度加强</strong>——检察机关创新履职推动刑事+民事+商业合作三重解决。③<strong>游戏泄密首次刑事入罪</strong>——点击量10万次即达追诉标准，\"剧透\"不再是灰色地带。④<strong>IP从\"平面\"到\"立体\"保护</strong>——宜兴盗版手办案入选最高检典型，厘清游戏角色从2D形象到3D实体周边的保护边界。"
