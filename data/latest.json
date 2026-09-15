@@ -649,8 +649,8 @@
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-14",
-      "updatedAt": "10:46",
+      "asOf": "2026-09-15",
+      "updatedAt": "10:43",
       "source": "SteamDB",
       "items": [
         {
@@ -658,8 +658,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 445727,
-          "peak24h": 1359955,
+          "current": 471389,
+          "peak24h": 1194411,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -667,8 +667,8 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 364608,
-          "peak24h": 898758,
+          "current": 349236,
+          "peak24h": 809608,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -676,8 +676,8 @@
           "appid": 1867240,
           "name": "WARDOGS",
           "nameZh": "",
-          "current": 279817,
-          "peak24h": 428666,
+          "current": 281780,
+          "peak24h": 351246,
           "link": "https://store.steampowered.com/app/1867240/"
         },
         {
@@ -685,35 +685,35 @@
           "appid": 892970,
           "name": "Valheim",
           "nameZh": "英灵神殿",
-          "current": 167607,
-          "peak24h": 308477,
+          "current": 164609,
+          "peak24h": 242460,
           "link": "https://store.steampowered.com/app/892970/"
         },
         {
           "rank": 5,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 142937,
-          "peak24h": 794644,
-          "link": "https://store.steampowered.com/app/578080/"
-        },
-        {
-          "rank": 6,
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "邦戈猫",
-          "current": 136322,
-          "peak24h": 163134,
+          "current": 136504,
+          "peak24h": 159298,
           "link": "https://store.steampowered.com/app/3419430/"
+        },
+        {
+          "rank": 6,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 132103,
+          "peak24h": 753580,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 7,
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 114900,
-          "peak24h": 213586,
+          "current": 120488,
+          "peak24h": 187774,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
@@ -721,8 +721,8 @@
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "漫威争锋",
-          "current": 108438,
-          "peak24h": 123654,
+          "current": 106132,
+          "peak24h": 110716,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
@@ -730,35 +730,35 @@
           "appid": 2357570,
           "name": "Overwatch",
           "nameZh": "守望先锋",
-          "current": 84528,
-          "peak24h": 109223,
+          "current": 79947,
+          "peak24h": 86051,
           "link": "https://store.steampowered.com/app/2357570/"
         },
         {
           "rank": 10,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号围攻",
-          "current": 79907,
-          "peak24h": 113556,
-          "link": "https://store.steampowered.com/app/359550/"
-        },
-        {
-          "rank": 11,
           "appid": 3678970,
           "name": "TBH: Task Bar Hero",
           "nameZh": "任务栏英雄",
-          "current": 78431,
-          "peak24h": 101904,
+          "current": 78994,
+          "peak24h": 101298,
           "link": "https://store.steampowered.com/app/3678970/"
+        },
+        {
+          "rank": 11,
+          "appid": 359550,
+          "name": "Tom Clancy's Rainbow Six Siege",
+          "nameZh": "彩虹六号围攻",
+          "current": 78207,
+          "peak24h": 83349,
+          "link": "https://store.steampowered.com/app/359550/"
         },
         {
           "rank": 12,
           "appid": 1623730,
           "name": "Palworld",
           "nameZh": "幻兽帕鲁",
-          "current": 77888,
-          "peak24h": 133412,
+          "current": 68535,
+          "peak24h": 98471,
           "link": "https://store.steampowered.com/app/1623730/"
         },
         {
@@ -766,8 +766,8 @@
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "Apex英雄",
-          "current": 69679,
-          "peak24h": 262557,
+          "current": 66393,
+          "peak24h": 243719,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
@@ -775,33 +775,33 @@
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 64587,
-          "peak24h": 82967,
+          "current": 64763,
+          "peak24h": 68694,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 15,
-          "appid": 108600,
-          "name": "Project Zomboid",
-          "nameZh": "僵尸毁灭工程",
-          "current": 58160,
-          "peak24h": 85750,
-          "link": "https://store.steampowered.com/app/108600/"
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "腐蚀",
+          "current": 56181,
+          "peak24h": 113177,
+          "link": "https://store.steampowered.com/app/252490/"
         },
         {
           "rank": 16,
           "appid": 2868840,
           "name": "Slay the Spire 2",
           "nameZh": "杀戮尖塔2",
-          "current": 57746,
-          "peak24h": 99824,
+          "current": 55864,
+          "peak24h": 91787,
           "link": "https://store.steampowered.com/app/2868840/"
         }
       ]
     },
     "newGamesAsOf": "2026-09-12",
     "topSellersAsOf": "2026-09-14",
-    "mostPlayedAsOf": "2026-09-14"
+    "mostPlayedAsOf": "2026-09-15"
   },
   "miniapp": {
     "ranking": [
