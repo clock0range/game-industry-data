@@ -393,116 +393,116 @@
   "steam": {
     "indieCards": [
       {
-        "steamAppId": "3393280",
-        "appId": 3393280,
-        "manualCover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3393280/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3393280.jpg",
-        "rating": "69%",
-        "meta": "2026-09-11",
-        "reviews": "480",
-        "link": "https://store.steampowered.com/app/3393280",
-        "reviewSummary": "褒贬不一",
-        "tags": [],
-        "gameName": "Anime Shop Simulator ✨",
-        "name": "Anime Shop Simulator ✨"
-      },
-      {
-        "steamAppId": "4368640",
-        "appId": 4368640,
-        "manualCover": "",
-        "finalCoverUrl": "",
-        "rating": "78%",
-        "meta": "2026-09-11",
-        "reviews": "73",
-        "link": "https://store.steampowered.com/app/4368640",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "gameName": "DIG Raiders: Anomaly Extraction",
-        "name": "DIG Raiders: Anomaly Extraction"
-      },
-      {
-        "steamAppId": "4821420",
-        "appId": 4821420,
-        "manualCover": "",
-        "finalCoverUrl": "",
-        "rating": "80%",
-        "meta": "2026-09-11",
-        "reviews": "113",
-        "link": "https://store.steampowered.com/app/4821420",
-        "reviewSummary": "多半好评",
-        "tags": [],
-        "gameName": "赌石之王",
-        "name": "赌石之王"
-      },
-      {
-        "steamAppId": "1465470",
-        "appId": 1465470,
-        "manualCover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1465470/header.jpg",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1465470.jpg",
-        "rating": "75%",
-        "meta": "2026-09-10",
-        "reviews": "3939",
-        "link": "https://store.steampowered.com/app/1465470",
-        "reviewSummary": "多半好评",
-        "tags": [],
-        "gameName": "The Crust",
-        "name": "The Crust"
-      },
-      {
-        "steamAppId": "3271280",
-        "appId": 3271280,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3271280/header.jpg",
-        "rating": "85%",
-        "meta": "2026-09-10",
-        "reviews": "552",
-        "link": "https://store.steampowered.com/app/3271280",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "gameName": "Shroom and Gloom",
-        "name": "Shroom and Gloom"
-      },
-      {
-        "steamAppId": "3195440",
-        "appId": 3195440,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3195440/header.jpg",
-        "rating": "89%",
-        "meta": "2026-09-10",
-        "reviews": "799",
-        "link": "https://store.steampowered.com/app/3195440",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "gameName": "Welcome to Elderfield",
-        "name": "Welcome to Elderfield"
-      },
-      {
-        "steamAppId": "3649690",
-        "appId": 3649690,
-        "manualCover": "",
-        "finalCoverUrl": "",
-        "rating": "",
-        "meta": "2026-09-10",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3649690",
-        "reviewSummary": "暂无评价",
-        "tags": [],
-        "gameName": "夜园游记",
-        "name": "夜园游记"
-      },
-      {
+        "gameName": "WARDOGS",
+        "name": "WARDOGS",
         "steamAppId": "1867240",
         "appId": 1867240,
         "manualCover": "",
-        "finalCoverUrl": "",
-        "rating": "79%",
-        "meta": "2026-09-10",
-        "reviews": "49249",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/capsule_616x353.jpg",
+        "rating": "80%",
+        "meta": "9月上线",
+        "reviews": "",
         "link": "https://store.steampowered.com/app/1867240",
+        "reviewSummary": "多半好评",
+        "tags": []
+      },
+      {
+        "gameName": "Valheim",
+        "name": "Valheim",
+        "steamAppId": "892970",
+        "appId": 892970,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/892970.jpg",
+        "rating": "93%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/892970",
         "reviewSummary": "特别好评",
-        "tags": [],
-        "gameName": "WARDOGS",
-        "name": "WARDOGS"
+        "tags": []
+      },
+      {
+        "gameName": "How to Fish",
+        "name": "How to Fish",
+        "steamAppId": "4001890",
+        "appId": 4001890,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4001890/capsule_616x353.jpg",
+        "rating": "93%",
+        "meta": "8月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4001890",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "The Blood of Dawnwalker",
+        "name": "The Blood of Dawnwalker",
+        "steamAppId": "3751260",
+        "appId": 3751260,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3751260/capsule_616x353.jpg",
+        "rating": "84%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3751260",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "Onimusha: Way of the Sword",
+        "name": "Onimusha: Way of the Sword",
+        "steamAppId": "2638890",
+        "appId": 2638890,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2638890/capsule_616x353.jpg",
+        "rating": "88%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/2638890",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "Halloween: The Game",
+        "name": "Halloween: The Game",
+        "steamAppId": "3219630",
+        "appId": 3219630,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3219630/capsule_616x353.jpg",
+        "rating": "68%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3219630",
+        "reviewSummary": "褒贬不一",
+        "tags": []
+      },
+      {
+        "gameName": "Big Walk",
+        "name": "Big Walk",
+        "steamAppId": "1478500",
+        "appId": 1478500,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
+        "rating": "94%",
+        "meta": "8月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1478500",
+        "reviewSummary": "特别好评",
+        "tags": []
+      },
+      {
+        "gameName": "NBA 2K27",
+        "name": "NBA 2K27",
+        "steamAppId": "4356430",
+        "appId": 4356430,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4356430/capsule_616x353.jpg",
+        "rating": "52%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4356430",
+        "reviewSummary": "褒贬不一",
+        "tags": []
       }
     ],
     "topSellers": [
@@ -550,20 +550,6 @@
       },
       {
         "rank": 4,
-        "name": "Overwatch",
-        "appId": 2357570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2357570/capsule_231x87.jpg",
-        "price": null,
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/2357570"
-      },
-      {
-        "rank": 5,
         "name": "Apex Legends",
         "appId": 1172470,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
@@ -577,7 +563,7 @@
         "link": "https://store.steampowered.com/app/1172470"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "name": "Dota 2",
         "appId": 570,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
@@ -591,7 +577,7 @@
         "link": "https://store.steampowered.com/app/570"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "name": "Diablo IV",
         "appId": 2344520,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2344520/capsule_231x87.jpg",
@@ -605,7 +591,35 @@
         "link": "https://store.steampowered.com/app/2344520"
       },
       {
+        "rank": 7,
+        "name": "Overwatch",
+        "appId": 2357570,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2357570/capsule_231x87.jpg",
+        "price": null,
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/2357570"
+      },
+      {
         "rank": 8,
+        "name": "Borderlands 4",
+        "appId": 1285190,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1285190/capsule_231x87.jpg",
+        "price": null,
+        "originalPrice": null,
+        "discount": null,
+        "status": null,
+        "change": "/",
+        "changeDir": null,
+        "weeks": null,
+        "link": "https://store.steampowered.com/app/1285190"
+      },
+      {
+        "rank": 9,
         "name": "Marvel Rivals",
         "appId": 2767030,
         "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2767030/capsule_231x87.jpg",
@@ -619,24 +633,10 @@
         "link": "https://store.steampowered.com/app/2767030"
       },
       {
-        "rank": 9,
-        "name": "How to Fish",
-        "appId": 4001890,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4001890/capsule_231x87.jpg",
-        "price": null,
-        "originalPrice": null,
-        "discount": null,
-        "status": null,
-        "change": "/",
-        "changeDir": null,
-        "weeks": null,
-        "link": "https://store.steampowered.com/app/4001890"
-      },
-      {
         "rank": 10,
-        "name": "Borderlands 4",
-        "appId": 1285190,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1285190/capsule_231x87.jpg",
+        "name": "Baldur's Gate 3",
+        "appId": 1086940,
+        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1086940/capsule_231x87.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -644,13 +644,13 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1285190"
+        "link": "https://store.steampowered.com/app/1086940"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
     "mostPlayed": {
-      "asOf": "2026-09-15",
-      "updatedAt": "10:43",
+      "asOf": "2026-09-16",
+      "updatedAt": "10:40",
       "source": "SteamDB",
       "items": [
         {
@@ -658,8 +658,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 471389,
-          "peak24h": 1194411,
+          "current": 439096,
+          "peak24h": 1193374,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -667,8 +667,8 @@
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "刀塔2",
-          "current": 349236,
-          "peak24h": 809608,
+          "current": 355032,
+          "peak24h": 819997,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -676,8 +676,8 @@
           "appid": 1867240,
           "name": "WARDOGS",
           "nameZh": "",
-          "current": 281780,
-          "peak24h": 351246,
+          "current": 279482,
+          "peak24h": 339753,
           "link": "https://store.steampowered.com/app/1867240/"
         },
         {
@@ -685,8 +685,8 @@
           "appid": 892970,
           "name": "Valheim",
           "nameZh": "英灵神殿",
-          "current": 164609,
-          "peak24h": 242460,
+          "current": 158927,
+          "peak24h": 232934,
           "link": "https://store.steampowered.com/app/892970/"
         },
         {
@@ -694,8 +694,8 @@
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "邦戈猫",
-          "current": 136504,
-          "peak24h": 159298,
+          "current": 130396,
+          "peak24h": 161006,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
@@ -703,8 +703,8 @@
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "绝地求生",
-          "current": 132103,
-          "peak24h": 753580,
+          "current": 120812,
+          "peak24h": 756828,
           "link": "https://store.steampowered.com/app/578080/"
         },
         {
@@ -712,8 +712,8 @@
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "",
-          "current": 120488,
-          "peak24h": 187774,
+          "current": 120209,
+          "peak24h": 185513,
           "link": "https://store.steampowered.com/app/2676230/"
         },
         {
@@ -721,87 +721,87 @@
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "漫威争锋",
-          "current": 106132,
-          "peak24h": 110716,
+          "current": 102847,
+          "peak24h": 107101,
           "link": "https://store.steampowered.com/app/2767030/"
         },
         {
           "rank": 9,
-          "appid": 2357570,
-          "name": "Overwatch",
-          "nameZh": "守望先锋",
-          "current": 79947,
-          "peak24h": 86051,
-          "link": "https://store.steampowered.com/app/2357570/"
-        },
-        {
-          "rank": 10,
-          "appid": 3678970,
-          "name": "TBH: Task Bar Hero",
-          "nameZh": "任务栏英雄",
-          "current": 78994,
-          "peak24h": 101298,
-          "link": "https://store.steampowered.com/app/3678970/"
-        },
-        {
-          "rank": 11,
           "appid": 359550,
           "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "彩虹六号围攻",
-          "current": 78207,
-          "peak24h": 83349,
+          "nameZh": "彩虹六号:围攻",
+          "current": 80851,
+          "peak24h": 83346,
           "link": "https://store.steampowered.com/app/359550/"
         },
         {
-          "rank": 12,
-          "appid": 1623730,
-          "name": "Palworld",
-          "nameZh": "幻兽帕鲁",
-          "current": 68535,
-          "peak24h": 98471,
-          "link": "https://store.steampowered.com/app/1623730/"
+          "rank": 10,
+          "appid": 2357570,
+          "name": "Overwatch®",
+          "nameZh": "守望先锋",
+          "current": 77102,
+          "peak24h": 80349,
+          "link": "https://store.steampowered.com/app/2357570/"
         },
         {
-          "rank": 13,
+          "rank": 11,
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
+          "nameZh": "任务栏英雄",
+          "current": 73625,
+          "peak24h": 102223,
+          "link": "https://store.steampowered.com/app/3678970/"
+        },
+        {
+          "rank": 12,
           "appid": 1172470,
           "name": "Apex Legends",
           "nameZh": "Apex英雄",
-          "current": 66393,
-          "peak24h": 243719,
+          "current": 73175,
+          "peak24h": 237775,
           "link": "https://store.steampowered.com/app/1172470/"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "",
-          "current": 64763,
-          "peak24h": 68694,
+          "current": 65688,
+          "peak24h": 68701,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
-          "rank": 15,
-          "appid": 252490,
-          "name": "Rust",
-          "nameZh": "腐蚀",
-          "current": 56181,
-          "peak24h": 113177,
-          "link": "https://store.steampowered.com/app/252490/"
+          "rank": 14,
+          "appid": 1623730,
+          "name": "Palworld",
+          "nameZh": "幻兽帕鲁",
+          "current": 63165,
+          "peak24h": 90486,
+          "link": "https://store.steampowered.com/app/1623730/"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "appid": 2868840,
           "name": "Slay the Spire 2",
           "nameZh": "杀戮尖塔2",
-          "current": 55864,
-          "peak24h": 91787,
+          "current": 54635,
+          "peak24h": 91896,
           "link": "https://store.steampowered.com/app/2868840/"
+        },
+        {
+          "rank": 16,
+          "appid": 440,
+          "name": "Team Fortress 2",
+          "nameZh": "军团要塞2",
+          "current": 53206,
+          "peak24h": 67486,
+          "link": "https://store.steampowered.com/app/440/"
         }
       ]
     },
-    "newGamesAsOf": "2026-09-12",
-    "topSellersAsOf": "2026-09-15",
-    "mostPlayedAsOf": "2026-09-15"
+    "newGamesAsOf": "2026-09-16",
+    "topSellersAsOf": "2026-09-16",
+    "mostPlayedAsOf": "2026-09-16"
   },
   "miniapp": {
     "ranking": [
@@ -1236,27 +1236,6 @@
       "finalCoverUrl": ""
     },
     {
-      "name": "大侠闯天下",
-      "link": "https://www.taptap.cn/search/大侠闯天下",
-      "badge": "8/25首发",
-      "badgeColor": "green",
-      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
-      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
-      "date": "8月25日首发",
-      "tags": [
-        "武侠",
-        "放置",
-        "4399"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "大侠闯天下",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
       "name": "影之刃零",
       "link": "https://store.steampowered.com/app/4115450",
       "badge": "预售在即",
@@ -1434,6 +1413,29 @@
       "gameName": "代号咘咘",
       "manualCover": "",
       "finalCoverUrl": ""
+    },
+    {
+      "name": "大侠闯天下",
+      "link": "https://www.taptap.cn/search/大侠闯天下",
+      "badge": "8/25首发",
+      "badgeColor": "green",
+      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
+      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
+      "date": "8月25日首发",
+      "tags": [
+        "武侠",
+        "放置",
+        "4399"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "大侠闯天下",
+      "manualCover": "",
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-16"
     },
     {
       "name": "致命躯壳2 (Mortal Shell II)",
