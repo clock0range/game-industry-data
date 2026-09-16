@@ -1236,27 +1236,6 @@
       "finalCoverUrl": ""
     },
     {
-      "name": "大侠闯天下",
-      "link": "https://www.taptap.cn/search/大侠闯天下",
-      "badge": "8/25首发",
-      "badgeColor": "green",
-      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
-      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
-      "date": "8月25日首发",
-      "tags": [
-        "武侠",
-        "放置",
-        "4399"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "大侠闯天下",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
       "name": "影之刃零",
       "link": "https://store.steampowered.com/app/4115450",
       "badge": "预售在即",
@@ -1434,6 +1413,29 @@
       "gameName": "代号咘咘",
       "manualCover": "",
       "finalCoverUrl": ""
+    },
+    {
+      "name": "大侠闯天下",
+      "link": "https://www.taptap.cn/search/大侠闯天下",
+      "badge": "8/25首发",
+      "badgeColor": "green",
+      "meta": "4399 · 武侠放置Roguelike · 首日微信小游戏畅销#8",
+      "desc": "4399发行的武侠放置Roguelike，8月25日全平台首发。玩家扮演闯荡江湖的大侠，通过搭配不同武学套路Roguelike随机生成战斗流派，8月25日入库微信小游戏畅销榜TOP10。武侠题材+放置+混合变现，4399下半年瞄准小游戏赛道的代表作。",
+      "date": "8月25日首发",
+      "tags": [
+        "武侠",
+        "放置",
+        "4399"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "大侠闯天下",
+      "manualCover": "",
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-16"
     },
     {
       "name": "致命躯壳2 (Mortal Shell II)",
