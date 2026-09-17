@@ -388,13 +388,18 @@
         "steamAppId": "4126040",
         "appId": 4126040,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4126040/header.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
         "rating": "",
         "meta": "2026-09-17",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4126040",
         "reviewSummary": "",
-        "tags": []
+        "tags": [],
+        "coverStatus": "verified",
+        "coverKey": "4126040",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "gameName": "TBH: Task Bar Hero",
@@ -402,13 +407,18 @@
         "steamAppId": "3678970",
         "appId": 3678970,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3678970/header.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
         "rating": "",
         "meta": "2026-09-17",
         "reviews": "",
         "link": "https://store.steampowered.com/app/3678970",
         "reviewSummary": "",
-        "tags": []
+        "tags": [],
+        "coverStatus": "verified",
+        "coverKey": "3678970",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "gameName": "Active Matter",
@@ -416,7 +426,7 @@
         "steamAppId": "2887580",
         "appId": 2887580,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2887580.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2887580.jpg",
         "rating": "76%",
         "meta": "2026-09-15",
         "reviews": "614",
@@ -425,7 +435,12 @@
         "tags": [
           "Action",
           "Massively Multiplayer"
-        ]
+        ],
+        "coverStatus": "verified",
+        "coverKey": "2887580",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2887580.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "gameName": "WARDOGS",
@@ -433,7 +448,7 @@
         "steamAppId": "1867240",
         "appId": 1867240,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/header.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
         "rating": "80%",
         "meta": "2026-09-10",
         "reviews": "50000",
@@ -442,7 +457,12 @@
         "tags": [
           "Action",
           "Indie"
-        ]
+        ],
+        "coverStatus": "verified",
+        "coverKey": "1867240",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "gameName": "The Crust",
@@ -450,7 +470,7 @@
         "steamAppId": "1465470",
         "appId": 1465470,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1465470.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1465470.jpg",
         "rating": "77%",
         "meta": "2026-09-10",
         "reviews": "3100",
@@ -459,7 +479,12 @@
         "tags": [
           "Strategy",
           "Simulation"
-        ]
+        ],
+        "coverStatus": "verified",
+        "coverKey": "1465470",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1465470.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "gameName": "Valheim",
@@ -467,7 +492,7 @@
         "steamAppId": "892970",
         "appId": 892970,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/892970.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
         "rating": "94%",
         "meta": "2026-09-09",
         "reviews": "515000",
@@ -477,7 +502,12 @@
           "Action",
           "Indie",
           "Survival"
-        ]
+        ],
+        "coverStatus": "verified",
+        "coverKey": "892970",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "gameName": "RuneScape: Dragonwilds",
@@ -485,7 +515,7 @@
         "steamAppId": "1374490",
         "appId": 1374490,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/header.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490.jpg",
         "rating": "80%",
         "meta": "2026-04-15",
         "reviews": "24000",
@@ -494,7 +524,12 @@
         "tags": [
           "Action",
           "Adventure"
-        ]
+        ],
+        "coverStatus": "verified",
+        "coverKey": "1374490",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374490/54075131f72154097359812c842d9e23b424efdd/header_schinese.jpg",
+        "coverReason": "steam-hash"
       }
     ],
     "topSellers": [
@@ -502,7 +537,7 @@
         "rank": 1,
         "name": "WARDOGS",
         "appId": 1867240,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1867240/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -510,13 +545,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1867240"
+        "link": "https://store.steampowered.com/app/1867240",
+        "coverStatus": "verified",
+        "coverKey": "1867240_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1867240/96eeaa45b43cd5a3a22bd307513ea26034ab1ae7/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 2,
         "name": "Counter-Strike 2",
         "appId": 730,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -524,13 +565,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/730"
+        "link": "https://store.steampowered.com/app/730",
+        "coverStatus": "verified",
+        "coverKey": "730_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 3,
         "name": "EA SPORTS FC 27",
         "appId": 4080220,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4080220/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -538,13 +585,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4080220"
+        "link": "https://store.steampowered.com/app/4080220",
+        "coverStatus": "verified",
+        "coverKey": "4080220_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 4,
         "name": "Apex Legends",
         "appId": 1172470,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -552,13 +605,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1172470"
+        "link": "https://store.steampowered.com/app/1172470",
+        "coverStatus": "verified",
+        "coverKey": "1172470_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 5,
         "name": "Aniimo",
         "appId": 4126040,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4126040/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -566,13 +625,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4126040"
+        "link": "https://store.steampowered.com/app/4126040",
+        "coverStatus": "verified",
+        "coverKey": "4126040_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/89ffe0f7cc7a40f1ac3d63b57a33ea9d58893e24/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 6,
         "name": "PUBG: BATTLEGROUNDS",
         "appId": 578080,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/578080/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -580,13 +645,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/578080"
+        "link": "https://store.steampowered.com/app/578080",
+        "coverStatus": "verified",
+        "coverKey": "578080_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 7,
         "name": "Dota 2",
         "appId": 570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -594,13 +665,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/570"
+        "link": "https://store.steampowered.com/app/570",
+        "coverStatus": "verified",
+        "coverKey": "570_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87_sc_schinese.jpg",
+        "coverReason": "steam-legacy-path"
       },
       {
         "rank": 8,
         "name": "RuneScape: Dragonwilds",
         "appId": 1374490,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1374490/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -608,13 +685,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1374490"
+        "link": "https://store.steampowered.com/app/1374490",
+        "coverStatus": "verified",
+        "coverKey": "1374490_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374490/5307a89cde992d09a01d3ae71a950e73bd6ff13c/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 9,
         "name": "Diablo IV",
         "appId": 2344520,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2344520/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2344520_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -622,13 +705,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/2344520"
+        "link": "https://store.steampowered.com/app/2344520",
+        "coverStatus": "verified",
+        "coverKey": "2344520_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2344520_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2344520_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/7086c858ce766d047bf357515805eda229d966b0/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 10,
         "name": "Dimraeth",
         "appId": 2402680,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2402680/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2402680_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -636,7 +725,13 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/2402680"
+        "link": "https://store.steampowered.com/app/2402680",
+        "coverStatus": "verified",
+        "coverKey": "2402680_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2402680_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2402680_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2402680/c89849716df0c45bfe23a28ab36fd8c988c39e14/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       }
     ],
     "insight": "本周Steam独游热度集中在模拟经营（Waterpark Simulator 万人评测）、动作Roguelike（Sephiria）和解谜（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，桌面挂机品类正在成为小团队爆款赛道。",
@@ -652,7 +747,13 @@
           "nameZh": "反恐精英2",
           "current": 499194,
           "peak24h": 1282791,
-          "link": "https://store.steampowered.com/app/730/"
+          "link": "https://store.steampowered.com/app/730/",
+          "coverStatus": "verified",
+          "coverKey": "730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 2,
@@ -661,7 +762,13 @@
           "nameZh": "刀塔2",
           "current": 351628,
           "peak24h": 785015,
-          "link": "https://store.steampowered.com/app/570/"
+          "link": "https://store.steampowered.com/app/570/",
+          "coverStatus": "verified",
+          "coverKey": "570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 3,
@@ -670,7 +777,13 @@
           "nameZh": "",
           "current": 259604,
           "peak24h": 326850,
-          "link": "https://store.steampowered.com/app/1867240/"
+          "link": "https://store.steampowered.com/app/1867240/",
+          "coverStatus": "verified",
+          "coverKey": "1867240_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 4,
@@ -679,7 +792,13 @@
           "nameZh": "英灵神殿",
           "current": 148218,
           "peak24h": 223270,
-          "link": "https://store.steampowered.com/app/892970/"
+          "link": "https://store.steampowered.com/app/892970/",
+          "coverStatus": "verified",
+          "coverKey": "892970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/cc4520a33c5a7c4d9d8df5f48598c0817d781514/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 5,
@@ -688,7 +807,13 @@
           "nameZh": "绝地求生",
           "current": 145042,
           "peak24h": 754003,
-          "link": "https://store.steampowered.com/app/578080/"
+          "link": "https://store.steampowered.com/app/578080/",
+          "coverStatus": "verified",
+          "coverKey": "578080_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 6,
@@ -697,7 +822,13 @@
           "nameZh": "邦戈猫",
           "current": 134556,
           "peak24h": 156654,
-          "link": "https://store.steampowered.com/app/3419430/"
+          "link": "https://store.steampowered.com/app/3419430/",
+          "coverStatus": "verified",
+          "coverKey": "3419430_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 7,
@@ -706,7 +837,13 @@
           "nameZh": "",
           "current": 113350,
           "peak24h": 182904,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "link": "https://store.steampowered.com/app/2676230/",
+          "coverStatus": "verified",
+          "coverKey": "2676230_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2676230_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2676230_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2676230/7fa56dff0727478b1c3df6764dea563a499ff5dd/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 8,
@@ -715,7 +852,13 @@
           "nameZh": "漫威争锋",
           "current": 98406,
           "peak24h": 100187,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "link": "https://store.steampowered.com/app/2767030/",
+          "coverStatus": "verified",
+          "coverKey": "2767030_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/af4c78a5eff5bd0847b2d6ef2eee37782221ebd4/capsule_231x87_schinese.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 9,
@@ -724,7 +867,13 @@
           "nameZh": "",
           "current": 93791,
           "peak24h": 127914,
-          "link": "https://store.steampowered.com/app/4126040/"
+          "link": "https://store.steampowered.com/app/4126040/",
+          "coverStatus": "verified",
+          "coverKey": "4126040_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 10,
@@ -733,7 +882,13 @@
           "nameZh": "",
           "current": 76497,
           "peak24h": 97472,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "link": "https://store.steampowered.com/app/3678970/",
+          "coverStatus": "verified",
+          "coverKey": "3678970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/124cbad7c55f19814d0b8f019e06e5a50b8c6337/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 11,
@@ -742,7 +897,13 @@
           "nameZh": "彩虹六号：围攻",
           "current": 75249,
           "peak24h": 81263,
-          "link": "https://store.steampowered.com/app/359550/"
+          "link": "https://store.steampowered.com/app/359550/",
+          "coverStatus": "verified",
+          "coverKey": "359550_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/61795d93997c891612adc5d5c6aa22166230ddc9/capsule_231x87_schinese.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 12,
@@ -751,7 +912,13 @@
           "nameZh": "Apex英雄",
           "current": 74037,
           "peak24h": 258846,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 13,
@@ -760,7 +927,13 @@
           "nameZh": "守望先锋",
           "current": 72337,
           "peak24h": 74943,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "link": "https://store.steampowered.com/app/2357570/",
+          "coverStatus": "verified",
+          "coverKey": "2357570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/4dd87b23d0fb4b6295f8e77178f3a080a03ebf3a/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 14,
@@ -769,7 +942,13 @@
           "nameZh": "",
           "current": 71015,
           "peak24h": 71564,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "link": "https://store.steampowered.com/app/1422450/",
+          "coverStatus": "verified",
+          "coverKey": "1422450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 15,
@@ -778,7 +957,13 @@
           "nameZh": "幻兽帕鲁",
           "current": 59818,
           "peak24h": 86553,
-          "link": "https://store.steampowered.com/app/1623730/"
+          "link": "https://store.steampowered.com/app/1623730/",
+          "coverStatus": "verified",
+          "coverKey": "1623730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1623730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1623730_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/c496ac7460dbe337bec923d54de7f83bfe320249/capsule_231x87_schinese.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 16,
@@ -787,7 +972,13 @@
           "nameZh": "杀戮尖塔2",
           "current": 55489,
           "peak24h": 90606,
-          "link": "https://store.steampowered.com/app/2868840/"
+          "link": "https://store.steampowered.com/app/2868840/",
+          "coverStatus": "verified",
+          "coverKey": "2868840_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2868840_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2868840_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         }
       ]
     },
@@ -1021,7 +1212,12 @@
       "imageStatus": "ok",
       "gameName": "王者万象棋",
       "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_王者万象棋.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_王者万象棋.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_王者万象棋",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_王者万象棋.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "date": "10月15日公测",
@@ -1031,7 +1227,13 @@
       "link": "https://economy.nbd.com.cn/columns/2183.html",
       "image": "",
       "isNew": true,
-      "newUntil": "2026-10-16"
+      "newUntil": "2026-10-16",
+      "coverStatus": "verified",
+      "coverKey": "name_剑侠世界4_无限",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_剑侠世界4_无限.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_剑侠世界4_无限.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/9520e5116de039f8c904599ec9bad512.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "date": "2026-08-28",
@@ -1051,9 +1253,14 @@
       "ratingLabel": "B站 8.3 · TapTap 待评",
       "ratingPercent": 83,
       "ratingsCount": 430000,
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_凡应_EP02_测试.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_凡应_EP02_测试.jpg",
       "imageSource": "taptap",
-      "imageStatus": "ok"
+      "imageStatus": "ok",
+      "coverStatus": "verified",
+      "coverKey": "name_凡应_EP02_测试",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_凡应_EP02_测试.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "伊瑟",
@@ -1073,7 +1280,12 @@
       "imageSource": "taptap",
       "imageStatus": "ok",
       "gameName": "伊瑟",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊瑟.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伊瑟.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_伊瑟",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伊瑟.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "影之刃零",
@@ -1096,7 +1308,12 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
       "gameName": "影之刃零",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4115450.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+      "coverStatus": "verified",
+      "coverKey": "4115450",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "仙境传说3 (RO3)",
@@ -1117,7 +1334,12 @@
       "imageStatus": "placeholder",
       "gameName": "仙境传说3 (RO3)",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_仙境传说3_RO3_.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_仙境传说3_RO3_",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_仙境传说3_RO3_.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/295d3f61edc460101d0e6d04d6af85eb.png/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "name": "粒粒的小人国",
@@ -1139,7 +1361,12 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767320/00afa6eda2f141ec33c8621bac84f255ad16bb67/header_schinese.jpg?t=1778570269",
       "gameName": "粒粒的小人国",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3767320.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3767320.jpg",
+      "coverStatus": "verified",
+      "coverKey": "3767320",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3767320.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "穿越火线:潜伏",
@@ -1162,7 +1389,12 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg?t=1781722040",
       "gameName": "穿越火线:潜伏",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4687500.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4687500.jpg",
+      "coverStatus": "verified",
+      "coverKey": "4687500",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4687500.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "不问凡尘",
@@ -1185,7 +1417,12 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209920/326cb3e29530345c71fed77251ae740c138d694a/header_schinese.jpg?t=1786591924",
       "gameName": "不问凡尘",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4209920.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4209920.jpg",
+      "coverStatus": "verified",
+      "coverKey": "4209920",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4209920.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "黑神话:悟空",
@@ -1208,7 +1445,12 @@
       "imageVerified": true,
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
       "gameName": "黑神话:悟空",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2358720.jpg"
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2358720.jpg",
+      "coverStatus": "verified",
+      "coverKey": "2358720",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2358720.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "变形金刚:新纪元",
@@ -1229,7 +1471,12 @@
       "imageStatus": "placeholder",
       "gameName": "变形金刚:新纪元",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_变形金刚_新纪元.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_变形金刚_新纪元",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_变形金刚_新纪元.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/ffee34f4cb65cb53402a1434465dc0b2.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "name": "导师模拟器：桌面实验室",
@@ -1252,7 +1499,12 @@
       "imageStatus": "placeholder",
       "gameName": "导师模拟器：桌面实验室",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_导师模拟器_桌面实验室.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_导师模拟器_桌面实验室",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_导师模拟器_桌面实验室.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/7505d4705e7662aaec4728527d60be9f.png/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "name": "代号咘咘",
@@ -1273,7 +1525,12 @@
       "imageStatus": "placeholder",
       "gameName": "代号咘咘",
       "manualCover": "",
-      "finalCoverUrl": ""
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_代号咘咘.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_代号咘咘",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_代号咘咘.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/38151e612891ef64e1fbcc92ba4a8cc7.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "name": "发条总动员",
