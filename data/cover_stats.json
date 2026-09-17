@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-09-17T03:41:38.454Z",
+  "metaDate": "2026-09-17",
+  "totals": {
+    "denominator": 46,
+    "covered": 46,
+    "coverage": 100
+  },
+  "byModule": {
+    "newGames": {
+      "n": 13,
+      "verified": 13,
+      "pending": 0,
+      "missing": 0,
+      "unavailable": 0,
+      "other": 0
+    },
+    "newGames(归档)": {
+      "n": 24,
+      "verified": 0,
+      "pending": 0,
+      "missing": 0,
+      "unavailable": 0,
+      "other": 0
+    },
+    "indieCards": {
+      "n": 7,
+      "verified": 7,
+      "pending": 0,
+      "missing": 0,
+      "unavailable": 0,
+      "other": 0
+    },
+    "topSellers": {
+      "n": 10,
+      "verified": 10,
+      "pending": 0,
+      "missing": 0,
+      "unavailable": 0,
+      "other": 0
+    },
+    "mostPlayed": {
+      "n": 16,
+      "verified": 16,
+      "pending": 0,
+      "missing": 0,
+      "unavailable": 0,
+      "other": 0
+    }
+  },
+  "failureReasons": {
+    "cdn_cache_hit": 17,
+    "taptap-search": 5,
+    "steam-hash": 23,
+    "steam-legacy-path": 1
+  }
+}
