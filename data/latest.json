@@ -1144,88 +1144,6 @@
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊瑟.jpg"
     },
     {
-      "name": "仙境传说3 (RO3)",
-      "link": "https://www.taptap.cn/search/仙境传说3",
-      "badge": "8.27测试",
-      "badgeColor": "cyan",
-      "meta": "bilibili游戏发行 · Gravity+欢乐互娱联合开发 · 多端互通MMORPG",
-      "desc": "二十余年经典IP仙境传说的全球正统续作，由Gravity与欢乐互娱联合开发，bilibili游戏发行运营。延续俯视视角风格化美术、职业成长、MVP挑战、自由交易等核心体验，全面升级画面表现、战斗手感、社交生态与公会攻城玩法。PC原生开发+多端互通，致力于打造兼具经典RO灵魂与次世代品质的全新米德加尔特大陆。8月27日开启不计费删档限号测试。",
-      "date": "8月27日不限号测试",
-      "tags": [
-        "MMORPG",
-        "经典IP",
-        "bilibili"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "仙境传说3 (RO3)",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
-      "name": "发条总动员",
-      "link": "https://www.taptap.cn/search/发条总动员",
-      "badge": "8/26上线",
-      "badgeColor": "green",
-      "meta": "沐瞳科技 · 全平台 · 复古橡皮管弹幕射击",
-      "desc": "沐瞳科技自研复古橡皮管风格飞行弹幕射击手游。生动诙谐的漫画笔触与炫目战斗融合，单指操作极限闪避弹幕。肉鸽元素提供技能自由搭配、流派随心定义，500+怪诞反派首领。全员角色无废卡设计，各具独特技能。",
-      "date": "8月26日全平台上线",
-      "tags": [
-        "弹幕射击",
-        "肉鸽",
-        "沐瞳"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "发条总动员",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_发条总动员.jpg"
-    },
-    {
-      "name": "全明星觉醒",
-      "link": "https://www.taptap.cn/search/全明星觉醒",
-      "badge": "量删测试",
-      "badgeColor": "cyan",
-      "meta": "腾讯发行 · SNK授权 · 拳皇IP卡牌 · Unity 3D格斗之城",
-      "desc": "SNK授权卡牌产品，八神庵、草薙京、不知火舞、橘右京、娜可露露携手50+格斗明星。以《拳皇》世界观为背景，Unity引擎打造3D格斗之城，街道/格斗场/酒吧等经典场景延展为可探索可交互的拟真世界。致敬经典街机车轮战，1V1格斗轮番上阵。",
-      "date": "8月26日安卓限量删档测试",
-      "tags": [
-        "卡牌",
-        "拳皇IP",
-        "腾讯"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "全明星觉醒",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_全明星觉醒.jpg"
-    },
-    {
-      "name": "源初之结",
-      "link": "https://news.17173.com/content/08262026/110123893.shtml",
-      "badge": "8/26首曝",
-      "badgeColor": "green",
-      "meta": "米哈游 · 全球首曝 · 幻想动作RPG · PC/PS5/移动",
-      "desc": "米哈游全新幻想动作RPG，米哈游在2026 Gamescom科隆游戏展开幕夜（Opening Night Live）全球首曝概念PV。融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动平台。“源初”意为万物流转的原点，强调“溯源-重构-新生”三段式叙事。",
-      "date": "8月26日 Gamescom 全球首曝",
-      "tags": [
-        "动作RPG",
-        "箱庭",
-        "米哈游"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "源初之结",
-      "manualCover": "",
-      "finalCoverUrl": ""
-    },
-    {
       "name": "影之刃零",
       "link": "https://store.steampowered.com/app/4115450",
       "badge": "预售在即",
@@ -1247,6 +1165,27 @@
       "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
       "gameName": "影之刃零",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4115450.jpg"
+    },
+    {
+      "name": "仙境传说3 (RO3)",
+      "link": "https://www.taptap.cn/search/仙境传说3",
+      "badge": "8.27测试",
+      "badgeColor": "cyan",
+      "meta": "bilibili游戏发行 · Gravity+欢乐互娱联合开发 · 多端互通MMORPG",
+      "desc": "二十余年经典IP仙境传说的全球正统续作，由Gravity与欢乐互娱联合开发，bilibili游戏发行运营。延续俯视视角风格化美术、职业成长、MVP挑战、自由交易等核心体验，全面升级画面表现、战斗手感、社交生态与公会攻城玩法。PC原生开发+多端互通，致力于打造兼具经典RO灵魂与次世代品质的全新米德加尔特大陆。8月27日开启不计费删档限号测试。",
+      "date": "8月27日不限号测试",
+      "tags": [
+        "MMORPG",
+        "经典IP",
+        "bilibili"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "仙境传说3 (RO3)",
+      "manualCover": "",
+      "finalCoverUrl": ""
     },
     {
       "name": "粒粒的小人国",
@@ -1403,6 +1342,73 @@
       "gameName": "代号咘咘",
       "manualCover": "",
       "finalCoverUrl": ""
+    },
+    {
+      "name": "发条总动员",
+      "link": "https://www.taptap.cn/search/发条总动员",
+      "badge": "8/26上线",
+      "badgeColor": "green",
+      "meta": "沐瞳科技 · 全平台 · 复古橡皮管弹幕射击",
+      "desc": "沐瞳科技自研复古橡皮管风格飞行弹幕射击手游。生动诙谐的漫画笔触与炫目战斗融合，单指操作极限闪避弹幕。肉鸽元素提供技能自由搭配、流派随心定义，500+怪诞反派首领。全员角色无废卡设计，各具独特技能。",
+      "date": "8月26日全平台上线",
+      "tags": [
+        "弹幕射击",
+        "肉鸽",
+        "沐瞳"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "发条总动员",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_发条总动员.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-17"
+    },
+    {
+      "name": "全明星觉醒",
+      "link": "https://www.taptap.cn/search/全明星觉醒",
+      "badge": "量删测试",
+      "badgeColor": "cyan",
+      "meta": "腾讯发行 · SNK授权 · 拳皇IP卡牌 · Unity 3D格斗之城",
+      "desc": "SNK授权卡牌产品，八神庵、草薙京、不知火舞、橘右京、娜可露露携手50+格斗明星。以《拳皇》世界观为背景，Unity引擎打造3D格斗之城，街道/格斗场/酒吧等经典场景延展为可探索可交互的拟真世界。致敬经典街机车轮战，1V1格斗轮番上阵。",
+      "date": "8月26日安卓限量删档测试",
+      "tags": [
+        "卡牌",
+        "拳皇IP",
+        "腾讯"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "全明星觉醒",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_全明星觉醒.jpg",
+      "archived": true,
+      "archivedAt": "2026-09-17"
+    },
+    {
+      "name": "源初之结",
+      "link": "https://news.17173.com/content/08262026/110123893.shtml",
+      "badge": "8/26首曝",
+      "badgeColor": "green",
+      "meta": "米哈游 · 全球首曝 · 幻想动作RPG · PC/PS5/移动",
+      "desc": "米哈游全新幻想动作RPG，米哈游在2026 Gamescom科隆游戏展开幕夜（Opening Night Live）全球首曝概念PV。融合多文明神话体系，主打多人协作ATB战斗+箱庭探索，预计登陆PC/PS5/移动平台。“源初”意为万物流转的原点，强调“溯源-重构-新生”三段式叙事。",
+      "date": "8月26日 Gamescom 全球首曝",
+      "tags": [
+        "动作RPG",
+        "箱庭",
+        "米哈游"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "源初之结",
+      "manualCover": "",
+      "finalCoverUrl": "",
+      "archived": true,
+      "archivedAt": "2026-09-17"
     },
     {
       "name": "大侠闯天下",
