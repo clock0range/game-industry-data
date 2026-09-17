@@ -1,0 +1,361 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-17T03:41:38.442Z",
+  "steam": {
+    "steam:4126040:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg"
+      ],
+      "hash": "d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6",
+      "hashed": true,
+      "kind": "header",
+      "rel": "d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
+      "name": "Aniimo",
+      "resolvedAt": "2026-09-17T03:41:14.453Z"
+    },
+    "steam:3678970:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg"
+      ],
+      "hash": "be640d1ea4db8d9139069e3799d8d4553f0c2131",
+      "hashed": true,
+      "kind": "header",
+      "rel": "be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg",
+      "name": "TBH: Task Bar Hero",
+      "resolvedAt": "2026-09-17T03:41:16.262Z"
+    },
+    "steam:1867240:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg"
+      ],
+      "hash": "be00107d586c0bf0412e9e4acedb64629a99aa5b",
+      "hashed": true,
+      "kind": "header",
+      "rel": "be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg",
+      "name": "WARDOGS",
+      "resolvedAt": "2026-09-17T03:41:17.439Z"
+    },
+    "steam:1374490:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374490/54075131f72154097359812c842d9e23b424efdd/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1374490/54075131f72154097359812c842d9e23b424efdd/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/54075131f72154097359812c842d9e23b424efdd/header_schinese.jpg"
+      ],
+      "hash": "54075131f72154097359812c842d9e23b424efdd",
+      "hashed": true,
+      "kind": "header",
+      "rel": "54075131f72154097359812c842d9e23b424efdd/header_schinese.jpg",
+      "name": "RuneScape: Dragonwilds",
+      "resolvedAt": "2026-09-17T03:41:18.641Z"
+    },
+    "steam:1867240:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1867240/96eeaa45b43cd5a3a22bd307513ea26034ab1ae7/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1867240/96eeaa45b43cd5a3a22bd307513ea26034ab1ae7/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/96eeaa45b43cd5a3a22bd307513ea26034ab1ae7/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "96eeaa45b43cd5a3a22bd307513ea26034ab1ae7",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "96eeaa45b43cd5a3a22bd307513ea26034ab1ae7/capsule_231x87_schinese.jpg",
+      "name": "WARDOGS",
+      "resolvedAt": "2026-09-17T03:41:19.768Z"
+    },
+    "steam:730:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg"
+      ],
+      "hash": "942c04efaa5bc87afb6f2a97dbf17ac614c8a84d",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg",
+      "name": "Counter-Strike 2",
+      "resolvedAt": "2026-09-17T03:41:20.699Z"
+    },
+    "steam:4080220:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_231x87.jpg"
+      ],
+      "hash": "b2e806003c348d3348774cddb10e5b31cd787ecf",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "b2e806003c348d3348774cddb10e5b31cd787ecf/capsule_231x87.jpg",
+      "name": "EA SPORTS FC™ 27",
+      "resolvedAt": "2026-09-17T03:41:21.399Z"
+    },
+    "steam:1172470:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1172470/9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_231x87.jpg"
+      ],
+      "hash": "9d25b2de9ae52a1ec06797daeaf700feba1459cc",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "9d25b2de9ae52a1ec06797daeaf700feba1459cc/capsule_231x87.jpg",
+      "name": "Apex Legends",
+      "resolvedAt": "2026-09-17T03:41:22.316Z"
+    },
+    "steam:4126040:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/89ffe0f7cc7a40f1ac3d63b57a33ea9d58893e24/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4126040/89ffe0f7cc7a40f1ac3d63b57a33ea9d58893e24/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/89ffe0f7cc7a40f1ac3d63b57a33ea9d58893e24/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "89ffe0f7cc7a40f1ac3d63b57a33ea9d58893e24",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "89ffe0f7cc7a40f1ac3d63b57a33ea9d58893e24/capsule_231x87_schinese.jpg",
+      "name": "Aniimo",
+      "resolvedAt": "2026-09-17T03:41:23.051Z"
+    },
+    "steam:578080:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg"
+      ],
+      "hash": "14f42ab797699a9c9f137fda66582d8776da4330",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg",
+      "name": "PUBG: BATTLEGROUNDS",
+      "resolvedAt": "2026-09-17T03:41:23.773Z"
+    },
+    "steam:570:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87_sc_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87_sc_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/capsule_231x87_sc_schinese.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87_sc_schinese.jpg",
+      "name": "Dota 2",
+      "resolvedAt": "2026-09-17T03:41:25.154Z"
+    },
+    "steam:1374490:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1374490/5307a89cde992d09a01d3ae71a950e73bd6ff13c/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1374490/5307a89cde992d09a01d3ae71a950e73bd6ff13c/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/5307a89cde992d09a01d3ae71a950e73bd6ff13c/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "5307a89cde992d09a01d3ae71a950e73bd6ff13c",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "5307a89cde992d09a01d3ae71a950e73bd6ff13c/capsule_231x87_schinese.jpg",
+      "name": "RuneScape: Dragonwilds",
+      "resolvedAt": "2026-09-17T03:41:25.856Z"
+    },
+    "steam:2344520:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/7086c858ce766d047bf357515805eda229d966b0/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2344520/7086c858ce766d047bf357515805eda229d966b0/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/7086c858ce766d047bf357515805eda229d966b0/capsule_231x87.jpg"
+      ],
+      "hash": "7086c858ce766d047bf357515805eda229d966b0",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "7086c858ce766d047bf357515805eda229d966b0/capsule_231x87.jpg",
+      "name": "Diablo® IV",
+      "resolvedAt": "2026-09-17T03:41:26.802Z"
+    },
+    "steam:2402680:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2402680/c89849716df0c45bfe23a28ab36fd8c988c39e14/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2402680/c89849716df0c45bfe23a28ab36fd8c988c39e14/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/c89849716df0c45bfe23a28ab36fd8c988c39e14/capsule_231x87.jpg"
+      ],
+      "hash": "c89849716df0c45bfe23a28ab36fd8c988c39e14",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "c89849716df0c45bfe23a28ab36fd8c988c39e14/capsule_231x87.jpg",
+      "name": "Dimraeth",
+      "resolvedAt": "2026-09-17T03:41:27.482Z"
+    },
+    "steam:892970:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/cc4520a33c5a7c4d9d8df5f48598c0817d781514/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/892970/cc4520a33c5a7c4d9d8df5f48598c0817d781514/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/cc4520a33c5a7c4d9d8df5f48598c0817d781514/capsule_231x87.jpg"
+      ],
+      "hash": "cc4520a33c5a7c4d9d8df5f48598c0817d781514",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "cc4520a33c5a7c4d9d8df5f48598c0817d781514/capsule_231x87.jpg",
+      "name": "Valheim",
+      "resolvedAt": "2026-09-17T03:41:29.102Z"
+    },
+    "steam:3419430:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg"
+      ],
+      "hash": "a72a5965134f12a6cf86879fa2eb34ba16040486",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "a72a5965134f12a6cf86879fa2eb34ba16040486/capsule_231x87.jpg",
+      "name": "Bongo Cat",
+      "resolvedAt": "2026-09-17T03:41:30.051Z"
+    },
+    "steam:2676230:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2676230/7fa56dff0727478b1c3df6764dea563a499ff5dd/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2676230/7fa56dff0727478b1c3df6764dea563a499ff5dd/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2676230/7fa56dff0727478b1c3df6764dea563a499ff5dd/capsule_231x87.jpg"
+      ],
+      "hash": "7fa56dff0727478b1c3df6764dea563a499ff5dd",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "7fa56dff0727478b1c3df6764dea563a499ff5dd/capsule_231x87.jpg",
+      "name": "FiveM",
+      "resolvedAt": "2026-09-17T03:41:30.752Z"
+    },
+    "steam:2767030:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/af4c78a5eff5bd0847b2d6ef2eee37782221ebd4/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2767030/af4c78a5eff5bd0847b2d6ef2eee37782221ebd4/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/af4c78a5eff5bd0847b2d6ef2eee37782221ebd4/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "af4c78a5eff5bd0847b2d6ef2eee37782221ebd4",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "af4c78a5eff5bd0847b2d6ef2eee37782221ebd4/capsule_231x87_schinese.jpg",
+      "name": "Marvel Rivals",
+      "resolvedAt": "2026-09-17T03:41:31.429Z"
+    },
+    "steam:3678970:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/124cbad7c55f19814d0b8f019e06e5a50b8c6337/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3678970/124cbad7c55f19814d0b8f019e06e5a50b8c6337/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/124cbad7c55f19814d0b8f019e06e5a50b8c6337/capsule_231x87.jpg"
+      ],
+      "hash": "124cbad7c55f19814d0b8f019e06e5a50b8c6337",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "124cbad7c55f19814d0b8f019e06e5a50b8c6337/capsule_231x87.jpg",
+      "name": "TBH: Task Bar Hero",
+      "resolvedAt": "2026-09-17T03:41:32.655Z"
+    },
+    "steam:359550:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/359550/61795d93997c891612adc5d5c6aa22166230ddc9/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/359550/61795d93997c891612adc5d5c6aa22166230ddc9/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/61795d93997c891612adc5d5c6aa22166230ddc9/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "61795d93997c891612adc5d5c6aa22166230ddc9",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "61795d93997c891612adc5d5c6aa22166230ddc9/capsule_231x87_schinese.jpg",
+      "name": "Tom Clancy's Rainbow Six Siege",
+      "resolvedAt": "2026-09-17T03:41:33.816Z"
+    },
+    "steam:2357570:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/4dd87b23d0fb4b6295f8e77178f3a080a03ebf3a/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2357570/4dd87b23d0fb4b6295f8e77178f3a080a03ebf3a/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/4dd87b23d0fb4b6295f8e77178f3a080a03ebf3a/capsule_231x87.jpg"
+      ],
+      "hash": "4dd87b23d0fb4b6295f8e77178f3a080a03ebf3a",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "4dd87b23d0fb4b6295f8e77178f3a080a03ebf3a/capsule_231x87.jpg",
+      "name": "Overwatch®",
+      "resolvedAt": "2026-09-17T03:41:34.987Z"
+    },
+    "steam:1422450:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1422450/88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422450/88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg"
+      ],
+      "hash": "88b400eca727f0547232b49b3e62827f07900c77",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg",
+      "name": "Deadlock",
+      "resolvedAt": "2026-09-17T03:41:35.930Z"
+    },
+    "steam:1623730:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1623730/c496ac7460dbe337bec923d54de7f83bfe320249/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1623730/c496ac7460dbe337bec923d54de7f83bfe320249/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/c496ac7460dbe337bec923d54de7f83bfe320249/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "c496ac7460dbe337bec923d54de7f83bfe320249",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "c496ac7460dbe337bec923d54de7f83bfe320249/capsule_231x87_schinese.jpg",
+      "name": "Palworld",
+      "resolvedAt": "2026-09-17T03:41:36.654Z"
+    },
+    "steam:2868840:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2868840/fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2868840/fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2/capsule_231x87.jpg"
+      ],
+      "hash": "fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2/capsule_231x87.jpg",
+      "name": "Slay the Spire 2",
+      "resolvedAt": "2026-09-17T03:41:37.919Z"
+    }
+  },
+  "taptap": {
+    "剑侠世界4无限": {
+      "url": "https://img-tc.tapimg.com/market/images/9520e5116de039f8c904599ec9bad512.jpg/_tap_banner.jpg",
+      "appid": 762823,
+      "matchedName": "剑侠世界4：无限",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-17T03:41:09.562Z"
+    },
+    "仙境传说3ro3": {
+      "url": "https://img-tc.tapimg.com/market/images/295d3f61edc460101d0e6d04d6af85eb.png/_tap_banner.jpg",
+      "appid": 886599,
+      "matchedName": "仙境传说3",
+      "score": 0.9,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-17T03:41:10.821Z"
+    },
+    "变形金刚新纪元": {
+      "url": "https://img-tc.tapimg.com/market/images/ffee34f4cb65cb53402a1434465dc0b2.jpg/_tap_banner.jpg",
+      "appid": 901325,
+      "matchedName": "变形金刚：新纪元",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-17T03:41:12.242Z"
+    },
+    "导师模拟器桌面实验室": {
+      "url": "https://img-tc.tapimg.com/market/images/7505d4705e7662aaec4728527d60be9f.png/_tap_banner.jpg",
+      "appid": 788958,
+      "matchedName": "导师模拟器",
+      "score": 0.9,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-17T03:41:12.732Z"
+    },
+    "代号咘咘": {
+      "url": "https://img-tc.tapimg.com/market/images/38151e612891ef64e1fbcc92ba4a8cc7.jpg/_tap_banner.jpg",
+      "appid": 911649,
+      "matchedName": "代号咘咘",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-17T03:41:13.230Z"
+    }
+  },
+  "failures": {}
+}
