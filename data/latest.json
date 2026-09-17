@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-17",
-    "lastUpdated": "2026-09-17T10:39:00+08:00",
+    "lastUpdated": "2026-09-17 10:44:42+08:00",
     "footerDate": "数据截至2026年9月17日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -383,58 +383,6 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "WARDOGS",
-        "name": "WARDOGS",
-        "steamAppId": "1867240",
-        "appId": 1867240,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/header.jpg",
-        "rating": "80%",
-        "meta": "2026-09-10",
-        "reviews": "50000",
-        "link": "https://store.steampowered.com/app/1867240",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "Action",
-          "Indie"
-        ]
-      },
-      {
-        "gameName": "Valheim",
-        "name": "Valheim",
-        "steamAppId": "892970",
-        "appId": 892970,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/892970.jpg",
-        "rating": "94%",
-        "meta": "2026-09-09",
-        "reviews": "515000",
-        "link": "https://store.steampowered.com/app/892970",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "Action",
-          "Indie",
-          "Survival"
-        ]
-      },
-      {
-        "gameName": "RuneScape: Dragonwilds",
-        "name": "RuneScape: Dragonwilds",
-        "steamAppId": "1374490",
-        "appId": 1374490,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/header.jpg",
-        "rating": "80%",
-        "meta": "2026-04-15",
-        "reviews": "24000",
-        "link": "https://store.steampowered.com/app/1374490",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "Action",
-          "Adventure"
-        ]
-      },
-      {
         "gameName": "Aniimo",
         "name": "Aniimo",
         "steamAppId": "4126040",
@@ -480,6 +428,23 @@
         ]
       },
       {
+        "gameName": "WARDOGS",
+        "name": "WARDOGS",
+        "steamAppId": "1867240",
+        "appId": 1867240,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/header.jpg",
+        "rating": "80%",
+        "meta": "2026-09-10",
+        "reviews": "50000",
+        "link": "https://store.steampowered.com/app/1867240",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "Action",
+          "Indie"
+        ]
+      },
+      {
         "gameName": "The Crust",
         "name": "The Crust",
         "steamAppId": "1465470",
@@ -494,6 +459,41 @@
         "tags": [
           "Strategy",
           "Simulation"
+        ]
+      },
+      {
+        "gameName": "Valheim",
+        "name": "Valheim",
+        "steamAppId": "892970",
+        "appId": 892970,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/892970.jpg",
+        "rating": "94%",
+        "meta": "2026-09-09",
+        "reviews": "515000",
+        "link": "https://store.steampowered.com/app/892970",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "Action",
+          "Indie",
+          "Survival"
+        ]
+      },
+      {
+        "gameName": "RuneScape: Dragonwilds",
+        "name": "RuneScape: Dragonwilds",
+        "steamAppId": "1374490",
+        "appId": 1374490,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/header.jpg",
+        "rating": "80%",
+        "meta": "2026-04-15",
+        "reviews": "24000",
+        "link": "https://store.steampowered.com/app/1374490",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "Action",
+          "Adventure"
         ]
       }
     ],
@@ -799,169 +799,99 @@
     "ranking": [
       {
         "rank": 1,
-        "name": "向僵尸开炮",
-        "category": "末日塔防",
-        "publisher": "海南盛昌",
-        "change": "/"
+        "name": "三国：冰河时代",
+        "publisher": "欢游互动",
+        "change": "▲1",
+        "changeDir": "up"
       },
       {
         "rank": 2,
-        "name": "三国:冰河时代",
-        "category": "SLG",
-        "publisher": "欢游互动",
-        "change": "/"
+        "name": "向僵尸开炮",
+        "publisher": "海南盛昌网络",
+        "change": "▼1",
+        "changeDir": "down"
       },
       {
         "rank": 3,
-        "name": "浪漫餐厅",
-        "category": "模拟经营",
-        "publisher": "柠檬微趣",
-        "change": "▲5"
+        "name": "无尽冬日",
+        "publisher": "上海青笛科技",
+        "change": "▲10",
+        "changeDir": "up"
       },
       {
         "rank": 4,
-        "name": "梦幻消除战",
-        "category": "消除",
-        "publisher": "广州喜势",
-        "change": "▲8"
+        "name": "疯狂水世界",
+        "publisher": "广州益玩网络",
+        "change": "▼1",
+        "changeDir": "down"
       },
       {
         "rank": 5,
-        "name": "疯狂水世界",
-        "category": "休闲",
-        "publisher": "益世界",
-        "change": "/"
+        "name": "向末日开炮",
+        "publisher": "",
+        "change": "/",
+        "changeDir": "flat"
       },
       {
         "rank": 6,
-        "name": "永夜起源",
-        "category": "卡牌",
-        "publisher": "广州招崭",
-        "change": "▲12"
+        "name": "浪漫餐厅",
+        "publisher": "北京柠檬曲奇",
+        "change": "/",
+        "changeDir": "flat"
       },
       {
         "rank": 7,
-        "name": "向末日开炮",
-        "category": "末日塔防",
-        "publisher": "海南易多量",
-        "change": "▲4"
+        "name": "梦幻消除战",
+        "publisher": "广州喜势网络",
+        "change": "▲2",
+        "changeDir": "up"
       },
       {
         "rank": 8,
         "name": "向往的生活",
-        "category": "模拟经营",
-        "publisher": "深圳必凡",
-        "change": "▲2"
+        "publisher": "深圳必凡娱乐",
+        "change": "▲3",
+        "changeDir": "up"
       },
       {
         "rank": 9,
-        "name": "无尽冬日",
-        "category": "SLG",
-        "publisher": "点点互动",
-        "change": "▼6"
+        "name": "王者舰队",
+        "publisher": "",
+        "change": "▲51",
+        "changeDir": "up"
       },
       {
         "rank": 10,
-        "name": "永远的蔚蓝星球",
-        "category": "休闲",
-        "publisher": "广州颂悦",
-        "change": "▼4"
-      },
-      {
-        "rank": 11,
-        "name": "灵画师",
-        "category": "休闲",
-        "publisher": "广州光游",
-        "change": "▼7"
-      },
-      {
-        "rank": 12,
-        "name": "跃动小子",
-        "category": "放置",
-        "publisher": "波克科技",
-        "change": "▼5"
-      },
-      {
-        "rank": 13,
-        "name": "天命行者",
-        "category": "放置",
-        "publisher": "广州大蓝",
-        "change": "▲4"
-      },
-      {
-        "rank": 14,
-        "name": "保卫向日葵",
-        "category": "塔防",
-        "publisher": "深圳一起梦游",
-        "change": "/"
-      },
-      {
-        "rank": 15,
-        "name": "我的花园世界",
-        "category": "休闲",
-        "publisher": "厦门麟贝",
-        "change": "▼6"
-      },
-      {
-        "rank": 16,
-        "name": "腾讯欢乐斗地主",
-        "category": "棋牌",
-        "publisher": "腾讯",
-        "change": "/"
-      },
-      {
-        "rank": 17,
-        "name": "青云诀之伏魔",
-        "category": "MMO",
-        "publisher": "海南元游",
-        "change": "▼2"
-      },
-      {
-        "rank": 18,
-        "name": "大王请上阵",
-        "category": "角色卡牌",
+        "name": "永夜起源",
         "publisher": "",
-        "change": "新"
-      },
-      {
-        "rank": 19,
-        "name": "空格之境",
-        "category": "休闲",
-        "publisher": "江西启游",
-        "change": "/"
-      },
-      {
-        "rank": 20,
-        "name": "神器传说",
-        "category": "放置",
-        "publisher": "深圳全民",
-        "change": "▼7"
+        "change": "▼6",
+        "changeDir": "down"
       }
     ],
     "dynamics": [
       {
-        "title": "上新趋势 · 8月百强榜：解压品类崛起，沙画/打毛线闯入畅玩TOP30",
-        "color": "cyan",
-        "body": "8月畅玩榜新进6款新游，《解压打毛线》《清了个屏》代表解压品类替代箭头类老玩法成为新风向。畅销榜TOP5稳固（向僵尸开炮/三国冰河时代/无尽冬日/疯狂水世界/浪漫餐厅），新进5款含永夜起源、向末日开炮、大王请上阵。",
-        "pubDate": "9/15",
-        "source": "游戏客栈/引力引擎",
-        "sourceLink": "https://game.sohu.com/a/1073833548_121826140"
+        "title": "微信首发激励金9/22收紧",
+        "color": "orange",
+        "body": "距9月22日生效仅剩5天：首发新游激励金（阶段一+阶段二）将<strong>仅限当前小游戏</strong>的广告主账户使用，不可跨游戏转移。多产品矩阵团队需提前完成激励金调配。",
+        "pubDate": "9/17",
+        "source": "微信开放文档",
+        "sourceLink": "https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/virtual-payment.html"
       },
       {
-        "title": "品类概况 · 买量榜17款畅销游入围，寻道大千79亿曝光登顶",
-        "color": "yellow",
-        "body": "8月买量百强榜TOP1=寻道大千（79亿预估曝光值），畅销榜TOP30中17款同时进入买量榜，买量与畅销高度重合。投放素材数同比+22.1%但参投公司-16.5%，单品深投替代广撒网成为主流。",
-        "pubDate": "9/15",
-        "source": "Insightrackr/DataEye",
-        "sourceLink": "https://game.sohu.com/a/1073833548_121826140"
+        "title": "暗黑西游卡牌小游戏突围",
+        "color": "purple",
+        "body": "广州团队《永夜起源》最高冲至微信畅销榜<strong>TOP4</strong>，《天命行者》稳居TOP20。传统西游+暗黑风格改造+AI买量成差异化路径。",
+        "pubDate": "9/16",
+        "source": "DataEye/36氪",
+        "sourceLink": "https://www.36kr.com/p/3985423942433540"
       },
       {
-        "title": "新政 · IAP激励金9/22红线：矩阵输血失效，单品自我造血成硬指标",
+        "title": "微信小游戏9/15畅销榜：三国冰河时代登顶",
         "color": "blue",
-        "body": "自9月22日起首发新游激励金仅限同appid广告账户使用，跨游戏调配资金链被切断。「老游养新游」矩阵打法失效，365天未消耗广告金将被收回，立项前须重算单产品ROI。七档叠加才凑满170%，非首发差距达10倍。",
-        "pubDate": "9/6",
-        "source": "卓思游想/微信开放社区",
-        "sourceLink": "https://developers.weixin.qq.com/minigame/introduction/commercialization/guide/virtual-payment.html"
+        "body": "《三国：冰河时代》终结《向僵尸开炮》连霸升至榜首；《无尽冬日》暴涨10名冲至第3；《王者舰队》飙51名至第9成最大黑马。",
+        "pubDate": "9/15",
+        "source": "腾讯新闻",
+        "sourceLink": "https://new.qq.com/rain/a/20260916A09EJH00"
       }
     ],
     "categories": [
@@ -990,9 +920,9 @@
         "value": "TOP10占6席"
       }
     ],
-    "asOf": "2026-08-29 微信小游戏畅销榜（当日榜）",
+    "asOf": "2026-09-15",
     "source": "腾讯新闻（微信小游戏畅销榜当日榜）",
-    "dynamicsAsOf": "2026-09-15",
+    "dynamicsAsOf": "2026-09-17",
     "dynamicsStatus": "ok"
   },
   "segments": [
