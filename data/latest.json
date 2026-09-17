@@ -390,11 +390,14 @@
         "manualCover": "",
         "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/header.jpg",
         "rating": "80%",
-        "meta": "9月上线",
-        "reviews": "",
+        "meta": "2026-09-10",
+        "reviews": "50000",
         "link": "https://store.steampowered.com/app/1867240",
-        "reviewSummary": "多半好评",
-        "tags": []
+        "reviewSummary": "特别好评",
+        "tags": [
+          "Action",
+          "Indie"
+        ]
       },
       {
         "gameName": "Valheim",
@@ -403,96 +406,95 @@
         "appId": 892970,
         "manualCover": "",
         "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/892970.jpg",
-        "rating": "93%",
-        "meta": "9月上线",
-        "reviews": "",
+        "rating": "94%",
+        "meta": "2026-09-09",
+        "reviews": "515000",
         "link": "https://store.steampowered.com/app/892970",
         "reviewSummary": "特别好评",
-        "tags": []
+        "tags": [
+          "Action",
+          "Indie",
+          "Survival"
+        ]
       },
       {
-        "gameName": "How to Fish",
-        "name": "How to Fish",
-        "steamAppId": "4001890",
-        "appId": 4001890,
+        "gameName": "RuneScape: Dragonwilds",
+        "name": "RuneScape: Dragonwilds",
+        "steamAppId": "1374490",
+        "appId": 1374490,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4001890/header.jpg",
-        "rating": "93%",
-        "meta": "8月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4001890",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/header.jpg",
+        "rating": "80%",
+        "meta": "2026-04-15",
+        "reviews": "24000",
+        "link": "https://store.steampowered.com/app/1374490",
         "reviewSummary": "特别好评",
+        "tags": [
+          "Action",
+          "Adventure"
+        ]
+      },
+      {
+        "gameName": "Aniimo",
+        "name": "Aniimo",
+        "steamAppId": "4126040",
+        "appId": 4126040,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4126040/header.jpg",
+        "rating": "",
+        "meta": "2026-09-17",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4126040",
+        "reviewSummary": "",
         "tags": []
       },
       {
-        "gameName": "The Blood of Dawnwalker",
-        "name": "The Blood of Dawnwalker",
-        "steamAppId": "3751260",
-        "appId": 3751260,
+        "gameName": "TBH: Task Bar Hero",
+        "name": "TBH: Task Bar Hero",
+        "steamAppId": "3678970",
+        "appId": 3678970,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3751260/header.jpg",
-        "rating": "84%",
-        "meta": "9月上线",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3678970/header.jpg",
+        "rating": "",
+        "meta": "2026-09-17",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/3751260",
-        "reviewSummary": "特别好评",
+        "link": "https://store.steampowered.com/app/3678970",
+        "reviewSummary": "",
         "tags": []
       },
       {
-        "gameName": "Onimusha: Way of the Sword",
-        "name": "Onimusha: Way of the Sword",
-        "steamAppId": "2638890",
-        "appId": 2638890,
+        "gameName": "Active Matter",
+        "name": "Active Matter",
+        "steamAppId": "2887580",
+        "appId": 2887580,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2638890/header.jpg",
-        "rating": "88%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/2638890",
-        "reviewSummary": "特别好评",
-        "tags": []
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/2887580.jpg",
+        "rating": "76%",
+        "meta": "2026-09-15",
+        "reviews": "614",
+        "link": "https://store.steampowered.com/app/2887580",
+        "reviewSummary": "多半好评",
+        "tags": [
+          "Action",
+          "Massively Multiplayer"
+        ]
       },
       {
-        "gameName": "Halloween: The Game",
-        "name": "Halloween: The Game",
-        "steamAppId": "3219630",
-        "appId": 3219630,
+        "gameName": "The Crust",
+        "name": "The Crust",
+        "steamAppId": "1465470",
+        "appId": 1465470,
         "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3219630/header.jpg",
-        "rating": "68%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3219630",
-        "reviewSummary": "褒贬不一",
-        "tags": []
-      },
-      {
-        "gameName": "Big Walk",
-        "name": "Big Walk",
-        "steamAppId": "1478500",
-        "appId": 1478500,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1478500.jpg",
-        "rating": "94%",
-        "meta": "8月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1478500",
-        "reviewSummary": "特别好评",
-        "tags": []
-      },
-      {
-        "gameName": "NBA 2K27",
-        "name": "NBA 2K27",
-        "steamAppId": "4356430",
-        "appId": 4356430,
-        "manualCover": "",
-        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4356430/header.jpg",
-        "rating": "52%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4356430",
-        "reviewSummary": "褒贬不一",
-        "tags": []
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1465470.jpg",
+        "rating": "77%",
+        "meta": "2026-09-10",
+        "reviews": "3100",
+        "link": "https://store.steampowered.com/app/1465470",
+        "reviewSummary": "多半好评",
+        "tags": [
+          "Strategy",
+          "Simulation"
+        ]
       }
     ],
     "topSellers": [
@@ -789,7 +791,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-09-16",
+    "newGamesAsOf": "2026-09-17",
     "topSellersAsOf": "2026-09-17",
     "mostPlayedAsOf": "2026-09-17"
   },
