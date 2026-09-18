@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-17T03:46:25.529Z",
-  "metaDate": "2026-09-17",
+  "generatedAt": "2026-09-18T02:06:12.939Z",
+  "metaDate": "2026-09-18",
   "totals": {
-    "denominator": 46,
-    "covered": 46,
+    "denominator": 48,
+    "covered": 48,
     "coverage": 100
   },
   "byModule": {
     "newGames": {
-      "n": 13,
-      "verified": 13,
+      "n": 15,
+      "verified": 15,
       "pending": 0,
       "missing": 0,
       "unavailable": 0,
@@ -49,9 +49,9 @@
     }
   },
   "failureReasons": {
-    "cdn_cache_hit": 17,
-    "taptap-search": 5,
-    "steam-hash": 23,
+    "cdn_cache_hit": 35,
+    "taptap-search": 7,
+    "steam-hash": 5,
     "steam-legacy-path": 1
   }
 }
