@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T03:46:25.515Z",
+  "updatedAt": "2026-09-18T02:06:12.819Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -313,6 +313,32 @@
       "rel": "fb0ad136e9eaa4297a1ab3440d88ecb7209f44a2/capsule_231x87.jpg",
       "name": "Slay the Spire 2",
       "resolvedAt": "2026-09-17T03:41:37.919Z"
+    },
+    "steam:252490:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg"
+      ],
+      "hash": "21aac0b6e20e1ba12f635e7deb730e32a51afbd5",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "21aac0b6e20e1ba12f635e7deb730e32a51afbd5/capsule_231x87.jpg",
+      "name": "Rust",
+      "resolvedAt": "2026-09-18T02:05:52.214Z"
+    },
+    "steam:440:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/440/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/440/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "Team Fortress 2",
+      "resolvedAt": "2026-09-18T02:05:54.037Z"
     }
   },
   "taptap": {
@@ -355,6 +381,22 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-09-17T03:41:13.230Z"
+    },
+    "蓝色星原旅谣": {
+      "url": "https://img-tc.tapimg.com/market/images/5ee6618c78df1b0c7ce97f4c1da4e05b.png/_tap_banner.jpg",
+      "appid": 593829,
+      "matchedName": "蓝色星原：旅谣",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-18T02:05:43.774Z"
+    },
+    "火焰纹章万缕千丝": {
+      "url": "https://img-tc.tapimg.com/market/images/b5b64edf7940197a8ad95a04e3f42895.jpg/_tap_banner.jpg",
+      "appid": 36046,
+      "matchedName": "火焰纹章：英雄",
+      "score": 0.9,
+      "source": "taptap-search",
+      "resolvedAt": "2026-09-18T02:05:44.383Z"
     }
   },
   "failures": {}
