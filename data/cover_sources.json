@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T02:06:12.819Z",
+  "updatedAt": "2026-09-19T02:51:18.196Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -339,6 +339,58 @@
       "rel": "capsule_231x87.jpg",
       "name": "Team Fortress 2",
       "resolvedAt": "2026-09-18T02:05:54.037Z"
+    },
+    "steam:4080220:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg"
+      ],
+      "hash": "05d419a45653a1299ce46d13dbff4533fa076c1c",
+      "hashed": true,
+      "kind": "header",
+      "rel": "05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg",
+      "name": "EA SPORTS FC™ 27",
+      "resolvedAt": "2026-09-19T02:51:04.195Z"
+    },
+    "steam:4891320:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg"
+      ],
+      "hash": "80d3cc10f37c03a6b520846baf44883651132896",
+      "hashed": true,
+      "kind": "header",
+      "rel": "80d3cc10f37c03a6b520846baf44883651132896/header.jpg",
+      "name": "[WoG] War of Genesis: Idle Loot",
+      "resolvedAt": "2026-09-19T02:51:06.278Z"
+    },
+    "steam:4225980:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg"
+      ],
+      "hash": "7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3",
+      "hashed": true,
+      "kind": "header",
+      "rel": "7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg",
+      "name": "Trails in the Sky 2nd Chapter",
+      "resolvedAt": "2026-09-19T02:51:07.771Z"
+    },
+    "steam:1086940:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg"
+      ],
+      "hash": "3dd81008e9c385caf68152450c22353f6a8abec9",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg",
+      "name": "Baldur's Gate 3",
+      "resolvedAt": "2026-09-19T02:51:13.689Z"
     }
   },
   "taptap": {
