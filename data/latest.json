@@ -1214,17 +1214,32 @@
     ],
     "dynamics": [
       {
-        "title": "微信首发激励金9/22收紧",
+        "title": "首发激励金新规：9/22 起仅限同 appid 投放",
         "color": "orange",
-        "body": "距9月22日生效仅剩5天：首发新游激励金（阶段一+阶段二）将<strong>仅限当前小游戏</strong>的广告主账户使用，不可跨游戏转移。多产品矩阵团队需提前完成激励金调配。",
-        "pubDate": "9/17",
-        "source": "微信开放文档",
-        "sourceLink": "https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/virtual-payment.html"
+        "body": "微信小游戏 2026 首发激励再升级：单款最高 <strong>5000 万流水不分成</strong> + 2000 万激励金；但 <strong>9/22 起激励金只能用于同 appid 广告投放</strong>，不得挪用——直接抬高买量能力门槛，利好有投放体系的 IAP 混变团队。",
+        "pubDate": "9/20",
+        "source": "微信公开课/腾讯搜一搜",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0106aaea01b73952"
+      },
+      {
+        "title": "《模拟城市：我是市长》双榜冲榜",
+        "color": "green",
+        "body": "经典城建 IP 小游戏版 <strong>新入畅销榜 TOP50</strong>，人气榜一周从榜外飙升 <strong>88 名至 #6</strong>——合成建筑玩法双端同时起量，本周最猛新进产品。",
+        "pubDate": "9/19",
+        "source": "小游快爆/腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20260920A07L7400"
+      },
+      {
+        "title": "《秘密花园HD》联动周升 42 名",
+        "color": "purple",
+        "body": "有兽焉×秘密花园联动启动，<strong>周升 42 名新入畅销榜 #32</strong>——IP 联动对休闲模拟经营的拉榜效果再次验证。",
+        "pubDate": "9/19",
+        "source": "小游快爆"
       },
       {
         "title": "暗黑西游卡牌小游戏突围",
-        "color": "purple",
-        "body": "广州团队《永夜起源》最高冲至微信畅销榜<strong>TOP4</strong>，《天命行者》稳居TOP20。传统西游+暗黑风格改造+AI买量成差异化路径。",
+        "color": "cyan",
+        "body": "《永夜起源》稳居畅销榜<strong> TOP10</strong>，《天命行者》在 TOP20 内——传统西游+暗黑风格+买量投放成中小团队差异化路径。",
         "pubDate": "9/16",
         "source": "DataEye/36氪",
         "sourceLink": "https://www.36kr.com/p/3985423942433540"
@@ -1258,7 +1273,7 @@
     ],
     "asOf": "2026-09-20",
     "source": "lightgame.cc（微信小游戏畅销榜每日快照）",
-    "dynamicsAsOf": "2026-09-17",
+    "dynamicsAsOf": "2026-09-20",
     "dynamicsStatus": "ok"
   },
   "segments": [
