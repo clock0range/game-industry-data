@@ -383,61 +383,38 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "EA SPORTS FC 27",
-        "name": "EA SPORTS FC 27",
-        "steamAppId": "4080220",
-        "appId": 4080220,
+        "gameName": "WARDOGS",
+        "name": "WARDOGS",
+        "steamAppId": "1867240",
+        "appId": 1867240,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "rating": "",
-        "meta": "2026-09-19",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
+        "rating": "79%",
+        "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4080220",
-        "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4080220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4080220/05d419a45653a1299ce46d13dbff4533fa076c1c/header.jpg",
-        "coverReason": "steam-hash"
+        "link": "https://store.steampowered.com/app/1867240",
+        "reviewSummary": "多半好评",
+        "tags": [
+          "Action",
+          "Multiplayer"
+        ]
       },
       {
-        "gameName": "[WoG] War of Genesis: Idle Loot",
-        "name": "[WoG] War of Genesis: Idle Loot",
-        "steamAppId": "4891320",
-        "appId": 4891320,
+        "gameName": "Valheim",
+        "name": "Valheim",
+        "steamAppId": "892970",
+        "appId": 892970,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
-        "rating": "",
-        "meta": "2026-09-19",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
+        "rating": "93%",
+        "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4891320",
-        "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4891320",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg",
-        "coverReason": "steam-hash"
-      },
-      {
-        "gameName": "Trails in the Sky 2nd Chapter",
-        "name": "Trails in the Sky 2nd Chapter",
-        "steamAppId": "4225980",
-        "appId": 4225980,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4225980.jpg",
-        "rating": "",
-        "meta": "2026-09-18",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4225980",
-        "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4225980",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4225980.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg",
-        "coverReason": "steam-hash"
+        "link": "https://store.steampowered.com/app/892970",
+        "reviewSummary": "特别好评",
+        "tags": [
+          "Survival",
+          "Open World"
+        ]
       },
       {
         "gameName": "Aniimo",
@@ -446,17 +423,30 @@
         "appId": 4126040,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "rating": "",
-        "meta": "2026-09-17",
+        "rating": "65%",
+        "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4126040",
+        "reviewSummary": "褒贬不一",
+        "tags": [
+          "Free to Play"
+        ]
+      },
+      {
+        "gameName": "Bongo Cat",
+        "name": "Bongo Cat",
+        "steamAppId": "3419430",
+        "appId": 3419430,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3419430.jpg",
+        "rating": "",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3419430",
         "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4126040",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        "tags": [
+          "Casual"
+        ]
       },
       {
         "gameName": "TBH: Task Bar Hero",
@@ -466,73 +456,62 @@
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
         "rating": "",
-        "meta": "2026-09-17",
+        "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/3678970",
         "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "3678970",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        "tags": [
+          "Casual"
+        ]
       },
       {
-        "gameName": "WARDOGS",
-        "name": "WARDOGS",
-        "steamAppId": "1867240",
-        "appId": 1867240,
+        "gameName": "Deadlock",
+        "name": "Deadlock",
+        "steamAppId": "1422450",
+        "appId": 1422450,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1422450.jpg",
         "rating": "",
-        "meta": "2026-09-10",
+        "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/1867240",
+        "link": "https://store.steampowered.com/app/1422450",
         "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "1867240",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        "tags": [
+          "MOBA",
+          "Shooter"
+        ]
       },
       {
-        "gameName": "Valheim",
-        "name": "Valheim",
-        "steamAppId": "892970",
-        "appId": 892970,
+        "gameName": "EA SPORTS FC 27",
+        "name": "EA SPORTS FC 27",
+        "steamAppId": "4080220",
+        "appId": 4080220,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
         "rating": "",
-        "meta": "2026-09-09",
+        "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/892970",
+        "link": "https://store.steampowered.com/app/4080220",
         "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "892970",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        "tags": [
+          "Sports"
+        ]
       },
       {
-        "gameName": "RuneScape: Dragonwilds",
-        "name": "RuneScape: Dragonwilds",
-        "steamAppId": "1374490",
-        "appId": 1374490,
+        "gameName": "[WoG] War of Genesis: Idle Loot",
+        "name": "[WoG] War of Genesis: Idle Loot",
+        "steamAppId": "4891320",
+        "appId": 4891320,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
         "rating": "",
-        "meta": "2026-04-15",
+        "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/1374490",
+        "link": "https://store.steampowered.com/app/4891320",
         "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "1374490",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        "tags": [
+          "Idle"
+        ]
       }
     ],
     "topSellers": [
@@ -829,7 +808,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-09-19",
+    "newGamesAsOf": "2026-09-20",
     "topSellersAsOf": "2026-09-20",
     "mostPlayedAsOf": "2026-09-20"
   },
