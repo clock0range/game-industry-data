@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T10:46:56.248Z",
+  "updatedAt": "2026-09-20T10:41:40.690Z",
   "games": {
     "向僵尸开炮": {
       "category": "益智",
       "main": "休闲",
       "publisher": "盛昌网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "无尽冬日": {
       "category": "对战",
       "main": "竞技",
       "publisher": "点点互动",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "梦幻消除战": {
       "category": "模拟经营",
       "main": "休闲",
       "publisher": "广州喜势网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "浪漫餐厅": {
       "category": "益智",
       "main": "休闲",
       "publisher": "柠檬微趣",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "向末日开炮": {
       "category": "末日塔防",
       "main": "",
       "publisher": "易多量",
       "source": "legacy-snapshot",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "疯狂水世界": {
       "category": "模拟经营",
@@ -49,14 +49,14 @@
       "main": "休闲",
       "publisher": "深圳必凡娱乐",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "灵画师": {
       "category": "ARPG",
       "main": "角色",
       "publisher": "广州光游网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "永远的蔚蓝星球": {
       "category": "塔防",
@@ -70,112 +70,112 @@
       "main": "",
       "publisher": "广州招崭",
       "source": "legacy-snapshot",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "空格之境": {
       "category": "模拟经营",
       "main": "休闲",
       "publisher": "启游互动",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "我的花园世界": {
       "category": "模拟经营",
       "main": "休闲",
       "publisher": "麟贝互娱",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "跃动小子": {
       "category": "益智",
       "main": "休闲",
       "publisher": "波克科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "奔奔王国": {
       "category": "对战",
       "main": "竞技",
       "publisher": "点点松云",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "腾讯欢乐斗地主": {
       "category": "牌类",
       "main": "棋牌",
       "publisher": "腾讯",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "王者征途": {
       "category": "MMO",
       "main": "角色",
       "publisher": "巨人网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "神器传说": {
       "category": "益智",
       "main": "休闲",
       "publisher": "全民互动",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "天命行者": {
       "category": "放置",
       "main": "",
       "publisher": "广州大蓝网络",
       "source": "legacy-snapshot",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "青云诀之伏魔": {
       "category": "MMO",
       "main": "",
       "publisher": "元游",
       "source": "legacy-snapshot",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "造化仙府": {
       "category": "模拟经营",
       "main": "休闲",
       "publisher": "沛炫网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "大王请上阵": {
       "category": "角色卡牌",
       "main": "",
       "publisher": "悦莱顺",
       "source": "legacy-snapshot",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "QQ经典农场": {
       "category": "模拟经营",
       "main": "休闲",
       "publisher": "腾讯",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "肥鹅美食街": {
       "category": "模拟经营",
       "main": "休闲",
       "publisher": "豪腾",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "原始征途": {
       "category": "MMO",
       "main": "角色",
       "publisher": "巨人网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "天龙八部荣耀版": {
       "category": "MMO",
       "main": "角色",
       "publisher": "初心互动科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "道友来挖宝": {
       "category": "回合",
@@ -189,7 +189,7 @@
       "main": "休闲",
       "publisher": "一起梦游科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "迷雾大陆": {
       "category": "ARPG",
@@ -203,28 +203,28 @@
       "main": "休闲",
       "publisher": "盛昌网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "寻道大千": {
       "category": "卡牌",
       "main": "角色",
       "publisher": "三七互娱",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "开心消消乐": {
       "category": "消除",
       "main": "休闲",
       "publisher": "乐元素科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "百炼英雄": {
       "category": "ARPG",
       "main": "角色",
       "publisher": "九九互动科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "四季合合": {
       "category": "消除",
@@ -238,28 +238,28 @@
       "main": "角色",
       "publisher": "奥创互娱科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "仙剑奇侠传：新的开始": {
       "category": "回合",
       "main": "角色",
       "publisher": "恺英网络",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "雀神广东麻将": {
       "category": "牌类",
       "main": "棋牌",
       "publisher": "锋兮科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "西游降妖记": {
       "category": "ARPG",
       "main": "角色",
       "publisher": "运程科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "佣兵小镇": {
       "category": "卡牌",
@@ -273,21 +273,21 @@
       "main": "休闲",
       "publisher": "爱的番茄科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "超能下蛋鸭": {
       "category": "益智",
       "main": "休闲",
       "publisher": "世熠科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-18T10:04:45.294Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "次神：光之觉醒": {
       "category": "卡牌",
       "main": "角色",
       "publisher": "途游游戏",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "大话西游归来": {
       "category": "MMO",
@@ -301,21 +301,21 @@
       "main": "策略",
       "publisher": "欢游互动",
       "source": "web-verify（环球网：途游 SLG）",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "王者舰队": {
       "category": "策略",
       "main": "策略",
       "publisher": "赫德时代",
       "source": "web-verify（九游：策略海战）",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "机智逃脱": {
       "category": "益智",
       "main": "休闲",
       "publisher": "安立讯科技",
       "source": "tencent-official",
-      "verifiedAt": "2026-09-19T10:46:56.248Z"
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     },
     "城主别慌张": {
       "category": "ARPG",
@@ -323,6 +323,41 @@
       "publisher": "冠游科技",
       "source": "tencent-official",
       "verifiedAt": "2026-09-19T10:46:56.248Z"
+    },
+    "指尖无双": {
+      "category": "卡牌",
+      "main": "角色",
+      "publisher": "蓝琥珀科技",
+      "source": "tencent-official",
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
+    },
+    "新弹弹堂": {
+      "category": "回合",
+      "main": "角色",
+      "publisher": "第七大道科技",
+      "source": "tencent-official",
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
+    },
+    "雷霆战机：集结": {
+      "category": "益智",
+      "main": "休闲",
+      "publisher": "爱乐游文化发展",
+      "source": "tencent-official",
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
+    },
+    "三国杀": {
+      "category": "益智",
+      "main": "休闲",
+      "publisher": "游卡科技",
+      "source": "tencent-official",
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
+    },
+    "口袋奇兵": {
+      "category": "对战",
+      "main": "竞技",
+      "publisher": "江娱互动科技",
+      "source": "tencent-official",
+      "verifiedAt": "2026-09-20T10:41:40.690Z"
     }
   },
   "publisherAliases": {
