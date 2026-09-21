@@ -388,7 +388,7 @@
         "steamAppId": "1867240",
         "appId": 1867240,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1867240.jpg",
         "rating": "79%",
         "meta": "9月上线",
         "reviews": "",
@@ -397,12 +397,7 @@
         "tags": [
           "Action",
           "Multiplayer"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "1867240",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "Valheim",
@@ -410,7 +405,7 @@
         "steamAppId": "892970",
         "appId": 892970,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/892970.jpg",
         "rating": "93%",
         "meta": "9月上线",
         "reviews": "",
@@ -419,12 +414,7 @@
         "tags": [
           "Survival",
           "Open World"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "892970",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "Aniimo",
@@ -432,7 +422,7 @@
         "steamAppId": "4126040",
         "appId": 4126040,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4126040.jpg",
         "rating": "65%",
         "meta": "9月上线",
         "reviews": "",
@@ -440,12 +430,7 @@
         "reviewSummary": "褒贬不一",
         "tags": [
           "Free to Play"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4126040",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "Bongo Cat",
@@ -453,7 +438,7 @@
         "steamAppId": "3419430",
         "appId": 3419430,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3419430.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
@@ -461,12 +446,7 @@
         "reviewSummary": "",
         "tags": [
           "Casual"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "3419430",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "TBH: Task Bar Hero",
@@ -474,7 +454,7 @@
         "steamAppId": "3678970",
         "appId": 3678970,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3678970.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
@@ -482,12 +462,7 @@
         "reviewSummary": "",
         "tags": [
           "Casual"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "3678970",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "Deadlock",
@@ -495,7 +470,7 @@
         "steamAppId": "1422450",
         "appId": 1422450,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1422450.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
@@ -504,12 +479,7 @@
         "tags": [
           "MOBA",
           "Shooter"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "1422450",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "EA SPORTS FC 27",
@@ -517,7 +487,7 @@
         "steamAppId": "4080220",
         "appId": 4080220,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4080220.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
@@ -525,12 +495,7 @@
         "reviewSummary": "",
         "tags": [
           "Sports"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4080220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       },
       {
         "gameName": "[WoG] War of Genesis: Idle Loot",
@@ -538,7 +503,7 @@
         "steamAppId": "4891320",
         "appId": 4891320,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4891320.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
@@ -546,12 +511,7 @@
         "reviewSummary": "",
         "tags": [
           "Idle"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4891320",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        ]
       }
     ],
     "topSellers": [
@@ -908,7 +868,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-09-20",
+    "newGamesAsOf": "2026-09-21",
     "topSellersAsOf": "2026-09-20",
     "mostPlayedAsOf": "2026-09-21",
     "insightAsOf": "2026-09-20"
