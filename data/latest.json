@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-21",
-    "lastUpdated": "2026-09-21 10:42:04+08:00",
+    "lastUpdated": "2026-09-21 10:57:11+08:00",
     "footerDate": "数据截至2026年9月21日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -2950,39 +2950,69 @@
   ],
   "phenomenon": [
     {
-      "name": "生存日志",
+      "name": "WARDOGS",
       "platform": "Steam",
-      "event": "发售后一度冲入 Steam 国区热销榜前 15，稳定在畅销榜前 20",
+      "event": "付费新品（$39.99）同时占据 Steam 热销榜 #2 与在线榜 #3，峰值在线逼近 28 万",
       "chips": [
         {
-          "label": "排名变化",
-          "value": "新进榜 → #15",
+          "label": "当前在线",
+          "value": "27.7 万",
           "color": "green"
         },
         {
-          "label": "连续天数",
-          "value": "7天连涨",
-          "color": "cyan"
+          "label": "热销排名",
+          "value": "#2",
+          "color": "orange"
         },
         {
-          "label": "媒体覆盖",
-          "value": "多家公众号报道",
-          "color": "orange"
+          "label": "定价策略",
+          "value": "中价位买断",
+          "color": "cyan"
         }
       ],
-      "why": "末日生存品类继《疯狂水世界》后再度验证。小团队高性价比开发路径跑通，丧尸+末日题材在国内Steam玩家群体中有稳定受众基本盘",
-      "source": "Steam 热销榜 · 公开报道",
+      "why": "在 F2P 长期主导的 Steam 头部，一款 40 美元档的多人射击同时打进热销与在线双榜前三，说明「中价位买断 + 多人长线内容」的窗口重新打开——这对被免费制挤压的付费产品线是一个可复用样本。",
+      "source": "SteamDB 在线榜 / 热销榜 · 每日快照",
       "tags": [
-        "末日生存",
-        "独立游戏",
-        "小团队爆款",
-        "Steam国区"
+        "多人射击",
+        "中价位买断",
+        "Steam头部",
+        "付费制突围"
+      ]
+    },
+    {
+      "name": "模拟城市：我是市长",
+      "platform": "微信小游戏 / iOS",
+      "event": "小游戏版新入畅销榜 TOP50，人气榜一周飙升 88 名至 #6",
+      "chips": [
+        {
+          "label": "人气榜",
+          "value": "周升 88 名 → #6",
+          "color": "green"
+        },
+        {
+          "label": "畅销榜",
+          "value": "新入 TOP50",
+          "color": "orange"
+        },
+        {
+          "label": "IP 属性",
+          "value": "经典城建 IP",
+          "color": "purple"
+        }
+      ],
+      "why": "经典单机 IP 的小游戏化不是简单移植：合成建筑玩法与微信社交裂变天然契合，一周 88 名的跃升验证了「老 IP + 轻量化改造」在存量用户池里的转化效率。",
+      "source": "小游快爆 / 腾讯新闻（9/19 榜单数据）",
+      "tags": [
+        "IP小游戏化",
+        "模拟经营",
+        "双端冲榜",
+        "存量IP复用"
       ]
     }
   ],
-  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜前三稳固（腾讯系），<strong style=\"color:var(--green)\">SLG品类内部分化</strong>——传统重度SLG排名下滑，轻量化挂机+SLG组合上升。免费榜方面，新游首发冲榜后留存分化明显，IP改编游戏首周下载优势约3-5倍。",
-  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>挂机+混合变现持续主导畅销榜，<strong style=\"color:var(--green)\">武侠+挂机</strong>组合连续三周爬升。SLG三剑客(三国冰河/无尽冬日/向末日开炮)合计3席稳定，<strong style=\"color:var(--blue)\">末日题材</strong>向腰部放大(向末日开炮稳#8+向僵尸开炮登顶)。模拟经营四强(无尽冬日/疯狂水世界/向往的生活/梦幻消除战)集体稳居前6形成\"铁壁\"，放置类内部剧烈洗牌(青云诀↓10/灵画师从TOP7跌#13)，<strong style=\"color:var(--purple)\">中尾部温和轮动</strong>成新常态。",
-  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>近期上线/测试以IP改编（赘婿/甄嬛传）和UE5重度项目（凡应）为主。<strong style=\"color:var(--cyan)\">测试招募期</strong>成为大作标配节奏，首发即公测的模式减少。独立游戏方面，《诡宅祭坛》《导师模拟器》表现亮眼，桌面挂机品类正成为小团队爆款赛道。",
+  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜格局持续固化——王者荣耀、和平精英、三国志·战略版锁死前三，<strong style=\"color:var(--green)\">长青化</strong>是当前主旋律；唯一的结构性亮点是《无尽冬日》逆势上行，轻量化 SLG 仍在蚕食传统重度 SLG 份额。免费榜依旧是买量战场：新游首发冲榜后回落加快，<strong style=\"color:var(--orange)\">腾讯系旗舰与 IP 改编</strong>占据上半区，新品留存验证窗口比去年更短。",
+  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>畅销榜头部由<strong style=\"color:var(--green)\">休闲益智（25 席中占 12 席）</strong>与末日题材双线主导——向僵尸开炮守住榜首、向末日开炮稳定 TOP10；<strong style=\"color:var(--blue)\">模拟经营</strong>军团（梦幻消除战▲2、向往的生活）继续形成铁壁。本周<strong style=\"color:var(--purple)\">卡牌赛道出现异动</strong>：永夜起源▲4 领涨，西游 / 暗黑题材被中小团队当作差异化切口。政策端 9/22 起首发激励金仅限同 appid 投放，买量型团队的投放效率将直接接受检验。",
+  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>本周上新节奏集中在<strong style=\"color:var(--cyan)\">测试招募</strong>而非直接公测——《粒粒的小人国》定格测试（预约 800 万+）、《未眠野》技术保密测试、《蓝色星原：旅谣》旅迹测试接连启动，大作继续用长周期测试养预期，首发即公测的模式明显减少。玩法形态上，<strong style=\"color:var(--orange)\">二游+模拟经营混合</strong>（粒粒的小人国）、开放世界 ARPG（未眠野）与 AI 单机买断（不问凡尘）并行；<strong style=\"color:var(--purple)\">AI 参与研发</strong>开始写进立项描述，值得持续观察。",
   "weeklyInsight": {
     "title": "本周行业洞察",
     "sections": [
@@ -3008,23 +3038,23 @@
     "iosInsight": {
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
-      "asOf": "2026-08-20",
+      "asOf": "2026-09-21",
       "lastChecked": "2026-09-21",
-      "status": "stale"
+      "status": "fresh"
     },
     "miniappInsight": {
-      "cadence": "weekly",
-      "cadenceLabel": "每周",
-      "asOf": "2026-08-27",
+      "cadence": "biweekly",
+      "cadenceLabel": "每两周",
+      "asOf": "2026-09-21",
       "lastChecked": "2026-09-21",
-      "status": "stale"
+      "status": "fresh"
     },
     "newGamesInsight": {
-      "cadence": "weekly",
-      "cadenceLabel": "每周",
-      "asOf": "2026-08-20",
+      "cadence": "biweekly",
+      "cadenceLabel": "每两周",
+      "asOf": "2026-09-21",
       "lastChecked": "2026-09-21",
-      "status": "stale"
+      "status": "fresh"
     },
     "weeklyInsight": {
       "cadence": "weekly",
@@ -3041,11 +3071,11 @@
       "status": "stale"
     },
     "phenomenon": {
-      "cadence": "biweekly",
-      "cadenceLabel": "每两周",
-      "asOf": "2026-08-20",
+      "cadence": "monthly",
+      "cadenceLabel": "每月/事件驱动",
+      "asOf": "2026-09-21",
       "lastChecked": "2026-09-21",
-      "status": "stale"
+      "status": "fresh"
     },
     "steam.insight": {
       "cadence": "weekly",
