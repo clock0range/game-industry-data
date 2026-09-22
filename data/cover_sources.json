@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T02:42:30.313Z",
+  "updatedAt": "2026-09-22T02:37:07.561Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -391,6 +391,97 @@
       "rel": "3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg",
       "name": "Baldur's Gate 3",
       "resolvedAt": "2026-09-19T02:51:13.689Z"
+    },
+    "steam:3219630:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg"
+      ],
+      "hash": "153ed105c4b409fe689783e4f9b6aad72c152646",
+      "hashed": true,
+      "kind": "header",
+      "rel": "153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg",
+      "name": "Halloween: The Game",
+      "resolvedAt": "2026-09-22T02:36:53.066Z"
+    },
+    "steam:4165890:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg"
+      ],
+      "hash": "866449b5fb3696b4c869e954c1e98d1e19df0721",
+      "hashed": true,
+      "kind": "header",
+      "rel": "866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg",
+      "name": "Steam Frame",
+      "resolvedAt": "2026-09-22T02:36:54.294Z"
+    },
+    "steam:3669870:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg"
+      ],
+      "hash": "918498496cb30b36cec93ebad589b132ddac8379",
+      "hashed": true,
+      "kind": "header",
+      "rel": "918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg",
+      "name": "CONTROL Resonant",
+      "resolvedAt": "2026-09-22T02:36:55.528Z"
+    },
+    "steam:4358690:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358690/7d57c2b339e03876a4c84db0d37d694992482791/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4358690/7d57c2b339e03876a4c84db0d37d694992482791/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/7d57c2b339e03876a4c84db0d37d694992482791/header_schinese.jpg"
+      ],
+      "hash": "7d57c2b339e03876a4c84db0d37d694992482791",
+      "hashed": true,
+      "kind": "header",
+      "rel": "7d57c2b339e03876a4c84db0d37d694992482791/header_schinese.jpg",
+      "name": "Graveyard Keeper 2",
+      "resolvedAt": "2026-09-22T02:36:56.580Z"
+    },
+    "steam:1912410:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg"
+      ],
+      "hash": "86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2",
+      "hashed": true,
+      "kind": "header",
+      "rel": "86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg",
+      "name": "Minecraft Dungeons II",
+      "resolvedAt": "2026-09-22T02:36:58.069Z"
+    },
+    "steam:1636440:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg"
+      ],
+      "hash": "0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa",
+      "hashed": true,
+      "kind": "header",
+      "rel": "0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg",
+      "name": "SILENT HILL: Townfall",
+      "resolvedAt": "2026-09-22T02:36:59.400Z"
+    },
+    "steam:4165890:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/ff419e630df3ddfb340afe92faa5db512e7ea56b/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4165890/ff419e630df3ddfb340afe92faa5db512e7ea56b/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4165890/ff419e630df3ddfb340afe92faa5db512e7ea56b/capsule_231x87.jpg"
+      ],
+      "hash": "ff419e630df3ddfb340afe92faa5db512e7ea56b",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "ff419e630df3ddfb340afe92faa5db512e7ea56b/capsule_231x87.jpg",
+      "name": "Steam Frame",
+      "resolvedAt": "2026-09-22T02:37:00.963Z"
     }
   },
   "taptap": {
