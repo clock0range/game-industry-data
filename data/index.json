@@ -336,10 +336,6 @@
   "current": {
     "date": "2026-09-22",
     "lastUpdated": "2026-09-22T10:32:00+08:00",
-    "apiStatus": {
-      "ios": "ok (15 games)",
-      "steamSellers": "failed (kept existing)",
-      "steamIndie": "failed (kept existing | old: gameName 8/8, appid 8/8, review 3/8, cover 8/8)"
-    }
+    "file": "data/2026-09-22.json"
   }
 }
