@@ -383,133 +383,21 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "WARDOGS",
-        "name": "WARDOGS",
-        "steamAppId": "1867240",
-        "appId": 1867240,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "rating": "79%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1867240",
-        "reviewSummary": "多半好评",
-        "tags": [
-          "Action",
-          "Multiplayer"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "1867240",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Valheim",
-        "name": "Valheim",
-        "steamAppId": "892970",
-        "appId": 892970,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
-        "rating": "93%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/892970",
-        "reviewSummary": "特别好评",
-        "tags": [
-          "Survival",
-          "Open World"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "892970",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
         "gameName": "Aniimo",
         "name": "Aniimo",
         "steamAppId": "4126040",
         "appId": 4126040,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "rating": "65%",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4126040.jpg",
+        "rating": "68%",
         "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4126040",
         "reviewSummary": "褒贬不一",
         "tags": [
-          "Free to Play"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4126040",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Bongo Cat",
-        "name": "Bongo Cat",
-        "steamAppId": "3419430",
-        "appId": 3419430,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430.jpg",
-        "rating": "",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3419430",
-        "reviewSummary": "",
-        "tags": [
-          "Casual"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "3419430",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "TBH: Task Bar Hero",
-        "name": "TBH: Task Bar Hero",
-        "steamAppId": "3678970",
-        "appId": 3678970,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
-        "rating": "",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3678970",
-        "reviewSummary": "",
-        "tags": [
-          "Casual"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "3678970",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Deadlock",
-        "name": "Deadlock",
-        "steamAppId": "1422450",
-        "appId": 1422450,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450.jpg",
-        "rating": "",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1422450",
-        "reviewSummary": "",
-        "tags": [
-          "MOBA",
-          "Shooter"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "1422450",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+          "Free to Play",
+          "Multiplayer"
+        ]
       },
       {
         "gameName": "EA SPORTS FC 27",
@@ -517,41 +405,115 @@
         "steamAppId": "4080220",
         "appId": 4080220,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "rating": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4080220.jpg",
+        "rating": "56%",
         "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4080220",
-        "reviewSummary": "",
+        "reviewSummary": "褒贬不一",
         "tags": [
-          "Sports"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4080220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+          "Sports",
+          "Simulation"
+        ]
       },
       {
-        "gameName": "[WoG] War of Genesis: Idle Loot",
-        "name": "[WoG] War of Genesis: Idle Loot",
-        "steamAppId": "4891320",
-        "appId": 4891320,
+        "gameName": "Halloween: The Game",
+        "name": "Halloween: The Game",
+        "steamAppId": "3219630",
+        "appId": 3219630,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3219630/header.jpg",
+        "rating": "67%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3219630",
+        "reviewSummary": "褒贬不一",
+        "tags": [
+          "Horror",
+          "Multiplayer"
+        ]
+      },
+      {
+        "gameName": "Steam Frame",
+        "name": "Steam Frame",
+        "steamAppId": "4165890",
+        "appId": 4165890,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4165890/header.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4891320",
+        "link": "https://store.steampowered.com/app/4165890",
+        "reviewSummary": "",
+        "tags": []
+      },
+      {
+        "gameName": "CONTROL Resonant",
+        "name": "CONTROL Resonant",
+        "steamAppId": "3669870",
+        "appId": 3669870,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/3669870/header.jpg",
+        "rating": "",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/3669870",
         "reviewSummary": "",
         "tags": [
-          "Idle"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4891320",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4891320.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+          "Action",
+          "Sci-Fi"
+        ]
+      },
+      {
+        "gameName": "Graveyard Keeper 2",
+        "name": "Graveyard Keeper 2",
+        "steamAppId": "4358690",
+        "appId": 4358690,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4358690/header.jpg",
+        "rating": "",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4358690",
+        "reviewSummary": "",
+        "tags": [
+          "Simulation",
+          "Crafting"
+        ]
+      },
+      {
+        "gameName": "Minecraft Dungeons II",
+        "name": "Minecraft Dungeons II",
+        "steamAppId": "1912410",
+        "appId": 1912410,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1912410/header.jpg",
+        "rating": "",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1912410",
+        "reviewSummary": "",
+        "tags": [
+          "Action",
+          "RPG"
+        ]
+      },
+      {
+        "gameName": "SILENT HILL: Townfall",
+        "name": "SILENT HILL: Townfall",
+        "steamAppId": "1636440",
+        "appId": 1636440,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1636440/header.jpg",
+        "rating": "",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1636440",
+        "reviewSummary": "",
+        "tags": [
+          "Horror",
+          "Adventure"
+        ]
       }
     ],
     "topSellers": [
@@ -848,7 +810,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-09-21",
+    "newGamesAsOf": "2026-09-22",
     "topSellersAsOf": "2026-09-22",
     "mostPlayedAsOf": "2026-09-22",
     "insightAsOf": "2026-09-20"
@@ -1238,7 +1200,7 @@
       "coverStatus": "verified",
       "coverKey": "name_伊莫",
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伊莫.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伊莫.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊莫.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/001850dc683a74c4cb245e237b541998.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
@@ -1257,7 +1219,7 @@
       "coverStatus": "verified",
       "coverKey": "name_未眠野",
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_未眠野.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_未眠野.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_未眠野.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/84e5de5280e4be0cfb16b256d05add4f.png/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
