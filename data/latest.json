@@ -3041,49 +3041,49 @@
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
       "asOf": "2026-09-21",
-      "lastChecked": "2026-09-21",
+      "lastChecked": "2026-09-22",
       "status": "fresh"
     },
     "miniappInsight": {
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
       "asOf": "2026-09-21",
-      "lastChecked": "2026-09-21",
+      "lastChecked": "2026-09-22",
       "status": "fresh"
     },
     "newGamesInsight": {
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
       "asOf": "2026-09-21",
-      "lastChecked": "2026-09-21",
+      "lastChecked": "2026-09-22",
       "status": "fresh"
     },
     "weeklyInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周",
       "asOf": "2026-08-20",
-      "lastChecked": "2026-09-21",
+      "lastChecked": "2026-09-22",
       "status": "stale"
     },
     "dailyBrief": {
       "cadence": "event",
       "cadenceLabel": "事件驱动",
       "asOf": "2026-08-20",
-      "lastChecked": "2026-09-21",
+      "lastChecked": "2026-09-22",
       "status": "stale"
     },
     "phenomenon": {
       "cadence": "monthly",
       "cadenceLabel": "每月/事件驱动",
       "asOf": "2026-09-21",
-      "lastChecked": "2026-09-21",
+      "lastChecked": "2026-09-22",
       "status": "fresh"
     },
     "steam.insight": {
       "cadence": "weekly",
       "cadenceLabel": "每周",
       "asOf": "2026-09-20",
-      "lastChecked": "2026-09-20",
+      "lastChecked": "2026-09-22",
       "status": "fresh"
     }
   }
