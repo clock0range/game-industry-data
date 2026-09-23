@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-09-23",
-    "lastUpdated": "2026-09-23T10:44:00+08:00",
+    "lastUpdated": "2026-09-23 15:02:49+08:00",
     "footerDate": "数据截至2026年9月23日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,54 +183,64 @@
     ],
     "highlights": [
       {
-        "title": "第20届亚运会电竞项目明日开赛：《王者荣耀》打头阵，中国队资格赛全胜",
+        "title": "《伊莫》移动端今日全球上线：三端互通，预约破 3000 万",
+        "titleLink": "https://gameforcemobile.com/news/5211-aniimo-mobile-pre-download-opens-ahead-of-september-23-global-launch",
+        "color": "blue",
+        "source": "Gameforce Mobile",
+        "sourceLink": "https://gameforcemobile.com/news/5211-aniimo-mobile-pre-download-opens-ahead-of-september-23-global-launch",
+        "body": "FunPlus 爪印工作室捉宠大世界 RPG《伊莫》(Aniimo) <strong>9/23</strong> 移动端全球上线，与 PC、主机实现<strong>三端数据互通</strong>。游戏全球预约量突破 <strong>3000 万</strong>，Steam 愿望单曾破 100 万，是本周最受关注的移动端新品；「首发即多端」正从加分项变为新游默认配置。",
+        "isNew": true,
+        "newUntil": "2026-09-24"
+      },
+      {
+        "title": "亚运会电竞项目 9/22 开赛：11 小项争金，中式题材首进亚运",
         "titleLink": "https://news.17173.com/content/09212026/092739103.shtml",
         "color": "orange",
         "source": "17173",
         "sourceLink": "https://news.17173.com/content/09212026/092739103.shtml",
-        "body": "第20届亚运会电竞项目 9/22–10/2 举办，共 <strong>11 个竞赛小项</strong>：《王者荣耀》《和平精英》亚运版本 9/22 打头阵，网易《永劫无间》9/23–24 出战（本届<strong>首个中式武术题材</strong>电竞项目），《第五人格》9/28–30 登场（亚运史上<strong>首个非对称竞技</strong>项目）。两个项目中国队均资格赛全胜晋级。",
+        "body": "第 20 届亚运会电竞项目 <strong>9/22–10/2</strong> 举行，共 <strong>11 个竞赛小项</strong>。《王者荣耀》《和平精英》亚运版本 9/22 打头阵，网易《永劫无间》<strong>9/23–24 出战</strong>（本届首个中式武术题材电竞项目），《第五人格》9/28–30 登场（亚运史上首个非对称竞技项目）。",
         "isNew": true,
-        "newUntil": "2026-09-23"
+        "newUntil": "2026-09-24"
       },
       {
-        "title": "本周 34 款游戏开测：腾讯《粒粒的小人国》《新三国》领衔",
-        "titleLink": "https://www.gameres.com/901202984.html",
-        "color": "blue",
-        "source": "GameRes游资网",
-        "sourceLink": "https://www.gameres.com/901202984.html",
-        "body": "9/21–9/27 共 <strong>34 款游戏开测</strong>：腾讯三国 SLG《新三国：荣耀再起》与生活模拟《粒粒的小人国》9/22 同日测试（后者 TapTap 预约 <strong>250 万+</strong>）；Funplus 捉宠大世界《伊莫》移动端 9/23 上线（PC/主机 9/16 已上线）；小智游戏开放世界 ARPG《未眠野》9/24 技术保密测试。",
-        "isNew": true,
-        "newUntil": "2026-09-23"
-      },
-      {
-        "title": "《勇者斗恶龙》系列累计销量突破 1 亿份",
-        "titleLink": "https://news.qq.com/rain/a/20260920A09J2Q00",
+        "title": "开发销售游戏外挂获利 41 万：两人获刑并处罚金",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7266ab3357d93452",
         "color": "purple",
-        "source": "腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20260920A09J2Q00",
-        "body": "Square Enix 官宣《勇者斗恶龙》系列累计出货及数字版销量<strong>突破 1 亿份</strong>。该系列 1986 年登陆 FC，40 年间发展为涵盖正传、外传及衍生作品的国民级 JRPG IP，是日式 RPG 商业生命周期的标杆样本。",
+        "source": "内江市中区人民法院",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7266ab3357d93452",
+        "body": "四川内江市市中区人民法院通报一起游戏外挂刑案：两名资深玩家开发并销售射击游戏外挂，非法获利 <strong>41 万余元</strong>，被判「提供侵入、非法控制计算机信息系统程序、工具罪」，各处有期徒刑三年、缓刑三年并处罚金 2 万元。法院提示：<strong>开发、销售、代理外挂均可能触及刑事红线</strong>。",
         "isNew": true,
-        "newUntil": "2026-09-23"
+        "newUntil": "2026-09-24"
       },
       {
-        "title": "8 月版号 215 款再创新高，12 款热门老产品新增双端版本",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html#/?id=nesSN202609211033389512abd0",
+        "title": "萌宠题材集中交卷：《塔塔冒险队》16 天 iOS 流水 4177 万",
+        "titleLink": "https://www.163.com/dy/article/L7GOLO05055662PF.html",
         "color": "green",
-        "source": "每日经济新闻",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html#/?id=nesSN202609211033389512abd0",
-        "body": "版号供给高位常态化：从 3 月 133 款到 8 月 <strong>215 款</strong>持续攀升，行业供给端宽松预期强化。本次完成版号信息变更的 12 款产品中多款热门老产品新增客户端/移动端版本，含腾讯《金铲铲之战》、恺英《斗罗大陆：诛邪传说》、吉比特《问剑长生》——<strong>双端互通</strong>成头部厂商扩大用户覆盖的标配打法。",
+        "source": "点点数据",
+        "sourceLink": "https://www.163.com/dy/article/L7GOLO05055662PF.html",
+        "body": "莉莉丝、FunPlus、B站三款捉宠新游本月集中上线，腾讯《王者万象棋》同期入场，赛道竞争密度罕见。其中《塔塔冒险队》国服公测 16 天累计 iOS 流水约 <strong>4177 万元</strong>；其国际服《Clash of Critters》海外累计流水约 <strong>3.83 亿元</strong>，美国、日本、中国台湾为前三大市场。",
         "isNew": true,
-        "newUntil": "2026-09-23"
+        "newUntil": "2026-09-24"
       },
       {
-        "title": "游戏板块估值回落至低位：ETF 连续 5 日净流入 6307 万元",
-        "titleLink": "https://www.163.com/dy/article/L7BEAG9S0512B07B.html",
-        "color": "green",
-        "source": "每日经济新闻",
-        "sourceLink": "https://www.163.com/dy/article/L7BEAG9S0512B07B.html",
-        "body": "中证动漫游戏指数 PE 23.09，处于近 1 年 <strong>20% 分位</strong>低位；游戏 ETF 国泰（516010）连续 5 个交易日资金净流入合计 <strong>6307 万元</strong>。9/21 早盘电魂网络领涨 10%，资金面与估值形成「低估值+政策利好+产品周期+AI 赋能」多重催化格局。",
+        "title": "贪玩出海发行突破：金庸 IP 矩阵成型，AI 短剧拓第二曲线",
+        "titleLink": "https://www.163.com/dy/article/L7H266FO0550WHYR.html",
+        "color": "purple",
+        "source": "财闻",
+        "sourceLink": "https://www.163.com/dy/article/L7H266FO0550WHYR.html",
+        "body": "港股游戏发行商贪玩（09890.HK）披露双线布局：海外版《热血江湖：归来》在<strong>韩国登顶 App Store 免费榜</strong>、泰国三大平台免费榜第一；已储备天龙八部、笑傲江湖、射雕三部曲等<strong>金庸 IP</strong>，《笑傲江湖：群侠传》等新品将陆续推出；同步推进 AI 短剧等新赛道。",
         "isNew": true,
-        "newUntil": "2026-09-23"
+        "newUntil": "2026-09-24"
+      },
+      {
+        "title": "微信小游戏首发激励金 9/22 起收紧：仅限同 appid 投放",
+        "titleLink": "https://www.163.com/dy/article/L54QC67Q05466ZM9.html",
+        "color": "green",
+        "source": "微信开放社区",
+        "sourceLink": "https://www.163.com/dy/article/L54QC67Q05466ZM9.html",
+        "body": "微信小游戏首发激励金规则 <strong>9/22</strong> 起收紧：阶段一、阶段二激励金仅可用于<strong>当前小游戏（同 appid）</strong>对应账户的广告投放，不再支持同主体跨游戏调配。单款 IAP 首发新游仍为首 5000 万流水不分成、累计激励上限 2000 万元，但「矩阵输血」打法失效，买量效率成为立项硬指标。",
+        "isNew": true,
+        "newUntil": "2026-09-24"
       }
     ],
     "taptap": {
