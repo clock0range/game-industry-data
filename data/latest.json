@@ -383,92 +383,32 @@
   "steam": {
     "indieCards": [
       {
+        "gameName": "WARDOGS",
+        "name": "WARDOGS",
+        "steamAppId": "1867240",
+        "appId": 1867240,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1867240/header.jpg",
+        "rating": "78%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1867240",
+        "reviewSummary": "多半好评",
+        "tags": []
+      },
+      {
         "gameName": "Aniimo",
         "name": "Aniimo",
         "steamAppId": "4126040",
         "appId": 4126040,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "rating": "68%",
+        "rating": "72%",
         "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4126040",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "Free to Play",
-          "Multiplayer"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4126040",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "EA SPORTS FC 27",
-        "name": "EA SPORTS FC 27",
-        "steamAppId": "4080220",
-        "appId": 4080220,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "rating": "56%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4080220",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "Sports",
-          "Simulation"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4080220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Halloween: The Game",
-        "name": "Halloween: The Game",
-        "steamAppId": "3219630",
-        "appId": 3219630,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3219630.jpg",
-        "rating": "67%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3219630",
-        "reviewSummary": "褒贬不一",
-        "tags": [
-          "Horror",
-          "Multiplayer"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "3219630",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3219630.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg",
-        "coverReason": "steam-hash"
-      },
-      {
-        "gameName": "CONTROL Resonant",
-        "name": "CONTROL Resonant",
-        "steamAppId": "3669870",
-        "appId": 3669870,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669870.jpg",
-        "rating": "",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/3669870",
-        "reviewSummary": "",
-        "tags": [
-          "Action",
-          "Sci-Fi"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "3669870",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669870.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg",
-        "coverReason": "steam-hash"
+        "reviewSummary": "多半好评",
+        "tags": []
       },
       {
         "gameName": "Graveyard Keeper 2",
@@ -476,43 +416,55 @@
         "steamAppId": "4358690",
         "appId": 4358690,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4358690.jpg",
-        "rating": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4358690.jpg",
+        "rating": "86%",
         "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4358690",
-        "reviewSummary": "",
-        "tags": [
-          "Simulation",
-          "Crafting"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "4358690",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4358690.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358690/7d57c2b339e03876a4c84db0d37d694992482791/header_schinese.jpg",
-        "coverReason": "steam-hash"
+        "reviewSummary": "特别好评",
+        "tags": []
       },
       {
-        "gameName": "Minecraft Dungeons II",
-        "name": "Minecraft Dungeons II",
-        "steamAppId": "1912410",
-        "appId": 1912410,
+        "gameName": "RuneScape: Dragonwilds",
+        "name": "RuneScape: Dragonwilds",
+        "steamAppId": "1374490",
+        "appId": 1374490,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1912410.jpg",
-        "rating": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1374490/header.jpg",
+        "rating": "80%",
         "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/1912410",
-        "reviewSummary": "",
-        "tags": [
-          "Action",
-          "RPG"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "1912410",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1912410.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1912410/86cbba83c1aaffa0b0efa4197ce29c2264ea9dc2/header.jpg",
-        "coverReason": "steam-hash"
+        "link": "https://store.steampowered.com/app/1374490",
+        "reviewSummary": "多半好评",
+        "tags": []
+      },
+      {
+        "gameName": "EA SPORTS FC 27",
+        "name": "EA SPORTS FC 27",
+        "steamAppId": "4080220",
+        "appId": 4080220,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4080220.jpg",
+        "rating": "56%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4080220",
+        "reviewSummary": "褒贬不一",
+        "tags": []
+      },
+      {
+        "gameName": "Dressmaker",
+        "name": "Dressmaker",
+        "steamAppId": "4019220",
+        "appId": 4019220,
+        "manualCover": "",
+        "finalCoverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/4019220/header.jpg",
+        "rating": "90%",
+        "meta": "9月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4019220",
+        "reviewSummary": "特别好评",
+        "tags": []
       },
       {
         "gameName": "SILENT HILL: Townfall",
@@ -520,40 +472,27 @@
         "steamAppId": "1636440",
         "appId": 1636440,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1636440.jpg",
-        "rating": "",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/1636440.jpg",
+        "rating": "72%",
         "meta": "9月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/1636440",
-        "reviewSummary": "",
-        "tags": [
-          "Horror",
-          "Adventure"
-        ],
-        "coverStatus": "verified",
-        "coverKey": "1636440",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1636440.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1636440/0ed1cb4bc30631f95b92f7f13bb06c15d49b4afa/header.jpg",
-        "coverReason": "steam-hash"
+        "reviewSummary": "多半好评",
+        "tags": []
       },
       {
-        "gameName": "Steam Frame",
-        "name": "Steam Frame",
-        "steamAppId": "4165890",
-        "appId": 4165890,
+        "gameName": "CONTROL Resonant",
+        "name": "CONTROL Resonant",
+        "steamAppId": "3669870",
+        "appId": 3669870,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4165890.jpg",
+        "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/3669870.jpg",
         "rating": "",
         "meta": "9月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4165890",
+        "link": "https://store.steampowered.com/app/3669870",
         "reviewSummary": "",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4165890",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4165890.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4165890/866449b5fb3696b4c869e954c1e98d1e19df0721/header.jpg",
-        "coverReason": "steam-hash"
+        "tags": []
       }
     ],
     "topSellers": [
@@ -850,7 +789,7 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-09-22",
+    "newGamesAsOf": "2026-09-23",
     "topSellersAsOf": "2026-09-23",
     "mostPlayedAsOf": "2026-09-23",
     "insightAsOf": "2026-09-20"
