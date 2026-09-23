@@ -1,7 +1,7 @@
 {
  "meta": {
   "date": "2026-09-23",
-  "lastUpdated": "2026-09-23T16:24:58+08:00",
+  "lastUpdated": "2026-09-23T16:28:11+08:00",
   "footerDate": "数据截至2026年9月23日",
   "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
  },
@@ -219,16 +219,6 @@
     "source": "点点数据",
     "sourceLink": "https://www.163.com/dy/article/L7GOLO05055662PF.html",
     "body": "莉莉丝、FunPlus、B站三款捉宠新游本月集中上线，腾讯《王者万象棋》同期入场，赛道竞争密度罕见。其中《塔塔冒险队》国服公测 16 天累计 iOS 流水约 <strong>4177 万元</strong>；其国际服《Clash of Critters》海外累计流水约 <strong>3.83 亿元</strong>，美国、日本、中国台湾为前三大市场。",
-    "isNew": true,
-    "newUntil": "2026-09-24"
-   },
-   {
-    "title": "微信小游戏首发激励金 9/22 起收紧：仅限同 appid 投放",
-    "titleLink": "https://www.163.com/dy/article/L54QC67Q05466ZM9.html",
-    "color": "green",
-    "source": "微信开放社区",
-    "sourceLink": "https://www.163.com/dy/article/L54QC67Q05466ZM9.html",
-    "body": "微信小游戏首发激励金规则 <strong>9/22</strong> 起收紧：阶段一、阶段二激励金仅可用于<strong>当前小游戏（同 appid）</strong>对应账户的广告投放，不再支持同主体跨游戏调配。单款 IAP 首发新游仍为首 5000 万流水不分成、累计激励上限 2000 万元，但「矩阵输血」打法失效，买量效率成为立项硬指标。",
     "isNew": true,
     "newUntil": "2026-09-24"
    }
@@ -3052,10 +3042,10 @@
    "status": "stale"
   },
   "phenomenon": {
-   "cadence": "monthly",
-   "cadenceLabel": "每月/事件驱动",
+   "cadence": "weekly",
+   "cadenceLabel": "每周",
    "asOf": "2026-09-21",
-   "lastChecked": "2026-09-22",
+   "lastChecked": "2026-09-23",
    "status": "fresh"
   },
   "steam.insight": {
