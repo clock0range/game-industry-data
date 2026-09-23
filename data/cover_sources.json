@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T02:37:07.561Z",
+  "updatedAt": "2026-09-23T02:54:01.855Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -482,6 +482,71 @@
       "rel": "ff419e630df3ddfb340afe92faa5db512e7ea56b/capsule_231x87.jpg",
       "name": "Steam Frame",
       "resolvedAt": "2026-09-22T02:37:00.963Z"
+    },
+    "steam:4019220:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg"
+      ],
+      "hash": "5e595cd60fb58b5d312be21ba4aa03d4a0131547",
+      "hashed": true,
+      "kind": "header",
+      "rel": "5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg",
+      "name": "Dressmaker",
+      "resolvedAt": "2026-09-23T02:53:46.989Z"
+    },
+    "steam:4358690:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4358690/dc3ca77850ff8feb2093f22fa5884cc63cd5be84/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4358690/dc3ca77850ff8feb2093f22fa5884cc63cd5be84/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/dc3ca77850ff8feb2093f22fa5884cc63cd5be84/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "dc3ca77850ff8feb2093f22fa5884cc63cd5be84",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "dc3ca77850ff8feb2093f22fa5884cc63cd5be84/capsule_231x87_schinese.jpg",
+      "name": "Graveyard Keeper 2",
+      "resolvedAt": "2026-09-23T02:53:49.901Z"
+    },
+    "steam:553850:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/0c2cc5fd31661f00aa661283137d1535af318c49/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/553850/0c2cc5fd31661f00aa661283137d1535af318c49/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/0c2cc5fd31661f00aa661283137d1535af318c49/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "0c2cc5fd31661f00aa661283137d1535af318c49",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "0c2cc5fd31661f00aa661283137d1535af318c49/capsule_231x87_schinese.jpg",
+      "name": "HELLDIVERS™ 2",
+      "resolvedAt": "2026-09-23T02:53:52.360Z"
+    },
+    "steam:3669870:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669870/0a88ffb02fd2b78eb3d82c68c64599e920d2382c/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3669870/0a88ffb02fd2b78eb3d82c68c64599e920d2382c/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/0a88ffb02fd2b78eb3d82c68c64599e920d2382c/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "0a88ffb02fd2b78eb3d82c68c64599e920d2382c",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "0a88ffb02fd2b78eb3d82c68c64599e920d2382c/capsule_231x87_schinese.jpg",
+      "name": "CONTROL Resonant",
+      "resolvedAt": "2026-09-23T02:53:55.281Z"
+    },
+    "steam:1636440:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1636440/f0dfc016ffde1f3001a60e106bc0c2063fefd695/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1636440/f0dfc016ffde1f3001a60e106bc0c2063fefd695/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636440/f0dfc016ffde1f3001a60e106bc0c2063fefd695/capsule_231x87.jpg"
+      ],
+      "hash": "f0dfc016ffde1f3001a60e106bc0c2063fefd695",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "f0dfc016ffde1f3001a60e106bc0c2063fefd695/capsule_231x87.jpg",
+      "name": "SILENT HILL: Townfall",
+      "resolvedAt": "2026-09-23T02:53:56.553Z"
     }
   },
   "taptap": {
