@@ -740,7 +740,13 @@
           "nameZh": "CS2",
           "current": 509649,
           "peak24h": 1452036,
-          "link": "https://store.steampowered.com/app/730/"
+          "link": "https://store.steampowered.com/app/730/",
+          "coverStatus": "verified",
+          "coverKey": "730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 2,
@@ -749,7 +755,13 @@
           "nameZh": "DOTA2",
           "current": 361602,
           "peak24h": 805725,
-          "link": "https://store.steampowered.com/app/570/"
+          "link": "https://store.steampowered.com/app/570/",
+          "coverStatus": "verified",
+          "coverKey": "570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 3,
@@ -758,7 +770,13 @@
           "nameZh": "",
           "current": 226209,
           "peak24h": 284112,
-          "link": "https://store.steampowered.com/app/1867240/"
+          "link": "https://store.steampowered.com/app/1867240/",
+          "coverStatus": "verified",
+          "coverKey": "1867240_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 4,
@@ -767,7 +785,13 @@
           "nameZh": "",
           "current": 150846,
           "peak24h": 166808,
-          "link": "https://store.steampowered.com/app/3419430/"
+          "link": "https://store.steampowered.com/app/3419430/",
+          "coverStatus": "verified",
+          "coverKey": "3419430_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 5,
@@ -776,7 +800,13 @@
           "nameZh": "英灵神殿",
           "current": 135959,
           "peak24h": 199097,
-          "link": "https://store.steampowered.com/app/892970/"
+          "link": "https://store.steampowered.com/app/892970/",
+          "coverStatus": "verified",
+          "coverKey": "892970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 6,
@@ -785,7 +815,13 @@
           "nameZh": "",
           "current": 132951,
           "peak24h": 731479,
-          "link": "https://store.steampowered.com/app/578080/"
+          "link": "https://store.steampowered.com/app/578080/",
+          "coverStatus": "verified",
+          "coverKey": "578080_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 7,
@@ -794,7 +830,13 @@
           "nameZh": "",
           "current": 119156,
           "peak24h": 182293,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "link": "https://store.steampowered.com/app/2676230/",
+          "coverStatus": "verified",
+          "coverKey": "2676230_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2676230_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2676230_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 8,
@@ -803,7 +845,13 @@
           "nameZh": "",
           "current": 100041,
           "peak24h": 145080,
-          "link": "https://store.steampowered.com/app/4126040/"
+          "link": "https://store.steampowered.com/app/4126040/",
+          "coverStatus": "verified",
+          "coverKey": "4126040_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 9,
@@ -812,7 +860,13 @@
           "nameZh": "漫威争锋",
           "current": 86299,
           "peak24h": 91129,
-          "link": "https://store.steampowered.com/app/2767030/"
+          "link": "https://store.steampowered.com/app/2767030/",
+          "coverStatus": "verified",
+          "coverKey": "2767030_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 10,
@@ -821,7 +875,13 @@
           "nameZh": "",
           "current": 82790,
           "peak24h": 108836,
-          "link": "https://store.steampowered.com/app/230410/"
+          "link": "https://store.steampowered.com/app/230410/",
+          "coverStatus": "verified",
+          "coverKey": "230410_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/61226446133ca3229607bbc1b5cd386a85b7902c/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 11,
@@ -830,7 +890,13 @@
           "nameZh": "彩虹六号:围攻",
           "current": 75988,
           "peak24h": 79313,
-          "link": "https://store.steampowered.com/app/359550/"
+          "link": "https://store.steampowered.com/app/359550/",
+          "coverStatus": "verified",
+          "coverKey": "359550_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 12,
@@ -839,7 +905,13 @@
           "nameZh": "",
           "current": 68847,
           "peak24h": 88743,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "link": "https://store.steampowered.com/app/3678970/",
+          "coverStatus": "verified",
+          "coverKey": "3678970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 13,
@@ -848,7 +920,13 @@
           "nameZh": "APEX英雄",
           "current": 66614,
           "peak24h": 254139,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 14,
@@ -857,7 +935,13 @@
           "nameZh": "",
           "current": 66396,
           "peak24h": 69585,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "link": "https://store.steampowered.com/app/1422450/",
+          "coverStatus": "verified",
+          "coverKey": "1422450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 15,
@@ -866,7 +950,13 @@
           "nameZh": "守望先锋",
           "current": 64743,
           "peak24h": 66960,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "link": "https://store.steampowered.com/app/2357570/",
+          "coverStatus": "verified",
+          "coverKey": "2357570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -875,7 +965,13 @@
           "nameZh": "绝地潜兵2",
           "current": 58442,
           "peak24h": 69548,
-          "link": "https://store.steampowered.com/app/553850/"
+          "link": "https://store.steampowered.com/app/553850/",
+          "coverStatus": "verified",
+          "coverKey": "553850_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/553850_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/553850_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         }
       ]
     },
@@ -1228,25 +1324,6 @@
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
     {
-      "date": "9月23日移动端上线",
-      "name": "伊莫",
-      "badge": "Funplus",
-      "badgeColor": "blue",
-      "meta": "Funplus 爪印工作室 · 捉宠大世界 · 多端互通",
-      "desc": "Funplus 爪印工作室的多人在线大世界捉宠 RPG，开放世界探索+即时战斗+多人玩法，通过「联结」机制借用伊莫能力飞行潜水；PC/主机 9/16 已上线，移动端 9/23 上线，三端数据互通。",
-      "tags": [
-        "捉宠",
-        "开放世界",
-        "多人"
-      ],
-      "coverStatus": "verified",
-      "coverKey": "name_伊莫",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伊莫.jpg",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊莫.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/001850dc683a74c4cb245e237b541998.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "date": "9月24日技术保密测试",
       "name": "未眠野",
       "badge": "开放世界ARPG",
@@ -1263,6 +1340,25 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_未眠野.jpg",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_未眠野.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/84e5de5280e4be0cfb16b256d05add4f.png/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
+      "date": "9月23日移动端上线",
+      "name": "伊莫",
+      "badge": "Funplus",
+      "badgeColor": "blue",
+      "meta": "Funplus 爪印工作室 · 捉宠大世界 · 多端互通",
+      "desc": "Funplus 爪印工作室的多人在线大世界捉宠 RPG，开放世界探索+即时战斗+多人玩法，通过「联结」机制借用伊莫能力飞行潜水；PC/主机 9/16 已上线，移动端 9/23 上线，三端数据互通。",
+      "tags": [
+        "捉宠",
+        "开放世界",
+        "多人"
+      ],
+      "coverStatus": "verified",
+      "coverKey": "name_伊莫",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伊莫.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_伊莫.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/001850dc683a74c4cb245e237b541998.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
