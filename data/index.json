@@ -361,7 +361,7 @@
     "apiStatus": {
       "ios": "ok (15 games)",
       "steamSellers": "failed (kept existing)",
-      "steamIndie": "failed (kept existing | old: gameName 8/8, appid 8/8, review 7/8, cover 8/8)"
+      "steamIndie": "skipped (SKIP_STEAM_EDGE=1 | kept existing)"
     }
   }
 }
