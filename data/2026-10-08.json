@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-10-08",
-    "lastUpdated": "2026-10-08 17:26:35+08:00",
+    "lastUpdated": "2026-10-08 18:03:46+08:00",
     "footerDate": "数据截至2026年10月8日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -216,13 +216,15 @@
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（9.15-9.21）",
-      "androidTop": "蓝色星原：旅谣",
-      "androidLink": "https://www.taptap.cn/app/593829",
-      "iosTop": "蓝色星原：旅谣",
-      "iosLink": "https://www.taptap.cn/app/593829",
-      "androidTopNote": "TapTap预约217万·评分8.9·全平台预订1200万（9月中旬，公测前）；本周官方页面自标预约榜#1为《伊莫》，已于9/16上线",
-      "iosTopNote": "同左（二手源，周更）"
+      "period": "TapTap预约榜热度（10.1-10.7）",
+      "androidLabel": "安卓预约热度最高",
+      "iosLabel": "iOS预约热度最高",
+      "androidTop": "剑侠世界4:无限",
+      "androidLink": "https://www.taptap.cn/app/762823",
+      "iosTop": "剑侠世界4:无限",
+      "iosLink": "https://www.taptap.cn/app/762823",
+      "androidTopNote": "10 月最受关注新游：全平台预约突破 900 万（官方预约站近 940 万），10/15 四端互通公测；TapTap 评分 7.6 · 官方入驻（二手源，周更）",
+      "iosTopNote": "同左（TapTap 单页承载安卓/iOS/PC 三端预约；二手源，周更）"
     },
     "freeRanking": [
       {
@@ -743,7 +745,7 @@
         "coverReason": "cdn_cache_hit"
       }
     ],
-    "insight": "本周（10/2–10/8）国庆假期推高 Steam 在线峰值：<strong>CS2 24 小时峰值 127.7 万</strong>、<strong>Dota 2 87.5 万</strong>，均为近期高位。10 月新作集中落地，<strong>AION 2 以 20.4 万同时在线稳居在线榜第 4</strong>，但好评率仅 63%（褒贬不一）——免费 MMO 的在线冲高与口碑爬坡明显脱节；买断制新作《Gears of War: E-Day》以 73% 好评率进入全球热销前 6，评价质量优于同期免费产品。独游侧《Aniimo》以 3.96 万在线继续领跑宠物养成赛道，是本周 F2P 新作中最稳的一支。",
+    "insight": "本周（10/2–10/8）<strong style=\"color:var(--cyan)\">国庆假期推高 Steam 在线峰值</strong>：<strong style=\"color:var(--green)\">CS2 24 小时峰值 127.7 万</strong>、<strong style=\"color:var(--green)\">Dota 2 87.5 万</strong>，均为近期高位。10 月新作集中落地，<strong style=\"color:var(--orange)\">AION 2 以 20.4 万同时在线稳居在线榜第 4</strong>，但好评率仅 <strong style=\"color:var(--red)\">63%（褒贬不一）</strong>——<strong style=\"color:var(--orange)\">免费 MMO 的在线冲高与口碑爬坡明显脱节</strong>；买断制新作《Gears of War: E-Day》以 <strong style=\"color:var(--green)\">73% 好评率进入全球热销前 6</strong>，评价质量优于同期免费产品。独游侧<strong style=\"color:var(--purple)\">《Aniimo》以 3.96 万在线继续领跑宠物养成赛道</strong>，是本周 F2P 新作中最稳的一支。",
     "mostPlayed": {
       "asOf": "2026-10-08",
       "updatedAt": "17:23",
@@ -2402,6 +2404,29 @@
   "investment": {
     "global": [
       {
+        "date": "2026年10月",
+        "title": "Bose 收购游戏音频中间件 FMOD 开发商 Firelight Technologies",
+        "desc": "FMOD 自 1995 年发布，是主流游戏互动音频中间件；收购金额未披露，Bose 表示将保持 FMOD 开放与广泛支持，并探索 VR/AR 与车载场景应用。",
+        "amount": "未披露",
+        "stage": "战略收购",
+        "investor": "Bose（美国）",
+        "link": "https://investgame.net/news/digest/40-2026",
+        "major": true,
+        "isNew": true,
+        "newUntil": "2026-10-15"
+      },
+      {
+        "date": "2026-10-01",
+        "title": "Confidence Interworks 收购日本手游开发商 flaggs 70% 股权",
+        "desc": "股份转让定于 10/1，Cygames 保留 15% 持股。收购方借此从人力派遣延伸至游戏研发与运营，看重 flaggs 的生成式 AI 开发流程与游戏专利。",
+        "amount": "未披露",
+        "stage": "股权收购",
+        "investor": "Confidence Interworks（TSE:7374）",
+        "link": "https://investgame.net/news/digest/40-2026",
+        "isNew": true,
+        "newUntil": "2026-10-09"
+      },
+      {
         "date": "2026-09-13",
         "title": "索尼音乐 286 亿日元收购《智龙迷城》开发商 23% 股份",
         "amount": "286亿日元",
@@ -2472,6 +2497,29 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026-10-01",
+        "title": "草蜢工作室脱离网易独立 · 网易两年收缩海外投资线",
+        "desc": "《英雄不再》开发商 Grasshopper Manufacture 自 10 月 1 日起正式脱离网易游戏、恢复独立运营。近两年网易已陆续关闭或退出 11 家海外工作室，海外投资战略明显收缩。",
+        "amount": "未披露",
+        "stage": "资本结构变动",
+        "investor": "网易游戏 → 独立（须田刚一）",
+        "link": "https://m.sohu.com/a/1083003708_122709106",
+        "major": true,
+        "isNew": true,
+        "newUntil": "2026-10-11"
+      },
+      {
+        "date": "2026-09-29",
+        "title": "腾讯领投土耳其休闲厂商 Circle Games A轮 2500 万美元",
+        "desc": "腾讯领投、BITKRAFT / e2vc 跟投，累计融资 3225 万美元；资金用于《Jelly Escape》拓展新市场并将团队规模翻倍。腾讯持续加码全球超休闲赛道。",
+        "amount": "2500万美元",
+        "stage": "A轮投资",
+        "investor": "腾讯（领投）",
+        "link": "https://www.163.com/dy/article/L808JVG00511CVBI.html",
+        "isNew": true,
+        "newUntil": "2026-10-09"
+      },
       {
         "date": "2026-09-13",
         "title": "恺英网络拟收购 Neosphere 49% 股权，间接参股娱美德",
