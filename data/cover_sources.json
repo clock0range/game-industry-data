@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T02:55:13.322Z",
+  "updatedAt": "2026-10-08T09:27:03.770Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -560,6 +560,175 @@
       "rel": "61226446133ca3229607bbc1b5cd386a85b7902c/capsule_231x87.jpg",
       "name": "Warframe",
       "resolvedAt": "2026-09-24T02:55:10.960Z"
+    },
+    "steam:3393110:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg"
+      ],
+      "hash": "10aa4b096ebe6af0d1dd7882e5ba004271aef6f7",
+      "hashed": true,
+      "kind": "header",
+      "rel": "10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg",
+      "name": "AION 2",
+      "resolvedAt": "2026-10-08T09:26:50.418Z"
+    },
+    "steam:2288340:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg"
+      ],
+      "hash": "13dea8084135fd130605b78189c82e39bf944c35",
+      "hashed": true,
+      "kind": "header",
+      "rel": "13dea8084135fd130605b78189c82e39bf944c35/header.jpg",
+      "name": "ACE COMBAT 8: WINGS OF THEVE",
+      "resolvedAt": "2026-10-08T09:26:51.699Z"
+    },
+    "steam:4078430:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4078430/ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg"
+      ],
+      "hash": "ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7",
+      "hashed": true,
+      "kind": "header",
+      "rel": "ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg",
+      "name": "STAR WARS: Galactic Racer™",
+      "resolvedAt": "2026-10-08T09:26:52.327Z"
+    },
+    "steam:3219030:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg"
+      ],
+      "hash": "fbb25f7da79e75dc595a72534a53ac02bbec854f",
+      "hashed": true,
+      "kind": "header",
+      "rel": "fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg",
+      "name": "Planet Zoo 2",
+      "resolvedAt": "2026-10-08T09:26:53.188Z"
+    },
+    "steam:3393110:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3393110/a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg"
+      ],
+      "hash": "a5a6447c5d72174e8e9eb7dfc68d37a9597bf619",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg",
+      "name": "AION 2",
+      "resolvedAt": "2026-10-08T09:26:54.312Z"
+    },
+    "steam:1304930:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/91a87d25d8f8a566ed05f8ddffb791480f070b8a/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1304930/91a87d25d8f8a566ed05f8ddffb791480f070b8a/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/91a87d25d8f8a566ed05f8ddffb791480f070b8a/capsule_231x87.jpg"
+      ],
+      "hash": "91a87d25d8f8a566ed05f8ddffb791480f070b8a",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "91a87d25d8f8a566ed05f8ddffb791480f070b8a/capsule_231x87.jpg",
+      "name": "The Outlast Trials",
+      "resolvedAt": "2026-10-08T09:26:55.133Z"
+    },
+    "steam:1091500:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "47c51dbc7cbec037001f1a23e1289d475be8fd5e",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg",
+      "name": "Cyberpunk 2077",
+      "resolvedAt": "2026-10-08T09:26:55.992Z"
+    },
+    "steam:3010850:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3010850/d0917fcdbf27faffb3380f6f67e71e90f84b7ed5/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3010850/d0917fcdbf27faffb3380f6f67e71e90f84b7ed5/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/d0917fcdbf27faffb3380f6f67e71e90f84b7ed5/capsule_231x87.jpg"
+      ],
+      "hash": "d0917fcdbf27faffb3380f6f67e71e90f84b7ed5",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "d0917fcdbf27faffb3380f6f67e71e90f84b7ed5/capsule_231x87.jpg",
+      "name": "Gears of War: E-Day",
+      "resolvedAt": "2026-10-08T09:26:56.578Z"
+    },
+    "steam:4078430:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/6522bdb94fb53b9f316809a4cf4522a1197ac2af/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4078430/6522bdb94fb53b9f316809a4cf4522a1197ac2af/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078430/6522bdb94fb53b9f316809a4cf4522a1197ac2af/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "6522bdb94fb53b9f316809a4cf4522a1197ac2af",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "6522bdb94fb53b9f316809a4cf4522a1197ac2af/capsule_231x87_schinese.jpg",
+      "name": "STAR WARS: Galactic Racer™",
+      "resolvedAt": "2026-10-08T09:26:57.398Z"
+    },
+    "steam:381210:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "Dead by Daylight",
+      "resolvedAt": "2026-10-08T09:26:58.187Z"
+    },
+    "steam:431960:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87_schinese.jpg",
+      "name": "Wallpaper Engine",
+      "resolvedAt": "2026-10-08T09:27:01.135Z"
+    },
+    "steam:1973530:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "Limbus Company",
+      "resolvedAt": "2026-10-08T09:27:01.951Z"
+    },
+    "steam:2507950:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2507950/521d834f17eea8c44d6f86fd4c2b60ad8488d5ac/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2507950/521d834f17eea8c44d6f86fd4c2b60ad8488d5ac/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/521d834f17eea8c44d6f86fd4c2b60ad8488d5ac/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "521d834f17eea8c44d6f86fd4c2b60ad8488d5ac",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "521d834f17eea8c44d6f86fd4c2b60ad8488d5ac/capsule_231x87_schinese.jpg",
+      "name": "Delta Force",
+      "resolvedAt": "2026-10-08T09:27:03.001Z"
     }
   },
   "taptap": {
@@ -634,6 +803,22 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-09-21T02:42:19.635Z"
+    },
+    "三国志王道天下": {
+      "url": "https://img-tc.tapimg.com/market/images/8c0cb2fedcb16af9639dcc7265cf2c9f.jpg/_tap_banner.jpg",
+      "appid": 824115,
+      "matchedName": "三国志：王道天下",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-10-08T09:26:46.957Z"
+    },
+    "无限大": {
+      "url": "https://img-tc.tapimg.com/market/images/5034c8f84072e936120bb95467344b2d.jpg/_tap_banner.jpg",
+      "appid": 383874,
+      "matchedName": "无限大",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-10-08T09:26:47.575Z"
     }
   },
   "failures": {}
