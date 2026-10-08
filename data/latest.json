@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-10-08",
-    "lastUpdated": "2026-10-08T17:23:00+08:00",
+    "lastUpdated": "2026-10-08 17:26:35+08:00",
     "footerDate": "数据截至2026年10月8日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,44 +183,36 @@
     ],
     "highlights": [
       {
-        "title": "《伊莫》移动端今日全球上线：三端互通，预约破 3000 万",
-        "titleLink": "https://gameforcemobile.com/news/5211-aniimo-mobile-pre-download-opens-ahead-of-september-23-global-launch",
+        "title": "Q4 大厂新作正面刚：网易《无限大》定档 2027/1/15",
+        "titleLink": "https://news.qq.com/rain/a/20261008A047QG00",
         "color": "blue",
-        "source": "Gameforce Mobile",
-        "sourceLink": "https://gameforcemobile.com/news/5211-aniimo-mobile-pre-download-opens-ahead-of-september-23-global-launch",
-        "body": "FunPlus 爪印工作室捉宠大世界 RPG《伊莫》(Aniimo) <strong>9/23</strong> 移动端全球上线，与 PC、主机实现<strong>三端数据互通</strong>。游戏全球预约量突破 <strong>3000 万</strong>，Steam 愿望单曾破 100 万，是本周最受关注的移动端新品；「首发即多端」正从加分项变为新游默认配置。",
-        "isNew": true,
-        "newUntil": "2026-09-24"
+        "source": "腾讯新闻·中金传媒",
+        "sourceLink": "https://news.qq.com/rain/a/20261008A047QG00",
+        "body": "中金传媒最新 pipeline 显示，国内厂商 4Q26 主力新品集中在 <strong>10 月下旬与 12 月</strong>：网易开放世界 <strong>《无限大》公测定档 2027/1/15</strong>，心动《仙境传说守爱2》冬季测试、哔哩哔哩《三国志:王道天下》iOS 预计 12/24 上线。生活模拟（《星布谷地》《粒粒的小人国》）与开放世界成为短期两个焦点品类。"
       },
       {
-        "title": "亚运会电竞项目 9/22 开赛：11 小项争金，中式题材首进亚运",
-        "titleLink": "https://news.17173.com/content/09212026/092739103.shtml",
-        "color": "orange",
-        "source": "17173",
-        "sourceLink": "https://news.17173.com/content/09212026/092739103.shtml",
-        "body": "第 20 届亚运会电竞项目 <strong>9/22–10/2</strong> 举行，共 <strong>11 个竞赛小项</strong>。《王者荣耀》《和平精英》亚运版本 9/22 打头阵，网易《永劫无间》<strong>9/23–24 出战</strong>（本届首个中式武术题材电竞项目），《第五人格》9/28–30 登场（亚运史上首个非对称竞技项目）。",
-        "isNew": true,
-        "newUntil": "2026-09-24"
-      },
-      {
-        "title": "开发销售游戏外挂获利 41 万：两人获刑并处罚金",
-        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7266ab3357d93452",
+        "title": "《原神》AI 声音仿冒案判赔 75 万：上海首例",
+        "titleLink": "https://www.sohu.com/a/1085150063_121181007",
         "color": "purple",
-        "source": "内江市中区人民法院",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7266ab3357d93452",
-        "body": "四川内江市市中区人民法院通报一起游戏外挂刑案：两名资深玩家开发并销售射击游戏外挂，非法获利 <strong>41 万余元</strong>，被判「提供侵入、非法控制计算机信息系统程序、工具罪」，各处有期徒刑三年、缓刑三年并处罚金 2 万元。法院提示：<strong>开发、销售、代理外挂均可能触及刑事红线</strong>。",
-        "isNew": true,
-        "newUntil": "2026-09-24"
+        "source": "搜狐·案件聚焦",
+        "sourceLink": "https://www.sohu.com/a/1085150063_121181007",
+        "body": "上海市浦东新区人民法院宣判上海首例涉 AI 声音仿冒不正当竞争案：被告变声软件提供《原神》<strong>63 款角色声音资源包</strong>供付费变声，声纹鉴定认定与原声「倾向认定同一」，且被告自认用未授权角色音频训练模型，判令停止侵权并<strong>赔偿 75 万元</strong>。叠加最高法 9/7 涉 AI 纠纷《意见》，AI 拟声正式脱离法律灰色地带。"
       },
       {
-        "title": "萌宠题材集中交卷：《塔塔冒险队》16 天 iOS 流水 4177 万",
-        "titleLink": "https://www.163.com/dy/article/L7GOLO05055662PF.html",
+        "title": "黄金周游戏 IP 线下战：百余 IP 聚上海",
+        "titleLink": "https://news.qq.com/rain/a/20261007A052VW00",
+        "color": "orange",
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261007A052VW00",
+        "body": "10/2–10/6 小红书 RED LAND 2026 在上海复兴岛举行，集结《王者荣耀》《原神》《崩坏：星穹铁道》《黑神话：悟空》《鸣潮》等 <strong>100 多个 IP</strong>，数量较上届翻倍；同期 B 站 WF 手办展、广州 AGF/CICF 接力。主办方称持票用户约 <strong>七至八成来自上海以外</strong>——游戏活动正直接转化为跨城出行与假日消费。"
+      },
+      {
+        "title": "拳头游戏广州设全资子公司「傲拳」",
+        "titleLink": "https://news.qq.com/rain/a/20261007A052VW00",
         "color": "green",
-        "source": "点点数据",
-        "sourceLink": "https://www.163.com/dy/article/L7GOLO05055662PF.html",
-        "body": "莉莉丝、FunPlus、B站三款捉宠新游本月集中上线，腾讯《王者万象棋》同期入场，赛道竞争密度罕见。其中《塔塔冒险队》国服公测 16 天累计 iOS 流水约 <strong>4177 万元</strong>；其国际服《Clash of Critters》海外累计流水约 <strong>3.83 亿元</strong>，美国、日本、中国台湾为前三大市场。",
-        "isNew": true,
-        "newUntil": "2026-09-24"
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261007A052VW00",
+        "body": "拳头游戏已在广州成立全资子公司傲拳（广州）网络科技，正招聘主策、原画、技术美术、QA 等岗位，至少涉及两款未公布项目：城建 SLG <strong>「代号 Griffin」</strong>与 UE5 多人第三人称动作 <strong>「Riot Discovery」</strong>。拳头由竞技与卡牌向 SLG、动作赛道扩线，对腾讯相当于补入一支具备全球协作能力的研发团队。"
       }
     ],
     "taptap": {
@@ -373,23 +365,26 @@
   "steam": {
     "indieCards": [
       {
-        "gameName": "WARDOGS",
-        "name": "WARDOGS",
-        "steamAppId": "1867240",
-        "appId": 1867240,
+        "gameName": "AION 2",
+        "name": "AION 2",
+        "steamAppId": "3393110",
+        "appId": 3393110,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "rating": "78%",
-        "meta": "9月上线",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
+        "rating": "63%",
+        "meta": "10月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/1867240",
-        "reviewSummary": "多半好评",
-        "tags": [],
+        "link": "https://store.steampowered.com/app/3393110",
+        "reviewSummary": "褒贬不一",
+        "tags": [
+          "MMORPG",
+          "Free to Play"
+        ],
         "coverStatus": "verified",
-        "coverKey": "1867240",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
+        "coverKey": "3393110",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "gameName": "Aniimo",
@@ -403,7 +398,10 @@
         "reviews": "",
         "link": "https://store.steampowered.com/app/4126040",
         "reviewSummary": "多半好评",
-        "tags": [],
+        "tags": [
+          "Free to Play",
+          "Multiplayer"
+        ],
         "coverStatus": "verified",
         "coverKey": "4126040",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
@@ -411,116 +409,134 @@
         "coverReason": "cdn_cache_hit"
       },
       {
-        "gameName": "Graveyard Keeper 2",
-        "name": "Graveyard Keeper 2",
-        "steamAppId": "4358690",
-        "appId": 4358690,
+        "gameName": "Gears of War: E-Day",
+        "name": "Gears of War: E-Day",
+        "steamAppId": "3010850",
+        "appId": 3010850,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4358690.jpg",
-        "rating": "86%",
-        "meta": "9月上线",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850.jpg",
+        "rating": "73%",
+        "meta": "10月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4358690",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4358690",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4358690.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "RuneScape: Dragonwilds",
-        "name": "RuneScape: Dragonwilds",
-        "steamAppId": "1374490",
-        "appId": 1374490,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490.jpg",
-        "rating": "80%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/1374490",
+        "link": "https://store.steampowered.com/app/3010850",
         "reviewSummary": "多半好评",
-        "tags": [],
+        "tags": [
+          "Action",
+          "Shooter"
+        ],
         "coverStatus": "verified",
-        "coverKey": "1374490",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1374490.jpg",
+        "coverKey": "3010850",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850.jpg",
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit"
       },
       {
-        "gameName": "EA SPORTS FC 27",
-        "name": "EA SPORTS FC 27",
-        "steamAppId": "4080220",
-        "appId": 4080220,
+        "gameName": "ACE COMBAT 8: WINGS OF THEVE",
+        "name": "ACE COMBAT 8: WINGS OF THEVE",
+        "steamAppId": "2288340",
+        "appId": 2288340,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "rating": "56%",
-        "meta": "9月上线",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2288340.jpg",
+        "rating": "79%",
+        "meta": "10月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/4080220",
-        "reviewSummary": "褒贬不一",
-        "tags": [],
+        "link": "https://store.steampowered.com/app/2288340",
+        "reviewSummary": "多半好评",
+        "tags": [
+          "Flight",
+          "Action"
+        ],
         "coverStatus": "verified",
-        "coverKey": "4080220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Dressmaker",
-        "name": "Dressmaker",
-        "steamAppId": "4019220",
-        "appId": 4019220,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4019220.jpg",
-        "rating": "90%",
-        "meta": "9月上线",
-        "reviews": "",
-        "link": "https://store.steampowered.com/app/4019220",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "coverStatus": "verified",
-        "coverKey": "4019220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4019220.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg",
+        "coverKey": "2288340",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2288340.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg",
         "coverReason": "steam-hash"
       },
       {
-        "gameName": "SILENT HILL: Townfall",
-        "name": "SILENT HILL: Townfall",
-        "steamAppId": "1636440",
-        "appId": 1636440,
+        "gameName": "STAR WARS: Galactic Racer",
+        "name": "STAR WARS: Galactic Racer",
+        "steamAppId": "4078430",
+        "appId": 4078430,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1636440.jpg",
-        "rating": "72%",
-        "meta": "9月上线",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430.jpg",
+        "rating": "78%",
+        "meta": "10月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/1636440",
+        "link": "https://store.steampowered.com/app/4078430",
         "reviewSummary": "多半好评",
-        "tags": [],
+        "tags": [
+          "Racing",
+          "Action"
+        ],
         "coverStatus": "verified",
-        "coverKey": "1636440",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1636440.jpg",
+        "coverKey": "4078430",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/ad01abbb5196432a7ec9cd4656fa2ce0f735c3d7/header_schinese.jpg",
+        "coverReason": "steam-hash"
+      },
+      {
+        "gameName": "Phantom Blade Zero",
+        "name": "Phantom Blade Zero",
+        "steamAppId": "4115450",
+        "appId": 4115450,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+        "rating": "",
+        "meta": "10月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/4115450",
+        "reviewSummary": "",
+        "tags": [
+          "Action",
+          "RPG"
+        ],
+        "coverStatus": "verified",
+        "coverKey": "4115450",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit"
       },
       {
-        "gameName": "CONTROL Resonant",
-        "name": "CONTROL Resonant",
-        "steamAppId": "3669870",
-        "appId": 3669870,
+        "gameName": "Planet Zoo 2",
+        "name": "Planet Zoo 2",
+        "steamAppId": "3219030",
+        "appId": 3219030,
         "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669870.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3219030.jpg",
         "rating": "",
-        "meta": "9月上线",
+        "meta": "10月上线",
         "reviews": "",
-        "link": "https://store.steampowered.com/app/3669870",
+        "link": "https://store.steampowered.com/app/3219030",
         "reviewSummary": "",
-        "tags": [],
+        "tags": [
+          "Simulation",
+          "Management"
+        ],
         "coverStatus": "verified",
-        "coverKey": "3669870",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669870.jpg",
+        "coverKey": "3219030",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3219030.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg",
+        "coverReason": "steam-hash"
+      },
+      {
+        "gameName": "Clive Barker's Hellraiser: Revival",
+        "name": "Clive Barker's Hellraiser: Revival",
+        "steamAppId": "1551980",
+        "appId": 1551980,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1551980.jpg",
+        "rating": "",
+        "meta": "10月上线",
+        "reviews": "",
+        "link": "https://store.steampowered.com/app/1551980",
+        "reviewSummary": "",
+        "tags": [
+          "Horror",
+          "Multiplayer"
+        ],
+        "coverStatus": "verified",
+        "coverKey": "1551980",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1551980.jpg",
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit"
       }
@@ -530,7 +546,7 @@
         "rank": 1,
         "name": "Dota 2",
         "appId": 570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -538,13 +554,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/570"
+        "link": "https://store.steampowered.com/app/570",
+        "coverStatus": "verified",
+        "coverKey": "570_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 2,
         "name": "AION 2",
         "appId": 3393110,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3393110/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -552,13 +574,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3393110"
+        "link": "https://store.steampowered.com/app/3393110",
+        "coverStatus": "verified",
+        "coverKey": "3393110_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/a5a6447c5d72174e8e9eb7dfc68d37a9597bf619/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 3,
         "name": "Counter-Strike 2",
         "appId": 730,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -566,13 +594,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/730"
+        "link": "https://store.steampowered.com/app/730",
+        "coverStatus": "verified",
+        "coverKey": "730_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 4,
         "name": "The Outlast Trials",
         "appId": 1304930,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1304930/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1304930_icon.jpg",
         "price": "10.50 AED",
         "originalPrice": null,
         "discount": "-90%",
@@ -580,13 +614,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1304930"
+        "link": "https://store.steampowered.com/app/1304930",
+        "coverStatus": "verified",
+        "coverKey": "1304930_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1304930_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1304930_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1304930/91a87d25d8f8a566ed05f8ddffb791480f070b8a/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 5,
         "name": "Cyberpunk 2077",
         "appId": 1091500,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1091500/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
         "price": "68.70 AED",
         "originalPrice": null,
         "discount": "-70%",
@@ -594,13 +634,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1091500"
+        "link": "https://store.steampowered.com/app/1091500",
+        "coverStatus": "verified",
+        "coverKey": "1091500_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 6,
         "name": "Gears of War: E-Day",
         "appId": 3010850,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3010850/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850_icon.jpg",
         "price": "269.00 AED",
         "originalPrice": null,
         "discount": null,
@@ -608,13 +654,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3010850"
+        "link": "https://store.steampowered.com/app/3010850",
+        "coverStatus": "verified",
+        "coverKey": "3010850_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3010850/d0917fcdbf27faffb3380f6f67e71e90f84b7ed5/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 7,
         "name": "EA SPORTS FC 27",
         "appId": 4080220,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4080220/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
         "price": "269.00 AED",
         "originalPrice": null,
         "discount": null,
@@ -622,13 +674,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4080220"
+        "link": "https://store.steampowered.com/app/4080220",
+        "coverStatus": "verified",
+        "coverKey": "4080220_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 8,
         "name": "STAR WARS: Galactic Racer",
         "appId": 4078430,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4078430/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430_icon.jpg",
         "price": "165.00 AED",
         "originalPrice": null,
         "discount": null,
@@ -636,13 +694,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4078430"
+        "link": "https://store.steampowered.com/app/4078430",
+        "coverStatus": "verified",
+        "coverKey": "4078430_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/6522bdb94fb53b9f316809a4cf4522a1197ac2af/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 9,
         "name": "Dead by Daylight",
         "appId": 381210,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
         "price": "29.19 AED",
         "originalPrice": null,
         "discount": "-60%",
@@ -650,13 +714,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/381210"
+        "link": "https://store.steampowered.com/app/381210",
+        "coverStatus": "verified",
+        "coverKey": "381210_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg",
+        "coverReason": "steam-legacy-path"
       },
       {
         "rank": 10,
         "name": "Overwatch",
         "appId": 2357570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2357570/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -664,10 +734,16 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/2357570"
+        "link": "https://store.steampowered.com/app/2357570",
+        "coverStatus": "verified",
+        "coverKey": "2357570_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       }
     ],
-    "insight": "本周（9/14–9/20）Steam 独游热度向<strong>桌面挂机 / 增量</strong>品类集中：Bongo Cat（14.2 万在线）、TBH: Task Bar Hero（7.2 万）、[WoG] War of Genesis（4.1 万）三款同时挤进 Steam 在线榜前 30，9/14 更单日集中上架《米粒新世界》《幻鸟之森》《How to Grow Your Sausage》等同类新品；国产独游《导师模拟器：桌面实验室》（国区 ¥29.99）已在此赛道站稳。动作向由《WARDOGS》领跑（在线 #3 / 热销 #2），恐怖农场 RPG《欢迎来到古原镇》以 92% 好评验证「模拟经营 + 类型混搭」仍有空间。桌面挂机正从零星试水变成小团队可复制的爆款路径。",
+    "insight": "本周（10/2–10/8）国庆假期推高 Steam 在线峰值：<strong>CS2 24 小时峰值 127.7 万</strong>、<strong>Dota 2 87.5 万</strong>，均为近期高位。10 月新作集中落地，<strong>AION 2 以 20.4 万同时在线稳居在线榜第 4</strong>，但好评率仅 63%（褒贬不一）——免费 MMO 的在线冲高与口碑爬坡明显脱节；买断制新作《Gears of War: E-Day》以 73% 好评率进入全球热销前 6，评价质量优于同期免费产品。独游侧《Aniimo》以 3.96 万在线继续领跑宠物养成赛道，是本周 F2P 新作中最稳的一支。",
     "mostPlayed": {
       "asOf": "2026-10-08",
       "updatedAt": "17:23",
@@ -680,7 +756,13 @@
           "nameZh": "CS2",
           "current": 495713,
           "peak24h": 1276600,
-          "link": "https://store.steampowered.com/app/730/"
+          "link": "https://store.steampowered.com/app/730/",
+          "coverStatus": "verified",
+          "coverKey": "730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 2,
@@ -689,7 +771,13 @@
           "nameZh": "DOTA2",
           "current": 447793,
           "peak24h": 875235,
-          "link": "https://store.steampowered.com/app/570/"
+          "link": "https://store.steampowered.com/app/570/",
+          "coverStatus": "verified",
+          "coverKey": "570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 3,
@@ -698,7 +786,13 @@
           "nameZh": "绝地求生",
           "current": 219125,
           "peak24h": 668378,
-          "link": "https://store.steampowered.com/app/578080/"
+          "link": "https://store.steampowered.com/app/578080/",
+          "coverStatus": "verified",
+          "coverKey": "578080_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 4,
@@ -707,7 +801,13 @@
           "nameZh": "",
           "current": 203699,
           "peak24h": 373854,
-          "link": "https://store.steampowered.com/app/3393110/"
+          "link": "https://store.steampowered.com/app/3393110/",
+          "coverStatus": "verified",
+          "coverKey": "3393110_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 5,
@@ -716,7 +816,13 @@
           "nameZh": "",
           "current": 159115,
           "peak24h": 179079,
-          "link": "https://store.steampowered.com/app/3419430/"
+          "link": "https://store.steampowered.com/app/3419430/",
+          "coverStatus": "verified",
+          "coverKey": "3419430_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 6,
@@ -725,7 +831,13 @@
           "nameZh": "",
           "current": 91962,
           "peak24h": 160798,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "link": "https://store.steampowered.com/app/1422450/",
+          "coverStatus": "verified",
+          "coverKey": "1422450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 7,
@@ -734,7 +846,13 @@
           "nameZh": "",
           "current": 74987,
           "peak24h": 168965,
-          "link": "https://store.steampowered.com/app/1867240/"
+          "link": "https://store.steampowered.com/app/1867240/",
+          "coverStatus": "verified",
+          "coverKey": "1867240_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 8,
@@ -743,7 +861,13 @@
           "nameZh": "",
           "current": 72082,
           "peak24h": 178056,
-          "link": "https://store.steampowered.com/app/2676230/"
+          "link": "https://store.steampowered.com/app/2676230/",
+          "coverStatus": "verified",
+          "coverKey": "2676230_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2676230_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2676230_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 9,
@@ -752,7 +876,13 @@
           "nameZh": "壁纸引擎",
           "current": 65410,
           "peak24h": 110277,
-          "link": "https://store.steampowered.com/app/431960/"
+          "link": "https://store.steampowered.com/app/431960/",
+          "coverStatus": "verified",
+          "coverKey": "431960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg",
+          "coverReason": "steam-legacy-path"
         },
         {
           "rank": 10,
@@ -761,7 +891,13 @@
           "nameZh": "Apex英雄",
           "current": 65221,
           "peak24h": 203400,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 11,
@@ -770,7 +906,13 @@
           "nameZh": "边狱公司",
           "current": 63521,
           "peak24h": 69983,
-          "link": "https://store.steampowered.com/app/1973530/"
+          "link": "https://store.steampowered.com/app/1973530/",
+          "coverStatus": "verified",
+          "coverKey": "1973530_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1973530_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1973530_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1973530/capsule_231x87.jpg",
+          "coverReason": "steam-legacy-path"
         },
         {
           "rank": 12,
@@ -779,7 +921,13 @@
           "nameZh": "",
           "current": 58019,
           "peak24h": 72554,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "link": "https://store.steampowered.com/app/3678970/",
+          "coverStatus": "verified",
+          "coverKey": "3678970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 13,
@@ -788,7 +936,13 @@
           "nameZh": "军团要塞2",
           "current": 57346,
           "peak24h": 76321,
-          "link": "https://store.steampowered.com/app/440/"
+          "link": "https://store.steampowered.com/app/440/",
+          "coverStatus": "verified",
+          "coverKey": "440_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/440_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/440_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 14,
@@ -797,7 +951,13 @@
           "nameZh": "三角洲行动",
           "current": 57049,
           "peak24h": 128094,
-          "link": "https://store.steampowered.com/app/2507950/"
+          "link": "https://store.steampowered.com/app/2507950/",
+          "coverStatus": "verified",
+          "coverKey": "2507950_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2507950_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2507950_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2507950/521d834f17eea8c44d6f86fd4c2b60ad8488d5ac/capsule_231x87_schinese.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 15,
@@ -806,7 +966,13 @@
           "nameZh": "英灵神殿",
           "current": 55005,
           "peak24h": 147960,
-          "link": "https://store.steampowered.com/app/892970/"
+          "link": "https://store.steampowered.com/app/892970/",
+          "coverStatus": "verified",
+          "coverKey": "892970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/892970_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -815,27 +981,25 @@
           "nameZh": "守望先锋",
           "current": 52135,
           "peak24h": 88242,
-          "link": "https://store.steampowered.com/app/2357570/"
+          "link": "https://store.steampowered.com/app/2357570/",
+          "coverStatus": "verified",
+          "coverKey": "2357570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2357570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         }
       ]
     },
-    "newGamesAsOf": "2026-09-23",
+    "newGamesAsOf": "2026-10-08",
     "topSellersAsOf": "2026-10-08",
     "mostPlayedAsOf": "2026-10-08",
-    "insightAsOf": "2026-09-20"
+    "insightAsOf": "2026-10-08"
   },
   "miniapp": {
     "ranking": [
       {
         "rank": 1,
-        "name": "无尽冬日",
-        "category": "对战",
-        "publisher": "点点互动",
-        "change": "▲4",
-        "changeDir": "up"
-      },
-      {
-        "rank": 2,
         "name": "三国：冰河时代",
         "category": "策略",
         "publisher": "欢游互动",
@@ -843,143 +1007,143 @@
         "changeDir": "flat"
       },
       {
-        "rank": 3,
+        "rank": 2,
         "name": "向僵尸开炮",
         "category": "益智",
         "publisher": "盛昌网络",
-        "change": "▼2",
-        "changeDir": "down"
-      },
-      {
-        "rank": 4,
-        "name": "向往的生活",
-        "category": "模拟经营",
-        "publisher": "深圳必凡娱乐",
-        "change": "▲4",
-        "changeDir": "up"
-      },
-      {
-        "rank": 5,
-        "name": "奔奔王国",
-        "category": "对战",
-        "publisher": "点点松云",
-        "change": "▲2",
-        "changeDir": "up"
-      },
-      {
-        "rank": 6,
-        "name": "青云诀之伏魔",
-        "category": "MMO",
-        "publisher": "元游",
-        "change": "▲34",
-        "changeDir": "up"
-      },
-      {
-        "rank": 7,
-        "name": "浪漫餐厅",
-        "category": "益智",
-        "publisher": "柠檬微趣",
-        "change": "▼4",
-        "changeDir": "down"
-      },
-      {
-        "rank": 8,
-        "name": "梦幻消除战",
-        "category": "模拟经营",
-        "publisher": "广州喜势网络",
-        "change": "▼4",
-        "changeDir": "down"
-      },
-      {
-        "rank": 9,
-        "name": "疯狂水世界",
-        "category": "模拟经营",
-        "publisher": "益世界网络",
-        "change": "▼3",
-        "changeDir": "down"
-      },
-      {
-        "rank": 10,
-        "name": "永远的蔚蓝星球",
-        "category": "塔防",
-        "publisher": "广州颂悦",
-        "change": "▼1",
-        "changeDir": "down"
-      },
-      {
-        "rank": 11,
-        "name": "向末日开炮",
-        "category": "末日塔防",
-        "publisher": "易多量",
         "change": "/",
         "changeDir": "flat"
       },
       {
-        "rank": 12,
-        "name": "武侠大明星",
-        "category": "塔防",
-        "publisher": "盛昌网络",
+        "rank": 3,
+        "name": "疯狂水世界",
+        "category": "模拟经营",
+        "publisher": "益世界网络",
+        "change": "/",
+        "changeDir": "flat"
+      },
+      {
+        "rank": 4,
+        "name": "青云诀之伏魔",
+        "category": "MMO",
+        "publisher": "元游",
+        "change": "▲2",
+        "changeDir": "up"
+      },
+      {
+        "rank": 5,
+        "name": "无尽冬日",
+        "category": "对战",
+        "publisher": "点点互动",
+        "change": "▼1",
+        "changeDir": "down"
+      },
+      {
+        "rank": 6,
+        "name": "向末日开炮",
+        "category": "末日塔防",
+        "publisher": "易多量",
+        "change": "▼1",
+        "changeDir": "down"
+      },
+      {
+        "rank": 7,
+        "name": "我的花园世界",
+        "category": "模拟经营",
+        "publisher": "麟贝互娱",
+        "change": "/",
+        "changeDir": "flat"
+      },
+      {
+        "rank": 8,
+        "name": "造化仙府",
+        "category": "模拟经营",
+        "publisher": "沛炫网络",
+        "change": "新进榜",
+        "changeDir": "new"
+      },
+      {
+        "rank": 9,
+        "name": "浪漫餐厅",
+        "category": "益智",
+        "publisher": "柠檬微趣",
+        "change": "▼1",
+        "changeDir": "down"
+      },
+      {
+        "rank": 10,
+        "name": "精英军团",
+        "category": "",
+        "publisher": "",
+        "change": "▲3",
+        "changeDir": "up"
+      },
+      {
+        "rank": 11,
+        "name": "向往的生活",
+        "category": "模拟经营",
+        "publisher": "深圳必凡娱乐",
         "change": "▼2",
         "changeDir": "down"
       },
       {
+        "rank": 12,
+        "name": "梦幻消除战",
+        "category": "模拟经营",
+        "publisher": "广州喜势网络",
+        "change": "▼1",
+        "changeDir": "down"
+      },
+      {
         "rank": 13,
-        "name": "灵画师",
-        "category": "ARPG",
-        "publisher": "广州光游网络",
-        "change": "▲4",
-        "changeDir": "up"
+        "name": "奔奔王国",
+        "category": "对战",
+        "publisher": "点点松云",
+        "change": "▼1",
+        "changeDir": "down"
       },
       {
         "rank": 14,
-        "name": "保卫向日葵",
+        "name": "永远的蔚蓝星球",
         "category": "塔防",
-        "publisher": "一起梦游科技",
-        "change": "▲5",
-        "changeDir": "up"
+        "publisher": "广州颂悦",
+        "change": "/",
+        "changeDir": "flat"
       },
       {
         "rank": 15,
-        "name": "王者舰队",
-        "category": "策略",
-        "publisher": "赫德时代",
+        "name": "大王请上阵",
+        "category": "角色卡牌",
+        "publisher": "悦莱顺",
         "change": "▲1",
         "changeDir": "up"
       },
       {
         "rank": 16,
-        "name": "造化仙府",
-        "category": "模拟经营",
-        "publisher": "沛炫网络",
-        "change": "▼3",
+        "name": "永夜起源",
+        "category": "卡牌",
+        "publisher": "广州招崭",
+        "change": "▼1",
         "changeDir": "down"
       },
       {
         "rank": 17,
-        "name": "大王请上阵",
-        "category": "角色卡牌",
-        "publisher": "悦莱顺",
-        "change": "▼2",
-        "changeDir": "down"
+        "name": "灵画师",
+        "category": "ARPG",
+        "publisher": "广州光游网络",
+        "change": "▲2",
+        "changeDir": "up"
       },
       {
         "rank": 18,
-        "name": "永夜起源",
-        "category": "卡牌",
-        "publisher": "广州招崭",
-        "change": "▼6",
-        "changeDir": "down"
+        "name": "下方了",
+        "category": "",
+        "publisher": "飞鱼星空科技",
+        "change": "▲4",
+        "changeDir": "up"
       },
       {
         "rank": 19,
-        "name": "腾讯欢乐斗地主",
-        "category": "牌类",
-        "publisher": "腾讯",
-        "change": "▼5",
-        "changeDir": "down"
-      },
-      {
-        "rank": 20,
         "name": "跃动小子",
         "category": "益智",
         "publisher": "波克科技",
@@ -987,95 +1151,104 @@
         "changeDir": "down"
       },
       {
+        "rank": 20,
+        "name": "天命行者",
+        "category": "放置",
+        "publisher": "广州大蓝网络",
+        "change": "▲1",
+        "changeDir": "up"
+      },
+      {
         "rank": 21,
         "name": "空格之境",
         "category": "模拟经营",
         "publisher": "启游互动",
-        "change": "▼1",
+        "change": "▼3",
         "changeDir": "down"
       },
       {
         "rank": 22,
-        "name": "四季合合",
-        "category": "消除",
-        "publisher": "蓝飞互娱科技",
-        "change": "▲3",
-        "changeDir": "up"
+        "name": "腾讯欢乐斗地主",
+        "category": "牌类",
+        "publisher": "腾讯",
+        "change": "▼2",
+        "changeDir": "down"
       },
       {
         "rank": 23,
-        "name": "原始征途",
-        "category": "MMO",
-        "publisher": "巨人网络",
-        "change": "▲5",
+        "name": "神器传说",
+        "category": "益智",
+        "publisher": "全民互动",
+        "change": "▲1",
         "changeDir": "up"
       },
       {
         "rank": 24,
-        "name": "神器传说",
-        "category": "益智",
-        "publisher": "全民互动",
-        "change": "▼1",
-        "changeDir": "down"
+        "name": "肥鹅美食街",
+        "category": "模拟经营",
+        "publisher": "豪腾",
+        "change": "▲3",
+        "changeDir": "up"
       },
       {
         "rank": 25,
-        "name": "天命行者",
-        "category": "放置",
-        "publisher": "广州大蓝网络",
-        "change": "▼3",
+        "name": "道友来挖宝",
+        "category": "回合",
+        "publisher": "雷霆科技",
+        "change": "▼2",
         "changeDir": "down"
       }
     ],
     "dynamics": [
       {
-        "title": "首发激励金新规：9/22 起仅限同 appid 投放",
-        "color": "orange",
-        "body": "微信小游戏 2026 首发激励再升级：单款最高 <strong>5000 万流水不分成</strong> + 2000 万激励金；但 <strong>9/22 起激励金只能用于同 appid 广告投放</strong>，不得挪用——直接抬高买量能力门槛，利好有投放体系的 IAP 混变团队。",
-        "pubDate": "9/20",
-        "source": "微信公开课/腾讯搜一搜",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_0106aaea01b73952"
-      },
-      {
-        "title": "《模拟城市：我是市长》双榜冲榜",
+        "title": "9月小游戏榜换血率降至 23%",
         "color": "green",
-        "body": "经典城建 IP 小游戏版 <strong>新入畅销榜 TOP50</strong>，人气榜一周从榜外飙升 <strong>88 名至 #6</strong>——合成建筑玩法双端同时起量，本周最猛新进产品。",
-        "pubDate": "9/19",
-        "source": "小游快爆/腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20260920A07L7400"
+        "body": "DataEye 9 月微信小游戏畅销榜：<strong>换血率从 8 月 25% 回落至 23%</strong>，Top50 仅 <strong>1 款新品</strong>（《使命召唤手游》#43）——头部被存量产品垄断，新品突围难度为年内最高。",
+        "pubDate": "10/2",
+        "source": "DataEye/腾讯新闻",
+        "sourceLink": "https://new.qq.com/rain/a/20261002A09LA800"
       },
       {
-        "title": "《秘密花园HD》联动周升 42 名",
+        "title": "模拟经营霸榜：Top10 独占 3 席",
+        "color": "orange",
+        "body": "9 月微信小游戏畅销 <strong>Top10 中模拟经营占 3 席</strong>（《疯狂水世界》#2、《我的花园世界》#5、《向往的生活》#6），休闲品类在前十里由半数增至 6 款——重度化之外，模拟经营是当前最稳的头部细分。",
+        "pubDate": "10/2",
+        "source": "DataEye/腾讯新闻",
+        "sourceLink": "https://new.qq.com/rain/a/20261002A09LA800"
+      },
+      {
+        "title": "抖音小游戏 9 月 18 款新入榜",
         "color": "purple",
-        "body": "有兽焉×秘密花园联动启动，<strong>周升 42 名新入畅销榜 #32</strong>——IP 联动对休闲模拟经营的拉榜效果再次验证。",
-        "pubDate": "9/19",
-        "source": "小游快爆"
+        "body": "9 月抖音小游戏 TOP100 有 <strong>18 款（重）新入榜</strong>，三七互娱《镇邪人》<strong>升 13 名进入抖音畅销 TOP10</strong>——微信端固化之际，抖小渠道仍在持续换血。",
+        "pubDate": "10/2",
+        "source": "DataEye/网易",
+        "sourceLink": "https://www.163.com/dy/article/L8812ECK0553OKLX.html"
       },
       {
-        "title": "暗黑西游卡牌小游戏突围",
-        "color": "cyan",
-        "body": "《永夜起源》稳居畅销榜<strong> TOP10</strong>，《天命行者》在 TOP20 内——传统西游+暗黑风格+买量投放成中小团队差异化路径。",
-        "pubDate": "9/16",
-        "source": "DataEye/36氪",
-        "sourceLink": "https://www.36kr.com/p/3985423942433540"
+        "title": "畅玩榜：文字塔防集中上新",
+        "color": "yellow",
+        "body": "9 月微信小游戏畅玩榜出现品类轮动：<strong>文字塔防多款新进榜</strong>（《这关可真行》空降 #12，《有种来闯关》#26，《造个大英雄》#48），毛线收集类走强（《解压打毛线》升 15 名进 TOP10）。",
+        "pubDate": "10/2",
+        "source": "DataEye/网易",
+        "sourceLink": "https://www.163.com/dy/article/L8812ECK0553OKLX.html"
       }
     ],
     "categories": [
       {
         "name": "休闲",
-        "value": "13款（最多）"
+        "value": "12款（最多）"
       },
       {
         "name": "竞技",
         "value": "2款"
       },
       {
-        "name": "策略",
+        "name": "角色",
         "value": "2款"
       },
       {
-        "name": "角色",
-        "value": "2款"
+        "name": "策略",
+        "value": "1款"
       },
       {
         "name": "MMO",
@@ -1086,9 +1259,9 @@
         "value": "1款"
       }
     ],
-    "asOf": "2026-09-23",
+    "asOf": "2026-10-08",
     "source": "lightgame.cc（微信小游戏畅销榜每日快照）",
-    "dynamicsAsOf": "2026-09-20",
+    "dynamicsAsOf": "2026-10-02",
     "dynamicsStatus": "ok"
   },
   "segments": [
@@ -1167,6 +1340,50 @@
   ],
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
+    {
+      "date": "10月15日公测",
+      "name": "剑侠世界4:无限",
+      "badge": "西山居",
+      "desc": "剑侠系列正统续作，10/15 全平台公测。延续国产武侠 MMO 经典 IP，西山居旗舰级新品。",
+      "link": "https://economy.nbd.com.cn/columns/2183.html",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-10-16",
+      "coverStatus": "verified",
+      "coverKey": "name_剑侠世界4_无限",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_剑侠世界4_无限.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_剑侠世界4_无限.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/9520e5116de039f8c904599ec9bad512.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
+      "name": "影之刃零",
+      "link": "https://store.steampowered.com/app/4115450",
+      "badge": "预售在即",
+      "badgeColor": "yellow",
+      "meta": "灵游坊 · UE5 · 黑暗武侠 · 3A单机",
+      "desc": "国产黑暗武侠3A宣布开发完成！8月12日全平台预售（PS5/Steam/WeGame），10月29日正式发售。UE5开发，主线50小时，30余套冷兵器连招。Steam愿望单162万创国产纪录。已获完整版号。",
+      "date": "8月12日预售 · 10月29日发售",
+      "tags": [
+        "3A",
+        "UE5",
+        "国产单机",
+        "武侠"
+      ],
+      "steamAppId": 4115450,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
+      "imageSource": "steam-header",
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
+      "gameName": "影之刃零",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4115450.jpg",
+      "coverStatus": "verified",
+      "coverKey": "4115450",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
+    },
     {
       "date": "9月24日技术保密测试",
       "name": "未眠野",
@@ -1289,75 +1506,58 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "10月15日公测",
-      "name": "剑侠世界4:无限",
-      "badge": "西山居",
-      "desc": "剑侠系列正统续作，10/15 全平台公测。延续国产武侠 MMO 经典 IP，西山居旗舰级新品。",
-      "link": "https://economy.nbd.com.cn/columns/2183.html",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-10-16",
-      "coverStatus": "verified",
-      "coverKey": "name_剑侠世界4_无限",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_剑侠世界4_无限.jpg",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_剑侠世界4_无限.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/9520e5116de039f8c904599ec9bad512.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
-      "name": "王者万象棋",
-      "link": "https://view.inews.qq.com/a/20260827A0DKXF00",
-      "badge": "9.10定档",
+      "name": "三国志:王道天下",
+      "link": "https://news.qq.com/rain/a/20261008A047QG00",
+      "badge": "B站",
       "badgeColor": "blue",
-      "meta": "腾讯 · 王者荣耀IP自走棋 · 天美工作室 · 全平台预约7000万",
-      "desc": "腾讯《王者荣耀》IP 自走棋新作《王者万象棋》8/27 官宣定档 9月10日 全平台上线，全平台预约突破 7000万。天美工作室群开发，腾讯旗下首款正式商业化的自走棋产品，老 IP + 新玩法延长《王者荣耀》生命周期。9/10 上线后可关注 iOS 免费榜/畅销榜走势。",
-      "date": "9月10日上线",
+      "meta": "哔哩哔哩 · 三国SLG · 定档",
+      "desc": "哔哩哔哩在研三国题材 SLG，中金传媒 pipeline 披露 iOS 端预计 2026 年 12 月 24 日上线，属 4Q26 大厂新品密集档期中的一员。",
+      "date": "2026年12月24日 iOS上线",
       "tags": [
-        "自走棋",
-        "王者荣耀",
-        "腾讯",
-        "IP衍生"
+        "SLG",
+        "三国",
+        "B站"
       ],
       "steamAppId": "",
       "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "ok",
-      "gameName": "王者万象棋",
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "三国志:王道天下",
       "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_王者万象棋.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
+      "archived": false,
       "coverStatus": "verified",
-      "coverKey": "name_王者万象棋",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_王者万象棋.jpg",
-      "coverSourceUrl": "",
-      "coverReason": "cdn_cache_hit"
+      "coverKey": "name_三国志_王道天下",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/8c0cb2fedcb16af9639dcc7265cf2c9f.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
-      "name": "影之刃零",
-      "link": "https://store.steampowered.com/app/4115450",
-      "badge": "预售在即",
-      "badgeColor": "yellow",
-      "meta": "灵游坊 · UE5 · 黑暗武侠 · 3A单机",
-      "desc": "国产黑暗武侠3A宣布开发完成！8月12日全平台预售（PS5/Steam/WeGame），10月29日正式发售。UE5开发，主线50小时，30余套冷兵器连招。Steam愿望单162万创国产纪录。已获完整版号。",
-      "date": "8月12日预售 · 10月29日发售",
+      "name": "无限大",
+      "link": "https://news.qq.com/rain/a/20261008A047QG00",
+      "badge": "网易",
+      "badgeColor": "blue",
+      "meta": "网易 · 开放世界RPG · 公测定档",
+      "desc": "网易开放世界 RPG，主打都市异能与高速战斗。中金传媒 4Q26 pipeline 披露其公测定档 2027 年 1 月 15 日，是 2027 年最受关注的国产开放世界新品之一。",
+      "date": "2027年1月15日公测",
       "tags": [
-        "3A",
-        "UE5",
-        "国产单机",
-        "武侠"
+        "开放世界",
+        "RPG",
+        "网易"
       ],
-      "steamAppId": 4115450,
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
-      "imageSource": "steam-header",
-      "imageStatus": "ok",
-      "imageVerified": true,
-      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
-      "gameName": "影之刃零",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/4115450.jpg",
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "none",
+      "imageStatus": "placeholder",
+      "gameName": "无限大",
+      "manualCover": "",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_无限大.jpg",
+      "archived": false,
       "coverStatus": "verified",
-      "coverKey": "4115450",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
-      "coverSourceUrl": "",
-      "coverReason": "cdn_cache_hit"
+      "coverKey": "name_无限大",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_无限大.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/5034c8f84072e936120bb95467344b2d.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "name": "穿越火线:潜伏",
@@ -1522,6 +1722,35 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_代号咘咘.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/38151e612891ef64e1fbcc92ba4a8cc7.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
+    },
+    {
+      "name": "王者万象棋",
+      "link": "https://view.inews.qq.com/a/20260827A0DKXF00",
+      "badge": "9.10定档",
+      "badgeColor": "blue",
+      "meta": "腾讯 · 王者荣耀IP自走棋 · 天美工作室 · 全平台预约7000万",
+      "desc": "腾讯《王者荣耀》IP 自走棋新作《王者万象棋》8/27 官宣定档 9月10日 全平台上线，全平台预约突破 7000万。天美工作室群开发，腾讯旗下首款正式商业化的自走棋产品，老 IP + 新玩法延长《王者荣耀》生命周期。9/10 上线后可关注 iOS 免费榜/畅销榜走势。",
+      "date": "9月10日上线",
+      "tags": [
+        "自走棋",
+        "王者荣耀",
+        "腾讯",
+        "IP衍生"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "ok",
+      "gameName": "王者万象棋",
+      "manualCover": "",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_王者万象棋.jpg",
+      "coverStatus": "verified",
+      "coverKey": "name_王者万象棋",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_王者万象棋.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit",
+      "archived": true,
+      "archivedAt": "2026-10-08"
     },
     {
       "date": "2026-08-28",
@@ -2400,6 +2629,20 @@
   },
   "lawsuits": {
     "cards": [
+      {
+        "title": "上海首例 AI 声音仿冒案宣判 · 米哈游获赔 75 万元",
+        "badge": "AI 声音侵权",
+        "badgeColor": "red",
+        "body": "<strong>案情：</strong>2025 年米哈游发现一款 AI 变声软件提供《原神》63 款角色声音资源包供用户付费变声，并大量使用角色图片引流。被告辩称变声系 AI 大模型训练结果，声音权利应由配音演员主张。<br><br><strong>判决：</strong>声纹司法鉴定认定软件内角色试听语音与游戏原声「倾向认定同一」；被告在庭审中自认未取得授权即用《原神》角色音频训练模型。上海市浦东新区人民法院判令被告立即停止不正当竞争行为、赔偿 75 万元——为上海首例涉 AI 声音仿冒不正当竞争案。<br><br><strong>意义：</strong>法院明确游戏角色音色与游戏企业之间的对应关系构成受保护的「商业标识」，声音的使用方式取决于角色预设属性而非配音演员个人发挥。叠加最高法 2026/9/7《关于依法审理涉人工智能纠纷案件的意见》首次明确「未经同意使用自然人声音作为训练语料、模仿其音色生成可识别合成人声的，构成对声音权益的侵害」，AI 拟声正式脱离法律灰色地带。",
+        "source": "搜狐·案件聚焦/上海广播电视台",
+        "sourceLink": "https://www.sohu.com/a/1085150063_121181007",
+        "tags": [
+          "AI声音侵权",
+          "不正当竞争",
+          "米哈游",
+          "AIGC合规"
+        ]
+      },
       {
         "title": "世纪华通并购盛趣科技 · 超10亿业绩补偿悬空 · 仲裁胜诉仍未到账",
         "badge": "并购对赌",
