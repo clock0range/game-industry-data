@@ -3008,13 +3008,13 @@
   ],
   "phenomenon": [
     {
-      "name": "WARDOGS",
-      "platform": "Steam",
-      "event": "付费新品（$39.99）同时占据 Steam 热销榜 #2 与在线榜 #3，峰值在线逼近 28 万",
+      "name": "AION 2",
+      "platform": "Steam / 移动端",
+      "event": "免费 MMO 新作同时占据 Steam 在线榜 #4（24h 峰值 37.4 万）与全球热销 #2，好评率仅 63%",
       "chips": [
         {
-          "label": "当前在线",
-          "value": "27.7 万",
+          "label": "24h 峰值",
+          "value": "37.4 万",
           "color": "green"
         },
         {
@@ -3023,54 +3023,54 @@
           "color": "orange"
         },
         {
-          "label": "定价策略",
-          "value": "中价位买断",
-          "color": "cyan"
+          "label": "好评率",
+          "value": "63% 褒贬不一",
+          "color": "red"
         }
       ],
-      "why": "在 F2P 长期主导的 Steam 头部，一款 40 美元档的多人射击同时打进热销与在线双榜前三，说明「中价位买断 + 多人长线内容」的窗口重新打开——这对被免费制挤压的付费产品线是一个可复用样本。",
-      "source": "SteamDB 在线榜 / 热销榜 · 每日快照",
+      "why": "免费制 MMO 借国庆档把在线推到前列，但 63% 的好评率说明内容供给没跟上——位置靠免费+IP 拉新，留存要靠后续版本补课。这类「高开低走」样本对判断 Q4 免费 MMO 的生命周期很有参考价值。",
+      "source": "SteamDB 在线榜 / 全球热销榜 · 每日快照",
       "tags": [
-        "多人射击",
-        "中价位买断",
-        "Steam头部",
-        "付费制突围"
+        "免费MMO",
+        "Steam双榜",
+        "口碑分化",
+        "Q4新品"
       ]
     },
     {
-      "name": "模拟城市：我是市长",
-      "platform": "微信小游戏 / iOS",
-      "event": "小游戏版新入畅销榜 TOP50，人气榜一周飙升 88 名至 #6",
+      "name": "三国：冰河时代",
+      "platform": "微信小游戏",
+      "event": "登顶微信小游戏畅销榜 #1，而 9 月该榜换血率降至年内最低的 23%、Top50 仅 1 款新品",
       "chips": [
         {
-          "label": "人气榜",
-          "value": "周升 88 名 → #6",
+          "label": "畅销排名",
+          "value": "#1",
           "color": "green"
         },
         {
-          "label": "畅销榜",
-          "value": "新入 TOP50",
+          "label": "品类",
+          "value": "策略 / SLG",
           "color": "orange"
         },
         {
-          "label": "IP 属性",
-          "value": "经典城建 IP",
+          "label": "市场环境",
+          "value": "换血率 23%",
           "color": "purple"
         }
       ],
-      "why": "经典单机 IP 的小游戏化不是简单移植：合成建筑玩法与微信社交裂变天然契合，一周 88 名的跃升验证了「老 IP + 轻量化改造」在存量用户池里的转化效率。",
-      "source": "小游快爆 / 腾讯新闻（9/19 榜单数据）",
+      "why": "在头部固化到年内极值时还能登顶的，不是新品类而是「三国＋冰河」这种题材混搭的轻量策略——说明小游戏的机会已从「抢新品窗口」转向「在成熟品类里做题材微创新」，与模拟经营独占 TOP25 七席是同一套逻辑。",
+      "source": "lightgame.cc 微信小游戏畅销榜 · 每日快照 + DataEye 9 月月度榜",
       "tags": [
-        "IP小游戏化",
-        "模拟经营",
-        "双端冲榜",
-        "存量IP复用"
+        "微信小游戏",
+        "策略SLG",
+        "题材混搭",
+        "头部固化"
       ]
     }
   ],
-  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜格局持续固化——王者荣耀、和平精英、三国志·战略版锁死前三，<strong style=\"color:var(--green)\">长青化</strong>是当前主旋律；唯一的结构性亮点是《无尽冬日》逆势上行，轻量化 SLG 仍在蚕食传统重度 SLG 份额。免费榜依旧是买量战场：新游首发冲榜后回落加快，<strong style=\"color:var(--orange)\">腾讯系旗舰与 IP 改编</strong>占据上半区，新品留存验证窗口比去年更短。",
-  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>畅销榜头部由<strong style=\"color:var(--green)\">休闲益智（25 席中占 12 席）</strong>与末日题材双线主导——向僵尸开炮守住榜首、向末日开炮稳定 TOP10；<strong style=\"color:var(--blue)\">模拟经营</strong>军团（梦幻消除战▲2、向往的生活）继续形成铁壁。本周<strong style=\"color:var(--purple)\">卡牌赛道出现异动</strong>：永夜起源▲4 领涨，西游 / 暗黑题材被中小团队当作差异化切口。政策端 9/22 起首发激励金仅限同 appid 投放，买量型团队的投放效率将直接接受检验。",
-  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>本周上新节奏集中在<strong style=\"color:var(--cyan)\">测试招募</strong>而非直接公测——《粒粒的小人国》定格测试（预约 800 万+）、《未眠野》技术保密测试、《蓝色星原：旅谣》旅迹测试接连启动，大作继续用长周期测试养预期，首发即公测的模式明显减少。玩法形态上，<strong style=\"color:var(--orange)\">二游+模拟经营混合</strong>（粒粒的小人国）、开放世界 ARPG（未眠野）与 AI 单机买断（不问凡尘）并行；<strong style=\"color:var(--purple)\">AI 参与研发</strong>开始写进立项描述，值得持续观察。",
+  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜头部进一步向腾讯集中——<strong style=\"color:var(--green)\">前五全为腾讯系</strong>（王者荣耀、三角洲行动、金铲铲之战、和平精英、无畏契约：源能行动），射击与竞技双线通吃；网易靠梦幻西游、蛋仔派对与长青三消守住中段。结构性变化有二：一是《三角洲行动》升至 #2，<strong style=\"color:var(--orange)\">腾讯自研射击已接棒老牌 MOBA 成为第二增长极</strong>；二是免费榜榜首由衍生新作《王者万象棋》拿下并同步进入畅销 #11，<strong style=\"color:var(--purple)\">IP 衍生自走棋</strong>成为大厂复用存量的新切口。《原神》凭六周年活动回升至 #14，老产品靠版本节点续命仍是主流打法。",
+  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>微信端头部固化到年内极值——9 月畅销榜<strong style=\"color:var(--red)\">换血率降至 23%</strong>、Top50 仅 1 款新品上榜，新品突围难度为年内最高；当日榜 TOP25 中<strong style=\"color:var(--green)\">模拟经营独占 7 席</strong>（疯狂水世界、我的花园世界、造化仙府等），是唯一持续扩张的细分赛道，策略、益智与模拟经营分列前三（三国：冰河时代、向僵尸开炮、疯狂水世界）形成新头部。增量已从微信外溢：9 月抖音小游戏 18 款新入榜、<strong style=\"color:var(--blue)\">文字塔防与毛线收集</strong>在畅玩榜集中上新——渠道红利正从「微信首发」转向「抖音＋畅玩」的品类轮动。",
+  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>定档窗口进入年末密集期——<strong style=\"color:var(--orange)\">10/15《剑侠世界4:无限》公测、10/29《影之刃零》发售</strong>，《三国志:王道天下》锁定 12/24、《无限大》定档 2027/1/15，大厂已把 Q4 当主战场。测试型项目仍占上新主流（《未眠野》保密测试、《粒粒的小人国》定格测试、《蓝色星原：旅谣》旅迹测试），<strong style=\"color:var(--cyan)\">长周期测试养预期</strong>已成二游标配。Steam 侧 10 月新作口碑明显分层：买断制《皇牌空战8》79%、《星球大战：银河竞速》78%、Gears of War: E-Day 73%，普遍高于同期免费新作（AION 2 仅 63% 褒贬不一），<strong style=\"color:var(--purple)\">「付费即筛选」在评测分上再次得到验证</strong>。",
   "weeklyInsight": {
     "title": "本周行业洞察",
     "sections": [
@@ -3096,22 +3096,22 @@
     "iosInsight": {
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
-      "asOf": "2026-09-21",
-      "lastChecked": "2026-09-22",
+      "asOf": "2026-10-08",
+      "lastChecked": "2026-10-08",
       "status": "fresh"
     },
     "miniappInsight": {
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
-      "asOf": "2026-09-21",
-      "lastChecked": "2026-09-22",
+      "asOf": "2026-10-08",
+      "lastChecked": "2026-10-08",
       "status": "fresh"
     },
     "newGamesInsight": {
       "cadence": "biweekly",
       "cadenceLabel": "每两周",
-      "asOf": "2026-09-21",
-      "lastChecked": "2026-09-22",
+      "asOf": "2026-10-08",
+      "lastChecked": "2026-10-08",
       "status": "fresh"
     },
     "weeklyInsight": {
@@ -3131,8 +3131,8 @@
     "phenomenon": {
       "cadence": "weekly",
       "cadenceLabel": "每周",
-      "asOf": "2026-09-21",
-      "lastChecked": "2026-09-23",
+      "asOf": "2026-10-08",
+      "lastChecked": "2026-10-08",
       "status": "fresh"
     },
     "steam.insight": {
