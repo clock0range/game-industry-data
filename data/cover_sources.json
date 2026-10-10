@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T02:41:17.803Z",
+  "updatedAt": "2026-10-10T02:37:28.232Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -742,6 +742,97 @@
       "rel": "542a243d39bd7ed791359be9e96c82f419b81475/capsule_231x87.jpg",
       "name": "ARC Raiders",
       "resolvedAt": "2026-10-09T02:41:15.748Z"
+    },
+    "steam:499170:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/499170/8e4b79f6886648fe2b9b4fd36824146559b047ec/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/499170/8e4b79f6886648fe2b9b4fd36824146559b047ec/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499170/8e4b79f6886648fe2b9b4fd36824146559b047ec/header_schinese.jpg"
+      ],
+      "hash": "8e4b79f6886648fe2b9b4fd36824146559b047ec",
+      "hashed": true,
+      "kind": "header",
+      "rel": "8e4b79f6886648fe2b9b4fd36824146559b047ec/header_schinese.jpg",
+      "name": "Order of the Sinking Star",
+      "resolvedAt": "2026-10-10T02:37:18.297Z"
+    },
+    "steam:3883570:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3883570/c86d8cb1aac903b8c45497c7255fea0ee64f30b2/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3883570/c86d8cb1aac903b8c45497c7255fea0ee64f30b2/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/c86d8cb1aac903b8c45497c7255fea0ee64f30b2/header_schinese.jpg"
+      ],
+      "hash": "c86d8cb1aac903b8c45497c7255fea0ee64f30b2",
+      "hashed": true,
+      "kind": "header",
+      "rel": "c86d8cb1aac903b8c45497c7255fea0ee64f30b2/header_schinese.jpg",
+      "name": "Invokyr",
+      "resolvedAt": "2026-10-10T02:37:19.382Z"
+    },
+    "steam:632360:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87_schinese.jpg",
+      "name": "Risk of Rain 2",
+      "resolvedAt": "2026-10-10T02:37:21.286Z"
+    },
+    "steam:3055670:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3055670/c286e357e44337e07eeb3db8ef29877a58ac3155/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3055670/c286e357e44337e07eeb3db8ef29877a58ac3155/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3055670/c286e357e44337e07eeb3db8ef29877a58ac3155/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "c286e357e44337e07eeb3db8ef29877a58ac3155",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "c286e357e44337e07eeb3db8ef29877a58ac3155/capsule_231x87_schinese.jpg",
+      "name": "Risk of Rain 2: Hallowed Concepts",
+      "resolvedAt": "2026-10-10T02:37:21.779Z"
+    },
+    "steam:1675200:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1675200/0f9e2ea28cf0382479618500fc527b7ccf251b8f/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1675200/0f9e2ea28cf0382479618500fc527b7ccf251b8f/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675200/0f9e2ea28cf0382479618500fc527b7ccf251b8f/capsule_231x87.jpg"
+      ],
+      "hash": "0f9e2ea28cf0382479618500fc527b7ccf251b8f",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "0f9e2ea28cf0382479618500fc527b7ccf251b8f/capsule_231x87.jpg",
+      "name": "Steam Deck",
+      "resolvedAt": "2026-10-10T02:37:23.203Z"
+    },
+    "steam:1551980:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1551980/c8642c8c08272cb8646e851aa464a2e627438d19/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1551980/c8642c8c08272cb8646e851aa464a2e627438d19/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551980/c8642c8c08272cb8646e851aa464a2e627438d19/capsule_231x87.jpg"
+      ],
+      "hash": "c8642c8c08272cb8646e851aa464a2e627438d19",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "c8642c8c08272cb8646e851aa464a2e627438d19/capsule_231x87.jpg",
+      "name": "Clive Barker's Hellraiser: Revival",
+      "resolvedAt": "2026-10-10T02:37:23.716Z"
+    },
+    "steam:2054970:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054970/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "Dragon's Dogma 2",
+      "resolvedAt": "2026-10-10T02:37:24.222Z"
     }
   },
   "taptap": {
