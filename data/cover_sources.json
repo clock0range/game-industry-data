@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T02:38:49.504Z",
+  "updatedAt": "2026-10-14T02:41:44.996Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -872,6 +872,45 @@
       "rel": "capsule_231x87.jpg",
       "name": "Project Zomboid",
       "resolvedAt": "2026-10-13T02:38:48.929Z"
+    },
+    "steam:5155360:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg"
+      ],
+      "hash": "73c77dc5efdbffef90c2d32324d518e68a18fc4b",
+      "hashed": true,
+      "kind": "header",
+      "rel": "73c77dc5efdbffef90c2d32324d518e68a18fc4b/header.jpg",
+      "name": "Hood Warfare 2",
+      "resolvedAt": "2026-10-14T02:41:36.353Z"
+    },
+    "steam:3219030:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3219030/0930ff3701b5ff1cd8a1b88ebf497f9517f7b0bd/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3219030/0930ff3701b5ff1cd8a1b88ebf497f9517f7b0bd/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/0930ff3701b5ff1cd8a1b88ebf497f9517f7b0bd/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "0930ff3701b5ff1cd8a1b88ebf497f9517f7b0bd",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "0930ff3701b5ff1cd8a1b88ebf497f9517f7b0bd/capsule_231x87_schinese.jpg",
+      "name": "Planet Zoo 2",
+      "resolvedAt": "2026-10-14T02:41:39.177Z"
+    },
+    "steam:5155360:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5155360/3fb79cd5dc290348c1febfccb140a0545be56797/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5155360/3fb79cd5dc290348c1febfccb140a0545be56797/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5155360/3fb79cd5dc290348c1febfccb140a0545be56797/capsule_231x87.jpg"
+      ],
+      "hash": "3fb79cd5dc290348c1febfccb140a0545be56797",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "3fb79cd5dc290348c1febfccb140a0545be56797/capsule_231x87.jpg",
+      "name": "Hood Warfare 2",
+      "resolvedAt": "2026-10-14T02:41:40.519Z"
     }
   },
   "taptap": {
@@ -970,6 +1009,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-10-09T02:41:05.485Z"
+    },
+    "时空猎人觉醒": {
+      "url": "https://img-tc.tapimg.com/market/images/046a7124fe6e308dc4e8c3503bbeecd9.jpg/_tap_banner.jpg",
+      "appid": 739697,
+      "matchedName": "时空猎人·觉醒",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-10-14T02:41:30.406Z"
     }
   },
   "failures": {}
