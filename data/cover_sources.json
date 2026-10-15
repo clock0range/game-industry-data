@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T02:41:44.996Z",
+  "updatedAt": "2026-10-15T02:41:50.712Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -911,6 +911,84 @@
       "rel": "3fb79cd5dc290348c1febfccb140a0545be56797/capsule_231x87.jpg",
       "name": "Hood Warfare 2",
       "resolvedAt": "2026-10-14T02:41:40.519Z"
+    },
+    "steam:4231820:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg"
+      ],
+      "hash": "6b65aec2c398006aea8b76e1463cc34d0e4ba68b",
+      "hashed": true,
+      "kind": "header",
+      "rel": "6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg",
+      "name": "Castlevania: Belmont's Curse",
+      "resolvedAt": "2026-10-15T02:41:40.962Z"
+    },
+    "steam:2828710:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2828710/db9b0a13bdadac60a7b744514d60f41674d95787/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2828710/db9b0a13bdadac60a7b744514d60f41674d95787/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828710/db9b0a13bdadac60a7b744514d60f41674d95787/header_schinese.jpg"
+      ],
+      "hash": "db9b0a13bdadac60a7b744514d60f41674d95787",
+      "hashed": true,
+      "kind": "header",
+      "rel": "db9b0a13bdadac60a7b744514d60f41674d95787/header_schinese.jpg",
+      "name": "Valor Mortis",
+      "resolvedAt": "2026-10-15T02:41:42.239Z"
+    },
+    "steam:4435490:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg"
+      ],
+      "hash": "79d905167ca63114aea0e52cf12111c3c3f5b81e",
+      "hashed": true,
+      "kind": "header",
+      "rel": "79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg",
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "resolvedAt": "2026-10-15T02:41:42.849Z"
+    },
+    "steam:2929250:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2929250/814accaa6429756183d0f3f36a082fa663eb5949/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2929250/814accaa6429756183d0f3f36a082fa663eb5949/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/814accaa6429756183d0f3f36a082fa663eb5949/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "814accaa6429756183d0f3f36a082fa663eb5949",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "814accaa6429756183d0f3f36a082fa663eb5949/capsule_231x87_schinese.jpg",
+      "name": "over the hill",
+      "resolvedAt": "2026-10-15T02:41:44.826Z"
+    },
+    "steam:4435490:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/7b6bd5b490991f24d46bd4a9542a0656a60a70a2/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4435490/7b6bd5b490991f24d46bd4a9542a0656a60a70a2/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/7b6bd5b490991f24d46bd4a9542a0656a60a70a2/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "7b6bd5b490991f24d46bd4a9542a0656a60a70a2",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "7b6bd5b490991f24d46bd4a9542a0656a60a70a2/capsule_231x87_schinese.jpg",
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "resolvedAt": "2026-10-15T02:41:45.542Z"
+    },
+    "steam:4231820:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4231820/2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4231820/2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg"
+      ],
+      "hash": "2ce9921d044de1c749da39763f8c03edd5c91d78",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "2ce9921d044de1c749da39763f8c03edd5c91d78/capsule_231x87.jpg",
+      "name": "Castlevania: Belmont's Curse",
+      "resolvedAt": "2026-10-15T02:41:46.479Z"
     }
   },
   "taptap": {
