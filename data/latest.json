@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-10-19",
-    "lastUpdated": "2026-10-19 10:11:26+08:00",
+    "lastUpdated": "2026-10-19 15:56:26+08:00",
     "footerDate": "数据截至2026年10月19日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,36 +183,44 @@
     ],
     "highlights": [
       {
-        "title": "腾讯被曝控股库洛游戏",
-        "titleLink": "https://www.zd886.com/new/tencent-acquires-majority-stake-kuro-games-creator-wuthering-waves.html",
+        "title": "龙渊网络遭 7200 万强制执行",
+        "titleLink": "https://www.taptap.cn/moment/856190133135738090?group_id=231306",
         "color": "purple",
-        "source": "ZD886",
-        "sourceLink": "https://www.zd886.com/new/tencent-acquires-majority-stake-kuro-games-creator-wuthering-waves.html",
-        "body": "腾讯被曝收购《鸣潮》开发商<strong>库洛游戏超 51% 股权</strong>成为控股方，库洛称将保持运营独立；若坐实，为腾讯今年对二次元头部研发商最大一笔股权动作。"
+        "source": "中国执行信息公开网",
+        "sourceLink": "https://zxgk.court.gov.cn/",
+        "body": "《物华弥新》研发商<strong>成都龙渊网络</strong>新增被执行记录，标的 <strong>7200.96 万元</strong>，源于与中手游的研发合同纠纷判决。公司多款产品仍正常运营，游戏暂不受影响。",
+        "isNew": true,
+        "newUntil": "2026-10-19"
       },
       {
-        "title": "王者万象棋不限量体验",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026073007073794bf82e1",
-        "color": "blue",
-        "source": "腾讯证券",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026073007073794bf82e1",
-        "body": "天美自走棋《王者万象棋》开启<strong>长期不限量体验服</strong>并解除保密限制，全网预约已突破 <strong>7000 万</strong>，研发收尾、公测临近。"
-      },
-      {
-        "title": "明末续作落地成都",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026073007073794bf82e1",
-        "color": "green",
-        "source": "腾讯证券",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026073007073794bf82e1",
-        "body": "505 Games 母公司 Digital Bros 与成都递归海豚签约合作开发<strong>《明末:渊虚之羽》续作</strong>；前作全球销量破 <strong>500 万</strong>，国产买断制单机出海议价能力持续走高。"
-      },
-      {
-        "title": "Steam 十月新作潮",
-        "titleLink": "https://steamdb.info/charts/",
+        "title": "《赵云与阿斗》被\"抄\"成一条赛道",
+        "titleLink": "https://new.qq.com/rain/a/20261015A0BIF500",
         "color": "orange",
-        "source": "SteamDB",
-        "sourceLink": "https://steamdb.info/charts/",
-        "body": "10 月新作集中主导 Steam 热销与在线榜：CoD MW4、AION 2 等 <strong>8 款 10 月上线</strong>新作霸榜，独游《over the hill》以约 <strong>88% 好评</strong>、6.7 万同时在线领跑独立品类。"
+        "source": "腾讯网",
+        "sourceLink": "https://new.qq.com/",
+        "body": "这款 6 月上线的<strong>文字塔防</strong>黑马至今稳居微信畅玩榜 TOP2，市面已涌现 6 款同类进畅玩榜前列，\"赵云与阿斗like\"赛道成型，题材包装与玩法融合成跟进两条路线。",
+        "isNew": true,
+        "newUntil": "2026-10-19"
+      },
+      {
+        "title": "字节 AI 互动影游《不问凡尘》22 天销量破 26 万",
+        "titleLink": "https://news.qq.com/rain/a/20261014A0BB0000",
+        "color": "blue",
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/",
+        "body": "朝夕光年江南工作室的 <strong>AI 修仙互动游戏</strong> 9/23 Steam 抢先体验，22 天销量破 <strong>26 万份</strong>（约 772 万元），简中区好评率 87%，1.0 正式版预计春节上线。",
+        "isNew": true,
+        "newUntil": "2026-10-19"
+      },
+      {
+        "title": "英雄游戏起诉《代号:Spark》研发商淮安炎龙互娱",
+        "titleLink": "",
+        "color": "purple",
+        "source": "游戏矩阵",
+        "sourceLink": "",
+        "body": "英雄游戏以<strong>著作权侵权</strong>起诉淮安炎龙互娱并已立案，涉其《代号:Spark》产品，再度折射买量时代玩法抄袭维权的高发态势。",
+        "isNew": true,
+        "newUntil": "2026-10-19"
       }
     ],
     "taptap": {
@@ -2690,14 +2698,6 @@
         "link": "https://36kr.com/p/3985662421007365",
         "isNew": true,
         "newUntil": "2026-09-20"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "腾讯被曝收购库洛游戏超51%股权成控股方（鸣潮/战双）",
-        "amount": "未披露（控股超51%）",
-        "stage": "并购",
-        "investor": "腾讯",
-        "link": "https://www.zd886.com/new/tencent-acquires-majority-stake-kuro-games-creator-wuthering-waves.html"
       }
     ],
     "insight": "<strong style=\"color:var(--yellow)\">投资趋势洞察：</strong>2026年1-9月公开披露重大投融资/并购 40+ 起，含灵犀互娱（101亿RMB）、沐瞳科技（413亿RMB）两笔百亿级易主，及<strong style=\"color:var(--red)\">恺英网络以 21 亿元控股娱美德</strong>（整体估值约 103 亿元，终结十年传奇 IP 之争，中资从「买团队」转向「买 IP 授权权」）。趋势四条——①<strong>明星制作人成“硬通货”</strong>，非收购类投资中 60%+ 创始团队有大厂/明星项目背景；②<strong>品类同质化</strong>，新项目仍扎堆 SLG/二次元开放世界/休闲派对；③<strong style=\"color:var(--red)\">大厂战略分化加剧</strong>：腾讯持续扫货（<strong style=\"color:var(--green)\">新领投土耳其 Circle Games A 轮 2500 万美元</strong>，赛道无死角）、米哈游跨界（技术溢出）、鹰角守艺（学院派）、儒意景秀务实，新增阿里、字节“退游”聚焦 AI，同时<strong style=\"color:var(--orange)\">网易连续剥离海外工作室</strong>（草蜢 10/1 恢复独立，两年内已退出 11 家）；④<strong>资本结构多元化</strong>：私募接盘（信宸资本控股型并购首入游戏）、<strong style=\"color:var(--cyan)\">中东资本整合提速</strong>（据报 PIF 考虑将 EA 与 Savvy 合并，若成则 EA、Scopely 同属一集团）、<strong style=\"color:var(--purple)\">跨界技术收购抬头</strong>（Bose 收购音频中间件 FMOD 开发商 Firelight）、资金流向成熟资产（Scopely 收购 Loom，游戏创投退出环境转冷）。",
