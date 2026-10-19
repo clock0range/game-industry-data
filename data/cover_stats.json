@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T02:38:59.086Z",
-  "metaDate": "2026-10-16",
+  "generatedAt": "2026-10-19T02:12:05.182Z",
+  "metaDate": "2026-10-19",
   "totals": {
     "denominator": 46,
-    "covered": 46,
-    "coverage": 100
+    "covered": 45,
+    "coverage": 97.8
   },
   "byModule": {
     "newGames": {
@@ -33,11 +33,11 @@
     },
     "topSellers": {
       "n": 10,
-      "verified": 10,
+      "verified": 9,
       "pending": 0,
       "missing": 0,
       "unavailable": 0,
-      "other": 0
+      "other": 1
     },
     "mostPlayed": {
       "n": 16,
@@ -50,6 +50,7 @@
   },
   "failureReasons": {
     "taptap-search": 8,
-    "cdn_cache_hit": 38
+    "cdn_cache_hit": 37,
+    "existing_url_verified": 1
   }
 }
