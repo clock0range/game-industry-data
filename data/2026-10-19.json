@@ -994,9 +994,9 @@
       },
       {
         "rank": 2,
-        "name": "三国：冰河时代",
-        "category": "策略",
-        "publisher": "欢游互动",
+        "name": "QQ经典农场",
+        "category": "模拟经营",
+        "publisher": "腾讯",
         "change": "/",
         "changeDir": "flat"
       },
@@ -1005,59 +1005,67 @@
         "name": "无尽冬日",
         "category": "对战",
         "publisher": "点点互动",
-        "change": "▲5",
+        "change": "▲4",
         "changeDir": "up"
       },
       {
         "rank": 4,
-        "name": "浪漫餐厅",
-        "category": "益智",
-        "publisher": "柠檬微趣",
-        "change": "▼1",
-        "changeDir": "down"
-      },
-      {
-        "rank": 5,
-        "name": "疯狂水世界",
-        "category": "模拟经营",
-        "publisher": "益世界网络",
+        "name": "三国：冰河时代",
+        "category": "策略",
+        "publisher": "欢游互动",
         "change": "/",
         "changeDir": "flat"
       },
       {
-        "rank": 6,
-        "name": "梦幻消除战",
-        "category": "模拟经营",
-        "publisher": "广州喜势网络",
-        "change": "▲7",
-        "changeDir": "up"
-      },
-      {
-        "rank": 7,
-        "name": "向末日开炮",
-        "category": "末日塔防",
-        "publisher": "易多量",
-        "change": "▼3",
-        "changeDir": "down"
-      },
-      {
-        "rank": 8,
-        "name": "武侠大明星",
-        "category": "塔防",
-        "publisher": "盛昌网络",
-        "change": "▲2",
-        "changeDir": "up"
-      },
-      {
-        "rank": 9,
-        "name": "向往的生活",
-        "category": "模拟经营",
-        "publisher": "深圳必凡娱乐",
+        "rank": 5,
+        "name": "浪漫餐厅",
+        "category": "益智",
+        "publisher": "柠檬微趣",
         "change": "▼2",
         "changeDir": "down"
       },
       {
+        "rank": 6,
+        "name": "向往的生活",
+        "category": "模拟经营",
+        "publisher": "深圳必凡娱乐",
+        "change": "/",
+        "changeDir": "flat"
+      },
+      {
+        "rank": 7,
+        "name": "梦幻消除战",
+        "category": "模拟经营",
+        "publisher": "广州喜势网络",
+        "change": "▲2",
+        "changeDir": "up"
+      },
+      {
+        "rank": 8,
+        "name": "疯狂水世界",
+        "category": "模拟经营",
+        "publisher": "益世界网络",
+        "change": "▼3",
+        "changeDir": "down"
+      },
+      {
+        "rank": 9,
+        "name": "向末日开炮",
+        "category": "末日塔防",
+        "publisher": "易多量",
+        "change": "▼1",
+        "changeDir": "down"
+      },
+      {
         "rank": 10,
+        "name": "我的花园世界",
+        "category": "模拟经营",
+        "publisher": "麟贝互娱",
+        "change": "▲1",
+        "changeDir": "up"
+      },
+      {
+        "rank": 11,
         "name": "灵画师",
         "category": "ARPG",
         "publisher": "广州光游网络",
@@ -1065,7 +1073,23 @@
         "changeDir": "down"
       },
       {
-        "rank": 11,
+        "rank": 12,
+        "name": "青云诀之伏魔",
+        "category": "MMO",
+        "publisher": "元游",
+        "change": "/",
+        "changeDir": "flat"
+      },
+      {
+        "rank": 13,
+        "name": "腾讯欢乐斗地主",
+        "category": "牌类",
+        "publisher": "腾讯",
+        "change": "▲2",
+        "changeDir": "up"
+      },
+      {
+        "rank": 14,
         "name": "造化仙府",
         "category": "模拟经营",
         "publisher": "沛炫网络",
@@ -1073,71 +1097,31 @@
         "changeDir": "flat"
       },
       {
-        "rank": 12,
-        "name": "永远的蔚蓝星球",
-        "category": "塔防",
-        "publisher": "广州颂悦",
-        "change": "▼6",
-        "changeDir": "down"
-      },
-      {
-        "rank": 13,
-        "name": "奔奔王国",
-        "category": "对战",
-        "publisher": "点点松云",
-        "change": "▲4",
-        "changeDir": "up"
-      },
-      {
-        "rank": 14,
-        "name": "我的花园世界",
-        "category": "模拟经营",
-        "publisher": "麟贝互娱",
-        "change": "/",
-        "changeDir": "flat"
-      },
-      {
         "rank": 15,
-        "name": "腾讯欢乐斗地主",
-        "category": "牌类",
-        "publisher": "腾讯",
-        "change": "▲4",
+        "name": "跃动小子",
+        "category": "益智",
+        "publisher": "波克科技",
+        "change": "▲9",
         "changeDir": "up"
       },
       {
         "rank": 16,
-        "name": "永夜起源",
-        "category": "卡牌",
-        "publisher": "广州招崭",
-        "change": "▼4",
+        "name": "永远的蔚蓝星球",
+        "category": "塔防",
+        "publisher": "广州颂悦",
+        "change": "▼3",
         "changeDir": "down"
       },
       {
         "rank": 17,
-        "name": "空格之境",
-        "category": "模拟经营",
-        "publisher": "启游互动",
-        "change": "▲5",
-        "changeDir": "up"
-      },
-      {
-        "rank": 18,
-        "name": "下方了",
-        "category": "",
-        "publisher": "飞鱼星空科技",
-        "change": "▼3",
-        "changeDir": "down"
-      },
-      {
-        "rank": 19,
         "name": "天命行者",
         "category": "放置",
         "publisher": "广州大蓝网络",
-        "change": "▼3",
+        "change": "▼1",
         "changeDir": "down"
       },
       {
-        "rank": 20,
+        "rank": 18,
         "name": "大王请上阵",
         "category": "角色卡牌",
         "publisher": "悦莱顺",
@@ -1145,44 +1129,60 @@
         "changeDir": "up"
       },
       {
-        "rank": 21,
+        "rank": 19,
+        "name": "肥鹅美食街",
+        "category": "模拟经营",
+        "publisher": "豪腾",
+        "change": "▲3",
+        "changeDir": "up"
+      },
+      {
+        "rank": 20,
         "name": "精英军团",
         "category": "",
         "publisher": "叙炽科技",
-        "change": "▼1",
+        "change": "▲1",
+        "changeDir": "up"
+      },
+      {
+        "rank": 21,
+        "name": "奔奔王国",
+        "category": "对战",
+        "publisher": "点点松云",
+        "change": "▼4",
         "changeDir": "down"
       },
       {
         "rank": 22,
-        "name": "肥鹅美食街",
+        "name": "空格之境",
         "category": "模拟经营",
-        "publisher": "豪腾",
-        "change": "▲2",
-        "changeDir": "up"
+        "publisher": "启游互动",
+        "change": "▼4",
+        "changeDir": "down"
       },
       {
         "rank": 23,
-        "name": "青云诀之伏魔",
+        "name": "原始征途",
         "category": "MMO",
-        "publisher": "元游",
-        "change": "▲2",
+        "publisher": "巨人网络",
+        "change": "▲3",
         "changeDir": "up"
       },
       {
         "rank": 24,
-        "name": "佣兵小镇",
-        "category": "卡牌",
-        "publisher": "天象互动文化传播",
-        "change": "▼6",
-        "changeDir": "down"
+        "name": "工匠小能手",
+        "category": "",
+        "publisher": "飞鸟与鱼科技",
+        "change": "▲3",
+        "changeDir": "up"
       },
       {
         "rank": 25,
-        "name": "原始征途",
-        "category": "MMO",
-        "publisher": "巨人网络",
-        "change": "▼2",
-        "changeDir": "down"
+        "name": "下方了",
+        "category": "",
+        "publisher": "飞鱼星空科技",
+        "change": "/",
+        "changeDir": "flat"
       }
     ],
     "dynamics": [
@@ -1214,14 +1214,14 @@
     "categories": [
       {
         "name": "休闲",
-        "value": "11款（最多）"
-      },
-      {
-        "name": "角色",
-        "value": "3款"
+        "value": "12款（最多）"
       },
       {
         "name": "竞技",
+        "value": "2款"
+      },
+      {
+        "name": "角色",
         "value": "2款"
       },
       {
@@ -1233,11 +1233,11 @@
         "value": "1款"
       },
       {
-        "name": "棋牌",
+        "name": "MMO",
         "value": "1款"
       }
     ],
-    "asOf": "2026-10-15",
+    "asOf": "2026-10-18",
     "source": "lightgame.cc（微信小游戏畅销榜每日快照）",
     "dynamicsAsOf": "2026-10-13",
     "dynamicsStatus": "ok"
