@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T02:45:07.224Z",
+  "updatedAt": "2026-10-21T02:45:00.585Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1015,6 +1015,45 @@
       "rel": "8c12e4e993e486396bae93f195f44501145d61c8/capsule_231x87_schinese.jpg",
       "name": "Phantom Blade Zero",
       "resolvedAt": "2026-10-20T02:45:02.165Z"
+    },
+    "steam:2073850:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/f68c29ce93dd6eedf9d3c71c26a122e87a1c14c3/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2073850/f68c29ce93dd6eedf9d3c71c26a122e87a1c14c3/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/f68c29ce93dd6eedf9d3c71c26a122e87a1c14c3/capsule_231x87.jpg"
+      ],
+      "hash": "f68c29ce93dd6eedf9d3c71c26a122e87a1c14c3",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "f68c29ce93dd6eedf9d3c71c26a122e87a1c14c3/capsule_231x87.jpg",
+      "name": "THE FINALS",
+      "resolvedAt": "2026-10-21T02:44:54.338Z"
+    },
+    "steam:2315050:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2315050/9544e1f65bf322be9987aa53bb55d13ac49c785d/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2315050/9544e1f65bf322be9987aa53bb55d13ac49c785d/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2315050/9544e1f65bf322be9987aa53bb55d13ac49c785d/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "9544e1f65bf322be9987aa53bb55d13ac49c785d",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "9544e1f65bf322be9987aa53bb55d13ac49c785d/capsule_231x87_schinese.jpg",
+      "name": "We Were Here Tomorrow",
+      "resolvedAt": "2026-10-21T02:44:55.216Z"
+    },
+    "steam:1938090:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938090/bb0993eb34a05f462b23c666dc9a7854b913a1dc/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1938090/bb0993eb34a05f462b23c666dc9a7854b913a1dc/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/bb0993eb34a05f462b23c666dc9a7854b913a1dc/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "bb0993eb34a05f462b23c666dc9a7854b913a1dc",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "bb0993eb34a05f462b23c666dc9a7854b913a1dc/capsule_231x87_schinese.jpg",
+      "name": "Call of Duty®",
+      "resolvedAt": "2026-10-21T02:44:58.662Z"
     }
   },
   "taptap": {
