@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-10-21",
-    "lastUpdated": "2026-10-21 16:26:15+08:00",
+    "lastUpdated": "2026-10-21 16:33:33+08:00",
     "footerDate": "数据截至2026年10月21日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -1180,28 +1180,28 @@
     ],
     "dynamics": [
       {
-        "title": "新政 · 微信小游戏开发者大会公布月活超5亿",
-        "color": "blue",
-        "body": "微信小游戏披露月活突破<strong>5亿</strong>，人均每日游玩时长超60分钟；IAP首发新游前5000万流水免分成，并设2000万元专项激励金，老游戏运营满3年可享消一赠一广告金返还。",
-        "pubDate": "10/13",
-        "source": "17173",
-        "sourceLink": "https://news.17173.com/content/05282026/180506317.shtml"
-      },
-      {
-        "title": "品类概况 · PC端小游戏成第二增长曲线",
-        "color": "green",
-        "body": "PC端小游戏独占用户达<strong>40%</strong>，平均使用时长与ARPU较移动端分别增长约100%和130%；2026年将上线PC高性能模式，IAP小游戏可获额外10%广告金定向激励。",
-        "pubDate": "10/13",
-        "source": "搜狐",
-        "sourceLink": "https://www.sohu.com/a/1028826857_100116740"
-      },
-      {
-        "title": "上新趋势 · IAA小游戏规模持续扩大",
+        "title": "榜单 · 头部换座次不换成员",
         "color": "orange",
-        "body": "IAA小游戏月活达4亿，年收益破百万产品已超<strong>1400款</strong>；AI生成关卡与美术素材成为中小团队降低研发成本的主要路径，每月均有月流水破千万新品涌现。",
-        "pubDate": "10/13",
-        "source": "搜狐",
-        "sourceLink": "https://www.sohu.com/a/1028826857_100116740"
+        "body": "10/20 畅销榜前二《向僵尸开炮》《三国：冰河时代》连续两天不动，《造化仙府》单周 <strong>↑9 挤进前十</strong>；节后新品存活率一度跌到 <strong>33%</strong>，新进榜 11 款全部来自 #79 之后——出清集中在尾部，前 78 名零掉队。",
+        "pubDate": "10/20",
+        "source": "小游戏行业周报",
+        "sourceLink": "http://mp.weixin.qq.com/s?__biz=MzE5OTAxMjc0MA==&mid=2247483767&idx=1&sn=6f17bcc289d742d1164a914e5e51b589&chksm=97642fb91c3b46e7bc2bc149d60200a7de9dbf9517337d462ef2732724d8fbdc7a08edf1c141#rd"
+      },
+      {
+        "title": "爆款 · 精英军团几乎零投放冲 TOP7",
+        "color": "green",
+        "body": "《精英军团》10/5 上线即 TOP14、最高冲到 <strong>TOP7</strong>，素材投放端几乎没动作：红警题材降低教育成本 + 1V1 弱 RTS 自动交战，走的是<strong>「强玩法 + 弱买量」</strong>路径。同期《造化仙府》靠口碑 ↑9 入前十，说明这条通道没关。",
+        "pubDate": "10/20",
+        "source": "小游戏行业周报",
+        "sourceLink": "http://mp.weixin.qq.com/s?__biz=MzE5OTAxMjc0MA==&mid=2247483767&idx=1&sn=6f17bcc289d742d1164a914e5e51b589&chksm=97642fb91c3b46e7bc2bc149d60200a7de9dbf9517337d462ef2732724d8fbdc7a08edf1c141#rd"
+      },
+      {
+        "title": "政策 · Q4 激励档位落地，老游门槛下调",
+        "color": "purple",
+        "body": "Q4 专项激励细化：单客户集团封顶 <strong>2000 万元</strong>（可叠加 IAP 激励）；已上线首发老游增量日均门槛下调至 1 万起，<strong>日均 11 万即可拿 40% 顶格、单款封顶 500 万</strong>。棋牌、传奇不参与，同版号/APPID 仅享一次。",
+        "pubDate": "10/9",
+        "source": "腾讯营销 · 网易科技",
+        "sourceLink": "https://m.163.com/news/article/L8O8ASPM0553OKLX.html"
       }
     ],
     "categories": [
@@ -1232,7 +1232,7 @@
     ],
     "asOf": "2026-10-20",
     "source": "lightgame.cc（微信小游戏畅销榜每日快照）",
-    "dynamicsAsOf": "2026-10-13",
+    "dynamicsAsOf": "2026-10-20",
     "dynamicsStatus": "ok"
   },
   "segments": [
@@ -2991,127 +2991,128 @@
   "hr": {
     "cards": [
       {
-        "title": "AI岗位爆发",
+        "title": "2026 秋招 AI 岗位",
         "rows": [
           {
-            "label": "AI岗位占比（新经济）",
-            "value": "26.23% (↑12倍 YoY)",
-            "trend": "green"
-          },
-          {
-            "label": "AI岗位平均月薪",
-            "value": "60,738元",
-            "trend": "green"
-          },
-          {
-            "label": "AI科学家/负责人月薪",
-            "value": "137,153元",
-            "trend": "green"
-          },
-          {
-            "label": "大盘平均月薪（对比）",
-            "value": "48,189元",
+            "label": "40 家企业应届全职岗",
+            "value": "1,572 类",
             "trend": ""
           },
           {
-            "label": "AI岗位溢价",
-            "value": "+26.04%",
+            "label": "岗位名标注「AI」",
+            "value": "116 类（春招 45 类，翻倍）",
+            "trend": "green"
+          },
+          {
+            "label": "13 家厂商 7,300+ 在招岗中 AI 岗",
+            "value": "1,076 个（≈15%）",
+            "trend": "green"
+          },
+          {
+            "label": "渗透岗 / 原生岗",
+            "value": "54% / 46%",
+            "trend": ""
+          },
+          {
+            "label": "研发环节 AI 应用率",
+            "value": "86.36%",
             "trend": "green"
           }
         ]
       },
       {
-        "title": "大厂AI招聘规模",
+        "title": "薪资与供需",
         "rows": [
           {
-            "label": "网易互娱",
-            "value": "192个AI岗位",
-            "trend": ""
+            "label": "AI 岗位需求同比",
+            "value": "+127%",
+            "trend": "green"
           },
           {
-            "label": "腾讯IEG互娱",
-            "value": "140+个AI岗位",
-            "trend": ""
+            "label": "AI 岗薪资溢价（vs 传统开发）",
+            "value": "+35%~50%",
+            "trend": "green"
           },
           {
-            "label": "米哈游",
-            "value": "134个AI岗位",
-            "trend": ""
+            "label": "行业人才供需比",
+            "value": "2.4（2.4 人抢 1 岗）",
+            "trend": "red"
           },
           {
-            "label": "莉莉丝",
-            "value": "20个AI岗位",
-            "trend": ""
-          },
-          {
-            "label": "快手（AI算法工程师）",
-            "value": "百万年薪",
+            "label": "数值策划应届供需比",
+            "value": "0.70（反向紧缺）",
             "trend": "yellow"
+          },
+          {
+            "label": "新发职位平均年薪",
+            "value": "22.08 万（全行业 21.17 万）",
+            "trend": ""
           }
         ]
       },
       {
-        "title": "行业整体就业",
+        "title": "裁员规模",
         "rows": [
           {
-            "label": "2025年招聘职位",
-            "value": "约5.6万 (↓15% YoY)",
+            "label": "ASGC 2026 全球裁员预测",
+            "value": "14,259 人（年初预测 8,025）",
             "trend": "red"
           },
           {
-            "label": "全球游戏岗位裁员率",
-            "value": "约53%",
+            "label": "GDC：两年内被裁从业者",
+            "value": "28%",
             "trend": "red"
           },
           {
-            "label": "美术岗位保留率（最低）",
-            "value": "约47%",
+            "label": "其中至今未就业",
+            "value": "48%",
             "trend": "red"
           },
           {
-            "label": "从业人员规模",
-            "value": "80-90万（全职研发/运营/发行）",
-            "trend": ""
+            "label": "49 家上市公司：利润增长同时减员",
+            "value": "3,688 人",
+            "trend": "red"
           },
           {
-            "label": "去初级化趋势",
-            "value": "加剧",
+            "label": "欧洲中级设计岗年薪中位数",
+            "value": "3.45 万 → 2.6 万欧元",
             "trend": "red"
           }
         ]
       },
       {
-        "title": "薪资水平 & 热门方向",
+        "title": "从业者态度",
         "rows": [
           {
-            "label": "行业平均月薪",
-            "value": "27.4K",
-            "trend": ""
+            "label": "认为生成式 AI 负面影响",
+            "value": "52%（两年内 18%→52%）",
+            "trend": "red"
           },
           {
-            "label": "头部公司平均（腾讯/网易/米哈游）",
-            "value": "40-44K",
-            "trend": "green"
+            "label": "担心岗位被 AI 取代",
+            "value": "约 50%",
+            "trend": "red"
           },
           {
-            "label": "应届生起薪（技术岗）",
-            "value": "9-13K",
-            "trend": ""
+            "label": "认为 AI 削弱创造力",
+            "value": "64%",
+            "trend": "red"
           },
           {
-            "label": "大厂校招技术岗年薪",
-            "value": "30-50万",
-            "trend": "green"
+            "label": "资深岗投递强度",
+            "value": "LinkedIn 24h 内 100+ 份",
+            "trend": "yellow"
           },
           {
-            "label": "最紧缺方向",
-            "value": "UE5/AI算法/TA/海外发行/3A制作",
+            "label": "再就业周期",
+            "value": "最长约 6 个月",
             "trend": "yellow"
           }
         ]
       }
     ],
-    "insight": "<strong style=\"color:var(--purple)\">人才趋势洞察：</strong>行业呈现\"<strong style=\"color:var(--red)\">左手发offer，右手发裁员通知</strong>\"的冰火两重天。①<strong>AI是最大变量</strong>——能打通AI与游戏引擎的人最值钱（腾讯GDC展示VISVISE动画生成模型）；②<strong>去初级化不可逆</strong>——企业不再愿为培养新人付长期成本，更倾向引入成熟人才；③<strong>薪资两极分化</strong>——头部公司40-44K vs 行业平均27.4K，AI岗位再溢价26%；④<strong>出海人才溢价20-50%</strong>，懂海外市场/本地化/全球发行的人持续紧缺。GDC报告：超1/4游戏从业者遭遇裁员，设计师裁员率第一，近半被裁者仍未找到工作。"
+    "insight": "<strong style=\"color:var(--purple)\">人才趋势洞察：</strong>AI 已从「<strong>加分项</strong>」变成「<strong style=\"color:var(--red)\">准入项</strong>」，行业进入「总量饱和、结构饥渴」。①<strong>供需错配最硬</strong>——人才供需比 2.4（2.4 人抢 1 个岗位），但数值策划应届供需比仅 0.70，执行岗过剩、关键岗缺人；②<strong>AI 岗位逆势扩张</strong>——需求同比 +127%、薪资较传统开发高 35%~50%，2026 秋招明确标注 AI 的岗位 116 类，较春招 45 类翻倍；③<strong>裁员与盈利并行</strong>——ASGC 预测 2026 全球裁员 14,259 人（年初预测仅 8,025），49 家上市公司利润增长同期减员 3,688 人；GDC 调查 28% 从业者两年内被裁、其中 48% 至今未就业；④<strong>信心反向</strong>——52% 从业者认为生成式 AI 对行业负面影响（两年内从 18% 升至 52%），64% 认为削弱创造力：效率共识并没有转化为职业安全感。<span style=\"color:var(--text-muted)\">（数据源：猎聘/脉脉/伽马数据报告汇总、GDC 2026 行业现状调查、ASGC 裁员追踪、BGIES 2026）</span>",
+    "asOf": "2026-10-21"
   },
   "dailyBrief": [
     {
@@ -3139,7 +3140,7 @@
     {
       "name": "Enshrouded",
       "platform": "Steam / PC",
-      "event": "10/15 正式版上线，同时在线 5 万+，Steam 日活 #29、热销 #19，好评率 85%",
+      "event": "",
       "chips": [
         {
           "label": "同时在线",
@@ -3169,7 +3170,7 @@
     {
       "name": "AION 2",
       "platform": "Steam / 移动端",
-      "event": "免费 MMO 稳居 Steam 在线 #4（16.5 万），全球热销 #2，好评率 57% 褒贬不一",
+      "event": "",
       "chips": [
         {
           "label": "当前在线",
