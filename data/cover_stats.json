@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T02:45:07.255Z",
-  "metaDate": "2026-10-20",
+  "generatedAt": "2026-10-21T02:45:00.598Z",
+  "metaDate": "2026-10-21",
   "totals": {
     "denominator": 46,
     "covered": 46,
@@ -49,8 +49,8 @@
     }
   },
   "failureReasons": {
-    "cdn_cache_hit": 36,
+    "cdn_cache_hit": 35,
     "taptap-search": 8,
-    "steam-hash": 2
+    "steam-hash": 3
   }
 }
