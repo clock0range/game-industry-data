@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-10-21",
-    "lastUpdated": "2026-10-21 16:16:46+08:00",
+    "lastUpdated": "2026-10-21 16:26:15+08:00",
     "footerDate": "数据截至2026年10月21日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -3197,9 +3197,9 @@
       ]
     }
   ],
-  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>畅销榜头部进一步向腾讯集中——<strong style=\"color:var(--green)\">前五全为腾讯系</strong>（王者荣耀、三角洲行动、金铲铲之战、和平精英、无畏契约：源能行动），射击与竞技双线通吃；网易靠梦幻西游、蛋仔派对与长青三消守住中段。结构性变化有二：一是《三角洲行动》升至 #2，<strong style=\"color:var(--orange)\">腾讯自研射击已接棒老牌 MOBA 成为第二增长极</strong>；二是免费榜榜首由衍生新作《王者万象棋》拿下并同步进入畅销 #11，<strong style=\"color:var(--purple)\">IP 衍生自走棋</strong>成为大厂复用存量的新切口。《原神》凭六周年活动回升至 #14，老产品靠版本节点续命仍是主流打法。",
-  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>微信端头部固化到年内极值——9 月畅销榜<strong style=\"color:var(--red)\">换血率降至 23%</strong>、Top50 仅 1 款新品上榜，新品突围难度为年内最高；当日榜 TOP25 中<strong style=\"color:var(--green)\">模拟经营独占 7 席</strong>（疯狂水世界、我的花园世界、造化仙府等），是唯一持续扩张的细分赛道，策略、益智与模拟经营分列前三（三国：冰河时代、向僵尸开炮、疯狂水世界）形成新头部。增量已从微信外溢：9 月抖音小游戏 18 款新入榜、<strong style=\"color:var(--blue)\">文字塔防与毛线收集</strong>在畅玩榜集中上新——渠道红利正从「微信首发」转向「抖音＋畅玩」的品类轮动。",
-  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>定档窗口进入年末密集期——<strong style=\"color:var(--orange)\">10/15《剑侠世界4:无限》公测、10/29《影之刃零》发售</strong>，《三国志:王道天下》锁定 12/24、《无限大》定档 2027/1/15，大厂已把 Q4 当主战场。测试型项目仍占上新主流（《未眠野》保密测试、《粒粒的小人国》定格测试、《蓝色星原：旅谣》旅迹测试），<strong style=\"color:var(--cyan)\">长周期测试养预期</strong>已成二游标配。Steam 侧 10 月新作口碑明显分层：买断制《皇牌空战8》79%、《星球大战：银河竞速》78%、Gears of War: E-Day 73%，普遍高于同期免费新作（AION 2 仅 63% 褒贬不一），<strong style=\"color:var(--purple)\">「付费即筛选」在评测分上再次得到验证</strong>。",
+  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>本周（10/19–10/25）畅销榜头部格局未变——<strong style=\"color:var(--green)\">王者荣耀 / 和平精英 / 无尽冬日</strong> 稳居前三，其中《无尽冬日》<strong style=\"color:var(--orange)\">▲7 重返前三</strong>，是前十里唯一上行的产品；变动集中在免费榜：新游<strong style=\"color:var(--cyan)\">《拳皇·命运-福利版》直接登顶</strong>，《我叫MT：崛起》守住 #3。买量型 IP 产品仍能拿下免费榜首位，但畅销前十清一色长线运营产品，<strong>流量入口与付费沉淀正在进一步分离</strong>——免费榜看买量效率，畅销榜看版本排期。",
+  "miniappInsight": "<strong style=\"color:var(--orange)\">小游戏趋势：</strong>本周（10/19–10/25）微信小游戏榜由<strong style=\"color:var(--green)\">「模拟经营 + 益智」</strong>拉动：《我的花园世界》单周<strong>▲9 冲到 #8</strong>、《浪漫餐厅》▲4 至 #3，前八中模拟经营占 4 席（益世界、柠檬微趣、广州喜势、麟贝互娱各一款）。榜首《向僵尸开炮》纹丝不动，但腰部换血加快；老产品《无尽冬日》<strong style=\"color:var(--red)\">▼5 跌出前五</strong>，说明长线 SLG 在小游戏端正被轻量模拟经营挤出付费位。",
+  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>本周（10/19–10/25）上新节奏从 10 月中旬的密集公测转向<strong style=\"color:var(--cyan)\">「预售 + 定档」</strong>——《影之刃零》10/29 发售进入最后一周预售，是 Q4 唯一重量级买断制；公测侧 10/14《时空猎人·觉醒》、10/15《剑侠世界4:无限》已进入首周口碑观察期。长线排期已铺到 2027 年 1 月（网易《无限大》1/15 公测），厂商更倾向提前锁定预约池而非抢档期上线。",
   "weeklyInsight": {
     "title": "本周行业洞察",
     "sections": [
@@ -3225,21 +3225,21 @@
     "iosInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-21",
       "lastChecked": "2026-10-21",
       "status": "fresh"
     },
     "miniappInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-21",
       "lastChecked": "2026-10-21",
       "status": "fresh"
     },
     "newGamesInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-10-08",
+      "asOf": "2026-10-21",
       "lastChecked": "2026-10-21",
       "status": "fresh"
     },
