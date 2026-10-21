@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-10-21",
-    "lastUpdated": "2026-10-21 10:44:20+08:00",
+    "lastUpdated": "2026-10-21 16:16:46+08:00",
     "footerDate": "数据截至2026年10月21日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -216,15 +216,15 @@
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（10.1-10.7）",
+      "period": "TapTap预约榜热度（10.19-10.25）",
       "androidLabel": "安卓预约热度最高",
       "iosLabel": "iOS预约热度最高",
-      "androidTop": "剑侠世界4:无限",
+      "androidTop": "伍六七:暗影交锋",
       "androidLink": "https://www.taptap.cn/app/762823",
-      "iosTop": "剑侠世界4:无限",
+      "iosTop": "伍六七:暗影交锋",
       "iosLink": "https://www.taptap.cn/app/762823",
-      "androidTopNote": "10 月最受关注新游：全平台预约突破 900 万（官方预约站近 940 万），10/15 四端互通公测；TapTap 评分 7.6 · 官方入驻（二手源，周更）",
-      "iosTopNote": "同左（TapTap 单页承载安卓/iOS/PC 三端预约；二手源，周更）"
+      "androidTopNote": "TapTap 预约榜 #1（评分 9.3，测试招募已开启，10/21 榜单页）；原榜首《剑侠世界4:无限》已于 10/15 公测下线预约池（二手源，周更）",
+      "iosTopNote": "同左（TapTap 预约榜单页承载安卓/iOS/PC 三端预约；二手源，周更）"
     },
     "freeRanking": [
       {
@@ -373,11 +373,11 @@
         "appId": 1203620,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1203620.jpg",
-        "rating": "",
+        "rating": "85%",
         "meta": "10月上线",
-        "reviews": "",
+        "reviews": "109435",
         "link": "https://store.steampowered.com/app/1203620",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "1203620",
@@ -392,11 +392,11 @@
         "appId": 4231820,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4231820.jpg",
-        "rating": "",
+        "rating": "73%",
         "meta": "10月上线",
-        "reviews": "",
+        "reviews": "7262",
         "link": "https://store.steampowered.com/app/4231820",
-        "reviewSummary": "",
+        "reviewSummary": "多半好评",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "4231820",
@@ -411,11 +411,11 @@
         "appId": 4435490,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4435490.jpg",
-        "rating": "",
+        "rating": "92%",
         "meta": "10月上线",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4435490",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "4435490",
@@ -430,11 +430,11 @@
         "appId": 3393110,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
-        "rating": "",
+        "rating": "57%",
         "meta": "10月上线",
-        "reviews": "",
+        "reviews": "36313",
         "link": "https://store.steampowered.com/app/3393110",
-        "reviewSummary": "",
+        "reviewSummary": "褒贬不一",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "3393110",
@@ -449,11 +449,11 @@
         "appId": 2929250,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2929250.jpg",
-        "rating": "",
+        "rating": "92%",
         "meta": "10月上线",
-        "reviews": "",
+        "reviews": "3180",
         "link": "https://store.steampowered.com/app/2929250",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "2929250",
@@ -487,11 +487,11 @@
         "appId": 3219030,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3219030.jpg",
-        "rating": "",
+        "rating": "61%",
         "meta": "10月上线",
-        "reviews": "",
+        "reviews": "5452",
         "link": "https://store.steampowered.com/app/3219030",
-        "reviewSummary": "",
+        "reviewSummary": "褒贬不一",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "3219030",
@@ -506,11 +506,11 @@
         "appId": 3010850,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850.jpg",
-        "rating": "",
+        "rating": "72%",
         "meta": "10月上线",
-        "reviews": "",
+        "reviews": "10888",
         "link": "https://store.steampowered.com/app/3010850",
-        "reviewSummary": "",
+        "reviewSummary": "多半好评",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "3010850",
@@ -721,7 +721,7 @@
         "coverReason": "cdn_cache_hit"
       }
     ],
-    "insight": "本周（10/13–10/19）Steam 由 10 月新作潮主导：热销榜前 12 中 <strong>8 款为 10 月上线</strong>新品（CoD MW4、AION 2、Planet Zoo 2 等）；AION 2 单日峰值在线 <strong>39.8 万</strong>，国产《Phantom Blade Zero》保持 <strong>11.9 万</strong>同时在线。独游侧《over the hill》以约 <strong>88% 好评</strong>与 <strong>6.7 万</strong>同时在线领跑独立品类，暖冬生存品类热度延续。",
+    "insight": "本周（10/19–10/25）Steam 独游由《Enshrouded》（雾锁王国）正式版带动：10/15 上线后同时在线稳定 <strong>5 万+</strong>（Steam 日活 #29、热销 #19），<strong>10.9 万条评价、好评率 85%</strong>；《over the hill》以 <strong>92% 好评</strong>维持长线口碑。对照同期上新的《AION 2》57%、《Planet Zoo 2》61%、《Gears of War: E-Day》72%，本周免费制与大厂作品的口碑普遍低于独立制作——<strong>内容密度而非营销规模，仍是独游在榜单上站住的关键</strong>。",
     "mostPlayed": {
       "asOf": "2026-10-21",
       "updatedAt": "10:41",
@@ -972,7 +972,8 @@
     "newGamesAsOf": "2026-10-20",
     "topSellersAsOf": "2026-10-21",
     "mostPlayedAsOf": "2026-10-21",
-    "insightAsOf": "2026-10-19"
+    "insightAsOf": "2026-10-21",
+    "reviewAsOf": "2026-10-21"
   },
   "miniapp": {
     "ranking": [
@@ -3136,13 +3137,43 @@
   ],
   "phenomenon": [
     {
-      "name": "AION 2",
-      "platform": "Steam / 移动端",
-      "event": "免费 MMO 新作同时占据 Steam 在线榜 #4（24h 峰值 37.4 万）与全球热销 #2，好评率仅 63%",
+      "name": "Enshrouded",
+      "platform": "Steam / PC",
+      "event": "10/15 正式版上线，同时在线 5 万+，Steam 日活 #29、热销 #19，好评率 85%",
       "chips": [
         {
-          "label": "24h 峰值",
-          "value": "37.4 万",
+          "label": "同时在线",
+          "value": "5.2 万",
+          "color": "green"
+        },
+        {
+          "label": "日活排名",
+          "value": "#29",
+          "color": "orange"
+        },
+        {
+          "label": "好评率",
+          "value": "85% 特别好评",
+          "color": "cyan"
+        }
+      ],
+      "why": "抢先体验两年转正式版后没有掉队，反而靠内容更新把在线顶住；10.9 万条评价仍守 85% 好评，说明「生存建造 + 多人协作」的长线运营模型在国内厂商扎堆的开放世界赛道里更难被复制。",
+      "source": "SteamDB 在线榜 / 游戏页（2026-10-21）",
+      "tags": [
+        "生存建造",
+        "正式版上线",
+        "口碑稳定",
+        "欧美独游"
+      ]
+    },
+    {
+      "name": "AION 2",
+      "platform": "Steam / 移动端",
+      "event": "免费 MMO 稳居 Steam 在线 #4（16.5 万），全球热销 #2，好评率 57% 褒贬不一",
+      "chips": [
+        {
+          "label": "当前在线",
+          "value": "16.5 万",
           "color": "green"
         },
         {
@@ -3152,47 +3183,17 @@
         },
         {
           "label": "好评率",
-          "value": "63% 褒贬不一",
+          "value": "57% 褒贬不一",
           "color": "red"
         }
       ],
-      "why": "免费制 MMO 借国庆档把在线推到前列，但 63% 的好评率说明内容供给没跟上——位置靠免费+IP 拉新，留存要靠后续版本补课。这类「高开低走」样本对判断 Q4 免费 MMO 的生命周期很有参考价值。",
-      "source": "SteamDB 在线榜 / 全球热销榜 · 每日快照",
+      "why": "峰值曾冲到 39.8 万，如今回落至 16 万量级且好评率继续走低——免费 + IP 能把人拉进来，留不住人的问题在首月就暴露。对判断 Q4 免费 MMO 的生命周期，这是一个典型的「高开低走」样本。",
+      "source": "SteamDB 在线榜 / 全球热销榜（2026-10-21）",
       "tags": [
         "免费MMO",
-        "Steam双榜",
         "口碑分化",
-        "Q4新品"
-      ]
-    },
-    {
-      "name": "三国：冰河时代",
-      "platform": "微信小游戏",
-      "event": "登顶微信小游戏畅销榜 #1，而 9 月该榜换血率降至年内最低的 23%、Top50 仅 1 款新品",
-      "chips": [
-        {
-          "label": "畅销排名",
-          "value": "#1",
-          "color": "green"
-        },
-        {
-          "label": "品类",
-          "value": "策略 / SLG",
-          "color": "orange"
-        },
-        {
-          "label": "市场环境",
-          "value": "换血率 23%",
-          "color": "purple"
-        }
-      ],
-      "why": "在头部固化到年内极值时还能登顶的，不是新品类而是「三国＋冰河」这种题材混搭的轻量策略——说明小游戏的机会已从「抢新品窗口」转向「在成熟品类里做题材微创新」，与模拟经营独占 TOP25 七席是同一套逻辑。",
-      "source": "lightgame.cc 微信小游戏畅销榜 · 每日快照 + DataEye 9 月月度榜",
-      "tags": [
-        "微信小游戏",
-        "策略SLG",
-        "题材混搭",
-        "头部固化"
+        "Q4新品",
+        "高开低走"
       ]
     }
   ],
@@ -3222,24 +3223,24 @@
   "insightMeta": {
     "_note": "洞察字段维护元数据（前端不渲染）。asOf=内容生成日（重写才变）；lastChecked=最近一次到期评估日；status 由巡检刷新。",
     "iosInsight": {
-      "cadence": "biweekly",
-      "cadenceLabel": "每两周",
+      "cadence": "weekly",
+      "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-10-08",
-      "lastChecked": "2026-10-19",
+      "lastChecked": "2026-10-21",
       "status": "fresh"
     },
     "miniappInsight": {
-      "cadence": "biweekly",
-      "cadenceLabel": "每两周",
+      "cadence": "weekly",
+      "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-10-08",
-      "lastChecked": "2026-10-19",
+      "lastChecked": "2026-10-21",
       "status": "fresh"
     },
     "newGamesInsight": {
-      "cadence": "biweekly",
-      "cadenceLabel": "每两周",
+      "cadence": "weekly",
+      "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-10-08",
-      "lastChecked": "2026-10-19",
+      "lastChecked": "2026-10-21",
       "status": "fresh"
     },
     "weeklyInsight": {
@@ -3258,16 +3259,16 @@
     },
     "phenomenon": {
       "cadence": "weekly",
-      "cadenceLabel": "每周",
-      "asOf": "2026-10-08",
-      "lastChecked": "2026-10-19",
-      "status": "stale"
+      "cadenceLabel": "每周（恒2条·周更日=周一·区间周一–周日）",
+      "asOf": "2026-10-21",
+      "lastChecked": "2026-10-21",
+      "status": "fresh"
     },
     "steam.insight": {
       "cadence": "weekly",
-      "cadenceLabel": "每周",
-      "asOf": "2026-10-19",
-      "lastChecked": "2026-10-19",
+      "cadenceLabel": "每周（区间周一–周日）",
+      "asOf": "2026-10-21",
+      "lastChecked": "2026-10-21",
       "status": "fresh"
     }
   }
