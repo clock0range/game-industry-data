@@ -373,11 +373,11 @@
         "appId": 2315050,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2315050.jpg",
-        "rating": "",
+        "rating": "62%",
         "meta": "2026-10-20",
-        "reviews": "",
+        "reviews": "276",
         "link": "https://store.steampowered.com/app/2315050",
-        "reviewSummary": "",
+        "reviewSummary": "褒贬不一",
         "tags": [
           "合作",
           "解谜"
@@ -395,11 +395,11 @@
         "appId": 3393110,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
-        "rating": "",
+        "rating": "57%",
         "meta": "2026-10-16",
-        "reviews": "",
+        "reviews": "36313",
         "link": "https://store.steampowered.com/app/3393110",
-        "reviewSummary": "",
+        "reviewSummary": "褒贬不一",
         "tags": [
           "MMORPG",
           "免费"
@@ -417,11 +417,11 @@
         "appId": 4435490,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4435490.jpg",
-        "rating": "",
+        "rating": "92%",
         "meta": "2026-10-16",
         "reviews": "",
         "link": "https://store.steampowered.com/app/4435490",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [],
         "coverStatus": "verified",
         "coverKey": "4435490",
@@ -436,11 +436,11 @@
         "appId": 1203620,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1203620.jpg",
-        "rating": "",
+        "rating": "85%",
         "meta": "2026-10-15",
-        "reviews": "",
+        "reviews": "109435",
         "link": "https://store.steampowered.com/app/1203620",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [
           "生存",
           "建造"
@@ -458,11 +458,11 @@
         "appId": 1867240,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "rating": "",
+        "rating": "71%",
         "meta": "2026-10-14",
-        "reviews": "",
+        "reviews": "129830",
         "link": "https://store.steampowered.com/app/1867240",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [
           "军事",
           "射击"
@@ -480,11 +480,11 @@
         "appId": 2929250,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2929250.jpg",
-        "rating": "",
+        "rating": "92%",
         "meta": "2026-10-14",
-        "reviews": "",
+        "reviews": "3180",
         "link": "https://store.steampowered.com/app/2929250",
-        "reviewSummary": "",
+        "reviewSummary": "特别好评",
         "tags": [
           "独立",
           "驾驶"
@@ -502,11 +502,11 @@
         "appId": 3010850,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3010850.jpg",
-        "rating": "",
+        "rating": "72%",
         "meta": "2026-10-13",
-        "reviews": "",
+        "reviews": "10888",
         "link": "https://store.steampowered.com/app/3010850",
-        "reviewSummary": "",
+        "reviewSummary": "多半好评",
         "tags": [
           "动作",
           "射击"
@@ -524,11 +524,11 @@
         "appId": 3219030,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3219030.jpg",
-        "rating": "",
+        "rating": "61%",
         "meta": "2026-10-06",
-        "reviews": "",
+        "reviews": "5452",
         "link": "https://store.steampowered.com/app/3219030",
-        "reviewSummary": "",
+        "reviewSummary": "褒贬不一",
         "tags": [
           "模拟经营"
         ],
@@ -993,7 +993,7 @@
     "topSellersAsOf": "2026-10-22",
     "mostPlayedAsOf": "2026-10-22",
     "insightAsOf": "2026-10-21",
-    "reviewAsOf": "2026-10-21"
+    "reviewAsOf": "2026-10-22"
   },
   "miniapp": {
     "ranking": [
