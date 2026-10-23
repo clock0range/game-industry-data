@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T02:39:31.265Z",
+  "updatedAt": "2026-10-23T02:44:29.677Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1054,6 +1054,45 @@
       "rel": "bb0993eb34a05f462b23c666dc9a7854b913a1dc/capsule_231x87_schinese.jpg",
       "name": "Call of Duty®",
       "resolvedAt": "2026-10-21T02:44:58.662Z"
+    },
+    "steam:3259780:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg"
+      ],
+      "hash": "710da43babb2043f9f6ad0e50023e31167d94708",
+      "hashed": true,
+      "kind": "header",
+      "rel": "710da43babb2043f9f6ad0e50023e31167d94708/header.jpg",
+      "name": "FINAL FANTASY RESONANCE",
+      "resolvedAt": "2026-10-23T02:44:19.990Z"
+    },
+    "steam:3259780:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3259780/6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3259780/6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg"
+      ],
+      "hash": "6861c59eb09396b7370536d494c1c1f33f684f14",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg",
+      "name": "FINAL FANTASY RESONANCE",
+      "resolvedAt": "2026-10-23T02:44:22.785Z"
+    },
+    "steam:2139460:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2139460/c54f62706df7ca955a4e1085d15a1d8c2fcae014/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2139460/c54f62706df7ca955a4e1085d15a1d8c2fcae014/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2139460/c54f62706df7ca955a4e1085d15a1d8c2fcae014/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "c54f62706df7ca955a4e1085d15a1d8c2fcae014",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "c54f62706df7ca955a4e1085d15a1d8c2fcae014/capsule_231x87_schinese.jpg",
+      "name": "Once Human",
+      "resolvedAt": "2026-10-23T02:44:25.403Z"
     }
   },
   "taptap": {
@@ -1160,6 +1199,30 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-10-14T02:41:30.406Z"
+    },
+    "卡拉彼丘": {
+      "url": "https://img-tc.tapimg.com/market/images/929e9e3c1b4bdacfa60f86c5bf585b5d.png/_tap_banner.jpg",
+      "appid": 201685,
+      "matchedName": "卡拉彼丘",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-10-23T02:44:13.750Z"
+    },
+    "三国望神州": {
+      "url": "https://img-tc.tapimg.com/market/images/4eaadc47872e3949472c146c50dad270.jpg/_tap_banner.jpg",
+      "appid": 622867,
+      "matchedName": "三国望神州",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-10-23T02:44:15.649Z"
+    },
+    "星布谷地": {
+      "url": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "appid": 776320,
+      "matchedName": "星布谷地",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-10-23T02:44:16.439Z"
     }
   },
   "failures": {}
