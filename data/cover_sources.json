@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T02:36:17.893Z",
+  "updatedAt": "2026-10-26T02:46:26.349Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1093,6 +1093,19 @@
       "rel": "c54f62706df7ca955a4e1085d15a1d8c2fcae014/capsule_231x87_schinese.jpg",
       "name": "Once Human",
       "resolvedAt": "2026-10-23T02:44:25.403Z"
+    },
+    "steam:2138330:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138330/81d31c2f205f707d6767d0a87fe363e8c33dd525/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2138330/81d31c2f205f707d6767d0a87fe363e8c33dd525/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/81d31c2f205f707d6767d0a87fe363e8c33dd525/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "81d31c2f205f707d6767d0a87fe363e8c33dd525",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "81d31c2f205f707d6767d0a87fe363e8c33dd525/capsule_231x87_schinese.jpg",
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "resolvedAt": "2026-10-26T02:46:21.671Z"
     }
   },
   "taptap": {
