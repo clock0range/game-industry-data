@@ -1,8 +1,8 @@
 {
   "meta": {
-    "date": "2026-10-25",
-    "lastUpdated": "2026-10-25T10:30:00+08:00",
-    "footerDate": "数据截至2026年10月25日",
+    "date": "2026-10-26",
+    "lastUpdated": "2026-10-26T10:39:00+08:00",
+    "footerDate": "数据截至2026年10月26日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
   "kpi": [
@@ -56,39 +56,39 @@
       },
       {
         "rank": 2,
-        "name": "光·遇",
-        "publisher": "网易移动游戏",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/82/cd/9082cd0f-3f03-0a69-dda1-630e4d57ae61/AppIcon_Netease-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E5%85%89%C2%B7%E9%81%87",
-        "change": "▲3"
-      },
-      {
-        "rank": 3,
         "name": "和平精英",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/36/e2/8936e24b-f6d7-990a-efd4-078a14a6fe8e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
-        "change": "/"
+        "change": "▲1"
+      },
+      {
+        "rank": 3,
+        "name": "光·遇",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/82/cd/9082cd0f-3f03-0a69-dda1-630e4d57ae61/AppIcon_Netease-0-0-1x_U007emarketing-0-5-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E5%85%89%C2%B7%E9%81%87",
+        "change": "▼1"
       },
       {
         "rank": 4,
         "name": "火影忍者",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/48/e6/2848e651-522a-cef2-2fac-1bcb0752d0de/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85",
-        "change": "▼2"
+        "change": "/"
       },
       {
         "rank": 5,
         "name": "三角洲行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/34/0e/10340e62-72a3-4a99-0b4a-3199680f248c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
-        "change": "▲2"
+        "change": "/"
       },
       {
         "rank": 6,
@@ -101,69 +101,60 @@
       },
       {
         "rank": 7,
-        "name": "率土之滨",
-        "publisher": "网易移动游戏",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/93/d1/f993d198-da23-78eb-7610-61527eadd19a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BB%A8",
-        "change": "▼3"
+        "name": "篮球少女：飞跃巅峰",
+        "publisher": "Lingxi Games...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f7/85/55f78515-ee43-bf22-293b-0d604e6aefcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E7%AF%AE%E7%90%83%E5%B0%91%E5%A5%B3%EF%BC%9A%E9%A3%9E%E8%B7%83%E5%B7%85%E5%B3%B0",
+        "change": "▲5"
       },
       {
         "rank": 8,
-        "name": "无尽冬日",
-        "publisher": "Shanghai Qin...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/96/a5/9c96a5a5-a92a-9405-d252-b2aa7b9aa8ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5",
-        "change": "▲1"
-      },
-      {
-        "rank": 9,
-        "name": "开心消消乐",
-        "publisher": "乐元素",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/13/ad/e013ad83-4be5-8f4a-d2cd-0050138318c9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
-        "change": "▲1"
-      },
-      {
-        "rank": 10,
         "name": "无畏契约：源能行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d0/ea/4dd0eaf7-4498-51a2-43ea-821cd4223d76/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
         "trend": "up",
         "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
-        "change": "▲1"
+        "change": "▲2"
       },
       {
-        "rank": 11,
+        "rank": 9,
         "name": "梦幻西游",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/ae/ca/d8aecabc-4580-0689-7ba2-a6108946f8da/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8",
-        "change": "▼3"
+        "change": "▲2"
+      },
+      {
+        "rank": 10,
+        "name": "无尽冬日",
+        "publisher": "Shanghai Qin...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/96/a5/9c96a5a5-a92a-9405-d252-b2aa7b9aa8ad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E6%97%A0%E5%B0%BD%E5%86%AC%E6%97%A5",
+        "change": "▼2"
+      },
+      {
+        "rank": 11,
+        "name": "开心消消乐",
+        "publisher": "乐元素",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/13/ad/e013ad83-4be5-8f4a-d2cd-0050138318c9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
+        "change": "▼2"
       },
       {
         "rank": 12,
-        "name": "篮球少女：飞跃巅峰",
-        "publisher": "Lingxi Games...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f7/85/55f78515-ee43-bf22-293b-0d604e6aefcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "new",
-        "link": "https://www.taptap.cn/search/%E7%AF%AE%E7%90%83%E5%B0%91%E5%A5%B3%EF%BC%9A%E9%A3%9E%E8%B7%83%E5%B7%85%E5%B3%B0",
-        "change": "新"
-      },
-      {
-        "rank": 13,
         "name": "我叫MT：崛起",
         "publisher": "Chengmai Wul...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/ed/53/58ed53b2-bc32-d378-89c7-75b9608892d6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E6%88%91%E5%8F%ABMT%EF%BC%9A%E5%B4%9B%E8%B5%B7",
-        "change": "▼1"
+        "change": "▲1"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "name": "捕鱼大作战-街机打鱼游戏王者",
         "publisher": "Tuyoo Online...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/9a/8d/2a9a8d55-573e-05ea-f4bd-51a98c132806/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
@@ -172,12 +163,21 @@
         "change": "▲1"
       },
       {
+        "rank": 14,
+        "name": "率土之滨",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/93/d1/f993d198-da23-78eb-7610-61527eadd19a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BB%A8",
+        "change": "▼7"
+      },
+      {
         "rank": 15,
-        "name": "炉石传说",
-        "publisher": "暴雪",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/36/92/18369281-1833-8e75-f2e8-599ddcfc6d5f/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "name": "三国志·战略版",
+        "publisher": "Lingxi Games...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/2a/e3/cd2ae347-951d-892b-001d-536619f1bc81/AppIcon-cn-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "new",
-        "link": "https://www.taptap.cn/search/%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4",
+        "link": "https://www.taptap.cn/search/%E4%B8%89%E5%9B%BD%E5%BF%97%C2%B7%E6%88%98%E7%95%A5%E7%89%88",
         "change": "新"
       }
     ],
@@ -229,33 +229,60 @@
     "freeRanking": [
       {
         "rank": 1,
-        "name": "王者万象棋",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/5c/7a/025c7a40-b125-5ab9-1237-7283fcbf089a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B",
-        "change": "▲1"
-      },
-      {
-        "rank": 2,
-        "name": "王者荣耀世界",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/1f/d7/f01fd761-fb29-8e46-4a72-bfd9bf25ba54/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C",
-        "change": "▲9"
-      },
-      {
-        "rank": 3,
         "name": "王者荣耀",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/d8/d4/a5d8d4ce-fc8d-bb69-4e8c-e5d9567d4591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "flat",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80",
-        "change": "/"
+        "change": "▲2"
+      },
+      {
+        "rank": 2,
+        "name": "王者万象棋",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/5c/7a/025c7a40-b125-5ab9-1237-7283fcbf089a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B",
+        "change": "▼1"
+      },
+      {
+        "rank": 3,
+        "name": "三角洲行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/34/0e/10340e62-72a3-4a99-0b4a-3199680f248c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
+        "change": "▲2"
       },
       {
         "rank": 4,
+        "name": "王者荣耀世界",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/1f/d7/f01fd761-fb29-8e46-4a72-bfd9bf25ba54/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C",
+        "change": "▼2"
+      },
+      {
+        "rank": 5,
+        "name": "和平精英",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/36/e2/8936e24b-f6d7-990a-efd4-078a14a6fe8e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
+        "change": "▲2"
+      },
+      {
+        "rank": 6,
+        "name": "无畏契约：源能行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d0/ea/4dd0eaf7-4498-51a2-43ea-821cd4223d76/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "flat",
+        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
+        "change": "/"
+      },
+      {
+        "rank": 7,
         "name": "篮球少女：飞跃巅峰",
         "publisher": "Lingxi Games...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/f7/85/55f78515-ee43-bf22-293b-0d604e6aefcc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
@@ -264,70 +291,61 @@
         "change": "▼3"
       },
       {
-        "rank": 5,
-        "name": "三角洲行动",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/34/0e/10340e62-72a3-4a99-0b4a-3199680f248c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
-        "change": "/"
-      },
-      {
-        "rank": 6,
-        "name": "无畏契约：源能行动",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/d0/ea/4dd0eaf7-4498-51a2-43ea-821cd4223d76/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
-        "change": "▲3"
-      },
-      {
-        "rank": 7,
-        "name": "和平精英",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/36/e2/8936e24b-f6d7-990a-efd4-078a14a6fe8e/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
-        "trend": "up",
-        "link": "https://www.taptap.cn/search/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1",
-        "change": "▲1"
-      },
-      {
         "rank": 8,
         "name": "开心消消乐",
         "publisher": "乐元素",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/13/ad/e013ad83-4be5-8f4a-d2cd-0050138318c9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
-        "change": "▼2"
+        "change": "/"
       },
       {
         "rank": 9,
         "name": "蛋仔派对-小猪佩奇联动",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/17/13/3b17133f-f24a-6a4b-f040-054fc18deaa2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9-%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87%E8%81%94%E5%8A%A8",
-        "change": "▲4"
+        "change": "/"
       },
       {
         "rank": 10,
-        "name": "星途天城",
-        "publisher": "梦趣游戏",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/56/cf/f756cf08-e4c5-cbf9-f500-27f612da44f5/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E6%98%9F%E9%80%94%E5%A4%A9%E5%9F%8E",
-        "change": "▼6"
+        "name": "跃动小子",
+        "publisher": "BAI XIANG NE...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/4b/2b/134b2b31-0b72-da55-dc05-1f8d8dce920f/AppIcon_yd-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "new",
+        "link": "https://www.taptap.cn/search/%E8%B7%83%E5%8A%A8%E5%B0%8F%E5%AD%90",
+        "change": "新"
       },
       {
         "rank": 11,
         "name": "疯狂水世界",
         "publisher": "益世界网络科技(上海)有...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/cf/15/6ecf15a4-9229-9afe-0541-7455d3f8b1fc/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E7%96%AF%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C",
-        "change": "▲3"
+        "change": "/"
       },
       {
         "rank": 12,
+        "name": "星途天城",
+        "publisher": "梦趣游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/56/cf/f756cf08-e4c5-cbf9-f500-27f612da44f5/AppIcon-1x_U007epad-0-1-85-220-0.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E6%98%9F%E9%80%94%E5%A4%A9%E5%9F%8E",
+        "change": "▼2"
+      },
+      {
+        "rank": 13,
+        "name": "我的世界：移动版",
+        "publisher": "网易移动游戏(MC)",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/8e/fc/678efcee-6542-9afc-6fed-a4b44ce75d27/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9A%E7%A7%BB%E5%8A%A8%E7%89%88",
+        "change": "▲1"
+      },
+      {
+        "rank": 14,
         "name": "Dream Road: Online",
         "publisher": "Bellum Games...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/a4/56/e6a456f0-7cbc-cfbb-c9af-235cb097662c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
@@ -336,31 +354,13 @@
         "change": "▼2"
       },
       {
-        "rank": 13,
-        "name": "失落城堡2",
-        "publisher": "雷霆游戏",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/54/fb/8054fb24-50d7-5396-ef51-c13c9d383701/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E5%A4%B1%E8%90%BD%E5%9F%8E%E5%A0%A12",
-        "change": "▼6"
-      },
-      {
-        "rank": 14,
-        "name": "我的世界：移动版",
-        "publisher": "网易移动游戏(MC)",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/8e/fc/678efcee-6542-9afc-6fed-a4b44ce75d27/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/100x100bb.png",
-        "trend": "new",
-        "link": "https://www.taptap.cn/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%EF%BC%9A%E7%A7%BB%E5%8A%A8%E7%89%88",
-        "change": "新"
-      },
-      {
         "rank": 15,
         "name": "金铲铲之战",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/99/44/9e994473-3fc3-264b-6585-f262e8c183fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "new",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98",
-        "change": "新"
+        "change": "/"
       }
     ]
   },
