@@ -663,17 +663,17 @@
     ],
     "insight": "本周（10/19–10/25）Steam 独游由《Enshrouded》（雾锁王国）正式版带动：10/15 上线后同时在线稳定 <strong>5 万+</strong>（Steam 日活 #29、热销 #19），<strong>10.9 万条评价、好评率 85%</strong>；《over the hill》以 <strong>92% 好评</strong>维持长线口碑。对照同期上新的《AION 2》57%、《Planet Zoo 2》61%、《Gears of War: E-Day》72%，本周免费制与大厂作品的口碑普遍低于独立制作——<strong>内容密度而非营销规模，仍是独游在榜单上站住的关键</strong>。",
     "mostPlayed": {
-      "asOf": "2026-10-25",
-      "updatedAt": "10:30",
+      "asOf": "2026-10-26",
+      "updatedAt": "10:40",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
           "appid": 570,
           "name": "Dota 2",
-          "nameZh": "Dota 2",
-          "current": 611803,
-          "peak24h": 1082982,
+          "nameZh": "DOTA2",
+          "current": 622298,
+          "peak24h": 1097854,
           "link": "https://store.steampowered.com/app/570/"
         },
         {
@@ -681,8 +681,8 @@
           "appid": 730,
           "name": "Counter-Strike 2",
           "nameZh": "反恐精英2",
-          "current": 536196,
-          "peak24h": 1347645,
+          "current": 490306,
+          "peak24h": 1338829,
           "link": "https://store.steampowered.com/app/730/"
         },
         {
@@ -690,98 +690,98 @@
           "appid": 1422450,
           "name": "Deadlock",
           "nameZh": "Deadlock",
-          "current": 200981,
-          "peak24h": 257777,
+          "current": 211494,
+          "peak24h": 267268,
           "link": "https://store.steampowered.com/app/1422450/"
         },
         {
           "rank": 4,
           "appid": 1938090,
           "name": "Call of Duty®",
-          "nameZh": "使命召唤",
-          "current": 187194,
-          "peak24h": 227622,
+          "nameZh": "使命召唤：现代战争IV",
+          "current": 176059,
+          "peak24h": 227434,
           "link": "https://store.steampowered.com/app/1938090/"
         },
         {
           "rank": 5,
-          "appid": 578080,
-          "name": "PUBG: BATTLEGROUNDS",
-          "nameZh": "绝地求生",
-          "current": 173300,
-          "peak24h": 817009,
-          "link": "https://store.steampowered.com/app/578080/"
-        },
-        {
-          "rank": 6,
-          "appid": 1867240,
-          "name": "WARDOGS",
-          "nameZh": "WARDOGS",
-          "current": 139061,
-          "peak24h": 201193,
-          "link": "https://store.steampowered.com/app/1867240/"
-        },
-        {
-          "rank": 7,
           "appid": 3393110,
           "name": "AION 2",
           "nameZh": "永恒之塔2",
-          "current": 138103,
-          "peak24h": 256271,
+          "current": 166726,
+          "peak24h": 266890,
           "link": "https://store.steampowered.com/app/3393110/"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "Bongo Cat",
-          "current": 132992,
-          "peak24h": 164125,
+          "current": 137253,
+          "peak24h": 170675,
           "link": "https://store.steampowered.com/app/3419430/"
         },
         {
-          "rank": 9,
+          "rank": 7,
           "appid": 2676230,
           "name": "FiveM",
           "nameZh": "FiveM",
-          "current": 130124,
-          "peak24h": 197182,
+          "current": 126780,
+          "peak24h": 201263,
           "link": "https://store.steampowered.com/app/2676230/"
+        },
+        {
+          "rank": 8,
+          "appid": 1867240,
+          "name": "WARDOGS",
+          "nameZh": "战狗",
+          "current": 125681,
+          "peak24h": 199595,
+          "link": "https://store.steampowered.com/app/1867240/"
+        },
+        {
+          "rank": 9,
+          "appid": 578080,
+          "name": "PUBG: BATTLEGROUNDS",
+          "nameZh": "绝地求生",
+          "current": 123857,
+          "peak24h": 812708,
+          "link": "https://store.steampowered.com/app/578080/"
         },
         {
           "rank": 10,
           "appid": 1091500,
           "name": "Cyberpunk 2077",
           "nameZh": "赛博朋克2077",
-          "current": 117701,
-          "peak24h": 162291,
+          "current": 122591,
+          "peak24h": 187215,
           "link": "https://store.steampowered.com/app/1091500/"
         },
         {
           "rank": 11,
-          "appid": 440,
-          "name": "Team Fortress 2",
-          "nameZh": "军团要塞2",
-          "current": 79825,
-          "peak24h": 99228,
-          "link": "https://store.steampowered.com/app/440/"
-        },
-        {
-          "rank": 12,
           "appid": 892970,
           "name": "Valheim",
           "nameZh": "英灵神殿",
-          "current": 76863,
-          "peak24h": 124046,
+          "current": 75772,
+          "peak24h": 129594,
           "link": "https://store.steampowered.com/app/892970/"
+        },
+        {
+          "rank": 12,
+          "appid": 440,
+          "name": "Team Fortress 2",
+          "nameZh": "军团要塞2",
+          "current": 75178,
+          "peak24h": 88771,
+          "link": "https://store.steampowered.com/app/440/"
         },
         {
           "rank": 13,
           "appid": 359550,
           "name": "Tom Clancy's Rainbow Six Siege",
           "nameZh": "彩虹六号：围攻",
-          "current": 72342,
-          "peak24h": 85352,
+          "current": 74241,
+          "peak24h": 90722,
           "link": "https://store.steampowered.com/app/359550/"
         },
         {
@@ -789,33 +789,33 @@
           "appid": 1808500,
           "name": "ARC Raiders",
           "nameZh": "ARC Raiders",
-          "current": 70612,
-          "peak24h": 99824,
+          "current": 70154,
+          "peak24h": 104277,
           "link": "https://store.steampowered.com/app/1808500/"
         },
         {
           "rank": 15,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "Apex英雄",
-          "current": 70546,
-          "peak24h": 233670,
-          "link": "https://store.steampowered.com/app/1172470/"
-        },
-        {
-          "rank": 16,
           "appid": 230410,
           "name": "Warframe",
           "nameZh": "星际战甲",
-          "current": 67211,
-          "peak24h": 91119,
+          "current": 64278,
+          "peak24h": 89441,
           "link": "https://store.steampowered.com/app/230410/"
+        },
+        {
+          "rank": 16,
+          "appid": 1203620,
+          "name": "Enshrouded",
+          "nameZh": "雾锁王国",
+          "current": 62762,
+          "peak24h": 116840,
+          "link": "https://store.steampowered.com/app/1203620/"
         }
       ]
     },
     "newGamesAsOf": "2026-10-23",
     "topSellersAsOf": "2026-10-25",
-    "mostPlayedAsOf": "2026-10-25",
+    "mostPlayedAsOf": "2026-10-26",
     "insightAsOf": "2026-10-21",
     "reviewAsOf": "2026-10-22"
   },
