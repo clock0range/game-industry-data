@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T02:46:26.349Z",
+  "updatedAt": "2026-10-27T03:04:35.540Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1106,6 +1106,32 @@
       "rel": "81d31c2f205f707d6767d0a87fe363e8c33dd525/capsule_231x87_schinese.jpg",
       "name": "Cyberpunk 2077: Phantom Liberty",
       "resolvedAt": "2026-10-26T02:46:21.671Z"
+    },
+    "steam:5335510:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg"
+      ],
+      "hash": "41e1e802dfc069cc245b91043e451a2f9ffa80e3",
+      "hashed": true,
+      "kind": "header",
+      "rel": "41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg",
+      "name": "Moon Sweepers",
+      "resolvedAt": "2026-10-27T03:04:24.408Z"
+    },
+    "steam:5335510:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5335510/86fae70046ddca14dc1d44312c5eeb310081eb81/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5335510/86fae70046ddca14dc1d44312c5eeb310081eb81/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/86fae70046ddca14dc1d44312c5eeb310081eb81/capsule_231x87.jpg"
+      ],
+      "hash": "86fae70046ddca14dc1d44312c5eeb310081eb81",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "86fae70046ddca14dc1d44312c5eeb310081eb81/capsule_231x87.jpg",
+      "name": "Moon Sweepers",
+      "resolvedAt": "2026-10-27T03:04:30.806Z"
     }
   },
   "taptap": {
