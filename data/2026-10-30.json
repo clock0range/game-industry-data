@@ -1356,9 +1356,16 @@
       ],
       "isNew": true,
       "newUntil": "2026-10-31",
-      "coverStatus": "missing",
-      "coverReason": "taptap_no_confident_match",
-      "coverUrl": ""
+      "coverStatus": "verified",
+      "coverReason": "manual-gamersky",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/死神bleachmirrorshigh.jpg",
+      "coverKey": "死神bleachmirrorshigh",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/死神bleachmirrorshigh.jpg",
+      "coverSourceUrl": "https://img1.gamersky.com/upimg/pic/2026/10/27/origin_202610272235149245.png",
+      "imageUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/死神bleachmirrorshigh.jpg",
+      "imageStatus": "ok",
+      "imageSource": "manual",
+      "imageVerified": true
     },
     {
       "date": "11月7日测试",
