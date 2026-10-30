@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T02:37:56.984Z",
+  "updatedAt": "2026-10-30",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1314,6 +1314,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-10-23T02:44:16.439Z"
+    },
+    "死神bleachmirrorshigh": {
+      "url": "https://img1.gamersky.com/upimg/pic/2026/10/27/origin_202610272235149245.png",
+      "appid": 0,
+      "matchedName": "死神 BLEACH Mirrors High",
+      "score": 1,
+      "source": "manual-gamersky",
+      "resolvedAt": "2026-10-30"
     }
   },
   "failures": {
