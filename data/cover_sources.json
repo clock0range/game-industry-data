@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T02:38:26.503Z",
+  "updatedAt": "2026-10-30T02:37:56.984Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1132,6 +1132,58 @@
       "rel": "86fae70046ddca14dc1d44312c5eeb310081eb81/capsule_231x87.jpg",
       "name": "Moon Sweepers",
       "resolvedAt": "2026-10-27T03:04:30.806Z"
+    },
+    "steam:4348910:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348910/2fedb1211c5892123b8b83efc4661046e4347df1/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4348910/2fedb1211c5892123b8b83efc4661046e4347df1/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/2fedb1211c5892123b8b83efc4661046e4347df1/header_schinese.jpg"
+      ],
+      "hash": "2fedb1211c5892123b8b83efc4661046e4347df1",
+      "hashed": true,
+      "kind": "header",
+      "rel": "2fedb1211c5892123b8b83efc4661046e4347df1/header_schinese.jpg",
+      "name": "Probably Stolen",
+      "resolvedAt": "2026-10-30T02:37:47.896Z"
+    },
+    "steam:4348910:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348910/fa8d94817dd60c2f7c019d996c2615059081cc90/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4348910/fa8d94817dd60c2f7c019d996c2615059081cc90/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/fa8d94817dd60c2f7c019d996c2615059081cc90/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "fa8d94817dd60c2f7c019d996c2615059081cc90",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "fa8d94817dd60c2f7c019d996c2615059081cc90/capsule_231x87_schinese.jpg",
+      "name": "Probably Stolen",
+      "resolvedAt": "2026-10-30T02:37:50.539Z"
+    },
+    "steam:236390:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236390/e791436bba88d064d1837cf85f38d01ca09886e4/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/236390/e791436bba88d064d1837cf85f38d01ca09886e4/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/e791436bba88d064d1837cf85f38d01ca09886e4/capsule_231x87.jpg"
+      ],
+      "hash": "e791436bba88d064d1837cf85f38d01ca09886e4",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "e791436bba88d064d1837cf85f38d01ca09886e4/capsule_231x87.jpg",
+      "name": "War Thunder",
+      "resolvedAt": "2026-10-30T02:37:52.302Z"
+    },
+    "steam:3321460:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3321460/b850aad0d2cc638245befbcff22fc9de83988321/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3321460/b850aad0d2cc638245befbcff22fc9de83988321/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/b850aad0d2cc638245befbcff22fc9de83988321/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "b850aad0d2cc638245befbcff22fc9de83988321",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "b850aad0d2cc638245befbcff22fc9de83988321/capsule_231x87_schinese.jpg",
+      "name": "Crimson Desert Enhanced",
+      "resolvedAt": "2026-10-30T02:37:52.928Z"
     }
   },
   "taptap": {
@@ -1266,9 +1318,9 @@
   },
   "failures": {
     "taptap:死神bleachmirrorshigh": {
-      "count": 1,
+      "count": 2,
       "reason": "no_confident_match",
-      "lastAt": "2026-10-28T02:38:14.873Z"
+      "lastAt": "2026-10-30T02:37:42.976Z"
     }
   }
 }
