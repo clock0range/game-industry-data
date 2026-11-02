@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T03:01:40.066Z",
+  "updatedAt": "2026-11-02T02:24:07.623Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1322,6 +1322,14 @@
       "score": 1,
       "source": "manual-gamersky",
       "resolvedAt": "2026-10-30"
+    },
+    "白银之城": {
+      "url": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
+      "appid": 754910,
+      "matchedName": "白银之城",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-02T02:23:57.477Z"
     }
   },
   "failures": {
