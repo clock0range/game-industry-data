@@ -408,8 +408,9 @@
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit",
         "nameEn": "AION 2",
-        "nameMode": "en",
-        "displayName": "AION 2"
+        "nameMode": "zh_en",
+        "displayName": "永恒之塔2（AION 2）",
+        "nameZh": "永恒之塔2"
       },
       {
         "gameName": "WARDOGS",
