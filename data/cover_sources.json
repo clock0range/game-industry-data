@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T02:24:07.623Z",
+  "updatedAt": "2026-11-03T02:47:29.070Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1184,6 +1184,19 @@
       "rel": "b850aad0d2cc638245befbcff22fc9de83988321/capsule_231x87_schinese.jpg",
       "name": "Crimson Desert Enhanced",
       "resolvedAt": "2026-10-30T02:37:52.928Z"
+    },
+    "steam:4530370:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530370/3d06aef381c925bb6c091f13be44dd294b205a72/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4530370/3d06aef381c925bb6c091f13be44dd294b205a72/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/3d06aef381c925bb6c091f13be44dd294b205a72/capsule_231x87.jpg"
+      ],
+      "hash": "3d06aef381c925bb6c091f13be44dd294b205a72",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "3d06aef381c925bb6c091f13be44dd294b205a72/capsule_231x87.jpg",
+      "name": "Football Manager 27",
+      "resolvedAt": "2026-11-03T02:47:24.319Z"
     }
   },
   "taptap": {
