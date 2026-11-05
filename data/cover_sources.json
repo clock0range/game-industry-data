@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T02:44:44.463Z",
+  "updatedAt": "2026-11-05T02:52:00.113Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1197,6 +1197,45 @@
       "rel": "3d06aef381c925bb6c091f13be44dd294b205a72/capsule_231x87.jpg",
       "name": "Football Manager 27",
       "resolvedAt": "2026-11-03T02:47:24.319Z"
+    },
+    "steam:4251460:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4251460/1c11c8b56f0aa851c372e6f8e818dc21e15eb586/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4251460/1c11c8b56f0aa851c372e6f8e818dc21e15eb586/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4251460/1c11c8b56f0aa851c372e6f8e818dc21e15eb586/capsule_231x87.jpg"
+      ],
+      "hash": "1c11c8b56f0aa851c372e6f8e818dc21e15eb586",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "1c11c8b56f0aa851c372e6f8e818dc21e15eb586/capsule_231x87.jpg",
+      "name": "Godzilla: Destroy All Monsters Melee Remastered",
+      "resolvedAt": "2026-11-05T02:51:52.250Z"
+    },
+    "steam:3218230:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218230/ae498bdbfdf5498ce0f2201779531b8c1043db5b/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3218230/ae498bdbfdf5498ce0f2201779531b8c1043db5b/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/ae498bdbfdf5498ce0f2201779531b8c1043db5b/capsule_231x87.jpg"
+      ],
+      "hash": "ae498bdbfdf5498ce0f2201779531b8c1043db5b",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "ae498bdbfdf5498ce0f2201779531b8c1043db5b/capsule_231x87.jpg",
+      "name": "ArcheAge Chronicles",
+      "resolvedAt": "2026-11-05T02:51:55.031Z"
+    },
+    "steam:2320980:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2320980/15667cc22153cd32b9e19a7d0a3c7b168897bb78/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2320980/15667cc22153cd32b9e19a7d0a3c7b168897bb78/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/15667cc22153cd32b9e19a7d0a3c7b168897bb78/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "15667cc22153cd32b9e19a7d0a3c7b168897bb78",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "15667cc22153cd32b9e19a7d0a3c7b168897bb78/capsule_231x87_schinese.jpg",
+      "name": "Loftia",
+      "resolvedAt": "2026-11-05T02:51:55.753Z"
     }
   },
   "taptap": {
@@ -1343,6 +1382,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-02T02:23:57.477Z"
+    },
+    "异人之下": {
+      "url": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
+      "appid": 730674,
+      "matchedName": "异人之下",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-05T02:51:43.820Z"
     }
   },
   "failures": {
