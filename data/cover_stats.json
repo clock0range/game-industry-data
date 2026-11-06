@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-05T02:52:00.128Z",
-  "metaDate": "2026-11-05",
+  "generatedAt": "2026-11-06T02:47:03.021Z",
+  "metaDate": "2026-11-06",
   "totals": {
     "denominator": 50,
-    "covered": 49,
-    "coverage": 98
+    "covered": 50,
+    "coverage": 100
   },
   "byModule": {
     "newGames": {
       "n": 16,
-      "verified": 15,
-      "pending": 1,
+      "verified": 16,
+      "pending": 0,
       "missing": 0,
       "unavailable": 0,
       "other": 0
     },
     "newGames(归档)": {
-      "n": 35,
+      "n": 36,
       "verified": 0,
       "pending": 0,
       "missing": 0,
@@ -50,8 +50,8 @@
   },
   "failureReasons": {
     "taptap-search": 11,
-    "cdn_cache_hit": 34,
-    "cooldown_retry_later": 1,
-    "steam-hash": 4
+    "cdn_cache_hit": 35,
+    "manual-gamersky": 1,
+    "steam-hash": 3
   }
 }
