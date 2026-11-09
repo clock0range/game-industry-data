@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T02:47:03.006Z",
+  "updatedAt": "2026-11-09T02:30:48.894Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1262,6 +1262,19 @@
       "rel": "5f6c88917f1fb32ae0c5832e4b1e444b44b2551b/capsule_231x87_schinese.jpg",
       "name": "NARAKA: BLADEPOINT",
       "resolvedAt": "2026-11-06T02:46:58.635Z"
+    },
+    "steam:4262460:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4262460/0cef00dbfabf5f15adbf8b18e84cc8ef53dce963/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4262460/0cef00dbfabf5f15adbf8b18e84cc8ef53dce963/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/0cef00dbfabf5f15adbf8b18e84cc8ef53dce963/capsule_231x87.jpg"
+      ],
+      "hash": "0cef00dbfabf5f15adbf8b18e84cc8ef53dce963",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "0cef00dbfabf5f15adbf8b18e84cc8ef53dce963/capsule_231x87.jpg",
+      "name": "ROB RUN",
+      "resolvedAt": "2026-11-09T02:30:46.602Z"
     }
   },
   "taptap": {
