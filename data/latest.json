@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-10",
-    "lastUpdated": "2026-11-10T10:30:00+08:00",
+    "lastUpdated": "2026-11-10 10:34:37+08:00",
     "footerDate": "数据截至2026年11月10日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,44 +183,44 @@
     ],
     "highlights": [
       {
-        "title": "魔兽世界：无限国服百万同时在线",
-        "titleLink": "https://www.163.com/dy/article/LB7S4C720526CPHV.html",
-        "color": "blue",
-        "source": "网易号·魔兽世界研究所",
-        "sourceLink": "https://www.163.com/dy/article/LB7S4C720526CPHV.html",
-        "body": "11/8 暴雪官宣：国服<strong>100 万</strong>冒险者同时在线，刷新史上最高开服纪录；全球<strong>上线峰值</strong>与<strong>回归玩家</strong>双创系列历史。该作 11/5 全球同步上线，新玩家为 15 年来最多。",
-        "isNew": true,
-        "newUntil": "2026-11-10"
-      },
-      {
-        "title": "Savvy 收购沐瞳通过反垄断审批",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20261109100346a49e666d",
+        "title": "A股游戏Q3增收不增利，三七互娱转亏",
+        "titleLink": "https://finance.sina.com.cn/stock/observe/2026-11-10/doc-iniyfeci2801845.shtml",
         "color": "green",
-        "source": "腾讯新闻",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN20261109100346a49e666d",
-        "body": "市监总局公示显示，沙特 Savvy 收购沐瞳股权案 <strong>10/29 过审</strong>（11/6 公示），交易估值超 <strong>60 亿美元</strong>；另据报道 PIF 联合银湖拟以约 <strong>250 亿美元</strong>估值收购 Unity。",
+        "source": "新浪财经",
+        "sourceLink": "https://finance.sina.com.cn/stock/observe/2026-11-10/doc-iniyfeci2801845.shtml",
+        "body": "17 家 A 股游戏公司三季报收官：前三季度营收合计 <strong>837.83 亿元</strong>（同比 +18.12%），归母净利 154.78 亿元（+16.32%）；但 Q3 单季净利仅 <strong>37.85 亿元、同比下滑 27.18%</strong>，「增收不增利」成为行业共性。<strong>三七互娱</strong> Q3 由盈转亏 2.96 亿元，含智谱华章股价波动带来的 5.06 亿元非经常性损失；完美世界则靠《异环》累计流水超 27 亿元，Q3 净利同比 +211.47%。",
         "isNew": true,
-        "newUntil": "2026-11-10"
+        "newUntil": "2026-11-12"
       },
       {
-        "title": "BLG 对阵 T1 争夺 S16 决赛席位",
-        "titleLink": "https://new.qq.com/rain/a/20261108A073NY00",
-        "color": "orange",
-        "source": "腾讯网·虎扑",
-        "sourceLink": "https://new.qq.com/rain/a/20261108A073NY00",
-        "body": "S16 半决赛：iG <strong>0:3</strong> 不敌 GEN 止步四强；BLG 3-0 横扫 DK 后于 <strong>11/9 对阵 T1</strong>（BO5），胜者 11/15 决赛对阵 GEN。",
-        "isNew": true,
-        "newUntil": "2026-11-10"
-      },
-      {
-        "title": "死亡搁浅系列玩家破 2800 万",
-        "titleLink": "https://news.qq.com/rain/a/20261109A031GL00",
+        "title": "飞拓星驰完成数千万美元天使轮",
+        "titleLink": "https://news.qq.com/rain/a/20261110A04Z8U00",
         "color": "purple",
-        "source": "腾讯新闻·每日经济新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20261109A031GL00",
-        "body": "小岛秀夫 11/8 宣布：《死亡搁浅》系列发售 7 周年全球累计玩家突破 <strong>2800 万</strong>；续作《死亡搁浅 2：冥滩之上》2025/6 发售后带动系列用户持续扩容。",
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261110A04Z8U00",
+        "body": "AI 互动娱乐公司<strong>飞拓星驰</strong>完成数千万美元天使轮，元生资本、江远投资领投，日初资本、锋领资本等老股东跟投。与只做软件的 AI 游戏团队不同，它同时押注 AI 游戏引擎、端侧模型与<strong>家庭娱乐硬件</strong>，首款硬件定于 CES 2027 亮相；团队称可将高于 120fps、误差小于 3cm 的人体 3D 姿态映射进游戏，摆脱手柄与 VR 外设。",
         "isNew": true,
-        "newUntil": "2026-11-10"
+        "newUntil": "2026-11-12"
+      },
+      {
+        "title": "AI游戏《麦琪的花园》交卷：愿望单4万、销量几千",
+        "titleLink": "https://www.163.com/dy/article/LBB5DVGK052688NB.html",
+        "color": "blue",
+        "source": "游戏茶馆",
+        "sourceLink": "https://www.163.com/dy/article/LBB5DVGK052688NB.html",
+        "body": "10 月底 EA 上线的 <strong>AI 沙盒《麦琪的花园》</strong>交出首份答卷：Demo 曾冲上 Steam 新品榜、愿望单超 <strong>4 万</strong>，EA 上线后<strong>销量仅几千份</strong>，还因性别议题卷入恶意差评风波。团队复盘称，若在 Demo 热度最高时上线，「只会是一个无限生成 NPC 的游戏」——AI 生成的队友、任务与道具必须与完整玩法绑定，才撑得起体验。",
+        "isNew": true,
+        "newUntil": "2026-11-12"
+      },
+      {
+        "title": "免费新作《ROB RUN》爆量：15万在线、49%好评",
+        "titleLink": "https://steamdb.info/app/4262460/",
+        "color": "orange",
+        "source": "SteamDB",
+        "sourceLink": "https://steamdb.info/app/4262460/",
+        "body": "11/4 抢先体验上线的免费多人劫案射击 <strong>《ROB RUN》</strong>，五天即冲到 <strong>15.1 万</strong>同时在线峰值、当前约 11.3 万，但 1.5 万条评测好评率只有 <strong>49%</strong>（褒贬不一）。免费引流把量做起来、内容深度与留存没跟上，是本周新品里最典型的「高热低口碑」样本。",
+        "isNew": true,
+        "newUntil": "2026-11-12"
       }
     ],
     "taptap": {
@@ -562,7 +562,7 @@
         "rank": 1,
         "name": "Counter-Strike 2",
         "appId": 730,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -570,13 +570,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/730"
+        "link": "https://store.steampowered.com/app/730",
+        "coverStatus": "verified",
+        "coverKey": "730_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 2,
         "name": "PUBG: BATTLEGROUNDS",
         "appId": 578080,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/578080/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -584,13 +590,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/578080"
+        "link": "https://store.steampowered.com/app/578080",
+        "coverStatus": "verified",
+        "coverKey": "578080_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 3,
         "name": "AION 2",
         "appId": 3393110,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3393110/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -598,13 +610,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3393110"
+        "link": "https://store.steampowered.com/app/3393110",
+        "coverStatus": "verified",
+        "coverKey": "3393110_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 4,
         "name": "Casualties: Unknown",
         "appId": 4576490,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4576490/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4576490_icon.jpg",
         "price": "18,69€",
         "originalPrice": null,
         "discount": "-15%",
@@ -612,13 +630,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4576490"
+        "link": "https://store.steampowered.com/app/4576490",
+        "coverStatus": "verified",
+        "coverKey": "4576490_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4576490_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4576490_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576490/a1af9d29042547f28c252e924b5f8f028b07bbb1/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 5,
         "name": "Dota 2",
         "appId": 570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
         "price": "免费",
         "originalPrice": null,
         "discount": null,
@@ -626,13 +650,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/570"
+        "link": "https://store.steampowered.com/app/570",
+        "coverStatus": "verified",
+        "coverKey": "570_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 6,
         "name": "Phantom Blade Zero",
         "appId": 4115450,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4115450/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
         "price": "59,99€",
         "originalPrice": null,
         "discount": null,
@@ -640,13 +670,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4115450"
+        "link": "https://store.steampowered.com/app/4115450",
+        "coverStatus": "verified",
+        "coverKey": "4115450_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 7,
         "name": "Football Manager 27",
         "appId": 4530370,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4530370/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
         "price": "53,99€",
         "originalPrice": null,
         "discount": "-10%",
@@ -654,13 +690,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4530370"
+        "link": "https://store.steampowered.com/app/4530370",
+        "coverStatus": "verified",
+        "coverKey": "4530370_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 8,
         "name": "DREADMOOR",
         "appId": 3629430,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3629430/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3629430_icon.jpg",
         "price": "18,44€",
         "originalPrice": null,
         "discount": "-10%",
@@ -668,13 +710,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3629430"
+        "link": "https://store.steampowered.com/app/3629430",
+        "coverStatus": "verified",
+        "coverKey": "3629430_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3629430_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3629430_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3629430/463d99fc377b03a3a20fc3b45915a8755ccabef4/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 9,
         "name": "EA SPORTS FC™ 27",
         "appId": 4080220,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4080220/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
         "price": "69,99€",
         "originalPrice": null,
         "discount": null,
@@ -682,13 +730,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4080220"
+        "link": "https://store.steampowered.com/app/4080220",
+        "coverStatus": "verified",
+        "coverKey": "4080220_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4080220_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 10,
         "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
         "appId": 4348910,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4348910/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
         "price": "17,99€",
         "originalPrice": null,
         "discount": "-10%",
@@ -696,7 +750,13 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4348910"
+        "link": "https://store.steampowered.com/app/4348910",
+        "coverStatus": "verified",
+        "coverKey": "4348910_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       }
     ],
     "insight": "本周（11/9–11/15）Steam 独游热度：10/28 发售的<strong>深空当铺</strong>周末把历史峰值推到 <strong>18.6 万</strong>、热销第 8（87% 特别好评），是当周最稳的独游增量；11 月新作 <strong>ROB RUN</strong> 上线即以 <strong>8.9 万</strong>同时在线冲进在线榜第 10，首周窗口效应依旧凶猛。国产侧<strong>影之刃零</strong>在线 8.8 万稳居第 11、DAU 第 5、愿望单活跃第 1，94% 好评显示长线口碑稳固；<strong>针影裁梦</strong>以 98% 好评如潮维持 1.7 万级在线长尾。对比看，Moon Sweepers 上市两周在线已从 8.3 万峰值回落至 3.1 万——独游流量仍在向「发售前两周」高度集中。",
@@ -712,7 +772,13 @@
           "nameZh": "",
           "current": 443881,
           "peak24h": 1080352,
-          "link": "https://store.steampowered.com/app/730/"
+          "link": "https://store.steampowered.com/app/730/",
+          "coverStatus": "verified",
+          "coverKey": "730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 2,
@@ -721,7 +787,13 @@
           "nameZh": "",
           "current": 377562,
           "peak24h": 707682,
-          "link": "https://store.steampowered.com/app/570/"
+          "link": "https://store.steampowered.com/app/570/",
+          "coverStatus": "verified",
+          "coverKey": "570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 3,
@@ -730,7 +802,13 @@
           "nameZh": "",
           "current": 193129,
           "peak24h": 204931,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "link": "https://store.steampowered.com/app/1422450/",
+          "coverStatus": "verified",
+          "coverKey": "1422450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 4,
@@ -739,7 +817,13 @@
           "nameZh": "",
           "current": 157219,
           "peak24h": 186948,
-          "link": "https://store.steampowered.com/app/3419430/"
+          "link": "https://store.steampowered.com/app/3419430/",
+          "coverStatus": "verified",
+          "coverKey": "3419430_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 5,
@@ -748,7 +832,13 @@
           "nameZh": "",
           "current": 148783,
           "peak24h": 163218,
-          "link": "https://store.steampowered.com/app/1938090/"
+          "link": "https://store.steampowered.com/app/1938090/",
+          "coverStatus": "verified",
+          "coverKey": "1938090_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1938090_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1938090_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 6,
@@ -757,7 +847,13 @@
           "nameZh": "",
           "current": 128260,
           "peak24h": 755226,
-          "link": "https://store.steampowered.com/app/578080/"
+          "link": "https://store.steampowered.com/app/578080/",
+          "coverStatus": "verified",
+          "coverKey": "578080_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 7,
@@ -766,7 +862,13 @@
           "nameZh": "",
           "current": 126335,
           "peak24h": 176865,
-          "link": "https://store.steampowered.com/app/3393110/"
+          "link": "https://store.steampowered.com/app/3393110/",
+          "coverStatus": "verified",
+          "coverKey": "3393110_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 8,
@@ -775,7 +877,13 @@
           "nameZh": "",
           "current": 115487,
           "peak24h": 151032,
-          "link": "https://store.steampowered.com/app/4262460/"
+          "link": "https://store.steampowered.com/app/4262460/",
+          "coverStatus": "verified",
+          "coverKey": "4262460_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 9,
@@ -784,7 +892,13 @@
           "nameZh": "",
           "current": 90718,
           "peak24h": 463190,
-          "link": "https://store.steampowered.com/app/4115450/"
+          "link": "https://store.steampowered.com/app/4115450/",
+          "coverStatus": "verified",
+          "coverKey": "4115450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 10,
@@ -793,7 +907,13 @@
           "nameZh": "",
           "current": 88475,
           "peak24h": 121816,
-          "link": "https://store.steampowered.com/app/440/"
+          "link": "https://store.steampowered.com/app/440/",
+          "coverStatus": "verified",
+          "coverKey": "440_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/440_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/440_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 11,
@@ -802,7 +922,13 @@
           "nameZh": "",
           "current": 82359,
           "peak24h": 99172,
-          "link": "https://store.steampowered.com/app/1091500/"
+          "link": "https://store.steampowered.com/app/1091500/",
+          "coverStatus": "verified",
+          "coverKey": "1091500_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 12,
@@ -811,7 +937,13 @@
           "nameZh": "",
           "current": 65641,
           "peak24h": 124865,
-          "link": "https://store.steampowered.com/app/252490/"
+          "link": "https://store.steampowered.com/app/252490/",
+          "coverStatus": "verified",
+          "coverKey": "252490_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/252490_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/252490_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 13,
@@ -820,7 +952,13 @@
           "nameZh": "",
           "current": 61657,
           "peak24h": 65526,
-          "link": "https://store.steampowered.com/app/359550/"
+          "link": "https://store.steampowered.com/app/359550/",
+          "coverStatus": "verified",
+          "coverKey": "359550_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 14,
@@ -829,7 +967,13 @@
           "nameZh": "",
           "current": 61354,
           "peak24h": 167948,
-          "link": "https://store.steampowered.com/app/4348910/"
+          "link": "https://store.steampowered.com/app/4348910/",
+          "coverStatus": "verified",
+          "coverKey": "4348910_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 15,
@@ -838,7 +982,13 @@
           "nameZh": "",
           "current": 59996,
           "peak24h": 230678,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -847,7 +997,13 @@
           "nameZh": "",
           "current": 54827,
           "peak24h": 70445,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "link": "https://store.steampowered.com/app/3678970/",
+          "coverStatus": "verified",
+          "coverKey": "3678970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         }
       ]
     },
@@ -1241,6 +1397,29 @@
       "coverReason": "taptap-search"
     },
     {
+      "date": "11月4日上线",
+      "name": "ROB RUN",
+      "badge": "免费 · 撤离射击",
+      "badgeColor": "blue",
+      "meta": "免费 · 多人撤离射击 · 抢先体验",
+      "desc": "免费多人劫案/撤离射击，主打组队抢劫、基地建造与 PvP 对抗，11/4 在 Steam 开启抢先体验。上线五天同时在线峰值 15.1 万、当前约 11.3 万，但 1.5 万条评测好评率仅 49%，属典型的高热低口碑新品。",
+      "link": "https://store.steampowered.com/app/4262460/",
+      "image": "",
+      "tags": [
+        "免费",
+        "射击",
+        "多人"
+      ],
+      "isNew": true,
+      "newUntil": "2026-11-24",
+      "coverStatus": "verified",
+      "coverKey": "name_ROB_RUN",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "name": "影之刃零",
       "link": "https://store.steampowered.com/app/4115450",
       "badge": "10月29日上线",
@@ -1270,6 +1449,22 @@
       "isNew": false
     },
     {
+      "date": "12月4日公测",
+      "name": "星布谷地",
+      "badge": "米哈游",
+      "desc": "米哈游生活模拟新作，10 月 30 日官宣定档 12 月 4 日公测（Windows/iOS/安卓跨平台账号互通），星际田园主题，含赶海、钓鱼、种田、自由装扮等玩法，此前「宜居测试」已于 11 月 7 日开启。",
+      "link": "https://www.taptap.cn/moment/730533650772265511",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-12-04",
+      "coverStatus": "verified",
+      "coverKey": "name_星布谷地",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星布谷地.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_星布谷地.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "name": "死神 BLEACH Mirrors High",
       "link": "https://www.gamersky.com/news/202610/2236065.shtml",
       "badge": "万代南梦宫",
@@ -1295,19 +1490,18 @@
       "imageVerified": true
     },
     {
-      "date": "12月4日公测",
-      "name": "星布谷地",
-      "badge": "米哈游",
-      "desc": "米哈游生活模拟新作，10 月 30 日官宣定档 12 月 4 日公测（Windows/iOS/安卓跨平台账号互通），星际田园主题，含赶海、钓鱼、种田、自由装扮等玩法，此前「宜居测试」已于 11 月 7 日开启。",
-      "link": "https://www.taptap.cn/moment/730533650772265511",
+      "date": "12月14日公测",
+      "name": "白银之城",
+      "badge": "乐元素",
+      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
+      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
       "image": "",
-      "isNew": true,
-      "newUntil": "2026-12-04",
+      "isNew": false,
       "coverStatus": "verified",
-      "coverKey": "name_星布谷地",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星布谷地.jpg",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_星布谷地.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "coverKey": "name_白银之城",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_白银之城.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1338,22 +1532,6 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国望神州.jpg",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_三国望神州.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/4eaadc47872e3949472c146c50dad270.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
-      "date": "12月14日公测",
-      "name": "白银之城",
-      "badge": "乐元素",
-      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
-      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-11-09",
-      "coverStatus": "verified",
-      "coverKey": "name_白银之城",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_白银之城.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -2542,6 +2720,17 @@
       }
     ],
     "domestic": [
+      {
+        "date": "2026-11-10",
+        "title": "AI 互动娱乐公司飞拓星驰完成数千万美元天使轮",
+        "desc": "元生资本、江远投资领投，日初资本、锋领资本等老股东跟投。公司同步布局 AI 游戏引擎、端侧模型与家庭娱乐硬件，首款硬件产品计划在 CES 2027 首次亮相。",
+        "amount": "数千万美元",
+        "stage": "天使轮",
+        "investor": "元生资本、江远投资领投",
+        "link": "https://news.qq.com/rain/a/20261110A04Z8U00",
+        "isNew": true,
+        "newUntil": "2026-11-24"
+      },
       {
         "date": "2026-11-05",
         "title": "AI 乙女游戏《星眠》完成二测 · 融资近 3 亿元",
