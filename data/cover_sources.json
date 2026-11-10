@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T02:30:48.894Z",
+  "updatedAt": "2026-11-10T02:34:57.478Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1275,6 +1275,32 @@
       "rel": "0cef00dbfabf5f15adbf8b18e84cc8ef53dce963/capsule_231x87.jpg",
       "name": "ROB RUN",
       "resolvedAt": "2026-11-09T02:30:46.602Z"
+    },
+    "steam:4576490:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4576490/a1af9d29042547f28c252e924b5f8f028b07bbb1/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4576490/a1af9d29042547f28c252e924b5f8f028b07bbb1/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/a1af9d29042547f28c252e924b5f8f028b07bbb1/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "a1af9d29042547f28c252e924b5f8f028b07bbb1",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "a1af9d29042547f28c252e924b5f8f028b07bbb1/capsule_231x87_schinese.jpg",
+      "name": "Casualties: Unknown",
+      "resolvedAt": "2026-11-10T02:34:50.755Z"
+    },
+    "steam:3629430:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3629430/463d99fc377b03a3a20fc3b45915a8755ccabef4/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3629430/463d99fc377b03a3a20fc3b45915a8755ccabef4/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/463d99fc377b03a3a20fc3b45915a8755ccabef4/capsule_231x87.jpg"
+      ],
+      "hash": "463d99fc377b03a3a20fc3b45915a8755ccabef4",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "463d99fc377b03a3a20fc3b45915a8755ccabef4/capsule_231x87.jpg",
+      "name": "DREADMOOR",
+      "resolvedAt": "2026-11-10T02:34:52.843Z"
     }
   },
   "taptap": {
@@ -1437,6 +1463,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-06T02:46:48.888Z"
+    },
+    "robrun": {
+      "url": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
+      "appid": 1033442,
+      "matchedName": "ROB RUN",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-10T02:34:43.134Z"
     }
   },
   "failures": {}
