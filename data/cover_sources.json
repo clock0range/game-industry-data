@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T02:34:57.478Z",
+  "updatedAt": "2026-11-11T05:37:46.618Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1301,6 +1301,45 @@
       "rel": "463d99fc377b03a3a20fc3b45915a8755ccabef4/capsule_231x87.jpg",
       "name": "DREADMOOR",
       "resolvedAt": "2026-11-10T02:34:52.843Z"
+    },
+    "steam:4262460:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg"
+      ],
+      "hash": "db8e0cf43c9475b96fb9446b4908de79fcb9f619",
+      "hashed": true,
+      "kind": "header",
+      "rel": "db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg",
+      "name": "ROB RUN",
+      "resolvedAt": "2026-11-11T05:37:25.106Z"
+    },
+    "steam:227300:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg"
+      ],
+      "hash": "da84d11d3ddd817e0cca299608b469a854d75ba5",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg",
+      "name": "Euro Truck Simulator 2",
+      "resolvedAt": "2026-11-11T05:37:39.309Z"
+    },
+    "steam:3669620:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669620/10d13658e3bbef16b8bbcef51aa6965377be1359/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3669620/10d13658e3bbef16b8bbcef51aa6965377be1359/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/10d13658e3bbef16b8bbcef51aa6965377be1359/capsule_231x87.jpg"
+      ],
+      "hash": "10d13658e3bbef16b8bbcef51aa6965377be1359",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "10d13658e3bbef16b8bbcef51aa6965377be1359/capsule_231x87.jpg",
+      "name": "Warhammer Survivors",
+      "resolvedAt": "2026-11-11T05:37:42.282Z"
     }
   },
   "taptap": {
