@@ -375,6 +375,34 @@
   "steam": {
     "indieCards": [
       {
+        "gameName": "ROB RUN",
+        "name": "ROB RUN",
+        "steamAppId": "4262460",
+        "appId": 4262460,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460.jpg",
+        "rating": "50%",
+        "meta": "11/4上线",
+        "reviews": "18858",
+        "link": "https://store.steampowered.com/app/4262460",
+        "reviewSummary": "褒贬不一",
+        "tags": [
+          "Extraction Shooter",
+          "Crime",
+          "Sandbox",
+          "Survival",
+          "Multiplayer"
+        ],
+        "nameEn": "ROB RUN",
+        "nameMode": "en",
+        "displayName": "ROB RUN",
+        "coverStatus": "verified",
+        "coverKey": "4262460",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg",
+        "coverReason": "steam-hash"
+      },
+      {
         "gameName": "Phantom Blade Zero",
         "name": "Phantom Blade Zero",
         "steamAppId": "4115450",
@@ -394,6 +422,29 @@
         "coverStatus": "verified",
         "coverKey": "4115450",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
+      },
+      {
+        "gameName": "Probably Stolen",
+        "name": "Probably Stolen",
+        "steamAppId": "4348910",
+        "appId": 4348910,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
+        "rating": "87%",
+        "meta": "10月上线",
+        "reviews": "16802",
+        "link": "https://store.steampowered.com/app/4348910",
+        "reviewSummary": "特别好评",
+        "tags": [],
+        "nameZh": "深空当铺：可能是偷的",
+        "nameEn": "Probably Stolen",
+        "nameMode": "zh_en",
+        "displayName": "深空当铺：可能是偷的（Probably Stolen）",
+        "coverStatus": "verified",
+        "coverKey": "4348910",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit"
       },
@@ -439,29 +490,6 @@
         "coverStatus": "verified",
         "coverKey": "1867240",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-        "steamAppId": "4348910",
-        "appId": 4348910,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
-        "rating": "87%",
-        "meta": "10月上线",
-        "reviews": "16802",
-        "link": "https://store.steampowered.com/app/4348910",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "nameZh": "深空当铺：可能是偷的",
-        "nameEn": "Probably Stolen",
-        "nameMode": "zh_en",
-        "displayName": "深空当铺：可能是偷的（Probably Stolen）",
-        "coverStatus": "verified",
-        "coverKey": "4348910",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit"
       },
@@ -532,29 +560,6 @@
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4126040.jpg",
         "coverSourceUrl": "",
         "coverReason": "cdn_cache_hit"
-      },
-      {
-        "gameName": "Dressmaker",
-        "name": "Dressmaker",
-        "steamAppId": "4019220",
-        "appId": 4019220,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4019220.jpg",
-        "rating": "98%",
-        "meta": "9月上线",
-        "reviews": "21859",
-        "link": "https://store.steampowered.com/app/4019220",
-        "reviewSummary": "好评如潮",
-        "tags": [],
-        "nameZh": "针影裁梦",
-        "nameEn": "Dressmaker",
-        "nameMode": "zh_en",
-        "displayName": "针影裁梦（Dressmaker）",
-        "coverStatus": "verified",
-        "coverKey": "4019220",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4019220.jpg",
-        "coverSourceUrl": "",
-        "coverReason": "cdn_cache_hit"
       }
     ],
     "topSellers": [
@@ -562,7 +567,7 @@
         "rank": 1,
         "name": "Apex Legends",
         "appId": 1172470,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/1172470/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -570,13 +575,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/1172470"
+        "link": "https://store.steampowered.com/app/1172470",
+        "coverStatus": "verified",
+        "coverKey": "1172470_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 2,
         "name": "Football Manager 27",
         "appId": 4530370,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4530370/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -584,13 +595,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4530370"
+        "link": "https://store.steampowered.com/app/4530370",
+        "coverStatus": "verified",
+        "coverKey": "4530370_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 3,
         "name": "Counter-Strike 2",
         "appId": 730,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/730/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -598,13 +615,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/730"
+        "link": "https://store.steampowered.com/app/730",
+        "coverStatus": "verified",
+        "coverKey": "730_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 4,
         "name": "Euro Truck Simulator 2",
         "appId": 227300,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/227300/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/227300_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -612,13 +635,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/227300"
+        "link": "https://store.steampowered.com/app/227300",
+        "coverStatus": "verified",
+        "coverKey": "227300_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/227300_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/227300_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/227300/da84d11d3ddd817e0cca299608b469a854d75ba5/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 5,
         "name": "PUBG: BATTLEGROUNDS",
         "appId": 578080,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/578080/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -626,13 +655,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/578080"
+        "link": "https://store.steampowered.com/app/578080",
+        "coverStatus": "verified",
+        "coverKey": "578080_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 6,
         "name": "AION 2",
         "appId": 3393110,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3393110/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -640,13 +675,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3393110"
+        "link": "https://store.steampowered.com/app/3393110",
+        "coverStatus": "verified",
+        "coverKey": "3393110_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 7,
         "name": "Dota 2",
         "appId": 570,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/570/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -654,13 +695,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/570"
+        "link": "https://store.steampowered.com/app/570",
+        "coverStatus": "verified",
+        "coverKey": "570_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 8,
         "name": "Phantom Blade Zero",
         "appId": 4115450,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4115450/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -668,13 +715,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4115450"
+        "link": "https://store.steampowered.com/app/4115450",
+        "coverStatus": "verified",
+        "coverKey": "4115450_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 9,
         "name": "Warhammer Survivors",
         "appId": 3669620,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/3669620/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669620_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -682,13 +735,19 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/3669620"
+        "link": "https://store.steampowered.com/app/3669620",
+        "coverStatus": "verified",
+        "coverKey": "3669620_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669620_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3669620_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669620/10d13658e3bbef16b8bbcef51aa6965377be1359/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 10,
         "name": "ROB RUN",
         "appId": 4262460,
-        "logo": "https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/4262460/capsule_231x87.jpg",
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
         "price": null,
         "originalPrice": null,
         "discount": null,
@@ -696,7 +755,13 @@
         "change": "/",
         "changeDir": null,
         "weeks": null,
-        "link": "https://store.steampowered.com/app/4262460"
+        "link": "https://store.steampowered.com/app/4262460",
+        "coverStatus": "verified",
+        "coverKey": "4262460_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       }
     ],
     "insight": "本周（11/9–11/15）Steam 独游热度：10/28 发售的<strong>深空当铺</strong>周末把历史峰值推到 <strong>18.6 万</strong>、热销第 8（87% 特别好评），是当周最稳的独游增量；11 月新作 <strong>ROB RUN</strong> 上线即以 <strong>8.9 万</strong>同时在线冲进在线榜第 10，首周窗口效应依旧凶猛。国产侧<strong>影之刃零</strong>在线 8.8 万稳居第 11、DAU 第 5、愿望单活跃第 1，94% 好评显示长线口碑稳固；<strong>针影裁梦</strong>以 98% 好评如潮维持 1.7 万级在线长尾。对比看，Moon Sweepers 上市两周在线已从 8.3 万峰值回落至 3.1 万——独游流量仍在向「发售前两周」高度集中。",
@@ -712,7 +777,13 @@
           "nameZh": "",
           "current": 409205,
           "peak24h": 1071403,
-          "link": "https://store.steampowered.com/app/730/"
+          "link": "https://store.steampowered.com/app/730/",
+          "coverStatus": "verified",
+          "coverKey": "730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 2,
@@ -721,7 +792,13 @@
           "nameZh": "",
           "current": 335608,
           "peak24h": 712193,
-          "link": "https://store.steampowered.com/app/570/"
+          "link": "https://store.steampowered.com/app/570/",
+          "coverStatus": "verified",
+          "coverKey": "570_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/570_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 3,
@@ -730,7 +807,13 @@
           "nameZh": "",
           "current": 185756,
           "peak24h": 201483,
-          "link": "https://store.steampowered.com/app/1422450/"
+          "link": "https://store.steampowered.com/app/1422450/",
+          "coverStatus": "verified",
+          "coverKey": "1422450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 4,
@@ -739,7 +822,13 @@
           "nameZh": "",
           "current": 157664,
           "peak24h": 732614,
-          "link": "https://store.steampowered.com/app/578080/"
+          "link": "https://store.steampowered.com/app/578080/",
+          "coverStatus": "verified",
+          "coverKey": "578080_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 5,
@@ -748,7 +837,13 @@
           "nameZh": "",
           "current": 151172,
           "peak24h": 189771,
-          "link": "https://store.steampowered.com/app/3419430/"
+          "link": "https://store.steampowered.com/app/3419430/",
+          "coverStatus": "verified",
+          "coverKey": "3419430_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3419430_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 6,
@@ -757,7 +852,13 @@
           "nameZh": "",
           "current": 132927,
           "peak24h": 145827,
-          "link": "https://store.steampowered.com/app/1938090/"
+          "link": "https://store.steampowered.com/app/1938090/",
+          "coverStatus": "verified",
+          "coverKey": "1938090_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1938090_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1938090_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 7,
@@ -766,7 +867,13 @@
           "nameZh": "",
           "current": 132256,
           "peak24h": 197753,
-          "link": "https://store.steampowered.com/app/4262460/"
+          "link": "https://store.steampowered.com/app/4262460/",
+          "coverStatus": "verified",
+          "coverKey": "4262460_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 8,
@@ -775,7 +882,13 @@
           "nameZh": "",
           "current": 115120,
           "peak24h": 171120,
-          "link": "https://store.steampowered.com/app/3393110/"
+          "link": "https://store.steampowered.com/app/3393110/",
+          "coverStatus": "verified",
+          "coverKey": "3393110_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 9,
@@ -784,7 +897,13 @@
           "nameZh": "",
           "current": 111584,
           "peak24h": 430004,
-          "link": "https://store.steampowered.com/app/4115450/"
+          "link": "https://store.steampowered.com/app/4115450/",
+          "coverStatus": "verified",
+          "coverKey": "4115450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 10,
@@ -793,7 +912,13 @@
           "nameZh": "",
           "current": 80573,
           "peak24h": 100602,
-          "link": "https://store.steampowered.com/app/440/"
+          "link": "https://store.steampowered.com/app/440/",
+          "coverStatus": "verified",
+          "coverKey": "440_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/440_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/440_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 11,
@@ -802,7 +927,13 @@
           "nameZh": "",
           "current": 77298,
           "peak24h": 228661,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 12,
@@ -811,7 +942,13 @@
           "nameZh": "",
           "current": 73902,
           "peak24h": 93833,
-          "link": "https://store.steampowered.com/app/1091500/"
+          "link": "https://store.steampowered.com/app/1091500/",
+          "coverStatus": "verified",
+          "coverKey": "1091500_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 13,
@@ -820,7 +957,13 @@
           "nameZh": "",
           "current": 73520,
           "peak24h": 160740,
-          "link": "https://store.steampowered.com/app/4348910/"
+          "link": "https://store.steampowered.com/app/4348910/",
+          "coverStatus": "verified",
+          "coverKey": "4348910_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 14,
@@ -829,7 +972,13 @@
           "nameZh": "",
           "current": 61991,
           "peak24h": 107729,
-          "link": "https://store.steampowered.com/app/431960/"
+          "link": "https://store.steampowered.com/app/431960/",
+          "coverStatus": "verified",
+          "coverKey": "431960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 15,
@@ -838,7 +987,13 @@
           "nameZh": "",
           "current": 57193,
           "peak24h": 64705,
-          "link": "https://store.steampowered.com/app/359550/"
+          "link": "https://store.steampowered.com/app/359550/",
+          "coverStatus": "verified",
+          "coverKey": "359550_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -847,11 +1002,17 @@
           "nameZh": "",
           "current": 55155,
           "peak24h": 70890,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "link": "https://store.steampowered.com/app/3678970/",
+          "coverStatus": "verified",
+          "coverKey": "3678970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         }
       ]
     },
-    "newGamesAsOf": "2026-11-09",
+    "newGamesAsOf": "2026-11-11",
     "topSellersAsOf": "2026-11-11",
     "mostPlayedAsOf": "2026-11-11",
     "insightAsOf": "2026-11-09",
@@ -1264,6 +1425,22 @@
       "coverReason": "taptap-search"
     },
     {
+      "date": "12月4日公测",
+      "name": "星布谷地",
+      "badge": "米哈游",
+      "desc": "米哈游生活模拟新作，10 月 30 日官宣定档 12 月 4 日公测（Windows/iOS/安卓跨平台账号互通），星际田园主题，含赶海、钓鱼、种田、自由装扮等玩法，此前「宜居测试」已于 11 月 7 日开启。",
+      "link": "https://www.taptap.cn/moment/730533650772265511",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-12-04",
+      "coverStatus": "verified",
+      "coverKey": "name_星布谷地",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星布谷地.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_星布谷地.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "name": "影之刃零",
       "link": "https://store.steampowered.com/app/4115450",
       "badge": "10月29日上线",
@@ -1291,22 +1468,6 @@
       "coverSourceUrl": "",
       "coverReason": "cdn_cache_hit",
       "isNew": false
-    },
-    {
-      "date": "12月4日公测",
-      "name": "星布谷地",
-      "badge": "米哈游",
-      "desc": "米哈游生活模拟新作，10 月 30 日官宣定档 12 月 4 日公测（Windows/iOS/安卓跨平台账号互通），星际田园主题，含赶海、钓鱼、种田、自由装扮等玩法，此前「宜居测试」已于 11 月 7 日开启。",
-      "link": "https://www.taptap.cn/moment/730533650772265511",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-12-04",
-      "coverStatus": "verified",
-      "coverKey": "name_星布谷地",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星布谷地.jpg",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_星布谷地.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
     },
     {
       "name": "死神 BLEACH Mirrors High",
