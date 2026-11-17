@@ -1,0 +1,222 @@
+#!/usr/bin/env node
+/**
+ * set_newgames.js — 写入 Steam 新品观察 TOP8 到 data/latest.json
+ *
+ * 用法:
+ *   node set_newgames.js <input.json>
+ *   input.json 格式: [{"appid":123,"name":"Game","releaseDate":"20 Aug 2026","rating":77.57,"reviewCount":4839,"currentPlayers":20307,"peak24h":34085,"tags":["tag1","tag2"],"price":null}, ...]
+ *   或 stdin 传入 JSON
+ *
+ * 说明:
+ *   - 排序公式封装在 computeNewGameScore() 中，后续调整权重只改此函数
+ *   - 原子写入 steam.indieCards + steam.newGamesAsOf
+ *   - 失败时不覆盖旧数据
+ */
+
+var fs = require('fs');
+var path = require('path');
+
+var ROOT = path.resolve(__dirname, '..');
+var DATA_FILE = path.join(ROOT, 'data', 'latest.json');
+var TOP_N = 8;
+
+// ═══════════════════════════════════════════════════════════════
+// 排序公式（封装在此 — 后续调整权重只改这个函数）
+// ═══════════════════════════════════════════════════════════════
+//
+// 当前: Formula A — score = currentPlayers * (rating% / 100)
+//   currentPlayers: 当前在线人数（此刻正在被玩的程度）
+//   rating: 好评率百分比 (0-100)
+//   低分游戏被自然压低
+//
+// 备选 Formula B: score = peak24h * (rating% / 100)  — 奖励峰值热度
+//
+// 调整示例:
+//   加评价数权重: return Math.round(current * (rating/100) * Math.log10(reviewCount + 10));
+//   纯在线人数:   return current;
+//   纯好评率:     return rating;
+//
+function computeNewGameScore(game) {
+  var current = Number(game.currentPlayers) || 0;
+  var rating = Number(game.rating) || 0;
+  return Math.round(current * (rating / 100));
+}
+// ═══════════════════════════════════════════════════════════════
+
+// 好评率 -> Steam 评价描述（中文）
+function ratingToSummary(ratingPercent) {
+  var r = Number(ratingPercent);
+  if (isNaN(r)) return '';
+  if (r >= 95) return '好评如潮';
+  if (r >= 80) return '特别好评';
+  if (r >= 70) return '多半好评';
+  if (r >= 40) return '褒贬不一';
+  if (r >= 20) return '多半差评';
+  return '差评';
+}
+
+// 发售日期 -> "M/D上线" 格式
+function formatDateMeta(releaseDate) {
+  if (!releaseDate) return '';
+  var months = {
+    Jan: '1', Feb: '2', Mar: '3', Apr: '4', May: '5', Jun: '6',
+    Jul: '7', Aug: '8', Sep: '9', Oct: '10', Nov: '11', Dec: '12'
+  };
+  // "20 Aug 2026"
+  var m = releaseDate.match(/(\d+)\s+(\w+)\s+(\d{4})/);
+  if (m) {
+    var month = months[m[2]];
+    if (month) return parseInt(month, 10) + '/' + parseInt(m[1], 10) + '上线';
+  }
+  // "Aug 2026"
+  m = releaseDate.match(/(\w+)\s+(\d{4})/);
+  if (m) {
+    var month2 = months[m[1]];
+    if (month2) return parseInt(month2, 10) + '月上线';
+  }
+  return releaseDate;
+}
+
+function main() {
+  var args = process.argv.slice(2);
+  var raw;
+  if (args[0] && args[0] !== '-') {
+    raw = fs.readFileSync(args[0], 'utf8');
+  } else {
+    raw = fs.readFileSync(0, 'utf8');
+  }
+
+  var items;
+  try {
+    items = JSON.parse(raw);
+  } catch (e) {
+    console.error('ERROR: input JSON parse failed: ' + e.message);
+    process.exit(1);
+  }
+
+  if (!Array.isArray(items) || !items.length) {
+    console.error('ERROR: items must be a non-empty array');
+    process.exit(1);
+  }
+
+  // ── 逐条质量校验（2026-09-14 加固）：缺 gameName 或 appid 的条目直接丢弃 ──
+  // 评价字段、封面字段缺失不阻断（渲染层有「暂无评价」/占位块兜底）。
+  // 9/12 事故：上游给了只有 appid+日期的骨架条目，无名数据落盘后连续三天被"保留"。
+  var before = items.length;
+  items = items.filter(function (g) {
+    var ok = g && (g.name || g.gameName) && (g.appid || g.appId);
+    if (!ok) console.log('[QUALITY] drop entry (missing name/appid): ' + JSON.stringify(g).slice(0, 100));
+    return ok;
+  });
+  if (items.length < before) {
+    console.log('[QUALITY] dropped ' + (before - items.length) + '/' + before + ' entries (missing gameName/appid)');
+  }
+  if (!items.length) {
+    console.error('ERROR: all entries lack gameName/appid — refusing to write');
+    process.exit(2);
+  }
+
+  // 计算分数并排序
+  var scored = items.map(function (g) {
+    return Object.assign({}, g, { _score: computeNewGameScore(g) });
+  }).sort(function (a, b) {
+    return b._score - a._score;
+  });
+
+  console.log('[SORT] ' + scored.length + ' candidates, TOP' + TOP_N + ':');
+  scored.slice(0, TOP_N).forEach(function (g, i) {
+    console.log('  ' + (i + 1) + '. ' + (g.name || g.gameName) + ' (score=' + g._score + ', ' + g.rating + '%, ' + (g.currentPlayers || 0) + ' online)');
+  });
+
+  if (scored.length < 3) {
+    console.error('ERROR: too few candidates (< 3), not overwriting');
+    process.exit(2);
+  }
+
+  // 中国时区日期
+  var now = new Date(Date.now() + 8 * 3600 * 1000);
+  var iso = now.toISOString().slice(0, 10);
+
+  // 读取现有 latest.json
+  var data = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
+  data.steam = data.steam || {};
+
+  // 旧卡已验证图片索引（按 appId）——每日重跑不得把有效图片覆盖为空/失效 URL
+  var prevByAppId = {};
+  (data.steam.indieCards || []).forEach(function (o) {
+    if (o && o.appId) prevByAppId[o.appId] = o;
+  });
+
+  // 映射到 indieCards 格式（图片字段统一为 finalCoverUrl；详情见 image_guard.js）
+  data.steam.indieCards = scored.slice(0, TOP_N).map(function (g, i) {
+    var appid = Number(g.appid);
+    var ratingPercent = Number(g.rating) || 0;
+    var ratingStr = ratingPercent > 0 ? Math.round(ratingPercent) + '%' : '';
+    var reviewCount = g.reviewCount || 0;
+    var tags = (g.tags || []).slice(0, 8);
+    var prev = prevByAppId[appid];
+    // 好评率继承（2026-10-22 修复）：本脚本每日全量重建 indieCards，而好评率由周一 review_pipeline 单独写入。
+    // 若本次候选未携带 rating，直接重算会写成空串 → 次日整批变「暂无评价」（10-22 实际发生：6 张卡数据被清空）。
+    // 因此同 appId 的旧卡评分/评价数/评价等级一律继承，仅当本次输入带了更高置信数据才覆盖。
+    var prevRatingStr = prev && prev.rating ? prev.rating : '';
+    var prevReviews = prev && prev.reviews ? String(prev.reviews) : '';
+    var prevSummary = prev && prev.reviewSummary ? prev.reviewSummary : '';
+    // finalCoverUrl：优先继承旧卡 finalCoverUrl → 旧卡 manualCover（API 哈希 URL） → appid 构造 header.jpg
+    // 2026-09-16 修正：原为 capsule_616x353.jpg，实测可用率低于 header.jpg（详见 image_guard.js 头部说明）
+    var finalCoverUrl = '';
+    if (prev && prev.finalCoverUrl) finalCoverUrl = prev.finalCoverUrl;
+    else if (prev && prev.manualCover) finalCoverUrl = prev.manualCover;
+    else if (appid) finalCoverUrl = 'https://cdn.cloudflare.steamstatic.com/steam/apps/' + appid + '/header.jpg';
+    var card = {
+      gameName: g.name || g.gameName,
+      name: g.name || g.gameName,
+      steamAppId: appid ? String(appid) : '',
+      appId: appid,
+      manualCover: prev && prev.manualCover ? prev.manualCover : '',
+      finalCoverUrl: finalCoverUrl,
+      rating: ratingStr || prevRatingStr,
+      meta: formatDateMeta(g.releaseDate),
+      reviews: String(reviewCount || '') || prevReviews,
+      link: 'https://store.steampowered.com/app/' + appid,
+      // 缺好评率时继承旧卡（周更快照），两边都没有才留空（渲染层显示灰色「暂无评价」），
+      // 严禁把无数据兜底成「差评」——2026-09-11 事故
+      reviewSummary: ratingPercent > 0 ? ratingToSummary(ratingPercent) : prevSummary,
+      tags: tags
+    };
+    return card;
+  });
+
+  data.steam.newGamesAsOf = iso;
+
+  // 原子写入
+  var tmp = DATA_FILE + '.tmp';
+  fs.writeFileSync(tmp, JSON.stringify(data, null, 2));
+
+  try {
+    JSON.parse(fs.readFileSync(tmp, 'utf8'));
+  } catch (e) {
+    fs.unlinkSync(tmp);
+    console.error('FATAL: temp file JSON invalid: ' + e.message);
+    process.exit(1);
+  }
+
+  fs.renameSync(tmp, DATA_FILE);
+  console.log('OK steam.indieCards ' + data.steam.indieCards.length + ' items, newGamesAsOf=' + iso);
+
+  // ── 远程封面本地化：浏览器侧 Steam CDN 被公司代理拦，Node 能下 ──
+  // 写盘后调一次 image_downloader.js（已有"已下载就跳过"逻辑，零冗余）。
+  // 失败不阻断主流程——封面失败时前端 onerror 兜底显示占位图，不影响数据。
+  try {
+    var cp = require('child_process');
+    cp.execFileSync('node', [path.join(__dirname, 'image_downloader.js')], { stdio: 'inherit', timeout: 120000 });
+  } catch (e) {
+    console.log('  [warn] image_downloader 失败（已忽略，不影响数据）: ' + e.message);
+  }
+}
+
+try {
+  main();
+} catch (e) {
+  console.error('FATAL: ' + e.message);
+  process.exit(1);
+}
