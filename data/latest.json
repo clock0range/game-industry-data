@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-18",
-    "lastUpdated": "2026-11-18T10:42:00+08:00",
+    "lastUpdated": "2026-11-18 10:45:05+08:00",
     "footerDate": "数据截至2026年11月18日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,14 +183,22 @@
     ],
     "highlights": [
       {
+        "title": "「三国志：王道天下」定档 12 月 24 日全平台公测",
+        "titleLink": "https://news.qq.com/rain/a/20261117A0CJ0A00",
+        "color": "blue",
+        "source": "腾讯新闻·游研社",
+        "sourceLink": "https://news.qq.com/rain/a/20261117A0CJ0A00",
+        "body": "B 站游戏发行、成都奇侠互娱研发的《三国志：王道天下》11 月 14 日在广州塔举办定档品鉴会，宣布 <strong>12 月 24 日</strong>全平台公测。项目获光荣特库摩《三国志》系列正版授权，研发投入约 <strong>5 亿元</strong>、人力约为同类项目 1.5 倍；官方称公测前已完成前三个赛季内容，可支撑半年以上运营，并计划首年投入不低于 1 亿元现金扶持创作者与同盟生态。",
+        "isNew": true,
+        "newUntil": "2026-11-21"
+      },
+      {
         "title": "字节《星球：重启》公测，SOC 赛道年末大战开打",
         "titleLink": "https://news.17173.com/content/11162023/120120135.shtml",
         "color": "blue",
         "source": "17173",
         "sourceLink": "https://news.17173.com/content/11162023/120120135.shtml",
-        "body": "字节朝夕光年 SOC 开放世界生存建造手游《星球：重启》<strong>11 月 16 日国服公测</strong>，预约量级达 <strong>千万级</strong>，正面迎击腾讯《黎明觉醒：生机》与网易《明日之后》，宣发以「向大厂求活路」的荒诞营销破圈，年末 SOC 品类商战正式开打。",
-        "isNew": true,
-        "newUntil": "2026-11-24"
+        "body": "字节朝夕光年 SOC 开放世界生存建造手游《星球：重启》<strong>11 月 16 日国服公测</strong>，预约量级达 <strong>千万级</strong>，正面迎击腾讯《黎明觉醒：生机》与网易《明日之后》，宣发以「向大厂求活路」的荒诞营销破圈，年末 SOC 品类商战正式开打。"
       },
       {
         "title": "网易《哈利波特：魔法觉醒》因授权到期宣布停运",
@@ -198,9 +206,7 @@
         "color": "purple",
         "source": "每日经济新闻·游戏早参",
         "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956afb856428752",
-        "body": "11 月 16 日网易工作室发文：<strong>授权协议到期</strong>，游戏 <strong>2026 年 12 月 21 日</strong>停充、停注册并全平台下架，<strong>2027 年 3 月 3 日</strong>关闭服务器。该作 2021 年 9 月国服公测，上线不到两月流水超 <strong>2 亿美元</strong>（Sensor Tower），IP 授权类产品长线续约风险再度引发行业讨论。",
-        "isNew": true,
-        "newUntil": "2026-11-24"
+        "body": "11 月 16 日网易工作室发文：<strong>授权协议到期</strong>，游戏 <strong>2026 年 12 月 21 日</strong>停充、停注册并全平台下架，<strong>2027 年 3 月 3 日</strong>关闭服务器。该作 2021 年 9 月国服公测，上线不到两月流水超 <strong>2 亿美元</strong>（Sensor Tower），IP 授权类产品长线续约风险再度引发行业讨论。"
       },
       {
         "title": "《GTA6》预购破 1213 万份，收入 11.8 亿美元",
@@ -208,19 +214,7 @@
         "color": "green",
         "source": "每日经济新闻·游戏早参",
         "sourceLink": "https://www.sohu.com/a/1102007548_115362",
-        "body": "Sensor Tower 测算（11 月 15 日消息）：《GTA6》预购达 <strong>1213 万份</strong>、预购收入 <strong>11.8 亿美元</strong>（约 78.94 亿元），其中 PS5 占 75%、Xbox 占 25%。Take-Two CEO 称预售大幅超出内部预期，行业普遍看好其打破《GTA5》首发纪录。",
-        "isNew": true,
-        "newUntil": "2026-11-24"
-      },
-      {
-        "title": "和平精英「雪野阿勒泰」上线，游戏×文旅再落一城",
-        "titleLink": "https://english.ts.cn/system/2026/11/16/037023886.shtml",
-        "color": "green",
-        "source": "天山网（新疆日报英文版）",
-        "sourceLink": "https://english.ts.cn/system/2026/11/16/037023886.shtml",
-        "body": "腾讯光子《和平精英》11 月 11 日上线「雪野新疆·阿勒泰」主题海岛地图，<strong>将军山国际滑雪度假区、禾木村</strong>等实景复刻进游戏，配合「游戏+文旅」推广；雪地大尾羊载具等玩法成为玩家自发传播的破圈点。",
-        "isNew": true,
-        "newUntil": "2026-11-24"
+        "body": "Sensor Tower 测算（11 月 15 日消息）：《GTA6》预购达 <strong>1213 万份</strong>、预购收入 <strong>11.8 亿美元</strong>（约 78.94 亿元），其中 PS5 占 75%、Xbox 占 25%。Take-Two CEO 称预售大幅超出内部预期，行业普遍看好其打破《GTA5》首发纪录。"
       }
     ],
     "taptap": {
@@ -870,7 +864,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/4530370",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "4530370_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530370/3d06aef381c925bb6c091f13be44dd294b205a72/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       }
     ],
     "insight": "本周（11/9–11/15）Steam 独游热度：10/28 发售的<strong>深空当铺</strong>周末把历史峰值推到 <strong>18.6 万</strong>、热销第 8（87% 特别好评），是当周最稳的独游增量；11 月新作 <strong>ROB RUN</strong> 上线即以 <strong>8.9 万</strong>同时在线冲进在线榜第 10，首周窗口效应依旧凶猛。国产侧<strong>影之刃零</strong>在线 8.8 万稳居第 11、DAU 第 5、愿望单活跃第 1，94% 好评显示长线口碑稳固；<strong>针影裁梦</strong>以 98% 好评如潮维持 1.7 万级在线长尾。对比看，Moon Sweepers 上市两周在线已从 8.3 万峰值回落至 3.1 万——独游流量仍在向「发售前两周」高度集中。",
@@ -1076,7 +1076,13 @@
           "nameZh": "",
           "current": 53572,
           "peak24h": 91294,
-          "link": "https://store.steampowered.com/app/238960/"
+          "link": "https://store.steampowered.com/app/238960/",
+          "coverStatus": "verified",
+          "coverKey": "238960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/238960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/238960_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238960/36db623d3337b00788bc28606d926e2a4fbefab0/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         },
         {
           "rank": 15,
@@ -1085,7 +1091,13 @@
           "nameZh": "",
           "current": 53339,
           "peak24h": 112186,
-          "link": "https://store.steampowered.com/app/431960/"
+          "link": "https://store.steampowered.com/app/431960/",
+          "coverStatus": "verified",
+          "coverKey": "431960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/431960/capsule_231x87_schinese.jpg",
+          "coverReason": "steam-legacy-path"
         },
         {
           "rank": 16,
@@ -1525,6 +1537,21 @@
       "coverReason": "taptap-search"
     },
     {
+      "date": "12月14日公测",
+      "name": "白银之城",
+      "badge": "乐元素",
+      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
+      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
+      "image": "",
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverKey": "name_白银之城",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "11月4日上线",
       "name": "ROB RUN",
       "badge": "免费 · 撤离射击",
@@ -1545,21 +1572,6 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
-      "date": "12月14日公测",
-      "name": "白银之城",
-      "badge": "乐元素",
-      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
-      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
-      "image": "",
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_白银之城",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1588,6 +1600,22 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/8c0cb2fedcb16af9639dcc7265cf2c9f.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
+    },
+    {
+      "date": "12月24日公测",
+      "name": "三国志：王道天下",
+      "badge": "哔哩哔哩游戏",
+      "desc": "光荣特库摩《三国志》系列正版授权、成都奇侠互娱研发、B 站发行的沙盘策略新作，12 月 24 日全平台公测。以「三维配将」把站位、移速、射程、碰撞纳入战斗演算，宣称走「不撕卡 + 不重复橙卡池」路线，全国已有超 1000 家同盟提前备战。",
+      "link": "https://news.qq.com/rain/a/20261117A0CJ0A00",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-11-21",
+      "coverStatus": "verified",
+      "coverKey": "name_三国志_王道天下",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
+      "coverSourceUrl": "",
+      "coverReason": "cdn_cache_hit"
     },
     {
       "name": "影之刃零",
