@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-18",
-    "lastUpdated": "2026-11-18 10:45:05+08:00",
+    "lastUpdated": "2026-11-18 10:55:35+08:00",
     "footerDate": "数据截至2026年11月18日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -218,15 +218,15 @@
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（10.19-10.25）",
+      "period": "TapTap预约榜热度（11.16-11.22）",
       "androidLabel": "安卓预约热度最高",
       "iosLabel": "iOS预约热度最高",
-      "androidTop": "伍六七:暗影交锋",
-      "androidLink": "https://www.taptap.cn/app/762823",
-      "iosTop": "伍六七:暗影交锋",
-      "iosLink": "https://www.taptap.cn/app/762823",
-      "androidTopNote": "TapTap 预约榜 #1（评分 9.3，测试招募已开启，10/21 榜单页）；原榜首《剑侠世界4:无限》已于 10/15 公测下线预约池（二手源，周更）",
-      "iosTopNote": "同左（TapTap 预约榜单页承载安卓/iOS/PC 三端预约；二手源，周更）"
+      "androidTop": "异人之下",
+      "androidLink": "https://www.taptap.cn/moment/870317535201857364",
+      "iosTop": "山海奇旅",
+      "iosLink": "https://www.ali213.net/news/html/2026-11/1055293.html",
+      "androidTopNote": "国漫改编格斗新作官宣全网预约突破 4000 万、定档 12 月上线，终局测试进行中（TapTap 官方社区帖，11 月中旬；二手源，周更）",
+      "iosTopNote": "网易多人生活模拟新游预约量突破 300 万、TapTap 评分 9.2，「兜风测试」定档 12/18（游侠网 11/17 报道；二手源，周更）"
     },
     "freeRanking": [
       {
@@ -375,9 +375,9 @@
         "appId": 4262460,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460.jpg",
-        "rating": "50%",
+        "rating": "52%",
         "meta": "",
-        "reviews": "18858",
+        "reviews": "56269",
         "link": "https://store.steampowered.com/app/4262460",
         "reviewSummary": "褒贬不一",
         "tags": [],
@@ -397,9 +397,9 @@
         "appId": 4530370,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370.jpg",
-        "rating": "83%",
+        "rating": "82%",
         "meta": "",
-        "reviews": "2913",
+        "reviews": "3114",
         "link": "https://store.steampowered.com/app/4530370",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -421,9 +421,9 @@
         "appId": 5335510,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5335510.jpg",
-        "rating": "77%",
+        "rating": "76%",
         "meta": "",
-        "reviews": "7908",
+        "reviews": "10389",
         "link": "https://store.steampowered.com/app/5335510",
         "reviewSummary": "多半好评",
         "tags": [],
@@ -445,7 +445,7 @@
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
         "rating": "94%",
         "meta": "",
-        "reviews": "160829",
+        "reviews": "199064",
         "link": "https://store.steampowered.com/app/4115450",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -466,9 +466,9 @@
         "appId": 4348910,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
-        "rating": "87%",
+        "rating": "81%",
         "meta": "",
-        "reviews": "16802",
+        "reviews": "32793",
         "link": "https://store.steampowered.com/app/4348910",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -489,9 +489,9 @@
         "appId": 3393110,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
-        "rating": "55%",
+        "rating": "54%",
         "meta": "",
-        "reviews": "45525",
+        "reviews": "49009",
         "link": "https://store.steampowered.com/app/3393110",
         "reviewSummary": "褒贬不一",
         "tags": [],
@@ -514,7 +514,7 @@
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
         "rating": "72%",
         "meta": "",
-        "reviews": "186081",
+        "reviews": "206741",
         "link": "https://store.steampowered.com/app/1867240",
         "reviewSummary": "多半好评",
         "tags": [],
@@ -536,7 +536,7 @@
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1203620.jpg",
         "rating": "86%",
         "meta": "",
-        "reviews": "113433",
+        "reviews": "114545",
         "link": "https://store.steampowered.com/app/1203620",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -873,7 +873,7 @@
         "coverReason": "steam-hash"
       }
     ],
-    "insight": "本周（11/9–11/15）Steam 独游热度：10/28 发售的<strong>深空当铺</strong>周末把历史峰值推到 <strong>18.6 万</strong>、热销第 8（87% 特别好评），是当周最稳的独游增量；11 月新作 <strong>ROB RUN</strong> 上线即以 <strong>8.9 万</strong>同时在线冲进在线榜第 10，首周窗口效应依旧凶猛。国产侧<strong>影之刃零</strong>在线 8.8 万稳居第 11、DAU 第 5、愿望单活跃第 1，94% 好评显示长线口碑稳固；<strong>针影裁梦</strong>以 98% 好评如潮维持 1.7 万级在线长尾。对比看，Moon Sweepers 上市两周在线已从 8.3 万峰值回落至 3.1 万——独游流量仍在向「发售前两周」高度集中。",
+    "insight": "本周（11/16–11/22）Steam 新品热度由免费撤离射击《ROB RUN》接棒：38.9 万同时在线、54.9 万峰值仅次于 CS2，但 <strong>52% 褒贬不一</strong>（5.6 万条评测），「爆量不爆口碑」特征明显；独立新品《深空当铺：可能是偷的》以 <strong>81% 特别好评</strong>（3.2 万条评测）稳住 11.5 万日峰值，并连续两周占据愿望单活跃第 1，是口碑驱动长线运营的样本；国产动作《影之刃零》94% 特别好评、19.9 万条评测，热度与口碑双稳。整体趋势：新品「首周爆量—口碑分化」常态化，老牌口碑产品（雾锁王国 86%、足球经理 27 82%）热度回落但基本盘稳固。",
     "mostPlayed": {
       "asOf": "2026-11-18",
       "updatedAt": "10:43",
@@ -1119,8 +1119,8 @@
     "newGamesAsOf": "2026-11-17",
     "topSellersAsOf": "2026-11-18",
     "mostPlayedAsOf": "2026-11-18",
-    "insightAsOf": "2026-11-09",
-    "reviewAsOf": "2026-11-09"
+    "insightAsOf": "2026-11-18",
+    "reviewAsOf": "2026-11-18"
   },
   "miniapp": {
     "ranking": [
@@ -3578,74 +3578,72 @@
   ],
   "phenomenon": [
     {
-      "name": "魔兽世界：无限",
-      "platform": "PC / 国服·暴雪全家桶",
+      "name": "ROB RUN",
+      "platform": "Steam",
       "event": "",
       "chips": [
         {
-          "label": "国服同时在线",
-          "value": "100 万",
+          "label": "同时在线",
+          "value": "38.9 万",
           "color": "green"
         },
         {
-          "label": "系列纪录",
-          "value": "峰值+回归玩家双第一",
-          "color": "orange"
-        },
-        {
-          "label": "开服热度",
-          "value": "新玩家 15 年之最",
-          "color": "blue"
-        }
-      ],
-      "why": "暴雪第三条独立产品线 11/5 全球同步上线：取消进度追赶、订阅即玩、等级永久 60 级，把「回来不再有代价」做成了核心卖点，开服四天国服百万同时在线并双创系列纪录；12/10 团本开放是留存首考。",
-      "source": "暴雪官方公告 / 网易号",
-      "tags": [
-        "MMO回暖",
-        "IP召回",
-        "暴雪网易"
-      ]
-    },
-    {
-      "name": "深空当铺（Probably Stolen）",
-      "platform": "Steam / PC",
-      "event": "",
-      "chips": [
-        {
-          "label": "历史峰值在线",
-          "value": "18.6 万（11/8）",
-          "color": "green"
-        },
-        {
-          "label": "热销榜",
-          "value": "#8",
+          "label": "在线榜排名",
+          "value": "第 2",
           "color": "orange"
         },
         {
           "label": "好评率",
-          "value": "87% 特别好评",
-          "color": "blue"
+          "value": "52% 褒贬不一",
+          "color": "red"
         }
       ],
-      "why": "10/28 发售的赛博朋克开店模拟独立作持续爬坡：周末把历史峰值推到 18.6 万、热销第 8，愿望单活跃第 2；86.8% 好评与 1.6 万评测证明小体量差异化玩法在 11 月新品潮中仍有破圈空间。",
-      "source": "SteamDB",
+      "why": "免费撤离射击新品上线即冲到 Steam 在线榜第 2、24 小时峰值 54.9 万创自身历史最高；但 5.6 万条评测仅 52% 好评，体量与口碑严重倒挂，「爆量不爆口碑」成为 11 月新品常态。",
+      "source": "SteamDB（11/18 快照）",
+      "tags": [
+        "免费撤离射击",
+        "新品爆量"
+      ]
+    },
+    {
+      "name": "深空当铺：可能是偷的（Probably Stolen）",
+      "platform": "Steam",
+      "event": "",
+      "chips": [
+        {
+          "label": "24h 峰值在线",
+          "value": "11.5 万",
+          "color": "green"
+        },
+        {
+          "label": "愿望单活跃",
+          "value": "第 1",
+          "color": "orange"
+        },
+        {
+          "label": "好评率",
+          "value": "81% 特别好评",
+          "color": "green"
+        }
+      ],
+      "why": "赛博朋克商店经营小品 10/28 上线两周，仍居愿望单活跃第 1、24 小时峰值 11.5 万在线，3.2 万条评测维持 81% 特别好评——小团队（Questing Goose Studio）口碑驱动长线运营的样本。",
+      "source": "SteamDB（11/18 快照）",
       "tags": [
         "独立游戏",
-        "模拟经营",
-        "长线爬坡"
+        "模拟经营"
       ]
     }
   ],
-  "iosInsight": "<strong style=\"color:var(--accent)\">移动端观察：</strong>本周（10/26–11/1）畅销榜头名易主——<strong style=\"color:var(--purple)\">《明日方舟》新进登顶</strong>，《王者荣耀》<strong style=\"color:var(--orange)\">▼1 退居次席</strong>，《无畏契约：源能行动》<strong>▲5</strong> 升至第 3，是前十涨幅最大的一款；免费榜仍由《王者荣耀》把守，《蛋仔派对》借小猪佩奇联动 <strong>▲3</strong> 进前五。二次元与战术射击同时上行、长线大 DAU 产品让出榜首，本周付费脉冲主要来自版本与联动档期，而非买量换量。",
+  "iosInsight": "本周 iOS 畅销榜由《王者荣耀》继续压舱（#1），《三角洲行动》升至 #2、《和平精英》回落 #3，TOP3 全部为长线运营产品；免费榜《我在古代有座城》登顶，《王者荣耀》《和平精英》双榜常驻。趋势判断：头部固化延续，新品破局基本只能靠大 DAU 品类（SOC / 塔防 / 撤离射击）切入，免费榜仍是新品导流主战场，休闲与模拟经营品类占位明显。",
   "miniappInsight": "本周小游戏畅销榜头部固化、腰部剧烈换位：《向僵尸开炮》持续霸榜，但第 2–4 名集体易主——《我的花园世界》单日 <strong>↑8</strong> 至第 2、《原始征途》<strong>↑24</strong> 冲至第 4；同期 58 款下跌创 10 月新高，买量素材量与在投游戏数双双环比下滑，存量竞争特征明显。",
-  "newGamesInsight": "<strong style=\"color:var(--green)\">上新观察：</strong>本周（10/26–11/1）是 Q4 的分水岭——《影之刃零》10/29 发售、11/1 峰值 77.6 万，把「国产买断制」从预售话题变成实绩；同周乐元素《白银之城》定档 12/14（预约 1500 万）、米哈游《星布谷地》11/7 测试、腾讯《异人之下》11/4 终局测试。<strong>大厂把 11 月压在「测试 + 定档」而非公测</strong>，真正的上线窗口集中到 12 月。",
+  "newGamesInsight": "本周新品关键词是「12 月大考」：《星球：重启》（11/16 公测）率先开跑，《三国志：王道天下》定档 12/24，《异人之下》定档 12 月，《山海奇旅》兜风测试 12/18——年末 SLG / 格斗 / 生活模拟多线并发。Steam 侧《足球经理 27》（82% 特别好评）与《ROB RUN》（52% 褒贬不一）口碑两极，「首周爆量—口碑分化」仍是主旋律。",
   "weeklyInsight": {
     "title": "本周行业洞察",
     "sections": [
       {
         "title": "独游观察",
         "color": "cyan",
-        "body": "本周Steam独游热度集中在<strong style=\"color:var(--green)\">模拟经营</strong>（Waterpark Simulator 万人评测）、<strong style=\"color:var(--accent)\">动作Roguelike</strong>（Sephiria）和<strong style=\"color:var(--orange)\">解谜</strong>（Endacopia 99%好评）。国产独游《诡宅祭坛》和《导师模拟器》表现亮眼，<strong style=\"color:var(--yellow)\">桌面挂机品类正在成为小团队爆款赛道</strong>。《生存日志》末日生存题材持续发酵，验证了高性价比+垂类题材的可行路径。"
+        "body": "本周（11/16–11/22）Steam 新品热度由免费撤离射击《ROB RUN》接棒：38.9 万同时在线、54.9 万峰值仅次于 CS2，但 <strong>52% 褒贬不一</strong>（5.6 万条评测），「爆量不爆口碑」特征明显；独立新品《深空当铺：可能是偷的》以 <strong>81% 特别好评</strong>（3.2 万条评测）稳住 11.5 万日峰值，并连续两周占据愿望单活跃第 1，是口碑驱动长线运营的样本；国产动作《影之刃零》94% 特别好评、19.9 万条评测，热度与口碑双稳。整体趋势：新品「首周爆量—口碑分化」常态化，老牌口碑产品（雾锁王国 86%、足球经理 27 82%）热度回落但基本盘稳固。"
       },
       {
         "title": "投资趋势洞察",
@@ -3664,57 +3662,57 @@
     "iosInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-11-02",
-      "lastChecked": "2026-11-09",
+      "asOf": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "status": "fresh"
     },
     "miniappInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-10-26",
-      "lastChecked": "2026-11-09",
-      "status": "fresh"
+      "lastChecked": "2026-11-18",
+      "status": "stale"
     },
     "newGamesInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-11-02",
-      "lastChecked": "2026-11-09",
+      "asOf": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "status": "fresh"
     },
     "weeklyInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周",
-      "asOf": "2026-08-20",
-      "lastChecked": "2026-10-26",
-      "status": "stale"
+      "asOf": "2026-11-18",
+      "lastChecked": "2026-11-18",
+      "status": "fresh"
     },
     "dailyBrief": {
       "cadence": "event",
       "cadenceLabel": "事件驱动",
       "asOf": "2026-08-20",
-      "lastChecked": "2026-10-26",
+      "lastChecked": "2026-11-18",
       "status": "stale"
     },
     "phenomenon": {
       "cadence": "weekly",
       "cadenceLabel": "每周（恒2条·周更日=周一·区间周一–周日）",
-      "asOf": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "asOf": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "status": "fresh"
     },
     "steam.insight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（区间周一–周日）",
-      "asOf": "2026-11-09",
-      "lastChecked": "2026-11-09",
+      "asOf": "2026-11-18",
+      "lastChecked": "2026-11-18",
       "status": "fresh"
     },
     "hr": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-10-21",
-      "lastChecked": "2026-11-09"
+      "lastChecked": "2026-11-18"
     }
   }
 }
