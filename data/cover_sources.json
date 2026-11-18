@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T05:37:46.618Z",
+  "updatedAt": "2026-11-18T02:45:28.216Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1340,6 +1340,123 @@
       "rel": "10d13658e3bbef16b8bbcef51aa6965377be1359/capsule_231x87.jpg",
       "name": "Warhammer Survivors",
       "resolvedAt": "2026-11-11T05:37:42.282Z"
+    },
+    "steam:4115450:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg"
+      ],
+      "hash": "40b2044606b59e0cdd9fb89738895fea8a22067c",
+      "hashed": true,
+      "kind": "header",
+      "rel": "40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg",
+      "name": "Phantom Blade Zero",
+      "resolvedAt": "2026-11-17T03:46:59.392Z"
+    },
+    "steam:4687500:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687500/fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg"
+      ],
+      "hash": "fe8d919c13e089d88cdc3988c8235e6eeb30d28a",
+      "hashed": true,
+      "kind": "header",
+      "rel": "fe8d919c13e089d88cdc3988c8235e6eeb30d28a/header_schinese.jpg",
+      "name": "Crossfire",
+      "resolvedAt": "2026-11-17T03:47:01.763Z"
+    },
+    "steam:4209920:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4209920/b45877abc2b5dbe925752c83ee8138b17a3d8710/header_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4209920/b45877abc2b5dbe925752c83ee8138b17a3d8710/header_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209920/b45877abc2b5dbe925752c83ee8138b17a3d8710/header_schinese.jpg"
+      ],
+      "hash": "b45877abc2b5dbe925752c83ee8138b17a3d8710",
+      "hashed": true,
+      "kind": "header",
+      "rel": "b45877abc2b5dbe925752c83ee8138b17a3d8710/header_schinese.jpg",
+      "name": "不问凡尘",
+      "resolvedAt": "2026-11-17T03:47:03.047Z"
+    },
+    "steam:2358720:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2358720/801e841a7975fc29967e30cf799084f4b2987b77/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2358720/801e841a7975fc29967e30cf799084f4b2987b77/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/801e841a7975fc29967e30cf799084f4b2987b77/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "801e841a7975fc29967e30cf799084f4b2987b77",
+      "hashed": true,
+      "kind": "header",
+      "rel": "801e841a7975fc29967e30cf799084f4b2987b77/capsule_231x87_schinese.jpg",
+      "name": "Black Myth: Wukong",
+      "resolvedAt": "2026-11-17T03:47:03.851Z"
+    },
+    "steam:4530370:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg"
+      ],
+      "hash": "32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca",
+      "hashed": true,
+      "kind": "header",
+      "rel": "32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
+      "name": "Football Manager 27",
+      "resolvedAt": "2026-11-17T03:47:06.024Z"
+    },
+    "steam:1203620:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg"
+      ],
+      "hash": "731368301f231d622bd0b1e34afd2afcd86a1dcf",
+      "hashed": true,
+      "kind": "header",
+      "rel": "731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg",
+      "name": "Enshrouded",
+      "resolvedAt": "2026-11-17T03:47:08.978Z"
+    },
+    "steam:2406770:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2406770/2704a0fc0fd6144bd8fd39218e22ea30e119d0e6/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2406770/2704a0fc0fd6144bd8fd39218e22ea30e119d0e6/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/2704a0fc0fd6144bd8fd39218e22ea30e119d0e6/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "2704a0fc0fd6144bd8fd39218e22ea30e119d0e6",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "2704a0fc0fd6144bd8fd39218e22ea30e119d0e6/capsule_231x87_schinese.jpg",
+      "name": "Bodycam",
+      "resolvedAt": "2026-11-17T03:47:09.797Z"
+    },
+    "steam:1771300:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg"
+      ],
+      "hash": "93e28946c46f09d761bbfab1e17e8c1c4a8323a0",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "93e28946c46f09d761bbfab1e17e8c1c4a8323a0/capsule_231x87.jpg",
+      "name": "Kingdom Come: Deliverance II",
+      "resolvedAt": "2026-11-17T03:47:13.820Z"
+    },
+    "steam:238960:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238960/36db623d3337b00788bc28606d926e2a4fbefab0/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/238960/36db623d3337b00788bc28606d926e2a4fbefab0/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/36db623d3337b00788bc28606d926e2a4fbefab0/capsule_231x87.jpg"
+      ],
+      "hash": "36db623d3337b00788bc28606d926e2a4fbefab0",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "36db623d3337b00788bc28606d926e2a4fbefab0/capsule_231x87.jpg",
+      "name": "Path of Exile",
+      "resolvedAt": "2026-11-18T02:45:27.080Z"
     }
   },
   "taptap": {
@@ -1510,6 +1627,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-10T02:34:43.134Z"
+    },
+    "星球重启": {
+      "url": "https://img-tc.tapimg.com/market/images/2e9278bbfaf83f77fdbf2f204c13543f.jpg/_tap_banner.jpg",
+      "appid": 219503,
+      "matchedName": "星球：重启",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-17T03:46:53.070Z"
     }
   },
   "failures": {}
