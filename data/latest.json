@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-19",
-    "lastUpdated": "2026-11-19T10:32:00+08:00",
+    "lastUpdated": "2026-11-19 10:34:48+08:00",
     "footerDate": "数据截至2026年11月19日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,30 +183,32 @@
     ],
     "highlights": [
       {
+        "title": "B 站就《物华弥新》争议起诉龙渊并申请仲裁",
+        "titleLink": "https://news.qq.com/rain/a/20261118A048AN00",
+        "color": "purple",
+        "source": "每日经济新闻·游戏早参",
+        "sourceLink": "https://news.qq.com/rain/a/20261118A048AN00",
+        "body": "11 月 16 日 B 站游戏发行中心发布声明，已就《物华弥新》运营争议<strong>提起诉讼并申请仲裁</strong>，并完成玩家账号、角色数据与游戏资产备份；龙渊网络及关联公司的债务纠纷已进入<strong>司法执行程序</strong>。B 站不认可其单方授权第三方运营及收款的行为，提示玩家勿轻信非官方渠道的账号绑定与充值引导。代理方债务风险向产品端传导，为联运、代理模式再添一记警示。",
+        "isNew": true,
+        "newUntil": "2026-11-22"
+      },
+      {
+        "title": "互动影游《重生2》3 天流水超 200 万，AI 全链路降本",
+        "titleLink": "https://ent.china.com/movie/newszh/11005281/20261119/49885782.html",
+        "color": "blue",
+        "source": "中华网娱乐",
+        "sourceLink": "https://ent.china.com/movie/newszh/11005281/20261119/49885782.html",
+        "body": "一相逢互动科技 <strong>11 月 13 日</strong>发行的真人恋爱 + SLG 融合作品《重生2我独自逆袭》，上线三天总销量突破 <strong>5 万套</strong>、流水超 <strong>200 万元</strong>，Steam 评价「好评如潮」。其自研 AI 大模型覆盖内容生产、制作、宣发全链路，创始人仍强调真人不可替代。机构测算 2026 年全球互动影游市场规模将超 <strong>23 亿美元</strong>，AI 正把这一小众品类推向低成本量产。",
+        "isNew": true,
+        "newUntil": "2026-11-22"
+      },
+      {
         "title": "「三国志：王道天下」定档 12 月 24 日全平台公测",
         "titleLink": "https://news.qq.com/rain/a/20261117A0CJ0A00",
         "color": "blue",
         "source": "腾讯新闻·游研社",
         "sourceLink": "https://news.qq.com/rain/a/20261117A0CJ0A00",
-        "body": "B 站游戏发行、成都奇侠互娱研发的《三国志：王道天下》11 月 14 日在广州塔举办定档品鉴会，宣布 <strong>12 月 24 日</strong>全平台公测。项目获光荣特库摩《三国志》系列正版授权，研发投入约 <strong>5 亿元</strong>、人力约为同类项目 1.5 倍；官方称公测前已完成前三个赛季内容，可支撑半年以上运营，并计划首年投入不低于 1 亿元现金扶持创作者与同盟生态。",
-        "isNew": true,
-        "newUntil": "2026-11-21"
-      },
-      {
-        "title": "字节《星球：重启》公测，SOC 赛道年末大战开打",
-        "titleLink": "https://news.17173.com/content/11162023/120120135.shtml",
-        "color": "blue",
-        "source": "17173",
-        "sourceLink": "https://news.17173.com/content/11162023/120120135.shtml",
-        "body": "字节朝夕光年 SOC 开放世界生存建造手游《星球：重启》<strong>11 月 16 日国服公测</strong>，预约量级达 <strong>千万级</strong>，正面迎击腾讯《黎明觉醒：生机》与网易《明日之后》，宣发以「向大厂求活路」的荒诞营销破圈，年末 SOC 品类商战正式开打。"
-      },
-      {
-        "title": "网易《哈利波特：魔法觉醒》因授权到期宣布停运",
-        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956afb856428752",
-        "color": "purple",
-        "source": "每日经济新闻·游戏早参",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_1956afb856428752",
-        "body": "11 月 16 日网易工作室发文：<strong>授权协议到期</strong>，游戏 <strong>2026 年 12 月 21 日</strong>停充、停注册并全平台下架，<strong>2027 年 3 月 3 日</strong>关闭服务器。该作 2021 年 9 月国服公测，上线不到两月流水超 <strong>2 亿美元</strong>（Sensor Tower），IP 授权类产品长线续约风险再度引发行业讨论。"
+        "body": "B 站游戏发行、成都奇侠互娱研发的《三国志：王道天下》11 月 14 日在广州塔举办定档品鉴会，宣布 <strong>12 月 24 日</strong>全平台公测。项目获光荣特库摩《三国志》系列正版授权，研发投入约 <strong>5 亿元</strong>、人力约为同类项目 1.5 倍；官方称公测前已完成前三个赛季内容，可支撑半年以上运营，并计划首年投入不低于 1 亿元现金扶持创作者与同盟生态。"
       },
       {
         "title": "《GTA6》预购破 1213 万份，收入 11.8 亿美元",
@@ -644,7 +646,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/3218350",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3218350_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "3218350_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3218350_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3218350_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218350/595066dd6cf137516fe55013fca6fa2d034f57a4/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 6,
@@ -698,7 +706,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1158310",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1158310_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1158310_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1158310_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1158310_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/969346b7534d84360e80d8997c3f58636140893f/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 9,
@@ -752,7 +766,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/3188660",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3188660_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "3188660_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3188660_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3188660_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3188660/e7ec08d3ee1cfa107b7c86e26227dcd0b393c46d/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 12,
@@ -846,7 +866,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/5185890",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5185890_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "5185890_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5185890_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5185890_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5185890/4dfc1ad826933c4d3a1d344533b377b1b4a0397c/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       }
     ],
     "insight": "本周（11/16–11/22）Steam 新品热度由免费撤离射击《ROB RUN》接棒：38.9 万同时在线、54.9 万峰值仅次于 CS2，但 <strong>52% 褒贬不一</strong>（5.6 万条评测），「爆量不爆口碑」特征明显；独立新品《深空当铺：可能是偷的》以 <strong>81% 特别好评</strong>（3.2 万条评测）稳住 11.5 万日峰值，并连续两周占据愿望单活跃第 1，是口碑驱动长线运营的样本；国产动作《影之刃零》94% 特别好评、19.9 万条评测，热度与口碑双稳。整体趋势：新品「首周爆量—口碑分化」常态化，老牌口碑产品（雾锁王国 86%、足球经理 27 82%）热度回落但基本盘稳固。",
@@ -948,7 +974,13 @@
           "nameZh": "",
           "current": 95341,
           "peak24h": 755830,
-          "link": "https://store.steampowered.com/app/578080/"
+          "link": "https://store.steampowered.com/app/578080/",
+          "coverStatus": "verified",
+          "coverKey": "578080_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 8,
@@ -1469,6 +1501,21 @@
       "coverReason": "taptap-search"
     },
     {
+      "date": "12月14日公测",
+      "name": "白银之城",
+      "badge": "乐元素",
+      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
+      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
+      "image": "",
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverKey": "name_白银之城",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "11月6日上线",
       "name": "琥珀末日",
       "badge": "酸浆果工作室",
@@ -1504,21 +1551,6 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
-      "date": "12月14日公测",
-      "name": "白银之城",
-      "badge": "乐元素",
-      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
-      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
-      "image": "",
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_白银之城",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_白银之城.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1615,31 +1647,6 @@
       "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg",
       "coverReason": "steam-hash",
       "isNew": false
-    },
-    {
-      "name": "死神 BLEACH Mirrors High",
-      "link": "https://www.gamersky.com/news/202610/2236065.shtml",
-      "badge": "万代南梦宫",
-      "badgeColor": "purple",
-      "meta": "万代南梦宫 · 漫改 · 卡牌策略",
-      "desc": "《死神 BLEACH Mirrors High》10 月 28 日登陆 iOS 与安卓，剧情接续《千年血战篇》后续，采用 3 人小队卡牌策略战斗，支持捏脸与斩魄刀自定义改装。",
-      "date": "10月28日上线",
-      "tags": [
-        "漫改",
-        "卡牌",
-        "二次元"
-      ],
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverReason": "manual-gamersky",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_死神_BLEACH_Mirrors_High.jpg",
-      "coverKey": "name_死神_BLEACH_Mirrors_High",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_死神_BLEACH_Mirrors_High.jpg",
-      "coverSourceUrl": "https://img1.gamersky.com/upimg/pic/2026/10/27/origin_202610272235149245.png",
-      "imageUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/死神bleachmirrorshigh.png",
-      "imageStatus": "ok",
-      "imageSource": "manual",
-      "imageVerified": true
     },
     {
       "name": "无限大",
@@ -1831,6 +1838,33 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_代号咘咘.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/38151e612891ef64e1fbcc92ba4a8cc7.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
+    },
+    {
+      "name": "死神 BLEACH Mirrors High",
+      "link": "https://www.gamersky.com/news/202610/2236065.shtml",
+      "badge": "万代南梦宫",
+      "badgeColor": "purple",
+      "meta": "万代南梦宫 · 漫改 · 卡牌策略",
+      "desc": "《死神 BLEACH Mirrors High》10 月 28 日登陆 iOS 与安卓，剧情接续《千年血战篇》后续，采用 3 人小队卡牌策略战斗，支持捏脸与斩魄刀自定义改装。",
+      "date": "10月28日上线",
+      "tags": [
+        "漫改",
+        "卡牌",
+        "二次元"
+      ],
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverReason": "manual-gamersky",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_死神_BLEACH_Mirrors_High.jpg",
+      "coverKey": "name_死神_BLEACH_Mirrors_High",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_死神_BLEACH_Mirrors_High.jpg",
+      "coverSourceUrl": "https://img1.gamersky.com/upimg/pic/2026/10/27/origin_202610272235149245.png",
+      "imageUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/死神bleachmirrorshigh.png",
+      "imageStatus": "ok",
+      "imageSource": "manual",
+      "imageVerified": true,
+      "archived": true,
+      "archivedAt": "2026-11-19"
     },
     {
       "date": "10月23日公测",
