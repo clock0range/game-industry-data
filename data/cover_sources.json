@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T02:45:28.216Z",
+  "updatedAt": "2026-11-19T02:35:13.083Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1457,6 +1457,58 @@
       "rel": "36db623d3337b00788bc28606d926e2a4fbefab0/capsule_231x87.jpg",
       "name": "Path of Exile",
       "resolvedAt": "2026-11-18T02:45:27.080Z"
+    },
+    "steam:3218350:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218350/595066dd6cf137516fe55013fca6fa2d034f57a4/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3218350/595066dd6cf137516fe55013fca6fa2d034f57a4/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/595066dd6cf137516fe55013fca6fa2d034f57a4/capsule_231x87.jpg"
+      ],
+      "hash": "595066dd6cf137516fe55013fca6fa2d034f57a4",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "595066dd6cf137516fe55013fca6fa2d034f57a4/capsule_231x87.jpg",
+      "name": "Melvor Idle 2: A RuneScape Adventure",
+      "resolvedAt": "2026-11-19T02:35:02.760Z"
+    },
+    "steam:1158310:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1158310/969346b7534d84360e80d8997c3f58636140893f/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1158310/969346b7534d84360e80d8997c3f58636140893f/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/969346b7534d84360e80d8997c3f58636140893f/capsule_231x87.jpg"
+      ],
+      "hash": "969346b7534d84360e80d8997c3f58636140893f",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "969346b7534d84360e80d8997c3f58636140893f/capsule_231x87.jpg",
+      "name": "Crusader Kings III",
+      "resolvedAt": "2026-11-19T02:35:05.517Z"
+    },
+    "steam:3188660:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3188660/e7ec08d3ee1cfa107b7c86e26227dcd0b393c46d/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3188660/e7ec08d3ee1cfa107b7c86e26227dcd0b393c46d/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188660/e7ec08d3ee1cfa107b7c86e26227dcd0b393c46d/capsule_231x87.jpg"
+      ],
+      "hash": "e7ec08d3ee1cfa107b7c86e26227dcd0b393c46d",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "e7ec08d3ee1cfa107b7c86e26227dcd0b393c46d/capsule_231x87.jpg",
+      "name": "Motocross The Game",
+      "resolvedAt": "2026-11-19T02:35:07.187Z"
+    },
+    "steam:5185890:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5185890/4dfc1ad826933c4d3a1d344533b377b1b4a0397c/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5185890/4dfc1ad826933c4d3a1d344533b377b1b4a0397c/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/4dfc1ad826933c4d3a1d344533b377b1b4a0397c/capsule_231x87.jpg"
+      ],
+      "hash": "4dfc1ad826933c4d3a1d344533b377b1b4a0397c",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "4dfc1ad826933c4d3a1d344533b377b1b4a0397c/capsule_231x87.jpg",
+      "name": "Zombies Aren't Real",
+      "resolvedAt": "2026-11-19T02:35:08.875Z"
     }
   },
   "taptap": {
