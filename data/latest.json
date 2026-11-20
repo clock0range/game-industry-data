@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-20",
-    "lastUpdated": "2026-11-20T10:38:00+08:00",
+    "lastUpdated": "2026-11-20 10:41:33+08:00",
     "footerDate": "数据截至2026年11月20日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,6 +183,26 @@
     ],
     "highlights": [
       {
+        "title": "《斗罗大陆：诛邪传说》全平台公测",
+        "titleLink": "https://news.qq.com/rain/a/20261119A07M7J00",
+        "color": "blue",
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261119A07M7J00",
+        "body": "恺英网络旗下盛和蓝月工作室研发、贪玩发行的开放世界 MMO，<strong>11 月 19 日开启全平台公测</strong>，由阅文《斗罗大陆》小说与腾讯视频动画双 IP 授权（动画播放量超 400 亿）。主打无缝大世界御空飞行、近万魂兽野区与 2v2 斗魂场 / 7v7 魂师大赛 / 40 人大逃杀等海陆空全域战斗，猎魂战利品可自由上架拍卖行。",
+        "isNew": true,
+        "newUntil": "2026-11-23"
+      },
+      {
+        "title": "网易 Q3 游戏净收入 229 亿元",
+        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026112006311094d95138",
+        "color": "green",
+        "source": "腾讯自选股·游戏早参",
+        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026112006311094d95138",
+        "body": "网易 11 月 19 日发布 2026 年第三季度财报：单季净收入 <strong>279 亿元</strong>，其中游戏及相关增值服务净收入 <strong>229 亿元</strong>，Non-GAAP 净利润 92 亿元，单季研发投入 47 亿元。公司称靠玩法创新、跨界联动与端手生态打通维持长青 IP 活力，游戏仍是绝对基本盘。",
+        "isNew": true,
+        "newUntil": "2026-11-23"
+      },
+      {
         "title": "B 站就《物华弥新》争议起诉龙渊并申请仲裁",
         "titleLink": "https://news.qq.com/rain/a/20261118A048AN00",
         "color": "purple",
@@ -201,22 +221,6 @@
         "body": "一相逢互动科技 <strong>11 月 13 日</strong>发行的真人恋爱 + SLG 融合作品《重生2我独自逆袭》，上线三天总销量突破 <strong>5 万套</strong>、流水超 <strong>200 万元</strong>，Steam 评价「好评如潮」。其自研 AI 大模型覆盖内容生产、制作、宣发全链路，创始人仍强调真人不可替代。机构测算 2026 年全球互动影游市场规模将超 <strong>23 亿美元</strong>，AI 正把这一小众品类推向低成本量产。",
         "isNew": true,
         "newUntil": "2026-11-22"
-      },
-      {
-        "title": "「三国志：王道天下」定档 12 月 24 日全平台公测",
-        "titleLink": "https://news.qq.com/rain/a/20261117A0CJ0A00",
-        "color": "blue",
-        "source": "腾讯新闻·游研社",
-        "sourceLink": "https://news.qq.com/rain/a/20261117A0CJ0A00",
-        "body": "B 站游戏发行、成都奇侠互娱研发的《三国志：王道天下》11 月 14 日在广州塔举办定档品鉴会，宣布 <strong>12 月 24 日</strong>全平台公测。项目获光荣特库摩《三国志》系列正版授权，研发投入约 <strong>5 亿元</strong>、人力约为同类项目 1.5 倍；官方称公测前已完成前三个赛季内容，可支撑半年以上运营，并计划首年投入不低于 1 亿元现金扶持创作者与同盟生态。"
-      },
-      {
-        "title": "《GTA6》预购破 1213 万份，收入 11.8 亿美元",
-        "titleLink": "https://www.sohu.com/a/1102007548_115362",
-        "color": "green",
-        "source": "每日经济新闻·游戏早参",
-        "sourceLink": "https://www.sohu.com/a/1102007548_115362",
-        "body": "Sensor Tower 测算（11 月 15 日消息）：《GTA6》预购达 <strong>1213 万份</strong>、预购收入 <strong>11.8 亿美元</strong>（约 78.94 亿元），其中 PS5 占 75%、Xbox 占 25%。Take-Two CEO 称预售大幅超出内部预期，行业普遍看好其打破《GTA5》首发纪录。"
       }
     ],
     "taptap": {
@@ -626,7 +630,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2767030",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2767030_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 5,
@@ -660,7 +670,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1401590",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1401590_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1401590_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1401590_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1401590_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/e987c5ffed3889986eea043fbd66849282ec7c6b/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 7,
@@ -714,7 +730,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2909400",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2909400_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2909400_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2909400_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2909400_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 10,
@@ -748,7 +770,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/3240220",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "3240220_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 12,
@@ -762,7 +790,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/216150",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/216150_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "216150_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/216150_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/216150_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/22ad6d057b07641945237dbc6dbab05bb4be615a/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 13,
@@ -1003,7 +1037,13 @@
           "nameZh": "",
           "current": 60176,
           "peak24h": 102232,
-          "link": "https://store.steampowered.com/app/252490/"
+          "link": "https://store.steampowered.com/app/252490/",
+          "coverStatus": "verified",
+          "coverKey": "252490_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/252490_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/252490_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 12,
@@ -1432,6 +1472,22 @@
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
     {
+      "date": "11月19日公测",
+      "name": "斗罗大陆：诛邪传说",
+      "badge": "恺英网络 · 贪玩",
+      "desc": "恺英网络盛和蓝月工作室研发、贪玩发行的开放世界 MMO，11 月 19 日全平台公测。阅文小说 + 腾讯视频动画双 IP 授权，主打无缝大地图御空飞行与 2v2/7v7/40 人大逃杀全域战斗，是恺英「传奇+X」战略的关键落地项目。",
+      "link": "https://news.qq.com/rain/a/20261119A07M7J00",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-11-23",
+      "coverStatus": "verified",
+      "coverKey": "name_斗罗大陆_诛邪传说",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_斗罗大陆_诛邪传说.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_斗罗大陆_诛邪传说.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6eba97886c3aa5238eefbff6232475a0.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "11月16日公测",
       "name": "星球：重启",
       "badge": "朝夕光年",
@@ -1581,35 +1637,6 @@
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
       "coverSourceUrl": "",
       "coverReason": "cdn_cache_hit"
-    },
-    {
-      "name": "影之刃零",
-      "link": "https://store.steampowered.com/app/4115450",
-      "badge": "10月29日上线",
-      "badgeColor": "orange",
-      "meta": "灵游坊 · UE5 · 黑暗武侠 · 3A单机",
-      "desc": "《影之刃零》10 月 29 日全球发售，上线首日 Steam 同时在线峰值约 72.4 万；10 月 30 日仍以约 19.9 万在线位居 SteamDB 全球在线榜第 3、全球热销榜第 1。UE5 黑暗武侠题材，发售前 Steam 愿望单约 250 万份、海外玩家占比 71%。",
-      "date": "10月29日上线",
-      "tags": [
-        "3A",
-        "UE5",
-        "国产单机",
-        "武侠"
-      ],
-      "steamAppId": 4115450,
-      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
-      "imageSource": "steam-header",
-      "imageStatus": "ok",
-      "imageVerified": true,
-      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
-      "gameName": "影之刃零",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
-      "coverStatus": "verified",
-      "coverKey": "4115450",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
-      "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg",
-      "coverReason": "steam-hash",
-      "isNew": false
     },
     {
       "name": "无限大",
@@ -1801,6 +1828,37 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_代号咘咘.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/38151e612891ef64e1fbcc92ba4a8cc7.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
+    },
+    {
+      "name": "影之刃零",
+      "link": "https://store.steampowered.com/app/4115450",
+      "badge": "10月29日上线",
+      "badgeColor": "orange",
+      "meta": "灵游坊 · UE5 · 黑暗武侠 · 3A单机",
+      "desc": "《影之刃零》10 月 29 日全球发售，上线首日 Steam 同时在线峰值约 72.4 万；10 月 30 日仍以约 19.9 万在线位居 SteamDB 全球在线榜第 3、全球热销榜第 1。UE5 黑暗武侠题材，发售前 Steam 愿望单约 250 万份、海外玩家占比 71%。",
+      "date": "10月29日上线",
+      "tags": [
+        "3A",
+        "UE5",
+        "国产单机",
+        "武侠"
+      ],
+      "steamAppId": 4115450,
+      "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
+      "imageSource": "steam-header",
+      "imageStatus": "ok",
+      "imageVerified": true,
+      "manualCover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1786515952",
+      "gameName": "影之刃零",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+      "coverStatus": "verified",
+      "coverKey": "4115450",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
+      "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg",
+      "coverReason": "steam-hash",
+      "isNew": false,
+      "archived": true,
+      "archivedAt": "2026-11-20"
     },
     {
       "name": "死神 BLEACH Mirrors High",
