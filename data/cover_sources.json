@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T02:35:13.083Z",
+  "updatedAt": "2026-11-20T02:42:04.944Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1509,6 +1509,58 @@
       "rel": "4dfc1ad826933c4d3a1d344533b377b1b4a0397c/capsule_231x87.jpg",
       "name": "Zombies Aren't Real",
       "resolvedAt": "2026-11-19T02:35:08.875Z"
+    },
+    "steam:1401590:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1401590/e987c5ffed3889986eea043fbd66849282ec7c6b/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1401590/e987c5ffed3889986eea043fbd66849282ec7c6b/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/e987c5ffed3889986eea043fbd66849282ec7c6b/capsule_231x87.jpg"
+      ],
+      "hash": "e987c5ffed3889986eea043fbd66849282ec7c6b",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "e987c5ffed3889986eea043fbd66849282ec7c6b/capsule_231x87.jpg",
+      "name": "Disney Dreamlight Valley",
+      "resolvedAt": "2026-11-20T02:41:55.504Z"
+    },
+    "steam:2909400:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg"
+      ],
+      "hash": "61fda2e598f865ba6e985830661b98f3167e4ccc",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg",
+      "name": "FINAL FANTASY VII REBIRTH",
+      "resolvedAt": "2026-11-20T02:41:57.329Z"
+    },
+    "steam:3240220:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg"
+      ],
+      "hash": "a318bd9affe8eee32984b18794b273c256e9b2d6",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "a318bd9affe8eee32984b18794b273c256e9b2d6/capsule_231x87.jpg",
+      "name": "Grand Theft Auto V Enhanced",
+      "resolvedAt": "2026-11-20T02:41:58.629Z"
+    },
+    "steam:216150:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/216150/22ad6d057b07641945237dbc6dbab05bb4be615a/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/216150/22ad6d057b07641945237dbc6dbab05bb4be615a/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/22ad6d057b07641945237dbc6dbab05bb4be615a/capsule_231x87.jpg"
+      ],
+      "hash": "22ad6d057b07641945237dbc6dbab05bb4be615a",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "22ad6d057b07641945237dbc6dbab05bb4be615a/capsule_231x87.jpg",
+      "name": "MapleStory",
+      "resolvedAt": "2026-11-20T02:41:59.789Z"
     }
   },
   "taptap": {
@@ -1687,6 +1739,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-17T03:46:53.070Z"
+    },
+    "斗罗大陆诛邪传说": {
+      "url": "https://img-tc.tapimg.com/market/images/6eba97886c3aa5238eefbff6232475a0.jpg/_tap_banner.jpg",
+      "appid": 716327,
+      "matchedName": "斗罗大陆：诛邪传说",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-20T02:41:44.829Z"
     }
   },
   "failures": {}
