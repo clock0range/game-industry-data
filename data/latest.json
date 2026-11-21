@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-21",
-    "lastUpdated": "2026-11-21T10:33:00+08:00",
+    "lastUpdated": "2026-11-21 10:42:31+08:00",
     "footerDate": "数据截至2026年11月21日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -193,6 +193,16 @@
         "newUntil": "2026-11-23"
       },
       {
+        "title": "腾讯 26.9% 入股北京匠芯互动",
+        "titleLink": "https://wisevoter.com/world/2026/11/20/tencent-stake-beijing-jiangxin-interactive-games",
+        "color": "purple",
+        "source": "GameLook/Wisevoter",
+        "sourceLink": "https://wisevoter.com/world/2026/11/20/tencent-stake-beijing-jiangxin-interactive-games",
+        "body": "工商变更显示，腾讯通过广西腾讯创投持有 6 月新成立的北京匠芯互动娱乐 <strong>26.9%</strong> 股权，创始人曾打造休闲游戏《我的家园我的世界》，延续腾讯在休闲移动赛道的投资布局。（原文 11/20 发布，首发 GameLook）",
+        "isNew": true,
+        "newUntil": "2026-11-24"
+      },
+      {
         "title": "网易 Q3 游戏净收入 229 亿元",
         "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026112006311094d95138",
         "color": "green",
@@ -203,24 +213,14 @@
         "newUntil": "2026-11-23"
       },
       {
-        "title": "B 站就《物华弥新》争议起诉龙渊并申请仲裁",
-        "titleLink": "https://news.qq.com/rain/a/20261118A048AN00",
+        "title": "玩家 5.6 万买装备诉退款，法院驳回",
+        "titleLink": "https://www.chinatechnews.com/2026/11/14/132813-chinese-court-rejects-gamers-lawsuit-after-paid-gear-fails-to-prevent-losses",
         "color": "purple",
-        "source": "每日经济新闻·游戏早参",
-        "sourceLink": "https://news.qq.com/rain/a/20261118A048AN00",
-        "body": "11 月 16 日 B 站游戏发行中心发布声明，已就《物华弥新》运营争议<strong>提起诉讼并申请仲裁</strong>，并完成玩家账号、角色数据与游戏资产备份；龙渊网络及关联公司的债务纠纷已进入<strong>司法执行程序</strong>。B 站不认可其单方授权第三方运营及收款的行为，提示玩家勿轻信非官方渠道的账号绑定与充值引导。代理方债务风险向产品端传导，为联运、代理模式再添一记警示。",
+        "source": "央视/ChinaTechNews",
+        "sourceLink": "https://www.chinatechnews.com/2026/11/14/132813-chinese-court-rejects-gamers-lawsuit-after-paid-gear-fails-to-prevent-losses",
+        "body": "上海浦东法院驳回玩家全额退款诉求：其一年内 240 余笔充值购装备后仍连败，主张误导宣传缺乏事实与法律依据；法院明确 <strong>购买装备提升属性≠保证获胜</strong>，判决已生效、双方未上诉。（央视报道，原稿 11/14 披露）",
         "isNew": true,
-        "newUntil": "2026-11-22"
-      },
-      {
-        "title": "互动影游《重生2》3 天流水超 200 万，AI 全链路降本",
-        "titleLink": "https://ent.china.com/movie/newszh/11005281/20261119/49885782.html",
-        "color": "blue",
-        "source": "中华网娱乐",
-        "sourceLink": "https://ent.china.com/movie/newszh/11005281/20261119/49885782.html",
-        "body": "一相逢互动科技 <strong>11 月 13 日</strong>发行的真人恋爱 + SLG 融合作品《重生2我独自逆袭》，上线三天总销量突破 <strong>5 万套</strong>、流水超 <strong>200 万元</strong>，Steam 评价「好评如潮」。其自研 AI 大模型覆盖内容生产、制作、宣发全链路，创始人仍强调真人不可替代。机构测算 2026 年全球互动影游市场规模将超 <strong>23 亿美元</strong>，AI 正把这一小众品类推向低成本量产。",
-        "isNew": true,
-        "newUntil": "2026-11-22"
+        "newUntil": "2026-11-24"
       }
     ],
     "taptap": {
@@ -375,6 +375,28 @@
   "steam": {
     "indieCards": [
       {
+        "gameName": "Melvor Idle 2: A RuneScape Adventure",
+        "name": "Melvor Idle 2: A RuneScape Adventure",
+        "steamAppId": "3218350",
+        "appId": 3218350,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3218350.jpg",
+        "rating": "92%",
+        "meta": "11/20上线",
+        "reviews": "730",
+        "link": "https://store.steampowered.com/app/3218350",
+        "reviewSummary": "特别好评",
+        "tags": [],
+        "nameEn": "Melvor Idle 2: A RuneScape Adventure",
+        "nameMode": "en",
+        "displayName": "Melvor Idle 2: A RuneScape Adventure",
+        "coverStatus": "verified",
+        "coverKey": "3218350",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3218350.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
+        "coverReason": "steam-hash"
+      },
+      {
         "gameName": "ROB RUN",
         "name": "ROB RUN",
         "steamAppId": "4262460",
@@ -393,54 +415,8 @@
         "coverStatus": "verified",
         "coverKey": "4262460",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg",
-        "coverReason": "steam-hash"
-      },
-      {
-        "gameName": "Football Manager 27",
-        "name": "Football Manager 27",
-        "steamAppId": "4530370",
-        "appId": 4530370,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370.jpg",
-        "rating": "82%",
-        "meta": "",
-        "reviews": "3114",
-        "link": "https://store.steampowered.com/app/4530370",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "nameEn": "Football Manager 27",
-        "nameZh": "足球经理27",
-        "nameMode": "zh_en",
-        "displayName": "足球经理27（Football Manager 27）",
-        "releaseDate": "2026年11月10日发售",
-        "coverStatus": "verified",
-        "coverKey": "4530370",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg",
-        "coverReason": "steam-hash"
-      },
-      {
-        "gameName": "Moon Sweepers",
-        "name": "Moon Sweepers",
-        "steamAppId": "5335510",
-        "appId": 5335510,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5335510.jpg",
-        "rating": "76%",
-        "meta": "",
-        "reviews": "10389",
-        "link": "https://store.steampowered.com/app/5335510",
-        "reviewSummary": "多半好评",
-        "tags": [],
-        "nameEn": "Moon Sweepers",
-        "nameMode": "en",
-        "displayName": "Moon Sweepers",
-        "coverStatus": "verified",
-        "coverKey": "5335510",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5335510.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg",
-        "coverReason": "steam-hash"
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "gameName": "Phantom Blade Zero",
@@ -466,29 +442,6 @@
         "coverReason": "cdn_cache_hit"
       },
       {
-        "gameName": "Probably Stolen",
-        "name": "Probably Stolen",
-        "steamAppId": "4348910",
-        "appId": 4348910,
-        "manualCover": "",
-        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
-        "rating": "81%",
-        "meta": "",
-        "reviews": "32793",
-        "link": "https://store.steampowered.com/app/4348910",
-        "reviewSummary": "特别好评",
-        "tags": [],
-        "nameZh": "深空当铺：可能是偷的",
-        "nameEn": "Probably Stolen",
-        "nameMode": "zh_en",
-        "displayName": "深空当铺：可能是偷的（Probably Stolen）",
-        "coverStatus": "verified",
-        "coverKey": "4348910",
-        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348910/2fedb1211c5892123b8b83efc4661046e4347df1/header_schinese.jpg",
-        "coverReason": "steam-hash"
-      },
-      {
         "gameName": "AION 2",
         "name": "AION 2",
         "steamAppId": "3393110",
@@ -508,8 +461,8 @@
         "coverStatus": "verified",
         "coverKey": "3393110",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg",
-        "coverReason": "steam-hash"
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "gameName": "WARDOGS",
@@ -530,8 +483,31 @@
         "coverStatus": "verified",
         "coverKey": "1867240",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg",
-        "coverReason": "steam-hash"
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
+      },
+      {
+        "gameName": "Probably Stolen",
+        "name": "Probably Stolen",
+        "steamAppId": "4348910",
+        "appId": 4348910,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
+        "rating": "81%",
+        "meta": "",
+        "reviews": "32793",
+        "link": "https://store.steampowered.com/app/4348910",
+        "reviewSummary": "特别好评",
+        "tags": [],
+        "nameZh": "深空当铺：可能是偷的",
+        "nameEn": "Probably Stolen",
+        "nameMode": "zh_en",
+        "displayName": "深空当铺：可能是偷的（Probably Stolen）",
+        "coverStatus": "verified",
+        "coverKey": "4348910",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "gameName": "Enshrouded",
@@ -553,8 +529,31 @@
         "coverStatus": "verified",
         "coverKey": "1203620",
         "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1203620.jpg",
-        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1203620/731368301f231d622bd0b1e34afd2afcd86a1dcf/header.jpg",
-        "coverReason": "steam-hash"
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
+      },
+      {
+        "gameName": "Football Manager 27",
+        "name": "Football Manager 27",
+        "steamAppId": "4530370",
+        "appId": 4530370,
+        "manualCover": "",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370.jpg",
+        "rating": "82%",
+        "meta": "",
+        "reviews": "3114",
+        "link": "https://store.steampowered.com/app/4530370",
+        "reviewSummary": "特别好评",
+        "tags": [],
+        "nameZh": "足球经理27",
+        "nameEn": "Football Manager 27",
+        "nameMode": "zh_en",
+        "displayName": "足球经理27（Football Manager 27）",
+        "coverStatus": "verified",
+        "coverKey": "4530370",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       }
     ],
     "topSellers": [
@@ -1037,7 +1036,13 @@
           "nameZh": "",
           "current": 70045,
           "peak24h": 215570,
-          "link": "https://store.steampowered.com/app/4115450/"
+          "link": "https://store.steampowered.com/app/4115450/",
+          "coverStatus": "verified",
+          "coverKey": "4115450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 12,
@@ -1061,7 +1066,13 @@
           "nameZh": "",
           "current": 64907,
           "peak24h": 228348,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 14,
@@ -1084,7 +1095,13 @@
           "nameZh": "",
           "current": 60199,
           "peak24h": 116339,
-          "link": "https://store.steampowered.com/app/431960/"
+          "link": "https://store.steampowered.com/app/431960/",
+          "coverStatus": "verified",
+          "coverKey": "431960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -1102,11 +1119,11 @@
         }
       ]
     },
-    "newGamesAsOf": "2026-11-17",
+    "newGamesAsOf": "2026-11-21",
     "topSellersAsOf": "2026-11-21",
     "mostPlayedAsOf": "2026-11-21",
     "insightAsOf": "2026-11-18",
-    "reviewAsOf": "2026-11-18"
+    "reviewAsOf": "2026-11-21"
   },
   "miniapp": {
     "ranking": [
@@ -1529,8 +1546,7 @@
         "卡牌",
         "Roguelike"
       ],
-      "isNew": true,
-      "newUntil": "2026-11-20",
+      "isNew": false,
       "coverStatus": "verified",
       "coverReason": "taptap-search",
       "coverKey": "name_琥珀末日",
@@ -1551,29 +1567,6 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
-      "date": "11月4日上线",
-      "name": "ROB RUN",
-      "badge": "免费 · 撤离射击",
-      "badgeColor": "blue",
-      "meta": "免费 · 多人撤离射击 · 抢先体验",
-      "desc": "免费多人劫案/撤离射击，主打组队抢劫、基地建造与 PvP 对抗，11/4 在 Steam 开启抢先体验。上线五天同时在线峰值 15.1 万、当前约 11.3 万，但 1.5 万条评测好评率仅 49%，属典型的高热低口碑新品。",
-      "link": "https://store.steampowered.com/app/4262460/",
-      "image": "",
-      "tags": [
-        "免费",
-        "射击",
-        "多人"
-      ],
-      "isNew": true,
-      "newUntil": "2026-11-24",
-      "coverStatus": "verified",
-      "coverKey": "name_ROB_RUN",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1618,6 +1611,29 @@
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
       "coverSourceUrl": "",
       "coverReason": "cdn_cache_hit"
+    },
+    {
+      "date": "11月4日上线",
+      "name": "ROB RUN",
+      "badge": "免费 · 撤离射击",
+      "badgeColor": "blue",
+      "meta": "免费 · 多人撤离射击 · 抢先体验",
+      "desc": "免费多人劫案/撤离射击，主打组队抢劫、基地建造与 PvP 对抗，11/4 在 Steam 开启抢先体验。上线五天同时在线峰值 15.1 万、当前约 11.3 万，但 1.5 万条评测好评率仅 49%，属典型的高热低口碑新品。",
+      "link": "https://store.steampowered.com/app/4262460/",
+      "image": "",
+      "tags": [
+        "免费",
+        "射击",
+        "多人"
+      ],
+      "isNew": true,
+      "newUntil": "2026-11-24",
+      "coverStatus": "verified",
+      "coverKey": "name_ROB_RUN",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_ROB_RUN.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "name": "无限大",
@@ -3119,6 +3135,14 @@
         "stage": "财报",
         "investor": "—",
         "link": "https://www.nbd.com.cn/articles/2026-10-29/4629014.html"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "腾讯经广西腾讯创投持有北京匠芯互动娱乐 26.9% 股权",
+        "amount": "26.9% 股权（金额未披露）",
+        "stage": "战略投资",
+        "investor": "腾讯（广西腾讯创投）",
+        "link": "https://wisevoter.com/world/2026/11/20/tencent-stake-beijing-jiangxin-interactive-games"
       }
     ],
     "insight": "<strong style=\"color:var(--yellow)\">投资趋势洞察：</strong>2026年1-9月公开披露重大投融资/并购 40+ 起，含灵犀互娱（101亿RMB）、沐瞳科技（413亿RMB）两笔百亿级易主，及<strong style=\"color:var(--red)\">恺英网络以 21 亿元控股娱美德</strong>（整体估值约 103 亿元，终结十年传奇 IP 之争，中资从「买团队」转向「买 IP 授权权」）。趋势四条——①<strong>明星制作人成“硬通货”</strong>，非收购类投资中 60%+ 创始团队有大厂/明星项目背景；②<strong>品类同质化</strong>，新项目仍扎堆 SLG/二次元开放世界/休闲派对；③<strong style=\"color:var(--red)\">大厂战略分化加剧</strong>：腾讯持续扫货（<strong style=\"color:var(--green)\">新领投土耳其 Circle Games A 轮 2500 万美元</strong>，赛道无死角）、米哈游跨界（技术溢出）、鹰角守艺（学院派）、儒意景秀务实，新增阿里、字节“退游”聚焦 AI，同时<strong style=\"color:var(--orange)\">网易连续剥离海外工作室</strong>（草蜢 10/1 恢复独立，两年内已退出 11 家）；④<strong>资本结构多元化</strong>：私募接盘（信宸资本控股型并购首入游戏）、<strong style=\"color:var(--cyan)\">中东资本整合提速</strong>（据报 PIF 考虑将 EA 与 Savvy 合并，若成则 EA、Scopely 同属一集团）、<strong style=\"color:var(--purple)\">跨界技术收购抬头</strong>（Bose 收购音频中间件 FMOD 开发商 Firelight）、资金流向成熟资产（Scopely 收购 Loom，游戏创投退出环境转冷）。",
