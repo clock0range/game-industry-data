@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T02:42:04.944Z",
+  "updatedAt": "2026-11-21T02:42:55.425Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1561,6 +1561,19 @@
       "rel": "22ad6d057b07641945237dbc6dbab05bb4be615a/capsule_231x87.jpg",
       "name": "MapleStory",
       "resolvedAt": "2026-11-20T02:41:59.789Z"
+    },
+    "steam:3218350:header": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg"
+      ],
+      "hash": "21b3f6881a12eef86b7c17b21640b396f3510f92",
+      "hashed": true,
+      "kind": "header",
+      "rel": "21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
+      "name": "Melvor Idle 2: A RuneScape Adventure",
+      "resolvedAt": "2026-11-21T02:42:45.436Z"
     }
   },
   "taptap": {
