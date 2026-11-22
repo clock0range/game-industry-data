@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-22",
-    "lastUpdated": "2026-11-22T10:42:00+08:00",
+    "lastUpdated": "2026-11-22 10:46:13+08:00",
     "footerDate": "数据截至2026年11月22日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,14 +183,14 @@
     ],
     "highlights": [
       {
-        "title": "《斗罗大陆：诛邪传说》全平台公测",
-        "titleLink": "https://news.qq.com/rain/a/20261119A07M7J00",
+        "title": "《伍六七：暗影交锋》定档 12/9 公测",
+        "titleLink": "https://www.taptap.cn/app/730107",
         "color": "blue",
-        "source": "腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20261119A07M7J00",
-        "body": "恺英网络旗下盛和蓝月工作室研发、贪玩发行的开放世界 MMO，<strong>11 月 19 日开启全平台公测</strong>，由阅文《斗罗大陆》小说与腾讯视频动画双 IP 授权（动画播放量超 400 亿）。主打无缝大世界御空飞行、近万魂兽野区与 2v2 斗魂场 / 7v7 魂师大赛 / 40 人大逃杀等海陆空全域战斗，猎魂战利品可自由上架拍卖行。",
+        "source": "TapTap",
+        "sourceLink": "https://www.taptap.cn/app/730107",
+        "body": "刺客伍六七官方自研像素风横版冒险 RPG 手游《伍六七：暗影交锋》官宣 <strong>12 月 9 日</strong>全网不删档公测，TapTap 评分 <strong>9.2</strong>、预约量突破 <strong>250 万</strong>，登顶 TapTap 预约榜第一。",
         "isNew": true,
-        "newUntil": "2026-11-23"
+        "newUntil": "2026-11-27"
       },
       {
         "title": "腾讯 26.9% 入股北京匠芯互动",
@@ -213,14 +213,14 @@
         "newUntil": "2026-11-23"
       },
       {
-        "title": "玩家 5.6 万买装备诉退款，法院驳回",
-        "titleLink": "https://www.chinatechnews.com/2026/11/14/132813-chinese-court-rejects-gamers-lawsuit-after-paid-gear-fails-to-prevent-losses",
-        "color": "purple",
-        "source": "央视/ChinaTechNews",
-        "sourceLink": "https://www.chinatechnews.com/2026/11/14/132813-chinese-court-rejects-gamers-lawsuit-after-paid-gear-fails-to-prevent-losses",
-        "body": "上海浦东法院驳回玩家全额退款诉求：其一年内 240 余笔充值购装备后仍连败，主张误导宣传缺乏事实与法律依据；法院明确 <strong>购买装备提升属性≠保证获胜</strong>，判决已生效、双方未上诉。（央视报道，原稿 11/14 披露）",
+        "title": "《斗罗大陆：诛邪传说》全平台公测",
+        "titleLink": "https://news.qq.com/rain/a/20261119A07M7J00",
+        "color": "blue",
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261119A07M7J00",
+        "body": "恺英网络旗下盛和蓝月工作室研发、贪玩发行的开放世界 MMO，<strong>11 月 19 日开启全平台公测</strong>，由阅文《斗罗大陆》小说与腾讯视频动画双 IP 授权（动画播放量超 400 亿）。主打无缝大世界御空飞行、近万魂兽野区与 2v2 斗魂场 / 7v7 魂师大赛 / 40 人大逃杀等海陆空全域战斗，猎魂战利品可自由上架拍卖行。",
         "isNew": true,
-        "newUntil": "2026-11-24"
+        "newUntil": "2026-11-23"
       }
     ],
     "taptap": {
@@ -649,7 +649,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2483190",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2483190_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2483190_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2483190_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2483190_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/eeaa1188cf125bd861a11200fb70e2e97328e1f2/capsule_231x87_sc_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 6,
@@ -703,7 +709,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1426210",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1426210_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1426210_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1426210_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1426210_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg",
+        "coverReason": "steam-legacy-path"
       },
       {
         "rank": 9,
@@ -737,7 +749,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2215430",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2215430_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2215430_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2215430_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2215430_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
+        "coverReason": "steam-legacy-path"
       },
       {
         "rank": 11,
@@ -831,7 +849,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/230410",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "230410_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 16,
@@ -845,7 +869,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/578080",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "578080_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       }
     ],
     "insight": "本周（11/16–11/22）Steam 新品热度由免费撤离射击《ROB RUN》接棒：38.9 万同时在线、54.9 万峰值仅次于 CS2，但 <strong>52% 褒贬不一</strong>（5.6 万条评测），「爆量不爆口碑」特征明显；独立新品《深空当铺：可能是偷的》以 <strong>81% 特别好评</strong>（3.2 万条评测）稳住 11.5 万日峰值，并连续两周占据愿望单活跃第 1，是口碑驱动长线运营的样本；国产动作《影之刃零》94% 特别好评、19.9 万条评测，热度与口碑双稳。整体趋势：新品「首周爆量—口碑分化」常态化，老牌口碑产品（雾锁王国 86%、足球经理 27 82%）热度回落但基本盘稳固。",
@@ -1035,7 +1065,13 @@
           "nameZh": "",
           "current": 59005,
           "peak24h": 82858,
-          "link": "https://store.steampowered.com/app/1867240/"
+          "link": "https://store.steampowered.com/app/1867240/",
+          "coverStatus": "verified",
+          "coverKey": "1867240_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 14,
@@ -1044,7 +1080,13 @@
           "nameZh": "",
           "current": 58095,
           "peak24h": 128524,
-          "link": "https://store.steampowered.com/app/3240220/"
+          "link": "https://store.steampowered.com/app/3240220/",
+          "coverStatus": "verified",
+          "coverKey": "3240220_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 15,
@@ -1053,7 +1095,13 @@
           "nameZh": "",
           "current": 57131,
           "peak24h": 67292,
-          "link": "https://store.steampowered.com/app/359550/"
+          "link": "https://store.steampowered.com/app/359550/",
+          "coverStatus": "verified",
+          "coverKey": "359550_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -1470,6 +1518,21 @@
       "coverReason": "taptap-search"
     },
     {
+      "date": "12月9日公测",
+      "name": "伍六七：暗影交锋",
+      "badge": "啊吉游",
+      "desc": "刺客伍六七官方自研像素风横版冒险 RPG 手游，国漫 IP 改编，TapTap 9.2 分、全网预约破 250 万居预约榜第一，12 月 9 日开启不删档公测。",
+      "link": "https://www.taptap.cn/app/730107",
+      "isNew": true,
+      "newUntil": "2026-11-29",
+      "coverStatus": "verified",
+      "coverKey": "name_伍六七_暗影交锋",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伍六七_暗影交锋.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_伍六七_暗影交锋.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/cb7e6b332391f2377215a358822576d4.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "12月14日公测",
       "name": "白银之城",
       "badge": "乐元素",
@@ -1507,21 +1570,6 @@
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3aac3bffef67b96a8942d547ac9c210a.png/_tap_banner.jpg"
     },
     {
-      "date": "11月5日终局测试",
-      "name": "异人之下",
-      "badge": "腾讯魔方",
-      "desc": "改编自国漫《一人之下》的 3D 格斗竞技新游，移动端与 PC 端互通，PVP 无属性平衡、全角色免费获取。本轮终局测试重做 PVE、下调连招门槛并新增段位保护，同时首曝 13 分钟剧情模式实机。",
-      "link": "https://news.17173.com/content/11052026/095104548.shtml",
-      "image": "",
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_异人之下",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "name": "三国志:王道天下",
       "link": "https://news.qq.com/rain/a/20261008A047QG00",
       "badge": "B站",
@@ -1555,14 +1603,28 @@
       "desc": "光荣特库摩《三国志》系列正版授权、成都奇侠互娱研发、B 站发行的沙盘策略新作，12 月 24 日全平台公测。以「三维配将」把站位、移速、射程、碰撞纳入战斗演算，宣称走「不撕卡 + 不重复橙卡池」路线，全国已有超 1000 家同盟提前备战。",
       "link": "https://news.qq.com/rain/a/20261117A0CJ0A00",
       "image": "",
-      "isNew": true,
-      "newUntil": "2026-11-21",
+      "isNew": false,
       "coverStatus": "verified",
       "coverKey": "name_三国志_王道天下",
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_三国志_王道天下.jpg",
       "coverSourceUrl": "",
       "coverReason": "cdn_cache_hit"
+    },
+    {
+      "date": "11月5日终局测试",
+      "name": "异人之下",
+      "badge": "腾讯魔方",
+      "desc": "改编自国漫《一人之下》的 3D 格斗竞技新游，移动端与 PC 端互通，PVP 无属性平衡、全角色免费获取。本轮终局测试重做 PVE、下调连招门槛并新增段位保护，同时首曝 13 分钟剧情模式实机。",
+      "link": "https://news.17173.com/content/11052026/095104548.shtml",
+      "image": "",
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverKey": "name_异人之下",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "date": "11月4日上线",
