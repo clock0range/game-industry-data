@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T02:42:55.425Z",
+  "updatedAt": "2026-11-22T02:46:41.150Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1574,6 +1574,45 @@
       "rel": "21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg",
       "name": "Melvor Idle 2: A RuneScape Adventure",
       "resolvedAt": "2026-11-21T02:42:45.436Z"
+    },
+    "steam:2483190:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2483190/eeaa1188cf125bd861a11200fb70e2e97328e1f2/capsule_231x87_sc_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2483190/eeaa1188cf125bd861a11200fb70e2e97328e1f2/capsule_231x87_sc_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/eeaa1188cf125bd861a11200fb70e2e97328e1f2/capsule_231x87_sc_schinese.jpg"
+      ],
+      "hash": "eeaa1188cf125bd861a11200fb70e2e97328e1f2",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "eeaa1188cf125bd861a11200fb70e2e97328e1f2/capsule_231x87_sc_schinese.jpg",
+      "name": "Forza Horizon 6",
+      "resolvedAt": "2026-11-22T02:46:32.480Z"
+    },
+    "steam:1426210:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "It Takes Two",
+      "resolvedAt": "2026-11-22T02:46:34.261Z"
+    },
+    "steam:2215430:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "Ghost of Tsushima DIRECTOR'S CUT",
+      "resolvedAt": "2026-11-22T02:46:35.639Z"
     }
   },
   "taptap": {
@@ -1760,6 +1799,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-20T02:41:44.829Z"
+    },
+    "伍六七暗影交锋": {
+      "url": "https://img-tc.tapimg.com/market/images/cb7e6b332391f2377215a358822576d4.jpg/_tap_banner.jpg",
+      "appid": 730107,
+      "matchedName": "伍六七：暗影交锋",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-22T02:46:24.601Z"
     }
   },
   "failures": {}
