@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T02:46:41.150Z",
+  "updatedAt": "2026-11-23T02:49:34.552Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1807,6 +1807,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-22T02:46:24.601Z"
+    },
+    "饥困荒野": {
+      "url": "https://img-tc.tapimg.com/market/images/9e2c5bd7f1d3bf5cdcc9f1ee64484bee.jpg/_tap_banner.jpg",
+      "appid": 194039,
+      "matchedName": "饥困荒野",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-23T02:49:21.026Z"
     }
   },
   "failures": {}
