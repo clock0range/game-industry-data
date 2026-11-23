@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-23",
-    "lastUpdated": "2026-11-23 10:49:13+08:00",
+    "lastUpdated": "2026-11-23 11:26:16+08:00",
     "footerDate": "数据截至2026年11月23日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -1129,269 +1129,116 @@
     "ranking": [
       {
         "rank": 1,
-        "name": "向僵尸开炮",
-        "category": "益智",
-        "publisher": "盛昌网络",
-        "change": "▲1",
+        "name": "三国：冰河时代",
+        "category": "策略",
+        "publisher": "在线途游",
+        "change": "▲3",
         "changeDir": "up"
       },
       {
         "rank": 2,
-        "name": "三国：冰河时代",
-        "category": "策略",
-        "publisher": "欢游互动",
+        "name": "向僵尸开炮",
+        "category": "益智",
+        "publisher": "盛昌网络",
         "change": "▼1",
         "changeDir": "down"
       },
       {
         "rank": 3,
-        "name": "疯狂水世界",
-        "category": "模拟经营",
-        "publisher": "益世界网络",
-        "change": "▲1",
-        "changeDir": "up"
+        "name": "无尽冬日",
+        "category": "策略",
+        "publisher": "点点互动",
+        "change": "/",
+        "changeDir": "flat"
       },
       {
         "rank": 4,
         "name": "向末日开炮",
         "category": "末日塔防",
         "publisher": "易多量",
-        "change": "▲1",
+        "change": "▲7",
         "changeDir": "up"
       },
       {
         "rank": 5,
-        "name": "我的花园世界",
+        "name": "造化仙府",
         "category": "模拟经营",
-        "publisher": "麟贝互娱",
-        "change": "▼2",
-        "changeDir": "down"
+        "publisher": "在线途游",
+        "change": "▲10",
+        "changeDir": "up"
       },
       {
         "rank": 6,
-        "name": "无尽冬日",
-        "category": "对战",
-        "publisher": "点点互动",
+        "name": "疯狂水世界",
+        "category": "模拟经营",
+        "publisher": "益世界网络",
         "change": "/",
         "changeDir": "flat"
       },
       {
         "rank": 7,
-        "name": "梦幻消除战",
+        "name": "向往的生活",
         "category": "模拟经营",
-        "publisher": "广州喜势网络",
-        "change": "▲2",
-        "changeDir": "up"
+        "publisher": "快乐芒果互娱",
+        "change": "/",
+        "changeDir": "flat"
       },
       {
         "rank": 8,
         "name": "浪漫餐厅",
-        "category": "益智",
+        "category": "模拟经营",
         "publisher": "柠檬微趣",
         "change": "/",
         "changeDir": "flat"
       },
       {
         "rank": 9,
-        "name": "造化仙府",
+        "name": "梦幻消除战",
         "category": "模拟经营",
-        "publisher": "沛炫网络",
-        "change": "▲2",
-        "changeDir": "up"
-      },
-      {
-        "rank": 10,
-        "name": "永夜起源",
-        "category": "卡牌",
-        "publisher": "广州招崭",
-        "change": "▲3",
-        "changeDir": "up"
-      },
-      {
-        "rank": 11,
-        "name": "精英军团",
-        "category": "",
-        "publisher": "叙炽科技",
-        "change": "▲5",
-        "changeDir": "up"
-      },
-      {
-        "rank": 12,
-        "name": "跃动小子",
-        "category": "益智",
-        "publisher": "波克科技",
-        "change": "▼2",
-        "changeDir": "down"
-      },
-      {
-        "rank": 13,
-        "name": "大王请上阵",
-        "category": "角色卡牌",
-        "publisher": "悦莱顺",
-        "change": "▲2",
-        "changeDir": "up"
-      },
-      {
-        "rank": 14,
-        "name": "向往的生活",
-        "category": "模拟经营",
-        "publisher": "深圳必凡娱乐",
-        "change": "▼2",
-        "changeDir": "down"
-      },
-      {
-        "rank": 15,
-        "name": "灵画师",
-        "category": "ARPG",
-        "publisher": "广州光游网络",
-        "change": "▲4",
-        "changeDir": "up"
-      },
-      {
-        "rank": 16,
-        "name": "奔奔王国",
-        "category": "对战",
-        "publisher": "点点松云",
-        "change": "▼2",
-        "changeDir": "down"
-      },
-      {
-        "rank": 17,
-        "name": "佣兵小镇",
-        "category": "卡牌",
-        "publisher": "天象互动文化传播",
-        "change": "▲1",
-        "changeDir": "up"
-      },
-      {
-        "rank": 18,
-        "name": "天命行者",
-        "category": "放置",
-        "publisher": "广州大蓝网络",
-        "change": "▲4",
-        "changeDir": "up"
-      },
-      {
-        "rank": 19,
-        "name": "原始征途",
-        "category": "MMO",
-        "publisher": "巨人网络",
-        "change": "▲4",
-        "changeDir": "up"
-      },
-      {
-        "rank": 20,
-        "name": "腾讯欢乐斗地主",
-        "category": "牌类",
-        "publisher": "腾讯",
+        "publisher": "—",
         "change": "/",
         "changeDir": "flat"
       },
       {
-        "rank": 21,
-        "name": "下方了",
-        "category": "",
-        "publisher": "飞鱼星空科技",
-        "change": "▲5",
-        "changeDir": "up"
-      },
-      {
-        "rank": 22,
-        "name": "青云诀之伏魔",
-        "category": "MMO",
-        "publisher": "元游",
-        "change": "▼15",
-        "changeDir": "down"
-      },
-      {
-        "rank": 23,
-        "name": "永远的蔚蓝星球",
-        "category": "塔防",
-        "publisher": "广州颂悦",
-        "change": "▲1",
-        "changeDir": "up"
-      },
-      {
-        "rank": 24,
-        "name": "喵骑战域",
-        "category": "",
-        "publisher": "优路互娱科技",
-        "change": "▲14",
-        "changeDir": "up"
-      },
-      {
-        "rank": 25,
-        "name": "镇邪人",
-        "category": "",
-        "publisher": "雷虎科技",
-        "change": "▲9",
+        "rank": 10,
+        "name": "佣兵小镇",
+        "category": "模拟经营",
+        "publisher": "—",
+        "change": "▲16",
         "changeDir": "up"
       }
     ],
     "dynamics": [
       {
-        "title": "政策 · 微信小游戏广告金新政：门槛更低、激励更长",
-        "color": "green",
-        "body": "流量主开通门槛由 500 UV 降至 100 UV，广告金达标门槛下调、激励周期拉长，平台预计明年发放金额再增 20%。",
-        "pubDate": "10/30",
-        "source": "腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20261030A058YF00"
-      },
-      {
-        "title": "品类概况 · 益智类份额从四成升至六成",
-        "color": "purple",
-        "body": "2026H1 微信小游戏大盘变现同比增超 20%，<strong>买量贡献 80% 新增注册</strong>；益智类靠箭头、沙画、文字塔防等细分玩法放大。",
-        "pubDate": "10/30",
-        "source": "网易/腾讯营销大会",
-        "sourceLink": "https://www.163.com/dy/article/LAG1E9JU0553OKLX.html"
-      },
-      {
-        "title": "上新趋势 · 10月 21 款新游进日榜，仅 6 款进月榜",
-        "color": "cyan",
-        "body": "新游进榜占比回升至 11.86%，但入月榜数量为近五个月最低，<strong>进一次 TOP100 与长期留住是两件事</strong>。",
-        "pubDate": "11/1",
-        "source": "小游雷达",
-        "sourceLink": "http://mp.weixin.qq.com/s?__biz=MzY4MzE2MzQ0OA==&mid=2247484265&idx=1&sn=0405a48e5de16cc158545b9af2eb6d70"
-      },
-      {
-        "title": "爆款 · 《我的花园世界》单日跃升 20 位进前三",
+        "title": "霸榜 · 《向僵尸开炮》连续 7 天霸榜，单日 12 款新游入榜",
         "color": "orange",
-        "body": "11/1 畅销榜唯一进入 TOP10 的高涨幅产品，从第 23 名升至第 3 名，人气榜同步前移。",
-        "pubDate": "11/1",
-        "source": "小游雷达",
-        "sourceLink": "http://mp.weixin.qq.com/s?__biz=MzY4MzE2MzQ0OA==&mid=2247484265&idx=1&sn=0405a48e5de16cc158545b9af2eb6d70"
+        "body": "11 月 20 日畅销榜 TOP100：<strong>《向僵尸开炮》连续第 7 天位列榜首</strong>；《次神：光之觉醒》单日飙升 43 名至第 18，《肥鹅美食街》《仙临九界》等 12 款新游同日入榜，中腰部换血节奏明显加快。",
+        "pubDate": "11/21",
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261121A0BMLF00"
+      },
+      {
+        "title": "新游 · 广州新游《西游灵兽纪》登上畅销榜前十",
+        "color": "blue",
+        "body": "DataEye 研究院发现，广州天纵网络旗下新游<strong>《西游灵兽纪》11 月 13 日进入微信小游戏畅销榜前十</strong>，角色卡牌 + 东方玄幻题材，是 11 月排名最高的新入榜产品。",
+        "pubDate": "11/17",
+        "source": "DataEye / 网易",
+        "sourceLink": "https://dy.163.com/article/LC8B12VH0553OKLX.html"
+      },
+      {
+        "title": "买量样本 · 途游《造化仙府》用 AI 定制短剧冲榜",
+        "color": "purple",
+        "body": "在线途游《造化仙府》不做素材堆量，改用<strong>定制 AI 小剧场短剧</strong>做创意投放：微信版投放量一度超 5000 组，产品最高冲到微信畅销榜 TOP5、抖音榜曾登顶。「模拟经营转 SLG」的分段设计 + 内容化买量，成为 11 月最具参考价值的营销样本。",
+        "pubDate": "11/19",
+        "source": "DataEye / 网易",
+        "sourceLink": "https://www.163.com/dy/article/LC36J80V0553OKLX.html"
       }
     ],
-    "categories": [
-      {
-        "name": "休闲",
-        "value": "9款（最多）"
-      },
-      {
-        "name": "角色",
-        "value": "3款"
-      },
-      {
-        "name": "竞技",
-        "value": "2款"
-      },
-      {
-        "name": "策略",
-        "value": "1款"
-      },
-      {
-        "name": "末日塔防",
-        "value": "1款"
-      },
-      {
-        "name": "卡牌",
-        "value": "1款"
-      }
-    ],
-    "asOf": "2026-11-03",
-    "source": "lightgame.cc（微信小游戏畅销榜每日快照）",
-    "dynamicsAsOf": "2026-11-01",
-    "dynamicsStatus": "ok"
+    "asOf": "2026-10月榜",
+    "source": "GameLook 微信小游戏收入 TOP100（月度，搜狐游戏 11 月转载）",
+    "dynamicsAsOf": "2026-11-23",
+    "dynamicsStatus": "fresh",
+    "chipLabel": "10月月榜"
   },
   "segments": [
     {
@@ -3700,7 +3547,7 @@
     }
   ],
   "iosInsight": "本周 iOS 畅销榜由《王者荣耀》继续压舱（#1），《三角洲行动》升至 #2、《和平精英》回落 #3，TOP3 全部为长线运营产品；免费榜《我在古代有座城》登顶，《王者荣耀》《和平精英》双榜常驻。趋势判断：头部固化延续，新品破局基本只能靠大 DAU 品类（SOC / 塔防 / 撤离射击）切入，免费榜仍是新品导流主战场，休闲与模拟经营品类占位明显。",
-  "miniappInsight": "本周小游戏畅销榜头部固化、腰部剧烈换位：《向僵尸开炮》持续霸榜，但第 2–4 名集体易主——《我的花园世界》单日 <strong>↑8</strong> 至第 2、《原始征途》<strong>↑24</strong> 冲至第 4；同期 58 款下跌创 10 月新高，买量素材量与在投游戏数双双环比下滑，存量竞争特征明显。",
+  "miniappInsight": "10 月月榜显示头部高度固化：<strong>《三国：冰河时代》上升 3 位首次拿下收入榜首</strong>，《向僵尸开炮》《无尽冬日》守在第 2、3 位，TOP10 中 7 款是老面孔；换血集中在中腰部——全榜 28 款新入榜、换血率 28%，其中《地宫大爆破》空降第 11 名是最大黑马。品类公式愈发清晰：「模拟经营转 SLG」的分段式设计（《造化仙府》《佣兵小镇》《梦幻消除战》）成为爆款主流——前期低门槛建设承接泛用户，中后期 PVP 对抗承接中重度付费。营销侧从素材堆量转向内容创意，AI 定制短剧买量（《造化仙府》）是本月最值得拆解的样本。",
   "newGamesInsight": "本周新品主线是「年末双档期」：11/24 腾讯《饥困荒野》（Klei 正版授权沙盒生存）、11/26 蛮啾《蓝色星原：旅谣》接连上线，12 月则由《星布谷地》（12/4）、《伍六七：暗影交锋》（12/9）、《异人之下》（12/17，预约破 4000 万）接力，年末大厂定档密度明显抬升。Steam 侧本周无合格爆量新品接棒，热度仍由《ROB RUN》（49% 褒贬不一）与《影之刃零》（95% 好评如潮、TGA 五项提名）领跑，「首发爆量—口碑检验」的窗口依旧在新品上线首两周。",
   "weeklyInsight": {
     "title": "本周行业洞察",
@@ -3735,9 +3582,9 @@
     "miniappInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-10-26",
+      "asOf": "2026-11-23",
       "lastChecked": "2026-11-23",
-      "status": "stale"
+      "status": "fresh"
     },
     "newGamesInsight": {
       "cadence": "weekly",
