@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-23",
-    "lastUpdated": "2026-11-23T10:45:00+08:00",
+    "lastUpdated": "2026-11-23 10:49:13+08:00",
     "footerDate": "数据截至2026年11月23日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,55 +183,55 @@
     ],
     "highlights": [
       {
-        "title": "《伍六七：暗影交锋》定档 12/9 公测",
-        "titleLink": "https://www.taptap.cn/app/730107",
+        "title": "《异人之下》定档 12 月 17 日公测",
+        "titleLink": "https://news.17173.com/content/11232026/103344352.shtml",
         "color": "blue",
-        "source": "TapTap",
-        "sourceLink": "https://www.taptap.cn/app/730107",
-        "body": "刺客伍六七官方自研像素风横版冒险 RPG 手游《伍六七：暗影交锋》官宣 <strong>12 月 9 日</strong>全网不删档公测，TapTap 评分 <strong>9.2</strong>、预约量突破 <strong>250 万</strong>，登顶 TapTap 预约榜第一。",
+        "source": "17173",
+        "sourceLink": "https://news.17173.com/content/11232026/103344352.shtml",
+        "body": "腾讯魔方工作室群研发、改编自国漫《一人之下》的 3D 格斗新作 11 月 23 日官宣 <strong>12 月 17 日全平台公测</strong>，移动端与 PC 双端数据互通，彭于晏出任代言人；官方同步公布全网预约量已突破 <strong>4000 万</strong>，预约用户上线可直接领取异人「夏禾」。对局以「普攻 / 平招 / 险招 / 防御」克制博弈为核心，PVP 不卖数值，此前已官宣出征 EVO 2027 新加坡站。",
         "isNew": true,
         "newUntil": "2026-11-27"
       },
       {
-        "title": "腾讯 26.9% 入股北京匠芯互动",
-        "titleLink": "https://wisevoter.com/world/2026/11/20/tencent-stake-beijing-jiangxin-interactive-games",
-        "color": "purple",
-        "source": "GameLook/Wisevoter",
-        "sourceLink": "https://wisevoter.com/world/2026/11/20/tencent-stake-beijing-jiangxin-interactive-games",
-        "body": "工商变更显示，腾讯通过广西腾讯创投持有 6 月新成立的北京匠芯互动娱乐 <strong>26.9%</strong> 股权，创始人曾打造休闲游戏《我的家园我的世界》，延续腾讯在休闲移动赛道的投资布局。（原文 11/20 发布，首发 GameLook）",
-        "isNew": true,
-        "newUntil": "2026-11-24"
-      },
-      {
-        "title": "网易 Q3 游戏净收入 229 亿元",
-        "titleLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026112006311094d95138",
-        "color": "green",
-        "source": "腾讯自选股·游戏早参",
-        "sourceLink": "https://gu.qq.com/resources/shy/news/detail-v2/index.html?t=1#/index?_tentrees_trans=0&id=SN2026112006311094d95138",
-        "body": "网易 11 月 19 日发布 2026 年第三季度财报：单季净收入 <strong>279 亿元</strong>，其中游戏及相关增值服务净收入 <strong>229 亿元</strong>，Non-GAAP 净利润 92 亿元，单季研发投入 47 亿元。公司称靠玩法创新、跨界联动与端手生态打通维持长青 IP 活力，游戏仍是绝对基本盘。",
-        "isNew": true,
-        "newUntil": "2026-11-23"
-      },
-      {
-        "title": "《斗罗大陆：诛邪传说》全平台公测",
-        "titleLink": "https://news.qq.com/rain/a/20261119A07M7J00",
-        "color": "blue",
+        "title": "《影之刃零》获 TGA 2026 五项提名",
+        "titleLink": "https://news.qq.com/rain/a/20261122A0AH9W00",
+        "color": "orange",
         "source": "腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20261119A07M7J00",
-        "body": "恺英网络旗下盛和蓝月工作室研发、贪玩发行的开放世界 MMO，<strong>11 月 19 日开启全平台公测</strong>，由阅文《斗罗大陆》小说与腾讯视频动画双 IP 授权（动画播放量超 400 亿）。主打无缝大世界御空飞行、近万魂兽野区与 2v2 斗魂场 / 7v7 魂师大赛 / 40 人大逃杀等海陆空全域战斗，猎魂战利品可自由上架拍卖行。",
+        "sourceLink": "https://news.qq.com/rain/a/20261122A0AH9W00",
+        "body": "TGA 2026 年度提名名单公布，国产动作游戏《影之刃零》入围<strong>年度最佳游戏、最佳游戏指导、最佳艺术指导</strong>等 5 项提名，是今年国产游戏取得的最好成绩；最佳移动游戏奖项另有 4 款中国厂商相关作品入围，苹果 App Store 年度奖项亦有 3 款中国游戏跻身年度 iPad 游戏提名。",
         "isNew": true,
-        "newUntil": "2026-11-23"
+        "newUntil": "2026-11-27"
+      },
+      {
+        "title": "本周 28 款新游开测，腾讯《饥困荒野》11/24 上线",
+        "titleLink": "https://www.gameres.com/901203664.html",
+        "color": "blue",
+        "source": "GameRes 游资网",
+        "sourceLink": "https://www.gameres.com/901203664.html",
+        "body": "GameRes 统计 11 月 23 日–29 日共 <strong>28 款</strong>游戏开测：腾讯发行、Klei 正版授权的沙盒生存手游《饥困荒野》<strong>11 月 24 日</strong>上线；蛮啾自研幻想大世界 RPG《蓝色星原：旅谣》<strong>11 月 26 日</strong>正式上线；米哈游《崩坏：因缘精灵》11/25 限量删档测试，腾讯《战术小队：破晓攻势》11/27 限量删档测试。",
+        "isNew": true,
+        "newUntil": "2026-11-27"
+      },
+      {
+        "title": "《执笔山河志》11/22 公测，主打不卖战力",
+        "titleLink": "https://news.17173.com/content/11222026/145648143.shtml",
+        "color": "purple",
+        "source": "17173",
+        "sourceLink": "https://news.17173.com/content/11222026/145648143.shtml",
+        "body": "《执笔风云录》原班团队开发的回合制宠物 MMO《执笔山河志》<strong>11 月 22 日 9:00</strong> 开启公测，iOS / 安卓 / PC / Mac 同步。三国 ×《山海经》异兽题材，主打不卖战力、不抽宠，六兵器自由进阶，首批开放 11 种可捕捉异兽与近 90 种毛色变种。",
+        "isNew": true,
+        "newUntil": "2026-11-26"
       }
     ],
     "taptap": {
-      "period": "TapTap预约榜热度（11.16-11.22）",
+      "period": "TapTap预约榜热度（11.23-11.29）",
       "androidLabel": "安卓预约热度最高",
       "iosLabel": "iOS预约热度最高",
       "androidTop": "异人之下",
-      "androidLink": "https://www.taptap.cn/moment/870317535201857364",
+      "androidLink": "https://news.17173.com/content/11232026/103344352.shtml",
       "iosTop": "山海奇旅",
       "iosLink": "https://www.ali213.net/news/html/2026-11/1055293.html",
-      "androidTopNote": "国漫改编格斗新作官宣全网预约突破 4000 万、定档 12 月上线，终局测试进行中（TapTap 官方社区帖，11 月中旬；二手源，周更）",
+      "androidTopNote": "腾讯魔方 11 月 23 日官宣定档 12 月 17 日全平台公测，全网预约突破 4000 万（17173 11/23 报道；二手源，周更）",
       "iosTopNote": "网易多人生活模拟新游预约量突破 300 万、TapTap 评分 9.2，「兜风测试」定档 12/18（游侠网 11/17 报道；二手源，周更）"
     },
     "freeRanking": [
@@ -383,7 +383,7 @@
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3218350.jpg",
         "rating": "92%",
         "meta": "11/20上线",
-        "reviews": "730",
+        "reviews": "814",
         "link": "https://store.steampowered.com/app/3218350",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -403,9 +403,9 @@
         "appId": 4262460,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4262460.jpg",
-        "rating": "52%",
+        "rating": "49%",
         "meta": "",
-        "reviews": "56269",
+        "reviews": "87060",
         "link": "https://store.steampowered.com/app/4262460",
         "reviewSummary": "褒贬不一",
         "tags": [],
@@ -425,11 +425,11 @@
         "appId": 4115450,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4115450.jpg",
-        "rating": "94%",
+        "rating": "95%",
         "meta": "",
-        "reviews": "199064",
+        "reviews": "208944",
         "link": "https://store.steampowered.com/app/4115450",
-        "reviewSummary": "特别好评",
+        "reviewSummary": "好评如潮",
         "tags": [],
         "nameZh": "影之刃零",
         "nameEn": "Phantom Blade Zero",
@@ -448,9 +448,9 @@
         "appId": 3393110,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110.jpg",
-        "rating": "54%",
+        "rating": "53%",
         "meta": "",
-        "reviews": "49009",
+        "reviews": "50657",
         "link": "https://store.steampowered.com/app/3393110",
         "reviewSummary": "褒贬不一",
         "tags": [],
@@ -471,9 +471,9 @@
         "appId": 1867240,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1867240.jpg",
-        "rating": "72%",
+        "rating": "70%",
         "meta": "",
-        "reviews": "206741",
+        "reviews": "209942",
         "link": "https://store.steampowered.com/app/1867240",
         "reviewSummary": "多半好评",
         "tags": [],
@@ -493,9 +493,9 @@
         "appId": 4348910,
         "manualCover": "",
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4348910.jpg",
-        "rating": "81%",
+        "rating": "82%",
         "meta": "",
-        "reviews": "32793",
+        "reviews": "34687",
         "link": "https://store.steampowered.com/app/4348910",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -518,7 +518,7 @@
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1203620.jpg",
         "rating": "86%",
         "meta": "",
-        "reviews": "114545",
+        "reviews": "115000",
         "link": "https://store.steampowered.com/app/1203620",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -541,7 +541,7 @@
         "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4530370.jpg",
         "rating": "82%",
         "meta": "",
-        "reviews": "3114",
+        "reviews": "3877",
         "link": "https://store.steampowered.com/app/4530370",
         "reviewSummary": "特别好评",
         "tags": [],
@@ -878,7 +878,7 @@
         "coverReason": "cdn_cache_hit"
       }
     ],
-    "insight": "本周（11/16–11/22）Steam 新品热度由免费撤离射击《ROB RUN》接棒：38.9 万同时在线、54.9 万峰值仅次于 CS2，但 <strong>52% 褒贬不一</strong>（5.6 万条评测），「爆量不爆口碑」特征明显；独立新品《深空当铺：可能是偷的》以 <strong>81% 特别好评</strong>（3.2 万条评测）稳住 11.5 万日峰值，并连续两周占据愿望单活跃第 1，是口碑驱动长线运营的样本；国产动作《影之刃零》94% 特别好评、19.9 万条评测，热度与口碑双稳。整体趋势：新品「首周爆量—口碑分化」常态化，老牌口碑产品（雾锁王国 86%、足球经理 27 82%）热度回落但基本盘稳固。",
+    "insight": "本周（11/23–11/29）Steam 在线榜头部首次换位：<strong>Dota 2 以 43.7 万同时在线反超 CS2（42.6 万）</strong>，是近两个月 CS2 第一次让出榜首；免费新品《ROB RUN》从上周 38.9 万回落至 26.7 万（-31%），确认首周爆量进入自然衰减，好评率同步滑到 <strong>49% 褒贬不一</strong>（8.7 万条评测），口碑成为其长线最大变数。另一边是「老游戏回潮」：《赛博朋克 2077》以 6.4 万同时在线重回 TOP11、24h 峰值 10.1 万。独游侧口碑与热度继续分化——《影之刃零》<strong>95% 好评如潮</strong>（20.9 万条评测）叠加 TGA 五项提名，是本周口碑最稳的国产作品；《深空当铺：可能是偷的》82% 特别好评（3.5 万条评测）守 3.2 万同时在线，属小体量高口碑样本。整体判断：本周没有新的爆量独游接棒，榜单重回长线产品与折扣驱动。",
     "mostPlayed": {
       "asOf": "2026-11-23",
       "updatedAt": "10:46",
@@ -1051,7 +1051,13 @@
           "nameZh": "",
           "current": 61279,
           "peak24h": 236642,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 13,
@@ -1088,7 +1094,13 @@
           "nameZh": "",
           "current": 56231,
           "peak24h": 80582,
-          "link": "https://store.steampowered.com/app/230410/"
+          "link": "https://store.steampowered.com/app/230410/",
+          "coverStatus": "verified",
+          "coverKey": "230410_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/230410_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -1097,15 +1109,21 @@
           "nameZh": "",
           "current": 55741,
           "peak24h": 117152,
-          "link": "https://store.steampowered.com/app/431960/"
+          "link": "https://store.steampowered.com/app/431960/",
+          "coverStatus": "verified",
+          "coverKey": "431960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         }
       ]
     },
     "newGamesAsOf": "2026-11-21",
     "topSellersAsOf": "2026-11-23",
     "mostPlayedAsOf": "2026-11-23",
-    "insightAsOf": "2026-11-18",
-    "reviewAsOf": "2026-11-21"
+    "insightAsOf": "2026-11-23",
+    "reviewAsOf": "2026-11-23"
   },
   "miniapp": {
     "ranking": [
@@ -1452,6 +1470,22 @@
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
     {
+      "date": "11月24日上线",
+      "name": "饥困荒野",
+      "badge": "腾讯 · Klei 授权",
+      "desc": "腾讯游戏发行、获 Klei 正版授权的沙盒生存手游，11 月 24 日上线。以经典 PC 游戏《饥荒：联机版》为基础开发，保留昼夜循环、饥饿与理智机制，支持多人联机共同采集、建造与对抗怪物。",
+      "link": "https://www.gameres.com/901203664.html",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-11-28",
+      "coverStatus": "verified",
+      "coverKey": "name_饥困荒野",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_饥困荒野.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_饥困荒野.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/9e2c5bd7f1d3bf5cdcc9f1ee64484bee.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "11月19日公测",
       "name": "斗罗大陆：诛邪传说",
       "badge": "恺英网络 · 贪玩",
@@ -1468,22 +1502,6 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "11月16日公测",
-      "name": "星球：重启",
-      "badge": "朝夕光年",
-      "desc": "字节朝夕光年 SOC 开放世界生存建造手游，11 月 16 日国服公测，预约量级千万级；弱化「武器全靠抽」顽疾，主打大世界探索与自由建造，年末 SOC 品类与腾讯、网易正面对垒。",
-      "link": "https://news.17173.com/content/11162023/120120135.shtml",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-12-08",
-      "coverStatus": "verified",
-      "coverKey": "name_星球_重启",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星球_重启.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星球_重启.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/2e9278bbfaf83f77fdbf2f204c13543f.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "date": "12月4日公测",
       "name": "星布谷地",
       "badge": "米哈游",
@@ -1497,6 +1515,22 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星布谷地.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星布谷地.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
+      "date": "11月16日公测",
+      "name": "星球：重启",
+      "badge": "朝夕光年",
+      "desc": "字节朝夕光年 SOC 开放世界生存建造手游，11 月 16 日国服公测，预约量级千万级；弱化「武器全靠抽」顽疾，主打大世界探索与自由建造，年末 SOC 品类与腾讯、网易正面对垒。",
+      "link": "https://news.17173.com/content/11162023/120120135.shtml",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-12-08",
+      "coverStatus": "verified",
+      "coverKey": "name_星球_重启",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星球_重启.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_星球_重启.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/2e9278bbfaf83f77fdbf2f204c13543f.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1530,26 +1564,20 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "11月6日上线",
-      "name": "琥珀末日",
-      "badge": "酸浆果工作室",
-      "badgeColor": "blue",
-      "meta": "酸浆果工作室 · 策略卡牌 · 时间循环",
-      "desc": "国产策略卡牌 RPG，主角困在时间循环中反复经历同一个秋天，以牌组构筑为核心并辅以支线小游戏。TapTap 标注 11 月 6 日上线，当前评分 7.9；Steam 端已开放免费试玩。",
-      "link": "https://taptap.cn/app/737629",
+      "date": "12月17日公测",
+      "name": "异人之下",
+      "badge": "腾讯魔方",
+      "desc": "腾讯魔方工作室群研发、改编自国漫《一人之下》的 3D 格斗竞技新游，11 月 23 日官宣 12 月 17 日全平台公测，移动端与 PC 端数据互通，全网预约突破 4000 万。对局以「普攻 / 平招 / 险招 / 防御」克制博弈为核心，PVP 不卖数值，PVE 线还原罗天大醮、全性攻山等原作名场面。",
+      "link": "https://news.17173.com/content/11232026/103344352.shtml",
       "image": "",
-      "tags": [
-        "国产",
-        "卡牌",
-        "Roguelike"
-      ],
-      "isNew": false,
+      "isNew": true,
       "coverStatus": "verified",
+      "coverKey": "name_异人之下",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
       "coverReason": "taptap-search",
-      "coverKey": "name_琥珀末日",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_琥珀末日.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_琥珀末日.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3aac3bffef67b96a8942d547ac9c210a.png/_tap_banner.jpg"
+      "newUntil": "2026-11-30"
     },
     {
       "name": "三国志:王道天下",
@@ -1594,19 +1622,26 @@
       "coverReason": "cdn_cache_hit"
     },
     {
-      "date": "11月5日终局测试",
-      "name": "异人之下",
-      "badge": "腾讯魔方",
-      "desc": "改编自国漫《一人之下》的 3D 格斗竞技新游，移动端与 PC 端互通，PVP 无属性平衡、全角色免费获取。本轮终局测试重做 PVE、下调连招门槛并新增段位保护，同时首曝 13 分钟剧情模式实机。",
-      "link": "https://news.17173.com/content/11052026/095104548.shtml",
+      "date": "11月6日上线",
+      "name": "琥珀末日",
+      "badge": "酸浆果工作室",
+      "badgeColor": "blue",
+      "meta": "酸浆果工作室 · 策略卡牌 · 时间循环",
+      "desc": "国产策略卡牌 RPG，主角困在时间循环中反复经历同一个秋天，以牌组构筑为核心并辅以支线小游戏。TapTap 标注 11 月 6 日上线，当前评分 7.9；Steam 端已开放免费试玩。",
+      "link": "https://taptap.cn/app/737629",
       "image": "",
+      "tags": [
+        "国产",
+        "卡牌",
+        "Roguelike"
+      ],
       "isNew": false,
       "coverStatus": "verified",
-      "coverKey": "name_异人之下",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_异人之下.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
-      "coverReason": "taptap-search"
+      "coverReason": "taptap-search",
+      "coverKey": "name_琥珀末日",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_琥珀末日.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/name_琥珀末日.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3aac3bffef67b96a8942d547ac9c210a.png/_tap_banner.jpg"
     },
     {
       "date": "11月4日上线",
@@ -3604,72 +3639,76 @@
   ],
   "phenomenon": [
     {
-      "name": "ROB RUN",
-      "platform": "Steam",
+      "name": "影之刃零",
+      "platform": "PC / PS5",
       "event": "",
       "chips": [
         {
           "label": "同时在线",
-          "value": "38.9 万",
+          "value": "4.0 万",
+          "color": "green"
+        },
+        {
+          "label": "Steam 热销",
+          "value": "第 12",
+          "color": "orange"
+        },
+        {
+          "label": "好评率",
+          "value": "95% 好评如潮",
+          "color": "green"
+        }
+      ],
+      "why": "TGA 2026 拿下年度最佳游戏等 5 项提名，是今年国产游戏最好成绩；上线四周后仍保持 20.9 万条评测、95% 好评如潮，热度由首周话题转向口碑沉淀，属国产买断制动作游戏罕见的「长尾不衰」样本。",
+      "source": "SteamDB / TGA 2026 提名",
+      "tags": [
+        "国产",
+        "买断制",
+        "动作",
+        "TGA 提名"
+      ]
+    },
+    {
+      "name": "ROB RUN",
+      "platform": "PC",
+      "event": "",
+      "chips": [
+        {
+          "label": "同时在线",
+          "value": "26.7 万",
           "color": "green"
         },
         {
           "label": "在线榜排名",
-          "value": "第 2",
+          "value": "第 3",
           "color": "orange"
         },
         {
           "label": "好评率",
-          "value": "52% 褒贬不一",
+          "value": "49% 褒贬不一",
           "color": "red"
         }
       ],
-      "why": "免费撤离射击新品上线即冲到 Steam 在线榜第 2、24 小时峰值 54.9 万创自身历史最高；但 5.6 万条评测仅 52% 好评，体量与口碑严重倒挂，「爆量不爆口碑」成为 11 月新品常态。",
-      "source": "SteamDB（11/18 快照）",
+      "why": "上线首周峰值 54.97 万冲到在线榜第 2，本周回落 31% 至 26.7 万；免费 + 内购模式带来极高进场速度，但 49% 的好评率说明留存与付费设计尚未过关，是「爆量不爆口碑」的典型观察对象。",
+      "source": "SteamDB 在线榜 / 评测页",
       "tags": [
-        "免费撤离射击",
-        "新品爆量"
-      ]
-    },
-    {
-      "name": "深空当铺：可能是偷的（Probably Stolen）",
-      "platform": "Steam",
-      "event": "",
-      "chips": [
-        {
-          "label": "24h 峰值在线",
-          "value": "11.5 万",
-          "color": "green"
-        },
-        {
-          "label": "愿望单活跃",
-          "value": "第 1",
-          "color": "orange"
-        },
-        {
-          "label": "好评率",
-          "value": "81% 特别好评",
-          "color": "green"
-        }
-      ],
-      "why": "赛博朋克商店经营小品 10/28 上线两周，仍居愿望单活跃第 1、24 小时峰值 11.5 万在线，3.2 万条评测维持 81% 特别好评——小团队（Questing Goose Studio）口碑驱动长线运营的样本。",
-      "source": "SteamDB（11/18 快照）",
-      "tags": [
-        "独立游戏",
-        "模拟经营"
+        "免费",
+        "撤离射击",
+        "爆量",
+        "口碑分化"
       ]
     }
   ],
   "iosInsight": "本周 iOS 畅销榜由《王者荣耀》继续压舱（#1），《三角洲行动》升至 #2、《和平精英》回落 #3，TOP3 全部为长线运营产品；免费榜《我在古代有座城》登顶，《王者荣耀》《和平精英》双榜常驻。趋势判断：头部固化延续，新品破局基本只能靠大 DAU 品类（SOC / 塔防 / 撤离射击）切入，免费榜仍是新品导流主战场，休闲与模拟经营品类占位明显。",
   "miniappInsight": "本周小游戏畅销榜头部固化、腰部剧烈换位：《向僵尸开炮》持续霸榜，但第 2–4 名集体易主——《我的花园世界》单日 <strong>↑8</strong> 至第 2、《原始征途》<strong>↑24</strong> 冲至第 4；同期 58 款下跌创 10 月新高，买量素材量与在投游戏数双双环比下滑，存量竞争特征明显。",
-  "newGamesInsight": "本周新品关键词是「12 月大考」：《星球：重启》（11/16 公测）率先开跑，《三国志：王道天下》定档 12/24，《异人之下》定档 12 月，《山海奇旅》兜风测试 12/18——年末 SLG / 格斗 / 生活模拟多线并发。Steam 侧《足球经理 27》（82% 特别好评）与《ROB RUN》（52% 褒贬不一）口碑两极，「首周爆量—口碑分化」仍是主旋律。",
+  "newGamesInsight": "本周新品主线是「年末双档期」：11/24 腾讯《饥困荒野》（Klei 正版授权沙盒生存）、11/26 蛮啾《蓝色星原：旅谣》接连上线，12 月则由《星布谷地》（12/4）、《伍六七：暗影交锋》（12/9）、《异人之下》（12/17，预约破 4000 万）接力，年末大厂定档密度明显抬升。Steam 侧本周无合格爆量新品接棒，热度仍由《ROB RUN》（49% 褒贬不一）与《影之刃零》（95% 好评如潮、TGA 五项提名）领跑，「首发爆量—口碑检验」的窗口依旧在新品上线首两周。",
   "weeklyInsight": {
     "title": "本周行业洞察",
     "sections": [
       {
         "title": "独游观察",
         "color": "cyan",
-        "body": "本周（11/16–11/22）Steam 新品热度由免费撤离射击《ROB RUN》接棒：38.9 万同时在线、54.9 万峰值仅次于 CS2，但 <strong>52% 褒贬不一</strong>（5.6 万条评测），「爆量不爆口碑」特征明显；独立新品《深空当铺：可能是偷的》以 <strong>81% 特别好评</strong>（3.2 万条评测）稳住 11.5 万日峰值，并连续两周占据愿望单活跃第 1，是口碑驱动长线运营的样本；国产动作《影之刃零》94% 特别好评、19.9 万条评测，热度与口碑双稳。整体趋势：新品「首周爆量—口碑分化」常态化，老牌口碑产品（雾锁王国 86%、足球经理 27 82%）热度回落但基本盘稳固。"
+        "body": "本周（11/23–11/29）Steam 在线榜头部首次换位：<strong>Dota 2 以 43.7 万同时在线反超 CS2（42.6 万）</strong>，是近两个月 CS2 第一次让出榜首；免费新品《ROB RUN》从上周 38.9 万回落至 26.7 万（-31%），确认首周爆量进入自然衰减，好评率同步滑到 <strong>49% 褒贬不一</strong>（8.7 万条评测），口碑成为其长线最大变数。另一边是「老游戏回潮」：《赛博朋克 2077》以 6.4 万同时在线重回 TOP11、24h 峰值 10.1 万。独游侧口碑与热度继续分化——《影之刃零》<strong>95% 好评如潮</strong>（20.9 万条评测）叠加 TGA 五项提名，是本周口碑最稳的国产作品；《深空当铺：可能是偷的》82% 特别好评（3.5 万条评测）守 3.2 万同时在线，属小体量高口碑样本。整体判断：本周没有新的爆量独游接棒，榜单重回长线产品与折扣驱动。"
       },
       {
         "title": "投资趋势洞察",
@@ -3681,7 +3720,8 @@
         "color": "purple",
         "body": "<strong style=\"color:var(--cyan)\">末日生存/丧尸</strong>品类在Steam国区持续走强，继《疯狂水世界》后《生存日志》再度验证；<strong style=\"color:var(--green)\">挂机+混合变现</strong>在小游戏端蚕食传统SLG份额；<strong style=\"color:var(--accent)\">IP改编手游</strong>首发优势明显但长线留存待验证；<strong style=\"color:var(--yellow)\">UE5重度叙事</strong>（凡应）赛道已有产品进入测试期，PC/主机/移动多端发行成为标配。整体趋势：资本向头部集中，品类向轻量化收敛，中重度品类靠IP+制作人背书降低风险。"
       }
-    ]
+    ],
+    "asOf": "2026-11-23"
   },
   "insightMeta": {
     "_note": "洞察字段维护元数据（前端不渲染）。asOf=内容生成日（重写才变）；lastChecked=最近一次到期评估日；status 由巡检刷新。",
@@ -3689,28 +3729,28 @@
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "lastChecked": "2026-11-23",
       "status": "fresh"
     },
     "miniappInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
       "asOf": "2026-10-26",
-      "lastChecked": "2026-11-18",
+      "lastChecked": "2026-11-23",
       "status": "stale"
     },
     "newGamesInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（周更日=周一）",
-      "asOf": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "asOf": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "status": "fresh"
     },
     "weeklyInsight": {
       "cadence": "weekly",
       "cadenceLabel": "每周",
-      "asOf": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "asOf": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "status": "fresh"
     },
     "dailyBrief": {
@@ -3723,15 +3763,15 @@
     "phenomenon": {
       "cadence": "weekly",
       "cadenceLabel": "每周（恒2条·周更日=周一·区间周一–周日）",
-      "asOf": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "asOf": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "status": "fresh"
     },
     "steam.insight": {
       "cadence": "weekly",
       "cadenceLabel": "每周（区间周一–周日）",
-      "asOf": "2026-11-18",
-      "lastChecked": "2026-11-18",
+      "asOf": "2026-11-23",
+      "lastChecked": "2026-11-23",
       "status": "fresh"
     },
     "hr": {
