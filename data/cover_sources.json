@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T02:49:34.552Z",
+  "updatedAt": "2026-11-24T02:44:08.784Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1613,6 +1613,19 @@
       "rel": "capsule_231x87.jpg",
       "name": "Ghost of Tsushima DIRECTOR'S CUT",
       "resolvedAt": "2026-11-22T02:46:35.639Z"
+    },
+    "steam:5052450:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5052450/472398b6c8c6e425f8fad99948c2b069dfd41fc2/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5052450/472398b6c8c6e425f8fad99948c2b069dfd41fc2/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/472398b6c8c6e425f8fad99948c2b069dfd41fc2/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "472398b6c8c6e425f8fad99948c2b069dfd41fc2",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "472398b6c8c6e425f8fad99948c2b069dfd41fc2/capsule_231x87_schinese.jpg",
+      "name": "Desktop Wallet Heroes",
+      "resolvedAt": "2026-11-24T02:44:07.115Z"
     }
   },
   "taptap": {
