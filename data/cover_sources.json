@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T02:44:08.784Z",
+  "updatedAt": "2026-11-25T02:37:00.283Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1626,6 +1626,45 @@
       "rel": "472398b6c8c6e425f8fad99948c2b069dfd41fc2/capsule_231x87_schinese.jpg",
       "name": "Desktop Wallet Heroes",
       "resolvedAt": "2026-11-24T02:44:07.115Z"
+    },
+    "steam:1174180:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87.jpg",
+      "name": "Red Dead Redemption 2",
+      "resolvedAt": "2026-11-25T02:36:50.660Z"
+    },
+    "steam:3768760:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/863d9b9782a4e0715f5435db5692eb3620ceaeec/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/3768760/863d9b9782a4e0715f5435db5692eb3620ceaeec/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/863d9b9782a4e0715f5435db5692eb3620ceaeec/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "863d9b9782a4e0715f5435db5692eb3620ceaeec",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "863d9b9782a4e0715f5435db5692eb3620ceaeec/capsule_231x87_schinese.jpg",
+      "name": "007 First Light",
+      "resolvedAt": "2026-11-25T02:36:53.291Z"
+    },
+    "steam:2272360:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2272360/58655009cee15d3af27c68a064a7a351853fea0b/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2272360/58655009cee15d3af27c68a064a7a351853fea0b/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2272360/58655009cee15d3af27c68a064a7a351853fea0b/capsule_231x87.jpg"
+      ],
+      "hash": "58655009cee15d3af27c68a064a7a351853fea0b",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "58655009cee15d3af27c68a064a7a351853fea0b/capsule_231x87.jpg",
+      "name": "Warhammer 40,000: Dawn of War IV",
+      "resolvedAt": "2026-11-25T02:36:54.736Z"
     }
   },
   "taptap": {
@@ -1828,6 +1867,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-23T02:49:21.026Z"
+    },
+    "幻梦无年": {
+      "url": "https://img-tc.tapimg.com/market/images/85a2ac98d2a6874f32adc37d1cb9285d.jpg/_tap_banner.jpg",
+      "appid": 755187,
+      "matchedName": "幻梦无年",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-25T02:36:43.643Z"
     }
   },
   "failures": {}
