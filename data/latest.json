@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-25",
-    "lastUpdated": "2026-11-25T10:34:00+08:00",
+    "lastUpdated": "2026-11-25 10:36:39+08:00",
     "footerDate": "数据截至2026年11月25日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,6 +183,26 @@
     ],
     "highlights": [
       {
+        "title": "《饥困荒野》11/24 上线，次日登顶 iOS 免费榜",
+        "titleLink": "https://www.gameres.com/901203664.html",
+        "color": "blue",
+        "source": "GameRes 游资网",
+        "sourceLink": "https://www.gameres.com/901203664.html",
+        "body": "腾讯发行、Klei 正版授权的沙盒生存手游《饥困荒野》<strong>11 月 24 日</strong>上线，11 月 25 日已冲上 iOS 免费榜<strong>第 1</strong>。本周（11/23–11/29）共 <strong>28 款</strong>新游开测：蛮啾《蓝色星原：旅谣》11/26 正式上线、米哈游《崩坏：因缘精灵》11/25 限量删档测试、腾讯《战术小队：破晓攻势》11/27 限量删档测试。",
+        "isNew": true,
+        "newUntil": "2026-11-28"
+      },
+      {
+        "title": "《幻梦无年》11/24 上线：六年恐怖 IP 转硬核拼刀",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7856b05b52b69952",
+        "color": "blue",
+        "source": "腾讯新闻",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7856b05b52b69952",
+        "body": "成都嘉谊互娱《无尽噩梦》系列第七作《幻梦无年》<strong>11 月 24 日</strong>上线，全网预约超 <strong>50 万</strong>。本作从系列的中式恐怖解谜转向「国风武侠 + 硬核拼刀」第三人称动作 RPG，战斗参考《只狼》的势场对峙与破势一击，移除连招与体力条，制作人明确「只讨好真正爱好动作游戏的这部分人」。",
+        "isNew": true,
+        "newUntil": "2026-11-28"
+      },
+      {
         "title": "《异人之下》定档 12 月 17 日公测",
         "titleLink": "https://news.17173.com/content/11232026/103344352.shtml",
         "color": "blue",
@@ -201,26 +221,6 @@
         "body": "TGA 2026 年度提名名单公布，国产动作游戏《影之刃零》入围<strong>年度最佳游戏、最佳游戏指导、最佳艺术指导</strong>等 5 项提名，是今年国产游戏取得的最好成绩；最佳移动游戏奖项另有 4 款中国厂商相关作品入围，苹果 App Store 年度奖项亦有 3 款中国游戏跻身年度 iPad 游戏提名。",
         "isNew": true,
         "newUntil": "2026-11-27"
-      },
-      {
-        "title": "本周 28 款新游开测，腾讯《饥困荒野》11/24 上线",
-        "titleLink": "https://www.gameres.com/901203664.html",
-        "color": "blue",
-        "source": "GameRes 游资网",
-        "sourceLink": "https://www.gameres.com/901203664.html",
-        "body": "GameRes 统计 11 月 23 日–29 日共 <strong>28 款</strong>游戏开测：腾讯发行、Klei 正版授权的沙盒生存手游《饥困荒野》<strong>11 月 24 日</strong>上线；蛮啾自研幻想大世界 RPG《蓝色星原：旅谣》<strong>11 月 26 日</strong>正式上线；米哈游《崩坏：因缘精灵》11/25 限量删档测试，腾讯《战术小队：破晓攻势》11/27 限量删档测试。",
-        "isNew": true,
-        "newUntil": "2026-11-27"
-      },
-      {
-        "title": "《执笔山河志》11/22 公测，主打不卖战力",
-        "titleLink": "https://news.17173.com/content/11222026/145648143.shtml",
-        "color": "purple",
-        "source": "17173",
-        "sourceLink": "https://news.17173.com/content/11222026/145648143.shtml",
-        "body": "《执笔风云录》原班团队开发的回合制宠物 MMO《执笔山河志》<strong>11 月 22 日 9:00</strong> 开启公测，iOS / 安卓 / PC / Mac 同步。三国 ×《山海经》异兽题材，主打不卖战力、不抽宠，六兵器自由进阶，首批开放 11 种可捕捉异兽与近 90 种毛色变种。",
-        "isNew": true,
-        "newUntil": "2026-11-26"
       }
     ],
     "taptap": {
@@ -589,7 +589,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1174180",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1174180_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1174180_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1174180_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1174180_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/capsule_231x87.jpg",
+        "coverReason": "steam-legacy-path"
       },
       {
         "rank": 3,
@@ -703,7 +709,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/3768760",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3768760_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "3768760_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3768760_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3768760_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3768760/863d9b9782a4e0715f5435db5692eb3620ceaeec/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 9,
@@ -717,7 +729,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1086940",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1086940_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1086940_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1086940_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1086940_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/3dd81008e9c385caf68152450c22353f6a8abec9/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 10,
@@ -751,7 +769,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2272360",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2272360_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2272360_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2272360_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2272360_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2272360/58655009cee15d3af27c68a064a7a351853fea0b/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 12,
@@ -1012,7 +1036,13 @@
           "nameZh": "",
           "current": 57282,
           "peak24h": 215850,
-          "link": "https://store.steampowered.com/app/1172470/"
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 12,
@@ -1078,7 +1108,13 @@
           "nameZh": "",
           "current": 53229,
           "peak24h": 74585,
-          "link": "https://store.steampowered.com/app/381210/"
+          "link": "https://store.steampowered.com/app/381210/",
+          "coverStatus": "verified",
+          "coverKey": "381210_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381210/capsule_231x87.jpg",
+          "coverReason": "steam-legacy-path"
         }
       ]
     },
@@ -1296,18 +1332,19 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "11月19日公测",
-      "name": "斗罗大陆：诛邪传说",
-      "badge": "恺英网络 · 贪玩",
-      "desc": "恺英网络盛和蓝月工作室研发、贪玩发行的开放世界 MMO，11 月 19 日全平台公测。阅文小说 + 腾讯视频动画双 IP 授权，主打无缝大地图御空飞行与 2v2/7v7/40 人大逃杀全域战斗，是恺英「传奇+X」战略的关键落地项目。",
-      "link": "https://news.qq.com/rain/a/20261119A07M7J00",
+      "date": "11月24日上线",
+      "name": "幻梦无年",
+      "badge": "嘉谊互娱 · 无尽噩梦 IP",
+      "desc": "《无尽噩梦》系列第七作，从恐怖解谜转向国风硬核动作 RPG。玩家扮演「捕梦使」在唐宋幻梦世界拔刀迎敌，战斗以《只狼》式势场对峙、破势一击为核心，移除连招与体力条。11 月 24 日上线，全网预约超 50 万。",
+      "link": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7856b05b52b69952",
       "image": "",
-      "isNew": false,
+      "isNew": true,
+      "newUntil": "2026-11-29",
       "coverStatus": "verified",
-      "coverKey": "name_斗罗大陆_诛邪传说",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_斗罗大陆_诛邪传说.jpg",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_斗罗大陆_诛邪传说.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6eba97886c3aa5238eefbff6232475a0.jpg/_tap_banner.jpg",
+      "coverKey": "name_幻梦无年",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_幻梦无年.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_幻梦无年.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/85a2ac98d2a6874f32adc37d1cb9285d.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1324,6 +1361,21 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星布谷地.jpg",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_星布谷地.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
+      "date": "11月19日公测",
+      "name": "斗罗大陆：诛邪传说",
+      "badge": "恺英网络 · 贪玩",
+      "desc": "恺英网络盛和蓝月工作室研发、贪玩发行的开放世界 MMO，11 月 19 日全平台公测。阅文小说 + 腾讯视频动画双 IP 授权，主打无缝大地图御空飞行与 2v2/7v7/40 人大逃杀全域战斗，是恺英「传奇+X」战略的关键落地项目。",
+      "link": "https://news.qq.com/rain/a/20261119A07M7J00",
+      "image": "",
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverKey": "name_斗罗大陆_诛邪传说",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_斗罗大陆_诛邪传说.jpg",
+      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_斗罗大陆_诛邪传说.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6eba97886c3aa5238eefbff6232475a0.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1389,33 +1441,6 @@
       "newUntil": "2026-11-30"
     },
     {
-      "name": "三国志:王道天下",
-      "link": "https://news.qq.com/rain/a/20261008A047QG00",
-      "badge": "B站",
-      "badgeColor": "blue",
-      "meta": "哔哩哔哩 · 三国SLG · 定档",
-      "desc": "哔哩哔哩在研三国题材 SLG，中金传媒 pipeline 披露 iOS 端预计 2026 年 12 月 24 日上线，属 4Q26 大厂新品密集档期中的一员。",
-      "date": "2026年12月24日 iOS上线",
-      "tags": [
-        "SLG",
-        "三国",
-        "B站"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "none",
-      "imageStatus": "placeholder",
-      "gameName": "三国志:王道天下",
-      "manualCover": "",
-      "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_三国志_王道天下.jpg",
-      "archived": false,
-      "coverStatus": "verified",
-      "coverKey": "name_三国志_王道天下",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_三国志_王道天下.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/8c0cb2fedcb16af9639dcc7265cf2c9f.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "date": "12月24日公测",
       "name": "三国志：王道天下",
       "badge": "哔哩哔哩游戏",
@@ -1427,7 +1452,7 @@
       "coverKey": "name_三国志_王道天下",
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_三国志_王道天下.jpg",
       "finalCoverUrl": "https://cdn.jsdelivr.net/gh/clock0range/game-industry-data@main/img_cache/steam/name_三国志_王道天下.jpg",
-      "coverSourceUrl": "",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/8c0cb2fedcb16af9639dcc7265cf2c9f.jpg/_tap_banner.jpg",
       "coverReason": "cdn_cache_hit"
     },
     {
@@ -1466,8 +1491,7 @@
         "射击",
         "多人"
       ],
-      "isNew": true,
-      "newUntil": "2026-11-24",
+      "isNew": false,
       "coverStatus": "verified",
       "coverKey": "name_ROB_RUN",
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_ROB_RUN.jpg",
