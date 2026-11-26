@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-26",
-    "lastUpdated": "2026-11-26T10:33:00+08:00",
+    "lastUpdated": "2026-11-26 10:35:37+08:00",
     "footerDate": "数据截至2026年11月26日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -183,22 +183,22 @@
     ],
     "highlights": [
       {
-        "title": "《饥困荒野》11/24 上线，次日登顶 iOS 免费榜",
-        "titleLink": "https://www.gameres.com/901203664.html",
+        "title": "《蓝色星原：旅谣》11/26 公测，预约破 3000 万",
+        "titleLink": "https://news.qq.com/rain/a/20261126A0641R00",
         "color": "blue",
-        "source": "GameRes 游资网",
-        "sourceLink": "https://www.gameres.com/901203664.html",
-        "body": "腾讯发行、Klei 正版授权的沙盒生存手游《饥困荒野》<strong>11 月 24 日</strong>上线，11 月 25 日已冲上 iOS 免费榜<strong>第 1</strong>。本周（11/23–11/29）共 <strong>28 款</strong>新游开测：蛮啾《蓝色星原：旅谣》11/26 正式上线、米哈游《崩坏：因缘精灵》11/25 限量删档测试、腾讯《战术小队：破晓攻势》11/27 限量删档测试。",
+        "source": "游戏陀螺",
+        "sourceLink": "https://news.qq.com/rain/a/20261126A0641R00",
+        "body": "蛮啾首款 3D 大世界二游今日正式公测，上线前全网预约达 <strong>3000 万</strong>，B 站评价稳定在 <strong>9.2</strong>。产品把「角色 × 奇波 × 家园」串成一套闭环：200 余种奇波既可捉来战斗、跑图、解谜，也能派驻家园采集种田锻造，反哺角色养成；三测收官到公测仅约 50 天完成 70 多项优化，商业化保留「不歪池」并前置 UP 概率。",
         "isNew": true,
         "newUntil": "2026-11-28"
       },
       {
-        "title": "《幻梦无年》11/24 上线：六年恐怖 IP 转硬核拼刀",
-        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7856b05b52b69952",
-        "color": "blue",
-        "source": "腾讯新闻",
-        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7856b05b52b69952",
-        "body": "成都嘉谊互娱《无尽噩梦》系列第七作《幻梦无年》<strong>11 月 24 日</strong>上线，全网预约超 <strong>50 万</strong>。本作从系列的中式恐怖解谜转向「国风武侠 + 硬核拼刀」第三人称动作 RPG，战斗参考《只狼》的势场对峙与破势一击，移除连招与体力条，制作人明确「只讨好真正爱好动作游戏的这部分人」。",
+        "title": "《崩坏：因缘精灵》开付费测试，预约破千万",
+        "titleLink": "https://news.qq.com/rain/a/20261125A0F54G00",
+        "color": "purple",
+        "source": "南方都市报",
+        "sourceLink": "https://news.qq.com/rain/a/20261125A0F54G00",
+        "body": "米哈游「崩坏」IP 15 周年旗舰新作 11 月 25 日开启删档付费测试，覆盖 PC / 移动端 / 云游戏，全平台预约<strong>突破千万</strong>，计划 <strong>2027 年春季公测</strong>。玩法为捉宠收集 + PVE 自走棋 + CRPG 多分支叙事，本次新增异步 PVP「因缘斗技场」；首个位面「伊亚镇」以外滩、张园、豫园为原型。",
         "isNew": true,
         "newUntil": "2026-11-28"
       },
@@ -589,7 +589,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/381210",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "381210_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/381210_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 3,
@@ -783,7 +789,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1449850",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1449850_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1449850_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1449850_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1449850_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/cc22c3ceaa31b5fc073dd32d237acc65a9efde6d/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 13,
@@ -817,7 +829,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/1222140",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1222140_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "1222140_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1222140_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1222140_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-legacy-path"
       },
       {
         "rank": 15,
@@ -831,7 +849,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2001120",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2001120_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2001120_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2001120_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2001120_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 16,
@@ -845,7 +869,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/5527800",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5527800_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "5527800_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5527800_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/5527800_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5527800/4035626db4bbe9b8fb5140e6815c9d08665e67c9/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       }
     ],
     "insight": "本周（11/23–11/29）Steam 在线榜头部首次换位：<strong>Dota 2 以 43.7 万同时在线反超 CS2（42.6 万）</strong>，是近两个月 CS2 第一次让出榜首；免费新品《ROB RUN》从上周 38.9 万回落至 26.7 万（-31%），确认首周爆量进入自然衰减，好评率同步滑到 <strong>49% 褒贬不一</strong>（8.7 万条评测），口碑成为其长线最大变数。另一边是「老游戏回潮」：《赛博朋克 2077》以 6.4 万同时在线重回 TOP11、24h 峰值 10.1 万。独游侧口碑与热度继续分化——《影之刃零》<strong>95% 好评如潮</strong>（20.9 万条评测）叠加 TGA 五项提名，是本周口碑最稳的国产作品；《深空当铺：可能是偷的》82% 特别好评（3.5 万条评测）守 3.2 万同时在线，属小体量高口碑样本。整体判断：本周没有新的爆量独游接棒，榜单重回长线产品与折扣驱动。",
@@ -1062,7 +1092,13 @@
           "nameZh": "",
           "current": 53833,
           "peak24h": 124385,
-          "link": "https://store.steampowered.com/app/3240220/"
+          "link": "https://store.steampowered.com/app/3240220/",
+          "coverStatus": "verified",
+          "coverKey": "3240220_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
@@ -1279,6 +1315,35 @@
   "segmentsInsight": "<strong style=\"color:var(--green)\">增长亮点：</strong>客户端(+27.92%)、出海(+30.22%)、小程序(+36.01%)三驾马车拉动整体两位数增长。<strong style=\"color:var(--red)\">下行信号：</strong>二次元(-8.97%)、主机(-7.06%，黑神话热度消退)、网页(-8.47%)。",
   "newGames": [
     {
+      "name": "蓝色星原：旅谣",
+      "link": "https://news.qq.com/rain/a/20261126A0641R00",
+      "badge": "蛮啾网络 · 大世界捉宠",
+      "badgeColor": "blue",
+      "meta": "蛮啾网络 · 多端开放世界 · 22 名可操控角色",
+      "desc": "蛮啾首款 3D 大世界 ARPG，11/26 正式公测。核心是「角色 + 奇波 + 家园」三系统耦合：200 余种奇波承担战斗、解谜、立体跑图与家园生产，产出反哺角色养成；首发 20 余位角色，商业化主打不歪池。上线前全网预约超 3000 万。",
+      "date": "11月26日公测",
+      "tags": [
+        "开放世界",
+        "二次元",
+        "多端",
+        "蛮啾网络"
+      ],
+      "steamAppId": "",
+      "imageUrl": null,
+      "imageSource": "taptap",
+      "imageStatus": "pending",
+      "gameName": "蓝色星原：旅谣",
+      "manualCover": "",
+      "isNew": true,
+      "coverStatus": "verified",
+      "coverKey": "name_蓝色星原_旅谣",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_蓝色星原_旅谣.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_蓝色星原_旅谣.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/5ee6618c78df1b0c7ce97f4c1da4e05b.png/_tap_banner.jpg",
+      "coverReason": "taptap-search",
+      "newUntil": "2026-11-29"
+    },
+    {
       "date": "11月24日上线",
       "name": "饥困荒野",
       "badge": "腾讯 · Klei 授权",
@@ -1327,6 +1392,21 @@
       "coverReason": "taptap-search"
     },
     {
+      "date": "12月9日公测",
+      "name": "伍六七：暗影交锋",
+      "badge": "啊吉游",
+      "desc": "刺客伍六七官方自研像素风横版冒险 RPG 手游，国漫 IP 改编，TapTap 9.2 分、全网预约破 250 万居预约榜第一，12 月 9 日开启不删档公测。",
+      "link": "https://www.taptap.cn/app/730107",
+      "isNew": true,
+      "newUntil": "2026-11-29",
+      "coverStatus": "verified",
+      "coverKey": "name_伍六七_暗影交锋",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_伍六七_暗影交锋.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_伍六七_暗影交锋.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/cb7e6b332391f2377215a358822576d4.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "11月19日公测",
       "name": "斗罗大陆：诛邪传说",
       "badge": "恺英网络 · 贪玩",
@@ -1342,18 +1422,18 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "12月9日公测",
-      "name": "伍六七：暗影交锋",
-      "badge": "啊吉游",
-      "desc": "刺客伍六七官方自研像素风横版冒险 RPG 手游，国漫 IP 改编，TapTap 9.2 分、全网预约破 250 万居预约榜第一，12 月 9 日开启不删档公测。",
-      "link": "https://www.taptap.cn/app/730107",
-      "isNew": true,
-      "newUntil": "2026-11-29",
+      "date": "12月14日公测",
+      "name": "白银之城",
+      "badge": "乐元素",
+      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
+      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
+      "image": "",
+      "isNew": false,
       "coverStatus": "verified",
-      "coverKey": "name_伍六七_暗影交锋",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_伍六七_暗影交锋.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_伍六七_暗影交锋.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/cb7e6b332391f2377215a358822576d4.jpg/_tap_banner.jpg",
+      "coverKey": "name_白银之城",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_白银之城.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_白银之城.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1370,21 +1450,6 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星球_重启.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星球_重启.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/2e9278bbfaf83f77fdbf2f204c13543f.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
-      "date": "12月14日公测",
-      "name": "白银之城",
-      "badge": "乐元素",
-      "desc": "乐元素自研 UE5 二次元大世界动作 RPG，以架空都市侦探叙事 + 连携战斗为核心，登陆移动端 / PC / PS5，全球预约已突破 1500 万。",
-      "link": "https://www.cet.com.cn/wzsy/cyzx/10642194.shtml",
-      "image": "",
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_白银之城",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_白银之城.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_白银之城.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1439,28 +1504,6 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_琥珀末日.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_琥珀末日.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3aac3bffef67b96a8942d547ac9c210a.png/_tap_banner.jpg"
-    },
-    {
-      "date": "11月4日上线",
-      "name": "ROB RUN",
-      "badge": "免费 · 撤离射击",
-      "badgeColor": "blue",
-      "meta": "免费 · 多人撤离射击 · 抢先体验",
-      "desc": "免费多人劫案/撤离射击，主打组队抢劫、基地建造与 PvP 对抗，11/4 在 Steam 开启抢先体验。上线五天同时在线峰值 15.1 万、当前约 11.3 万，但 1.5 万条评测好评率仅 49%，属典型的高热低口碑新品。",
-      "link": "https://store.steampowered.com/app/4262460/",
-      "image": "",
-      "tags": [
-        "免费",
-        "射击",
-        "多人"
-      ],
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_ROB_RUN",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_ROB_RUN.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_ROB_RUN.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
     },
     {
       "name": "无限大",
@@ -1652,6 +1695,46 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_代号咘咘.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/38151e612891ef64e1fbcc92ba4a8cc7.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
+    },
+    {
+      "date": "2027年春季公测",
+      "name": "崩坏：因缘精灵",
+      "badge": "米哈游 · 捉宠自走棋",
+      "desc": "「崩坏」IP 15 周年旗舰新作，11/25 开启删档付费测试（PC/移动/云），全平台预约破千万。捉宠收集 + PVE 自走棋 + CRPG 多分支叙事，新增异步 PVP「因缘斗技场」；首个地图「伊亚镇」以上海外滩、张园、豫园为原型。",
+      "link": "https://news.qq.com/rain/a/20261125A0F54G00",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-11-29",
+      "coverStatus": "verified",
+      "coverKey": "name_崩坏_因缘精灵",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_崩坏_因缘精灵.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_崩坏_因缘精灵.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/cdb66556e2d2851b50bea143ee202640.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
+      "date": "11月4日上线",
+      "name": "ROB RUN",
+      "badge": "免费 · 撤离射击",
+      "badgeColor": "blue",
+      "meta": "免费 · 多人撤离射击 · 抢先体验",
+      "desc": "免费多人劫案/撤离射击，主打组队抢劫、基地建造与 PvP 对抗，11/4 在 Steam 开启抢先体验。上线五天同时在线峰值 15.1 万、当前约 11.3 万，但 1.5 万条评测好评率仅 49%，属典型的高热低口碑新品。",
+      "link": "https://store.steampowered.com/app/4262460/",
+      "image": "",
+      "tags": [
+        "免费",
+        "射击",
+        "多人"
+      ],
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverKey": "name_ROB_RUN",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_ROB_RUN.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_ROB_RUN.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/0ce653d2f7de9ffedc2b9b3eb7c3efdc.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search",
+      "archived": true,
+      "archivedAt": "2026-11-26"
     },
     {
       "name": "影之刃零",
@@ -1864,36 +1947,6 @@
       "coverReason": "cdn_cache_hit",
       "archived": true,
       "archivedAt": "2026-10-14"
-    },
-    {
-      "name": "蓝色星原：旅谣",
-      "link": "https://so.html5.qq.com/page/real/search_news?docid=70000021_6236aac6b5f77252",
-      "badge": "蛮啾网络",
-      "badgeColor": "blue",
-      "meta": "蛮啾网络 · 多端开放世界 · 22 名可操控角色",
-      "desc": "《碧蓝航线》开发商蛮啾网络新作《蓝色星原：旅谣》9/17 开启「旅迹测试」，覆盖 Windows PC、鸿蒙、安卓、iOS 多端，测试版本上线 22 名可操控角色，主打开放世界探索与战斗。国产开放世界赛道竞争白热化，新作能否差异化取决于内容填充与战斗循环。",
-      "date": "9月17日开启旅迹测试",
-      "tags": [
-        "开放世界",
-        "二次元",
-        "多端",
-        "蛮啾网络"
-      ],
-      "steamAppId": "",
-      "imageUrl": null,
-      "imageSource": "taptap",
-      "imageStatus": "pending",
-      "gameName": "蓝色星原：旅谣",
-      "manualCover": "",
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_蓝色星原_旅谣",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_蓝色星原_旅谣.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_蓝色星原_旅谣.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/5ee6618c78df1b0c7ce97f4c1da4e05b.png/_tap_banner.jpg",
-      "coverReason": "taptap-search",
-      "archived": true,
-      "archivedAt": "2026-10-09"
     },
     {
       "name": "火焰纹章：万缕千丝",
