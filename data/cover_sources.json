@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T02:51:28.922Z",
+  "updatedAt": "2026-11-26T02:36:01.697Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1665,6 +1665,58 @@
       "rel": "58655009cee15d3af27c68a064a7a351853fea0b/capsule_231x87.jpg",
       "name": "Warhammer 40,000: Dawn of War IV",
       "resolvedAt": "2026-11-25T02:36:54.736Z"
+    },
+    "steam:1449850:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449850/cc22c3ceaa31b5fc073dd32d237acc65a9efde6d/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1449850/cc22c3ceaa31b5fc073dd32d237acc65a9efde6d/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449850/cc22c3ceaa31b5fc073dd32d237acc65a9efde6d/capsule_231x87.jpg"
+      ],
+      "hash": "cc22c3ceaa31b5fc073dd32d237acc65a9efde6d",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "cc22c3ceaa31b5fc073dd32d237acc65a9efde6d/capsule_231x87.jpg",
+      "name": "Yu-Gi-Oh!  Master Duel",
+      "resolvedAt": "2026-11-26T02:35:54.400Z"
+    },
+    "steam:1222140:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87_schinese.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87_schinese.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/capsule_231x87_schinese.jpg"
+      ],
+      "hash": "",
+      "hashed": false,
+      "kind": "capsule",
+      "rel": "capsule_231x87_schinese.jpg",
+      "name": "Detroit: Become Human",
+      "resolvedAt": "2026-11-26T02:35:55.968Z"
+    },
+    "steam:2001120:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001120/1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg"
+      ],
+      "hash": "1988bcdc421d71cbe4c8c07940967e7a0cd752be",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "1988bcdc421d71cbe4c8c07940967e7a0cd752be/capsule_231x87.jpg",
+      "name": "Split Fiction",
+      "resolvedAt": "2026-11-26T02:35:56.736Z"
+    },
+    "steam:5527800:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5527800/4035626db4bbe9b8fb5140e6815c9d08665e67c9/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/5527800/4035626db4bbe9b8fb5140e6815c9d08665e67c9/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5527800/4035626db4bbe9b8fb5140e6815c9d08665e67c9/capsule_231x87.jpg"
+      ],
+      "hash": "4035626db4bbe9b8fb5140e6815c9d08665e67c9",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "4035626db4bbe9b8fb5140e6815c9d08665e67c9/capsule_231x87.jpg",
+      "name": "No Asteroids",
+      "resolvedAt": "2026-11-26T02:35:57.530Z"
     }
   },
   "taptap": {
@@ -1875,6 +1927,14 @@
       "score": 1,
       "source": "taptap-search",
       "resolvedAt": "2026-11-25T02:36:43.643Z"
+    },
+    "崩坏因缘精灵": {
+      "url": "https://img-tc.tapimg.com/market/images/cdb66556e2d2851b50bea143ee202640.jpg/_tap_banner.jpg",
+      "appid": 753921,
+      "matchedName": "崩坏：因缘精灵",
+      "score": 1,
+      "source": "taptap-search",
+      "resolvedAt": "2026-11-26T02:35:48.498Z"
     }
   },
   "failures": {}
