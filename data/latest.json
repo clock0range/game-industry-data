@@ -1,7 +1,7 @@
 {
   "meta": {
     "date": "2026-11-27",
-    "lastUpdated": "2026-11-27T10:39:00+08:00",
+    "lastUpdated": "2026-11-27 10:43:44+08:00",
     "footerDate": "数据截至2026年11月27日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
@@ -188,19 +188,15 @@
         "color": "blue",
         "source": "游戏陀螺",
         "sourceLink": "https://news.qq.com/rain/a/20261126A0641R00",
-        "body": "蛮啾首款 3D 大世界二游今日正式公测，上线前全网预约达 <strong>3000 万</strong>，B 站评价稳定在 <strong>9.2</strong>。产品把「角色 × 奇波 × 家园」串成一套闭环：200 余种奇波既可捉来战斗、跑图、解谜，也能派驻家园采集种田锻造，反哺角色养成；三测收官到公测仅约 50 天完成 70 多项优化，商业化保留「不歪池」并前置 UP 概率。",
-        "isNew": true,
-        "newUntil": "2026-11-28"
+        "body": "蛮啾首款 3D 大世界二游今日正式公测，上线前全网预约达 <strong>3000 万</strong>，B 站评价稳定在 <strong>9.2</strong>。产品把「角色 × 奇波 × 家园」串成一套闭环：200 余种奇波既可捉来战斗、跑图、解谜，也能派驻家园采集种田锻造，反哺角色养成；三测收官到公测仅约 50 天完成 70 多项优化，商业化保留「不歪池」并前置 UP 概率。"
       },
       {
-        "title": "《崩坏：因缘精灵》开付费测试，预约破千万",
-        "titleLink": "https://news.qq.com/rain/a/20261125A0F54G00",
+        "title": "腾讯《英雄联盟电竞经理》宣布停运",
+        "titleLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7416b08bb9442152",
         "color": "purple",
-        "source": "南方都市报",
-        "sourceLink": "https://news.qq.com/rain/a/20261125A0F54G00",
-        "body": "米哈游「崩坏」IP 15 周年旗舰新作 11 月 25 日开启删档付费测试，覆盖 PC / 移动端 / 云游戏，全平台预约<strong>突破千万</strong>，计划 <strong>2027 年春季公测</strong>。玩法为捉宠收集 + PVE 自走棋 + CRPG 多分支叙事，本次新增异步 PVP「因缘斗技场」；首个位面「伊亚镇」以外滩、张园、豫园为原型。",
-        "isNew": true,
-        "newUntil": "2026-11-28"
+        "source": "每日经济新闻·游戏早参",
+        "sourceLink": "https://so.html5.qq.com/page/real/search_news?docid=70000021_7416b08bb9442152",
+        "body": "腾讯 11 月 26 日公告，因开发及运营策略调整，由拳头游戏开发、腾讯发行的《英雄联盟电竞经理》将于 <strong>2027 年 1 月 26 日</strong>正式停止运营，<strong>11 月 26 日起已停止充值与新用户注册</strong>，关服后依法删除账号数据。该作 2022 年 7 月公测，以 LPL 赛游联动为特色。"
       },
       {
         "title": "《异人之下》定档 12 月 17 日公测",
@@ -208,9 +204,7 @@
         "color": "blue",
         "source": "17173",
         "sourceLink": "https://news.17173.com/content/11232026/103344352.shtml",
-        "body": "腾讯魔方工作室群研发、改编自国漫《一人之下》的 3D 格斗新作 11 月 23 日官宣 <strong>12 月 17 日全平台公测</strong>，移动端与 PC 双端数据互通，彭于晏出任代言人；官方同步公布全网预约量已突破 <strong>4000 万</strong>，预约用户上线可直接领取异人「夏禾」。对局以「普攻 / 平招 / 险招 / 防御」克制博弈为核心，PVP 不卖数值，此前已官宣出征 EVO 2027 新加坡站。",
-        "isNew": true,
-        "newUntil": "2026-11-27"
+        "body": "腾讯魔方工作室群研发、改编自国漫《一人之下》的 3D 格斗新作 11 月 23 日官宣 <strong>12 月 17 日全平台公测</strong>，移动端与 PC 双端数据互通，彭于晏出任代言人；官方同步公布全网预约量已突破 <strong>4000 万</strong>，预约用户上线可直接领取异人「夏禾」。对局以「普攻 / 平招 / 险招 / 防御」克制博弈为核心，PVP 不卖数值，此前已官宣出征 EVO 2027 新加坡站。"
       },
       {
         "title": "《影之刃零》获 TGA 2026 五项提名",
@@ -218,9 +212,7 @@
         "color": "orange",
         "source": "腾讯新闻",
         "sourceLink": "https://news.qq.com/rain/a/20261122A0AH9W00",
-        "body": "TGA 2026 年度提名名单公布，国产动作游戏《影之刃零》入围<strong>年度最佳游戏、最佳游戏指导、最佳艺术指导</strong>等 5 项提名，是今年国产游戏取得的最好成绩；最佳移动游戏奖项另有 4 款中国厂商相关作品入围，苹果 App Store 年度奖项亦有 3 款中国游戏跻身年度 iPad 游戏提名。",
-        "isNew": true,
-        "newUntil": "2026-11-27"
+        "body": "TGA 2026 年度提名名单公布，国产动作游戏《影之刃零》入围<strong>年度最佳游戏、最佳游戏指导、最佳艺术指导</strong>等 5 项提名，是今年国产游戏取得的最好成绩；最佳移动游戏奖项另有 4 款中国厂商相关作品入围，苹果 App Store 年度奖项亦有 3 款中国游戏跻身年度 iPad 游戏提名。"
       }
     ],
     "taptap": {
@@ -649,7 +641,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2767030",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2767030_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2767030_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       },
       {
         "rank": 6,
@@ -683,7 +681,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/2947440",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2947440_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "2947440_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2947440_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/2947440_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/0059b56f4400fe95555b8145d5f8f05b160a54e5/capsule_231x87.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 8,
@@ -837,7 +841,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/4078430",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "4078430_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/4078430_icon.jpg",
+        "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4078430/6522bdb94fb53b9f316809a4cf4522a1197ac2af/capsule_231x87_schinese.jpg",
+        "coverReason": "steam-hash"
       },
       {
         "rank": 16,
@@ -851,7 +861,13 @@
         "changeDir": null,
         "weeks": null,
         "link": "https://store.steampowered.com/app/578080",
-        "logo": null
+        "logo": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverStatus": "verified",
+        "coverKey": "578080_icon",
+        "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/578080_icon.jpg",
+        "coverSourceUrl": "",
+        "coverReason": "cdn_cache_hit"
       }
     ],
     "insight": "本周（11/23–11/29）Steam 在线榜头部首次换位：<strong>Dota 2 以 43.7 万同时在线反超 CS2（42.6 万）</strong>，是近两个月 CS2 第一次让出榜首；免费新品《ROB RUN》从上周 38.9 万回落至 26.7 万（-31%），确认首周爆量进入自然衰减，好评率同步滑到 <strong>49% 褒贬不一</strong>（8.7 万条评测），口碑成为其长线最大变数。另一边是「老游戏回潮」：《赛博朋克 2077》以 6.4 万同时在线重回 TOP11、24h 峰值 10.1 万。独游侧口碑与热度继续分化——《影之刃零》<strong>95% 好评如潮</strong>（20.9 万条评测）叠加 TGA 五项提名，是本周口碑最稳的国产作品；《深空当铺：可能是偷的》82% 特别好评（3.5 万条评测）守 3.2 万同时在线，属小体量高口碑样本。整体判断：本周没有新的爆量独游接棒，榜单重回长线产品与折扣驱动。",
@@ -1054,7 +1070,13 @@
           "nameZh": "",
           "current": 52173,
           "peak24h": 94032,
-          "link": "https://store.steampowered.com/app/252490/"
+          "link": "https://store.steampowered.com/app/252490/",
+          "coverStatus": "verified",
+          "coverKey": "252490_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/252490_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/252490_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 15,
@@ -1077,7 +1099,13 @@
           "nameZh": "",
           "current": 50399,
           "peak24h": 65883,
-          "link": "https://store.steampowered.com/app/3678970/"
+          "link": "https://store.steampowered.com/app/3678970/",
+          "coverStatus": "verified",
+          "coverKey": "3678970_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3678970_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3678970/124cbad7c55f19814d0b8f019e06e5a50b8c6337/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
         }
       ]
     },
@@ -1401,22 +1429,6 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "11月16日公测",
-      "name": "星球：重启",
-      "badge": "朝夕光年",
-      "desc": "字节朝夕光年 SOC 开放世界生存建造手游，11 月 16 日国服公测，预约量级千万级；弱化「武器全靠抽」顽疾，主打大世界探索与自由建造，年末 SOC 品类与腾讯、网易正面对垒。",
-      "link": "https://news.17173.com/content/11162023/120120135.shtml",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-12-08",
-      "coverStatus": "verified",
-      "coverKey": "name_星球_重启",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星球_重启.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星球_重启.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/2e9278bbfaf83f77fdbf2f204c13543f.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "date": "12月17日公测",
       "name": "异人之下",
       "badge": "腾讯魔方",
@@ -1431,6 +1443,22 @@
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6c1a2f03b481ffdc0aef7d686c23d13a.png/_tap_banner.jpg",
       "coverReason": "taptap-search",
       "newUntil": "2026-11-30"
+    },
+    {
+      "date": "11月16日公测",
+      "name": "星球：重启",
+      "badge": "朝夕光年",
+      "desc": "字节朝夕光年 SOC 开放世界生存建造手游，11 月 16 日国服公测，预约量级千万级；弱化「武器全靠抽」顽疾，主打大世界探索与自由建造，年末 SOC 品类与腾讯、网易正面对垒。",
+      "link": "https://news.17173.com/content/11162023/120120135.shtml",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-12-08",
+      "coverStatus": "verified",
+      "coverKey": "name_星球_重启",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星球_重启.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星球_重启.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/2e9278bbfaf83f77fdbf2f204c13543f.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
     },
     {
       "date": "12月24日公测",
