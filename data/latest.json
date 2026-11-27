@@ -1,8 +1,8 @@
 {
   "meta": {
-    "date": "2026-11-26",
-    "lastUpdated": "2026-11-26 10:35:37+08:00",
-    "footerDate": "数据截至2026年11月26日",
+    "date": "2026-11-27",
+    "lastUpdated": "2026-11-27T10:39:00+08:00",
+    "footerDate": "数据截至2026年11月27日",
     "sources": "七麦数据 · 伽马数据 · 中国音数协游戏工委 · SteamDB · GameGrin · DataEye · 引力引擎 · MomoRank · 脉脉 · 前程无忧 · 公开新闻报道 | 仅供行业参考，不构成投资建议"
   },
   "kpi": [
@@ -56,24 +56,33 @@
       },
       {
         "rank": 2,
-        "name": "地下城与勇士：起源",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/0c/cc/9f0ccc0f-b152-a41e-d046-acc4dd1e9fa1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "new",
-        "link": "https://www.taptap.cn/search/%E5%9C%B0%E4%B8%8B%E5%9F%8E%E4%B8%8E%E5%8B%87%E5%A3%AB%EF%BC%9A%E8%B5%B7%E6%BA%90",
-        "change": "新"
-      },
-      {
-        "rank": 3,
         "name": "三角洲行动",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/af/621dafcb-fc87-4c2a-0f78-e2a89843e08d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
+        "change": "▲1"
+      },
+      {
+        "rank": 3,
+        "name": "地下城与勇士：起源",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/0c/cc/9f0ccc0f-b152-a41e-d046-acc4dd1e9fa1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E5%9C%B0%E4%B8%8B%E5%9F%8E%E4%B8%8E%E5%8B%87%E5%A3%AB%EF%BC%9A%E8%B5%B7%E6%BA%90",
         "change": "▼1"
       },
       {
         "rank": 4,
+        "name": "无畏契约：源能行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/6f/40/626f4024-cd25-60b4-4bb2-490d02aea07b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
+        "change": "▲6"
+      },
+      {
+        "rank": 5,
         "name": "和平精英",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/aa/3d/22aa3d2e-ff69-b285-3eeb-570018bc6ea4/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/100x100bb.png",
@@ -82,7 +91,7 @@
         "change": "▼1"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "无尽冬日",
         "publisher": "Shanghai Qin...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/ca/37/c8ca378e-b14b-c94b-c923-c1209a47168c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
@@ -91,16 +100,16 @@
         "change": "▼1"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "name": "梦幻西游",
         "publisher": "网易移动游戏",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/15/79/a51579f7-ce5e-28df-963c-7aa95e0f5656/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/100x100bb.png",
-        "trend": "up",
+        "trend": "down",
         "link": "https://www.taptap.cn/search/%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8",
-        "change": "▲1"
+        "change": "▼1"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "name": "火影忍者",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/da/84/f2da845c-6a58-a983-28fa-4b3501f58380/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
@@ -109,48 +118,39 @@
         "change": "▼1"
       },
       {
-        "rank": 8,
-        "name": "美职篮全明星",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/69/f1/6969f1cb-5940-136a-a794-6cac36222b2c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "new",
-        "link": "https://www.taptap.cn/search/%E7%BE%8E%E8%81%8C%E7%AF%AE%E5%85%A8%E6%98%8E%E6%98%9F",
-        "change": "新"
-      },
-      {
         "rank": 9,
-        "name": "原神",
-        "publisher": "米哈游",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ab/ae/bfabaee8-79c9-c80e-8cea-0aeb5a8f898d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E5%8E%9F%E7%A5%9E",
-        "change": "▼4"
-      },
-      {
-        "rank": 10,
-        "name": "无畏契约：源能行动",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/6f/40/626f4024-cd25-60b4-4bb2-490d02aea07b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
-        "change": "▼1"
-      },
-      {
-        "rank": 11,
         "name": "开心消消乐",
         "publisher": "乐元素",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/5d/6e/e65d6e46-6bc9-16b4-4a34-36d64cf1a477/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
-        "change": "▼3"
+        "change": "▲2"
+      },
+      {
+        "rank": 10,
+        "name": "捕鱼大作战-街机打鱼游戏王者",
+        "publisher": "Tuyoo Online...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/af/06/06af0605-bba9-f1a5-3e6d-88919fbf6d5d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E6%8D%95%E9%B1%BC%E5%A4%A7%E4%BD%9C%E6%88%98-%E8%A1%97%E6%9C%BA%E6%89%93%E9%B1%BC%E6%B8%B8%E6%88%8F%E7%8E%8B%E8%80%85",
+        "change": "▲4"
+      },
+      {
+        "rank": 11,
+        "name": "FC足球世界-Next",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/9c/3b/929c3b47-5110-4dd1-e110-1c294a62cd41/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "new",
+        "link": "https://www.taptap.cn/search/FC%E8%B6%B3%E7%90%83%E4%B8%96%E7%95%8C-Next",
+        "change": "新"
       },
       {
         "rank": 12,
-        "name": "恋与深空",
-        "publisher": "叠纸",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/8d/48/e38d4881-0bdf-e2b1-41e6-dd2386beb412/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "name": "第五人格",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/be/8d/e2be8d9a-ca27-65f6-fbf1-041a5ff89568/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "new",
-        "link": "https://www.taptap.cn/search/%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA",
+        "link": "https://www.taptap.cn/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC",
         "change": "新"
       },
       {
@@ -158,26 +158,26 @@
         "name": "金铲铲之战",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/99/44/9e994473-3fc3-264b-6585-f262e8c183fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98",
-        "change": "▼3"
+        "change": "/"
       },
       {
         "rank": 14,
-        "name": "捕鱼大作战-街机打鱼游戏王者",
-        "publisher": "Tuyoo Online...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/af/06/06af0605-bba9-f1a5-3e6d-88919fbf6d5d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "name": "原神",
+        "publisher": "米哈游",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/ab/ae/bfabaee8-79c9-c80e-8cea-0aeb5a8f898d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
         "trend": "down",
-        "link": "https://www.taptap.cn/search/%E6%8D%95%E9%B1%BC%E5%A4%A7%E4%BD%9C%E6%88%98-%E8%A1%97%E6%9C%BA%E6%89%93%E9%B1%BC%E6%B8%B8%E6%88%8F%E7%8E%8B%E8%80%85",
-        "change": "▼3"
+        "link": "https://www.taptap.cn/search/%E5%8E%9F%E7%A5%9E",
+        "change": "▼5"
       },
       {
         "rank": 15,
-        "name": "明日方舟：终末地",
-        "publisher": "鹰角",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/37/a1/2737a1b0-5428-64a6-0c4e-6fb34fc02e05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "name": "我的花园世界",
+        "publisher": "厦门麟贝互娱科技有限公司",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/9a/3c/449a3c27-62ee-50ce-2b68-5fa40b7107ba/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "new",
-        "link": "https://www.taptap.cn/search/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%EF%BC%9A%E7%BB%88%E6%9C%AB%E5%9C%B0",
+        "link": "https://www.taptap.cn/search/%E6%88%91%E7%9A%84%E8%8A%B1%E5%9B%AD%E4%B8%96%E7%95%8C",
         "change": "新"
       }
     ],
@@ -258,18 +258,18 @@
         "name": "王者荣耀",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/d8/d4/a5d8d4ce-fc8d-bb69-4e8c-e5d9567d4591/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "up",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80",
-        "change": "▲1"
+        "change": "/"
       },
       {
         "rank": 4,
-        "name": "我在古代有座城",
-        "publisher": "安徽盈趣网络科技有限公司",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/49/70/2849701e-6f29-fd32-a291-ef9690647473/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
-        "trend": "down",
-        "link": "https://www.taptap.cn/search/%E6%88%91%E5%9C%A8%E5%8F%A4%E4%BB%A3%E6%9C%89%E5%BA%A7%E5%9F%8E",
-        "change": "▼1"
+        "name": "无畏契约：源能行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/6f/40/626f4024-cd25-60b4-4bb2-490d02aea07b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "up",
+        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
+        "change": "▲4"
       },
       {
         "rank": 5,
@@ -282,93 +282,93 @@
       },
       {
         "rank": 6,
-        "name": "三角洲行动",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/af/621dafcb-fc87-4c2a-0f78-e2a89843e08d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
-        "change": "/"
+        "name": "我在古代有座城",
+        "publisher": "安徽盈趣网络科技有限公司",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/49/70/2849701e-6f29-fd32-a291-ef9690647473/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E6%88%91%E5%9C%A8%E5%8F%A4%E4%BB%A3%E6%9C%89%E5%BA%A7%E5%9F%8E",
+        "change": "▼2"
       },
       {
         "rank": 7,
-        "name": "开心消消乐",
-        "publisher": "乐元素",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/5d/6e/e65d6e46-6bc9-16b4-4a34-36d64cf1a477/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
-        "change": "/"
+        "name": "三角洲行动",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/1d/af/621dafcb-fc87-4c2a-0f78-e2a89843e08d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8",
+        "change": "▼1"
       },
       {
         "rank": 8,
-        "name": "无畏契约：源能行动",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/62/6f/40/626f4024-cd25-60b4-4bb2-490d02aea07b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%EF%BC%9A%E6%BA%90%E8%83%BD%E8%A1%8C%E5%8A%A8",
-        "change": "/"
+        "name": "开心消消乐",
+        "publisher": "乐元素",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/5d/6e/e65d6e46-6bc9-16b4-4a34-36d64cf1a477/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E5%BC%80%E5%BF%83%E6%B6%88%E6%B6%88%E4%B9%90",
+        "change": "▼1"
       },
       {
         "rank": 9,
-        "name": "蛋仔派对",
-        "publisher": "网易移动游戏",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/dd/3a/cbdd3a3b-13f2-0791-6025-b8415b7aee6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9",
-        "change": "/"
-      },
-      {
-        "rank": 10,
-        "name": "腾讯欢乐斗地主",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/08/31/ec0831b9-f4a3-98a6-ee33-6c4764f23e61/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "flat",
-        "link": "https://www.taptap.cn/search/%E8%85%BE%E8%AE%AF%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB",
-        "change": "/"
-      },
-      {
-        "rank": 11,
         "name": "火影忍者",
         "publisher": "腾讯",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/da/84/f2da845c-6a58-a983-28fa-4b3501f58380/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "new",
+        "trend": "up",
         "link": "https://www.taptap.cn/search/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85",
-        "change": "新"
+        "change": "▲2"
+      },
+      {
+        "rank": 10,
+        "name": "蛋仔派对",
+        "publisher": "网易移动游戏",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/dd/3a/cbdd3a3b-13f2-0791-6025-b8415b7aee6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9",
+        "change": "▼1"
+      },
+      {
+        "rank": 11,
+        "name": "腾讯欢乐斗地主",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/08/31/ec0831b9-f4a3-98a6-ee33-6c4764f23e61/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E8%85%BE%E8%AE%AF%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB",
+        "change": "▼1"
       },
       {
         "rank": 12,
-        "name": "金铲铲之战",
-        "publisher": "腾讯",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/99/44/9e994473-3fc3-264b-6585-f262e8c183fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "name": "Tool Toss: Spinning Target",
+        "publisher": "Zaira Jane C...",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5f/f2/1f5ff2ce-619f-5d31-1abb-2e4c1a7f4746/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
         "trend": "up",
-        "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98",
-        "change": "▲1"
+        "link": "https://www.taptap.cn/search/Tool%20Toss%3A%20Spinning%20Target",
+        "change": "▲2"
       },
       {
         "rank": 13,
         "name": "地铁跑酷 - 时光十三载热爱一直在",
         "publisher": "iDreamSky Te...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/ff/ad/38ffadff-fb43-2cdf-4080-04dab575cd31/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E5%9C%B0%E9%93%81%E8%B7%91%E9%85%B7%20-%20%E6%97%B6%E5%85%89%E5%8D%81%E4%B8%89%E8%BD%BD%E7%83%AD%E7%88%B1%E4%B8%80%E7%9B%B4%E5%9C%A8",
-        "change": "▼1"
+        "change": "/"
       },
       {
         "rank": 14,
-        "name": "Tool Toss: Spinning Target",
-        "publisher": "Zaira Jane C...",
-        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/5f/f2/1f5ff2ce-619f-5d31-1abb-2e4c1a7f4746/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "new",
-        "link": "https://www.taptap.cn/search/Tool%20Toss%3A%20Spinning%20Target",
-        "change": "新"
+        "name": "金铲铲之战",
+        "publisher": "腾讯",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/99/44/9e994473-3fc3-264b-6585-f262e8c183fb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.png",
+        "trend": "down",
+        "link": "https://www.taptap.cn/search/%E9%87%91%E9%93%B2%E9%93%B2%E4%B9%8B%E6%88%98",
+        "change": "▼2"
       },
       {
         "rank": 15,
         "name": "超级整理师 - 找一找隐藏的物品",
         "publisher": "AkerSun Tech...",
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/d0/59/4bd0592d-9130-36b0-5b3d-fb6037bfc1e8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.png",
-        "trend": "down",
+        "trend": "flat",
         "link": "https://www.taptap.cn/search/%E8%B6%85%E7%BA%A7%E6%95%B4%E7%90%86%E5%B8%88%20-%20%E6%89%BE%E4%B8%80%E6%89%BE%E9%9A%90%E8%97%8F%E7%9A%84%E7%89%A9%E5%93%81",
-        "change": "▼1"
+        "change": "/"
       }
     ]
   },
@@ -880,31 +880,17 @@
     ],
     "insight": "本周（11/23–11/29）Steam 在线榜头部首次换位：<strong>Dota 2 以 43.7 万同时在线反超 CS2（42.6 万）</strong>，是近两个月 CS2 第一次让出榜首；免费新品《ROB RUN》从上周 38.9 万回落至 26.7 万（-31%），确认首周爆量进入自然衰减，好评率同步滑到 <strong>49% 褒贬不一</strong>（8.7 万条评测），口碑成为其长线最大变数。另一边是「老游戏回潮」：《赛博朋克 2077》以 6.4 万同时在线重回 TOP11、24h 峰值 10.1 万。独游侧口碑与热度继续分化——《影之刃零》<strong>95% 好评如潮</strong>（20.9 万条评测）叠加 TGA 五项提名，是本周口碑最稳的国产作品；《深空当铺：可能是偷的》82% 特别好评（3.5 万条评测）守 3.2 万同时在线，属小体量高口碑样本。整体判断：本周没有新的爆量独游接棒，榜单重回长线产品与折扣驱动。",
     "mostPlayed": {
-      "asOf": "2026-11-26",
-      "updatedAt": "10:33",
+      "asOf": "2026-11-27",
+      "updatedAt": "10:40",
       "source": "SteamDB",
       "items": [
         {
           "rank": 1,
-          "appid": 730,
-          "name": "Counter-Strike 2",
-          "nameZh": "",
-          "current": 459739,
-          "peak24h": 1207614,
-          "link": "https://store.steampowered.com/app/730/",
-          "coverStatus": "verified",
-          "coverKey": "730_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
-          "coverReason": "cdn_cache_hit"
-        },
-        {
-          "rank": 2,
           "appid": 570,
           "name": "Dota 2",
           "nameZh": "",
-          "current": 381611,
-          "peak24h": 756213,
+          "current": 452549,
+          "peak24h": 768271,
           "link": "https://store.steampowered.com/app/570/",
           "coverStatus": "verified",
           "coverKey": "570_icon",
@@ -913,12 +899,26 @@
           "coverReason": "cdn_cache_hit"
         },
         {
+          "rank": 2,
+          "appid": 730,
+          "name": "Counter-Strike 2",
+          "nameZh": "",
+          "current": 449023,
+          "peak24h": 1140407,
+          "link": "https://store.steampowered.com/app/730/",
+          "coverStatus": "verified",
+          "coverKey": "730_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/730_icon.jpg",
+          "coverReason": "cdn_cache_hit"
+        },
+        {
           "rank": 3,
           "appid": 4262460,
           "name": "ROB RUN",
           "nameZh": "",
-          "current": 228570,
-          "peak24h": 414459,
+          "current": 224125,
+          "peak24h": 388351,
           "link": "https://store.steampowered.com/app/4262460/",
           "coverStatus": "verified",
           "coverKey": "4262460_icon",
@@ -928,26 +928,11 @@
         },
         {
           "rank": 4,
-          "appid": 1422450,
-          "name": "Deadlock",
-          "nameZh": "",
-          "current": 158347,
-          "peak24h": 186875,
-          "link": "https://store.steampowered.com/app/1422450/",
-          "coverStatus": "verified",
-          "coverKey": "1422450_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
-          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg",
-          "coverReason": "steam-hash"
-        },
-        {
-          "rank": 5,
           "appid": 3419430,
           "name": "Bongo Cat",
           "nameZh": "",
-          "current": 131533,
-          "peak24h": 152628,
+          "current": 174632,
+          "peak24h": 198355,
           "link": "https://store.steampowered.com/app/3419430/",
           "coverStatus": "verified",
           "coverKey": "3419430_icon",
@@ -957,12 +942,27 @@
           "coverReason": "steam-hash"
         },
         {
+          "rank": 5,
+          "appid": 1422450,
+          "name": "Deadlock",
+          "nameZh": "",
+          "current": 154599,
+          "peak24h": 190514,
+          "link": "https://store.steampowered.com/app/1422450/",
+          "coverStatus": "verified",
+          "coverKey": "1422450_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1422450_icon.jpg",
+          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1422450/88b400eca727f0547232b49b3e62827f07900c77/capsule_231x87.jpg",
+          "coverReason": "steam-hash"
+        },
+        {
           "rank": 6,
           "appid": 578080,
           "name": "PUBG: BATTLEGROUNDS",
           "nameZh": "",
-          "current": 120697,
-          "peak24h": 752777,
+          "current": 121601,
+          "peak24h": 741985,
           "link": "https://store.steampowered.com/app/578080/",
           "coverStatus": "verified",
           "coverKey": "578080_icon",
@@ -972,25 +972,11 @@
         },
         {
           "rank": 7,
-          "appid": 3393110,
-          "name": "AION 2",
-          "nameZh": "",
-          "current": 91043,
-          "peak24h": 136772,
-          "link": "https://store.steampowered.com/app/3393110/",
-          "coverStatus": "verified",
-          "coverKey": "3393110_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
-          "coverReason": "cdn_cache_hit"
-        },
-        {
-          "rank": 8,
           "appid": 440,
           "name": "Team Fortress 2",
           "nameZh": "",
-          "current": 88207,
-          "peak24h": 103558,
+          "current": 96937,
+          "peak24h": 116398,
           "link": "https://store.steampowered.com/app/440/",
           "coverStatus": "verified",
           "coverKey": "440_icon",
@@ -1000,12 +986,26 @@
           "coverReason": "steam-legacy-path"
         },
         {
+          "rank": 8,
+          "appid": 3393110,
+          "name": "AION 2",
+          "nameZh": "",
+          "current": 89487,
+          "peak24h": 129424,
+          "link": "https://store.steampowered.com/app/3393110/",
+          "coverStatus": "verified",
+          "coverKey": "3393110_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3393110_icon.jpg",
+          "coverReason": "cdn_cache_hit"
+        },
+        {
           "rank": 9,
           "appid": 1938090,
-          "name": "Call of Duty®",
+          "name": "Call of Duty",
           "nameZh": "",
-          "current": 85442,
-          "peak24h": 88578,
+          "current": 78877,
+          "peak24h": 94158,
           "link": "https://store.steampowered.com/app/1938090/",
           "coverStatus": "verified",
           "coverKey": "1938090_icon",
@@ -1019,8 +1019,8 @@
           "appid": 2868840,
           "name": "Slay the Spire 2",
           "nameZh": "",
-          "current": 72239,
-          "peak24h": 131046,
+          "current": 64731,
+          "peak24h": 127698,
           "link": "https://store.steampowered.com/app/2868840/",
           "coverStatus": "verified",
           "coverKey": "2868840_icon",
@@ -1031,53 +1031,11 @@
         },
         {
           "rank": 11,
-          "appid": 431960,
-          "name": "Wallpaper Engine",
-          "nameZh": "",
-          "current": 55438,
-          "peak24h": 109719,
-          "link": "https://store.steampowered.com/app/431960/",
-          "coverStatus": "verified",
-          "coverKey": "431960_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
-          "coverReason": "cdn_cache_hit"
-        },
-        {
-          "rank": 12,
-          "appid": 1172470,
-          "name": "Apex Legends",
-          "nameZh": "",
-          "current": 54709,
-          "peak24h": 237971,
-          "link": "https://store.steampowered.com/app/1172470/",
-          "coverStatus": "verified",
-          "coverKey": "1172470_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
-          "coverReason": "cdn_cache_hit"
-        },
-        {
-          "rank": 13,
-          "appid": 359550,
-          "name": "Tom Clancy's Rainbow Six Siege",
-          "nameZh": "",
-          "current": 54504,
-          "peak24h": 62965,
-          "link": "https://store.steampowered.com/app/359550/",
-          "coverStatus": "verified",
-          "coverKey": "359550_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
-          "coverReason": "cdn_cache_hit"
-        },
-        {
-          "rank": 14,
           "appid": 2767030,
           "name": "Marvel Rivals",
           "nameZh": "",
-          "current": 53927,
-          "peak24h": 55773,
+          "current": 58841,
+          "peak24h": 59325,
           "link": "https://store.steampowered.com/app/2767030/",
           "coverStatus": "verified",
           "coverKey": "2767030_icon",
@@ -1086,40 +1044,70 @@
           "coverReason": "cdn_cache_hit"
         },
         {
-          "rank": 15,
+          "rank": 12,
+          "appid": 431960,
+          "name": "Wallpaper Engine",
+          "nameZh": "",
+          "current": 54626,
+          "peak24h": 108937,
+          "link": "https://store.steampowered.com/app/431960/",
+          "coverStatus": "verified",
+          "coverKey": "431960_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/431960_icon.jpg",
+          "coverReason": "cdn_cache_hit"
+        },
+        {
+          "rank": 13,
           "appid": 3240220,
           "name": "Grand Theft Auto V Enhanced",
           "nameZh": "",
-          "current": 53833,
-          "peak24h": 124385,
+          "current": 53469,
+          "peak24h": 126179,
           "link": "https://store.steampowered.com/app/3240220/",
           "coverStatus": "verified",
           "coverKey": "3240220_icon",
           "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
           "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/3240220_icon.jpg",
-          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
+        },
+        {
+          "rank": 14,
+          "appid": 252490,
+          "name": "Rust",
+          "nameZh": "",
+          "current": 52173,
+          "peak24h": 94032,
+          "link": "https://store.steampowered.com/app/252490/"
+        },
+        {
+          "rank": 15,
+          "appid": 1172470,
+          "name": "Apex Legends",
+          "nameZh": "",
+          "current": 51755,
+          "peak24h": 236719,
+          "link": "https://store.steampowered.com/app/1172470/",
+          "coverStatus": "verified",
+          "coverKey": "1172470_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1172470_icon.jpg",
           "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 16,
-          "appid": 1091500,
-          "name": "Cyberpunk 2077",
+          "appid": 3678970,
+          "name": "TBH: Task Bar Hero",
           "nameZh": "",
-          "current": 52329,
-          "peak24h": 68448,
-          "link": "https://store.steampowered.com/app/1091500/",
-          "coverStatus": "verified",
-          "coverKey": "1091500_icon",
-          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
-          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
-          "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/47c51dbc7cbec037001f1a23e1289d475be8fd5e/capsule_231x87_schinese.jpg",
-          "coverReason": "steam-hash"
+          "current": 50399,
+          "peak24h": 65883,
+          "link": "https://store.steampowered.com/app/3678970/"
         }
       ]
     },
     "newGamesAsOf": "2026-11-24",
     "topSellersAsOf": "2026-11-26",
-    "mostPlayedAsOf": "2026-11-26",
+    "mostPlayedAsOf": "2026-11-27",
     "insightAsOf": "2026-11-23",
     "reviewAsOf": "2026-11-23"
   },
