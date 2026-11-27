@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T02:36:01.697Z",
+  "updatedAt": "2026-11-27T02:44:30.478Z",
   "steam": {
     "steam:4126040:header": {
       "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg",
@@ -1717,6 +1717,19 @@
       "rel": "4035626db4bbe9b8fb5140e6815c9d08665e67c9/capsule_231x87.jpg",
       "name": "No Asteroids",
       "resolvedAt": "2026-11-26T02:35:57.530Z"
+    },
+    "steam:2947440:capsule": {
+      "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2947440/0059b56f4400fe95555b8145d5f8f05b160a54e5/capsule_231x87.jpg",
+      "hosts": [
+        "https://shared.st.steamstatic.com/store_item_assets/steam/apps/2947440/0059b56f4400fe95555b8145d5f8f05b160a54e5/capsule_231x87.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/0059b56f4400fe95555b8145d5f8f05b160a54e5/capsule_231x87.jpg"
+      ],
+      "hash": "0059b56f4400fe95555b8145d5f8f05b160a54e5",
+      "hashed": true,
+      "kind": "capsule",
+      "rel": "0059b56f4400fe95555b8145d5f8f05b160a54e5/capsule_231x87.jpg",
+      "name": "SILENT HILL f",
+      "resolvedAt": "2026-11-27T02:44:23.634Z"
     }
   },
   "taptap": {
