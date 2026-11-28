@@ -183,12 +183,14 @@
     ],
     "highlights": [
       {
-        "title": "《蓝色星原：旅谣》11/26 公测，预约破 3000 万",
-        "titleLink": "https://news.qq.com/rain/a/20261126A0641R00",
+        "title": "《蓝色星原：旅谣》上线两天流水破亿，PC 端占超六成",
+        "titleLink": "https://news.qq.com/rain/a/20261127A0HO3F00",
         "color": "blue",
-        "source": "游戏陀螺",
-        "sourceLink": "https://news.qq.com/rain/a/20261126A0641R00",
-        "body": "蛮啾首款 3D 大世界二游今日正式公测，上线前全网预约达 <strong>3000 万</strong>，B 站评价稳定在 <strong>9.2</strong>。产品把「角色 × 奇波 × 家园」串成一套闭环：200 余种奇波既可捉来战斗、跑图、解谜，也能派驻家园采集种田锻造，反哺角色养成；三测收官到公测仅约 50 天完成 70 多项优化，商业化保留「不歪池」并前置 UP 概率。"
+        "source": "腾讯新闻",
+        "sourceLink": "https://news.qq.com/rain/a/20261127A0HO3F00",
+        "body": "蛮啾网络 11 月 27 日晚发布内部信：《蓝色星原：旅谣》11/26 公测后，在英语区与 PS5 尚未上线的情况下，上线两天累计流水已突破 <strong>1 亿元</strong>；首日收入中 <strong>PC 端占比超 65%</strong>、安卓端约三成，玩家高度集中在官方服务器。制作人陈鹤称这是「低买量下超预期」的成绩，也是公司首个 PC 产品，接下来半年是争取全球用户的关键窗口。",
+        "isNew": true,
+        "newUntil": "2026-12-05"
       },
       {
         "title": "腾讯《英雄联盟电竞经理》宣布停运",
@@ -207,12 +209,14 @@
         "body": "腾讯魔方工作室群研发、改编自国漫《一人之下》的 3D 格斗新作 11 月 23 日官宣 <strong>12 月 17 日全平台公测</strong>，移动端与 PC 双端数据互通，彭于晏出任代言人；官方同步公布全网预约量已突破 <strong>4000 万</strong>，预约用户上线可直接领取异人「夏禾」。对局以「普攻 / 平招 / 险招 / 防御」克制博弈为核心，PVP 不卖数值，此前已官宣出征 EVO 2027 新加坡站。"
       },
       {
-        "title": "《影之刃零》获 TGA 2026 五项提名",
-        "titleLink": "https://news.qq.com/rain/a/20261122A0AH9W00",
-        "color": "orange",
+        "title": "游戏内测泄露、AI 接口非法调用，徐汇「蓝鲸」工作站破局",
+        "titleLink": "https://news.qq.com/rain/a/20261128A04OQE00",
+        "color": "green",
         "source": "腾讯新闻",
-        "sourceLink": "https://news.qq.com/rain/a/20261122A0AH9W00",
-        "body": "TGA 2026 年度提名名单公布，国产动作游戏《影之刃零》入围<strong>年度最佳游戏、最佳游戏指导、最佳艺术指导</strong>等 5 项提名，是今年国产游戏取得的最好成绩；最佳移动游戏奖项另有 4 款中国厂商相关作品入围，苹果 App Store 年度奖项亦有 3 款中国游戏跻身年度 iPad 游戏提名。"
+        "sourceLink": "https://news.qq.com/rain/a/20261128A04OQE00",
+        "body": "上海徐汇区「三所联动」企业版「蓝鲸」护企工作站 11/27 焕新升级。今年 7 月，某热门游戏未公开剧情被内测玩家在社媒违规披露，工作站启动三所联动调解，当事人最终删除全部外泄内容、书面承诺并致歉，诉讼前完成和解；今年 3 月，某 AI 企业 API 接口遭非法调用、损失超 100 万元，嫌疑人宗某批量注册账号 30 余万个、转售接口牟利，因犯非法获取计算机信息系统数据罪被判 <strong>有期徒刑三年、缓刑三年，罚金 4 万元</strong>。",
+        "isNew": true,
+        "newUntil": "2026-12-05"
       }
     ],
     "taptap": {
@@ -1013,7 +1017,13 @@
           "nameZh": "",
           "current": 67970,
           "peak24h": 1054388,
-          "link": "https://store.steampowered.com/app/1091500/"
+          "link": "https://store.steampowered.com/app/1091500/",
+          "coverStatus": "verified",
+          "coverKey": "1091500_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/1091500_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         },
         {
           "rank": 11,
@@ -1093,7 +1103,13 @@
           "nameZh": "",
           "current": 58002,
           "peak24h": 201933,
-          "link": "https://store.steampowered.com/app/359550/"
+          "link": "https://store.steampowered.com/app/359550/",
+          "coverStatus": "verified",
+          "coverKey": "359550_icon",
+          "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/steam/359550_icon.jpg",
+          "coverSourceUrl": "",
+          "coverReason": "cdn_cache_hit"
         }
       ]
     },
@@ -1324,6 +1340,22 @@
       "newUntil": "2026-11-29"
     },
     {
+      "date": "12月4日公测",
+      "name": "星布谷地",
+      "badge": "米哈游",
+      "desc": "米哈游生活模拟新作，10 月 30 日官宣定档 12 月 4 日公测（Windows/iOS/安卓跨平台账号互通），星际田园主题，含赶海、钓鱼、种田、自由装扮等玩法，此前「宜居测试」已于 11 月 7 日开启。",
+      "link": "https://www.taptap.cn/moment/730533650772265511",
+      "image": "",
+      "isNew": true,
+      "newUntil": "2026-12-04",
+      "coverStatus": "verified",
+      "coverKey": "name_星布谷地",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星布谷地.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星布谷地.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
       "date": "11月24日上线",
       "name": "饥困荒野",
       "badge": "腾讯 · Klei 授权",
@@ -1356,22 +1388,6 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "12月4日公测",
-      "name": "星布谷地",
-      "badge": "米哈游",
-      "desc": "米哈游生活模拟新作，10 月 30 日官宣定档 12 月 4 日公测（Windows/iOS/安卓跨平台账号互通），星际田园主题，含赶海、钓鱼、种田、自由装扮等玩法，此前「宜居测试」已于 11 月 7 日开启。",
-      "link": "https://www.taptap.cn/moment/730533650772265511",
-      "image": "",
-      "isNew": true,
-      "newUntil": "2026-12-04",
-      "coverStatus": "verified",
-      "coverKey": "name_星布谷地",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星布谷地.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_星布谷地.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/e26d4761c3f1d9ad79ae4b5f2ecd4883.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "date": "12月9日公测",
       "name": "伍六七：暗影交锋",
       "badge": "啊吉游",
@@ -1387,21 +1403,6 @@
       "coverReason": "taptap-search"
     },
     {
-      "date": "11月19日公测",
-      "name": "斗罗大陆：诛邪传说",
-      "badge": "恺英网络 · 贪玩",
-      "desc": "恺英网络盛和蓝月工作室研发、贪玩发行的开放世界 MMO，11 月 19 日全平台公测。阅文小说 + 腾讯视频动画双 IP 授权，主打无缝大地图御空飞行与 2v2/7v7/40 人大逃杀全域战斗，是恺英「传奇+X」战略的关键落地项目。",
-      "link": "https://news.qq.com/rain/a/20261119A07M7J00",
-      "image": "",
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverKey": "name_斗罗大陆_诛邪传说",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_斗罗大陆_诛邪传说.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_斗罗大陆_诛邪传说.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6eba97886c3aa5238eefbff6232475a0.jpg/_tap_banner.jpg",
-      "coverReason": "taptap-search"
-    },
-    {
       "date": "12月14日公测",
       "name": "白银之城",
       "badge": "乐元素",
@@ -1414,6 +1415,21 @@
       "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_白银之城.jpg",
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_白银之城.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3da7197bcf549ba670e0df2c3fa02573.jpg/_tap_banner.jpg",
+      "coverReason": "taptap-search"
+    },
+    {
+      "date": "11月19日公测",
+      "name": "斗罗大陆：诛邪传说",
+      "badge": "恺英网络 · 贪玩",
+      "desc": "恺英网络盛和蓝月工作室研发、贪玩发行的开放世界 MMO，11 月 19 日全平台公测。阅文小说 + 腾讯视频动画双 IP 授权，主打无缝大地图御空飞行与 2v2/7v7/40 人大逃杀全域战斗，是恺英「传奇+X」战略的关键落地项目。",
+      "link": "https://news.qq.com/rain/a/20261119A07M7J00",
+      "image": "",
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverKey": "name_斗罗大陆_诛邪传说",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_斗罗大陆_诛邪传说.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_斗罗大陆_诛邪传说.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/6eba97886c3aa5238eefbff6232475a0.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
     },
     {
@@ -1462,28 +1478,6 @@
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_三国志_王道天下.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/8c0cb2fedcb16af9639dcc7265cf2c9f.jpg/_tap_banner.jpg",
       "coverReason": "cdn_cache_hit"
-    },
-    {
-      "date": "11月6日上线",
-      "name": "琥珀末日",
-      "badge": "酸浆果工作室",
-      "badgeColor": "blue",
-      "meta": "酸浆果工作室 · 策略卡牌 · 时间循环",
-      "desc": "国产策略卡牌 RPG，主角困在时间循环中反复经历同一个秋天，以牌组构筑为核心并辅以支线小游戏。TapTap 标注 11 月 6 日上线，当前评分 7.9；Steam 端已开放免费试玩。",
-      "link": "https://taptap.cn/app/737629",
-      "image": "",
-      "tags": [
-        "国产",
-        "卡牌",
-        "Roguelike"
-      ],
-      "isNew": false,
-      "coverStatus": "verified",
-      "coverReason": "taptap-search",
-      "coverKey": "name_琥珀末日",
-      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_琥珀末日.jpg",
-      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_琥珀末日.jpg",
-      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3aac3bffef67b96a8942d547ac9c210a.png/_tap_banner.jpg"
     },
     {
       "name": "无限大",
@@ -1691,6 +1685,30 @@
       "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_崩坏_因缘精灵.jpg",
       "coverSourceUrl": "https://img-tc.tapimg.com/market/images/cdb66556e2d2851b50bea143ee202640.jpg/_tap_banner.jpg",
       "coverReason": "taptap-search"
+    },
+    {
+      "date": "11月6日上线",
+      "name": "琥珀末日",
+      "badge": "酸浆果工作室",
+      "badgeColor": "blue",
+      "meta": "酸浆果工作室 · 策略卡牌 · 时间循环",
+      "desc": "国产策略卡牌 RPG，主角困在时间循环中反复经历同一个秋天，以牌组构筑为核心并辅以支线小游戏。TapTap 标注 11 月 6 日上线，当前评分 7.9；Steam 端已开放免费试玩。",
+      "link": "https://taptap.cn/app/737629",
+      "image": "",
+      "tags": [
+        "国产",
+        "卡牌",
+        "Roguelike"
+      ],
+      "isNew": false,
+      "coverStatus": "verified",
+      "coverReason": "taptap-search",
+      "coverKey": "name_琥珀末日",
+      "coverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_琥珀末日.jpg",
+      "finalCoverUrl": "https://raw.githubusercontent.com/clock0range/game-industry-data/main/img_cache/name_琥珀末日.jpg",
+      "coverSourceUrl": "https://img-tc.tapimg.com/market/images/3aac3bffef67b96a8942d547ac9c210a.png/_tap_banner.jpg",
+      "archived": true,
+      "archivedAt": "2026-11-28"
     },
     {
       "date": "11月4日上线",
